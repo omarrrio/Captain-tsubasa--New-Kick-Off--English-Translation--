@@ -56,15 +56,15 @@
 
 //Germany<END>
 
-//Pass<END>
+//Tsunaki<END>
 
-//Interception<END>
+//Katsuto<END>
 
-//Draw<END>
+//Kinto<END>
 
-//Blocking<END>
+//Furoku<END>
 
-//Shoot<END>
+//Shuto<END>
 
 //Japan<END>
 
