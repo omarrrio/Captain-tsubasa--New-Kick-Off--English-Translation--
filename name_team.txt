@@ -96,7 +96,7 @@
 
 //Ide<END>
 
-//Mitsuhashi<END>
+//Mihashi<END>
 
 //Onodera<END>
 
@@ -134,7 +134,7 @@
 
 //Yoshikura<END>
 
-//Kada<END>
+//Koda<END>
 
 //Takeda<END>
 
@@ -170,7 +170,7 @@
 
 //Morisue<END>
 
-//Nakagi<END>
+//Nakajo<END>
 
 //Himeji<END>
 
@@ -202,7 +202,7 @@
 
 //Takashima<END>
 
-//Koïke<END>
+//Koike<END>
 
 //Imai<END>
 
