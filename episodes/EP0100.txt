@@ -1,9 +1,9 @@
 // FILE: EP0100.str containing 7 strings
 
-//OK, le premier match du tournoi préfectoral<LINE>
-//est sur le point de commencer.<LINE>
-//Montrez-nous du vrai football,<LINE>
-//façon Nankatsu !<END>
+//OK, the first match of the tournament<LINE>
+//is about to begin.<LINE>
+//lets show what we are made of,<LINE>
+//Nankatsu !<END>
 
 //Tout peut arriver dans un match de foot.<LINE>
 //Tirez dès que vous avez<LINE>
