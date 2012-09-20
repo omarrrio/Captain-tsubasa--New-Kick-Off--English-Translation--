@@ -96,7 +96,7 @@
 
 //Ide<END>
 
-//Mitsuhashi<END>
+//Mihashi<END>
 
 //Onodera<END>
 
@@ -134,7 +134,7 @@
 
 //Yoshikura<END>
 
-//Kada<END>
+//Koda<END>
 
 //Takeda<END>
 
@@ -156,7 +156,7 @@
 
 //Sano<END>
 
-//Hatakéyama<END>
+//Hatakeyama<END>
 
 //Akizawa<END>
 
@@ -170,7 +170,7 @@
 
 //Morisue<END>
 
-//Nakagi<END>
+//Nakajo<END>
 
 //Himeji<END>
 
@@ -202,7 +202,7 @@
 
 //Takashima<END>
 
-//Koïke<END>
+//Koike<END>
 
 //Imai<END>
 
@@ -530,9 +530,9 @@
 
 //Lintz<END>
 
-//Gongers<END>
+//Gongels<END>
 
-//Hans<END>
+//Haness<END>
 
 //Mayer<END>
 
@@ -546,7 +546,7 @@
 
 //Klaus<END>
 
-//Jaller<END>
+//Jara<END>
 
 //Wakabayashi<END>
 
@@ -630,23 +630,23 @@
 
 //Diaz<END>
 
-//Pascual<END>
+//Pascal<END>
 
 //Galtoni<END>
 
-//Senbero<END>
+//Sembero<END>
 
 //Pasaro<END>
 
 //Gareya<END>
 
-//Garban<END>
+//Galvan<END>
 
-//Rugeri<END>
+//Ruggeri<END>
 
 //Jeites<END>
 
-//Pals<END>
+//Palus<END>
 
 //Brown<END>
 
@@ -656,7 +656,7 @@
 
 //Amoro<END>
 
-//De Gaulle<END>
+//Degaulle<END>
 
 //Bravo<END>
 
@@ -670,9 +670,9 @@
 
 //Marcel<END>
 
-//Bossis<END>
+//Bossi<END>
 
-//Margas<END>
+//Margus<END>
 
 //Schneider<END>
 
@@ -680,19 +680,19 @@
 
 //Kaltz<END>
 
-//Dieter<END>
+//Muller<END>
 
-//Hardwig<END>
+//Hardwich<END>
 
 //Mayer<END>
 
 //Max<END>
 
-//Magathu<END>
+//Magath<END>
 
-//Mireus<END>
+//Mileus<END>
 
-//Hein<END>
+//Hain<END>
 
 //Kitano<END>
 
@@ -836,7 +836,7 @@
 
 //Roberto<END>
 
-//Basarero<END>
+//Basarelo<END>
 
 //DUMMY_F<END>
 
@@ -943,13 +943,13 @@
 
 //Power defense<END>
 
-//Dribble on line<END>
+//Sideline Dribble<END>
 
-//Super long header<END>
+//5m Diving header<END>
 
 //Jet header<END>
 
-//Goal no matter what<END>
+//Scoremonger's pride<END>
 
 //Shutetsu Trio<END>
 
@@ -957,11 +957,11 @@
 
 //Heel lift<END>
 
-//Brazillian Dribble<END>
+//Brazilian Dribble<END>
 
-//Face down bicycle<END>
+//Overhead kick<END>
 
-//Drive shot<END>
+//Drive shoot<END>
 
 //Drive overhead<END>
 
@@ -969,83 +969,83 @@
 
 //Unexpected ambush<END>
 
-//Block face<END>
+//Face Block<END>
 
-//Otomo's Quartet<END>
+//Otomo Quartet<END>
 
-//Hawk shot<END>
+//Falcon shoot<END>
 
-//Speedy<END>
+//Speed Star<END>
 
 //Killer pass<END>
 
-//Fast pass<END>
+//High speed pass<END>
 
-//Prince of the field<END>
+//Young noble of the field<END>
 
-//Glass shot<END>
+//Glass heart shoot<END>
 
-//Winged interception<END>
+//Speed intercept<END>
 
-//Head strength<END>
+//Power header<END>
 
-//Forced dribble<END>
+//Aggressive dribble<END>
 
 //Technical dribble<END>
 
-//Kamikaze shot<END>
+//Kamikaze sliding shoot<END>
 
-//Kamikaze check<END>
+//Kamikaze sliding check<END>
 
 //Razor pass<END>
 
-//Razor shot<END>
+//Razor shoot<END>
 
 //Snake block<END>
 
 //Razor tackle<END>
 
-//Skylab shot<END>
+//Skylab Hurricane shoot<END>
 
-//Skylab cut<END>
+//Skylab Hurricane cut<END>
 
-//Triangle shot<END>
+//Triangle shoot<END>
 
-//Skylab twin shot<END>
+//Skylab twin shoot<END>
 
 //Backspin pass<END>
 
-//Shot strength<END>
+//Power shoot<END>
 
-//Dribble strength<END>
+//Power dribble<END>
 
 //Like a feather<END>
 
 //Surprise header<END>
 
-//Quick setting<END>
+//Quick snatch<END>
 
-//Furano's spirit<END>
+//Furano's Soul<END>
 
 //Eagle pass<END>
 
-//Guard of the ball<END>
+//Persistent keep<END>
 
 //Eagle shot<END>
 
-//Ice shot<END>
+//Blizzard shot<END>
 
-//Ice Interception<END>
+//Blizzard cut<END>
 
-//Wrong tackle<END>
+//Faint tackle<END>
 
 //Calm decision<END>
 
 //Triangle assault<END>
 
-//Tégatana defense<END>
+//Shuto defense<END>
 
-//Shoken defense<END>
+//Seiken defense<END>
 
 //Mirage kick<END>
 
@@ -1053,7 +1053,7 @@
 
 //Tiger pass<END>
 
-//Dribble on lign<END>
+//Straight line dribble<END>
 
 //Tiger shot<END>
 
@@ -1061,67 +1061,67 @@
 
 //Sliding tiger<END>
 
-//Toho's duo<END>
+//Toho Combi<END>
 
 //Little technician<END>
 
-//Middle born<END>
+//Midfielder cut<END>
 
 //Fire shot<END>
 
 //SGGK<END>
 
-//Golden right arm<END>
+//Golden hand<END>
 
-//Lightning shot<END>
+//Thunder shoot<END>
 
-//Proof of genius<END>
+//Evidence of Geniality<END>
 
-//Banana shot<END>
+//Banana shoot<END>
 
-//Freestyle shot<END>
+//Acrobat shoot<END>
 
-//Freestyle block<END>
+//Acrobat block<END>
 
-//Cissors tackle<END>
+//Scissors tackle<END>
 
 //Giant dribble<END>
 
 //Wall blocking<END>
 
-//Shot in the air<END>
+//Upper kick<END>
 
-//Canon shot<END>
+//Cannon shoot<END>
 
 //Elegant dribble<END>
 
-//Slider shot<END>
+//Slider shoot<END>
 
-//elegant tackle<END>
+//Elegant tackle<END>
 
 //Eiffel attack<END>
 
-//Napalm head<END>
+//Napalm header<END>
 
 //Napalm shot<END>
 
-//Mirage dribble<END>
+//Phantasmagoric dribble<END>
 
 //Non-fire shot<END>
 
-//Imperial blocking<END>
+//Kaiser block<END>
 
-//Imperial tackle<END>
+//Kaiser tackle<END>
 
 //Rolling pass<END>
 
-//Princely slip<END>
+//Prince Slide<END>
 
 //Arrow tackle<END>
 
 //Hedgehog dribble<END>
 
-//Lobbing shot<END>
+//Lobbing shoot<END>
 
 //Steel giant<END>
 
@@ -1133,23 +1133,23 @@
 
 //Lightning switch<END>
 
-//Laser shot<END>
+//Laser shoot<END>
 
 //Super reaction<END>
 
 //Open fire<END>
 
-//Twin shot<END>
+//Twin shoot<END>
 
-//Twin shot<END>
+//Twin shoot<END>
 
-//Twin shot<END>
+//Twin shoot<END>
 
-//Twin shot<END>
+//Twin shoot<END>
 
-//Twin shot<END>
+//Twin shoot<END>
 
-//Golden pair<END>
+//Golden Combi<END>
 
 //Nankatsu<END>
 
@@ -1207,15 +1207,15 @@
 
 //Germany<END>
 
-//Pass<END>
+//Tsunaki<END>
 
-//Interception<END>
+//Katsuto<END>
 
-//Tie<END>
+//Kinto<END>
 
-//Blocking<END>
+//Furoku<END>
 
-//Shoot<END>
+//Shuto<END>
 
 //Japan<END>
 
@@ -1231,11 +1231,11 @@
 
 //Resume suspended party.<END>
 
-//GoalKick strength<END>
+//Goalkeeper strength<END>
 
-//Champions slayer<END>
+//Ace killer<END>
 
-//Humoristic<END>
+//Trickster<END>
 
 //The great Devourer<END>
 
@@ -1249,7 +1249,7 @@
 
 //Nothing but attack<END>
 
-//To attack !<END>
+//To attack!<END>
 
 //Royal reign<END>
 
@@ -1257,15 +1257,15 @@
 
 //Mute pression<END>
 
-//Goalkick<END>
+//Goalkeeper<END>
 
-//To defense !<END>
+//To defense!<END>
 
 //Absolute defense<END>
 
-//Roaring Tigre<END>
+//Roaring Tiger<END>
 
-//A genie is here<END>
+//A genius is here<END>
 
 //Smart<END>
 
@@ -1287,7 +1287,7 @@
 
 //Speed Cleats<END>
 
-//Thechnique Cleats<END>
+//Technique Cleats<END>
 
 //Endurance Cleats<END>
 
@@ -1303,7 +1303,7 @@
 
 //Speed+ Cleats<END>
 
-//Thechnique+ Cleats<END>
+//Technique+ Cleats<END>
 
 //Endurance+ Cleats<END>
 
@@ -1531,7 +1531,7 @@
 
 //Courage Amulet<END>
 
-//Hawk Cleats<END>
+//Falcon Cleats<END>
 
 //Storm Bracelet<END>
 
@@ -2024,11 +2024,11 @@
 //Grants kamikaze<LINE>
 //spirit.<LINE>
 //allow usage of<LINE>
-//"Corporal wall".<END>
+//"Physical wall".<END>
 
 //Grant a defense of steel,<LINE>
 //and usage<LINE>
-//of "Wall fo steel".<END>
+//of "Wall of steel".<END>
 
 //Grant huge strength.<LINE>
 //Allow usage of<LINE>
@@ -2036,11 +2036,11 @@
 
 //Makes you want to outflank on<LINE>
 //the right wing. Allow usage of<LINE>
-//"Dribble on the line".<END>
+//"Sideline Dribble".<END>
 
 //Grant huge courage.<LINE>
-//Allow usage of "Super<LINE>
-//long head".<END>
+//Allow usage of "5m<LINE>
+//Diving head".<END>
 
 //Grant power to jump<LINE>
 //high in the air.<LINE>
@@ -2049,7 +2049,7 @@
 
 //Makes you want to score.<LINE>
 //Allow usage of<LINE>
-//"Goal at any cost".<END>
+//"Scoremonger's pride".<END>
 
 //Allow delevery<LINE>
 //of great passes.<LINE>
@@ -2068,7 +2068,7 @@
 
 //Allow inversed shots,<LINE>
 //and usage<LINE>
-//of "Inversed Bike".<END>
+//of "Overhead Kick".<END>
 
 //Allow Pheonix style shoots.<LINE>
 //Allow usage of<LINE>
@@ -2089,16 +2089,16 @@
 
 //Allows you to stand up<LINE>
 //to your fear, and usage<LINE>
-//of "Face blocking".<END>
+//of "Face block".<END>
 
 //Allows you to be<LINE>
 //fast as a hawk,<LINE>
 //and usage<LINE>
-//of "Hawk shoot".<END>
+//of "Falcon shoot".<END>
 
 //Makes you faster,<LINE>
 //allows usage<LINE>
-//of "Speedy".<END>
+//of "Speed Star".<END>
 
 //Allows you to take<LINE>
 //the adversary by surprise,<LINE>
@@ -2108,34 +2108,34 @@
 //Allows you to shoot<LINE>
 //faster,<LINE>
 //and usage<LINE>
-//of "Fast Pass".<END>
+//of "High Speed Pass".<END>
 
 //Grabts you a prince's<LINE>
 //imposing.<LINE>
 //Allows usage of<LINE>
-//"Prince of the field".<END>
+//"Young noble of the field".<END>
 
 //Once you wear them, these<LINE>
 //spikes gives you a big<LINE>
 //determination. Allows<LINE>
-//usage of "Glass shoot".<END>
+//usage of "Glass heart shoot".<END>
 
 //Makes you faster than sound,<LINE>
 //and allow usage<LINE>
-//of "Winged Interception".<END>
+//of "Speed Intercept".<END>
 
 //Allows stronger<LINE>
 //heads,<LINE>
 //and usage<LINE>
-//of "Strength head".<END>
+//of "Power head".<END>
 
 //Makes you stronger,<LINE>
 //and allows usage<LINE>
-//of "Forced Dribble".<END>
+//of "Aggressive Dribble".<END>
 
 //Increases your technique,<LINE>
 //and allows usage<LINE>
-//of "Technique Dribble".<END>
+//of "Technical Dribble".<END>
 
 //Makes you want to hit<LINE>
 //the ball.<LINE>
@@ -2153,7 +2153,7 @@
 
 //Allows Sharp shooting,<LINE>
 //and usage<LINE>
-//of "Razor Shot".<END>
+//of "Razor Shoot".<END>
 
 //Gives the tenacity<LINE>
 //of a snake.<LINE>
@@ -2163,7 +2163,7 @@
 //Shinguards Making it<LINE>
 //easier against a champion.<LINE>
 //Allows usage<LINE>
-//of "Razor tackling".<END>
+//of "Razor tackle".<END>
 
 //Gives the desire<LINE>
 //to jump up the air.<LINE>
@@ -2178,40 +2178,40 @@
 //A huge force emanates<LINE>
 //from these crampons.<LINE>
 //Allows usage of<LINE>
-//"forced Shooting".<END>
+//"Power shoot".<END>
 
 //Grants a strong feeling<LINE>
 //of power, and usage<LINE>
-//of "Forced Dribble".<END>
+//of "Power Dribble".<END>
 -------------------------------------------------> im here, if you edit, put this bookmark where you stop
 //Permet de se sentir<LINE>
 //plus léger, et l'utilisation<LINE>
-//de "Comme une plume".<END>
+//de "Like a feather".<END>
 
 //Crampons qui risquent<LINE>
 //de surprendre l'adversaire.<LINE>
 //Permet d'utiliser<LINE>
-//"Tête surprise".<END>
+//"Surprise header".<END>
 
 //Permet de subtiliser<LINE>
 //plus facilement le ballon,<LINE>
 //et l'utilisation<LINE>
-//de "Prise rapide".<END>
+//de "Quick snatch".<END>
 
 //Crampons pour ne pas glisser<LINE>
 //sur la glace.<LINE>
 //Permet d'utiliser<LINE>
-//"Âme de Furano".<END>
+//"Furano's Soul".<END>
 
 //Crampons pour terrain<LINE>
 //irrégulier.<LINE>
 //Permet d'utiliser<LINE>
-//"Passe de l'aigle".<END>
+//"Eagle pass".<END>
 
 //Confère un moral<LINE>
 //à toute épreuve.<LINE>
 //Permet d'utiliser<LINE>
-//"Garde du ballon".<END>
+//"Persistent keep".<END>
 
 //Permet de tirer tel un aigle<LINE>
 //qui s'envole,<LINE>
@@ -2221,44 +2221,44 @@
 //Permet un tir aussi puissant<LINE>
 //que le blizzard,<LINE>
 //et l'utilisation<LINE>
-//de "Tir glacé".<END>
+//de "Blizzard shot".<END>
 
 //Protège-tibias qui<LINE>
 //garderaient même d'un<LINE>
 //blizzard. Permet d'utiliser<LINE>
-//"Interception glace".<END>
+//"Blizzard cut".<END>
 
 //Ce porte-bonheur permet<LINE>
 //de faciliter un effort.<LINE>
 //Permet d'utiliser<LINE>
-//"Faux tacle".<END>
+//"Faint tackle".<END>
 
 //Gants très chauds.<LINE>
 //Permet d'utiliser<LINE>
-//"Décision calme".<END>
+//"Calm decision".<END>
 
 //Rend plus agile.<LINE>
 //Permet d'utiliser<LINE>
-//"Saut en triangle".<END>
+//"Triangle Assault".<END>
 
 //Gants d'un maître du karaté.<LINE>
 //Permet d'utiliser<LINE>
-//"Tégatana defense".<END>
+//"Shuto defense".<END>
 
 //Permet de plonger sur la<LINE>
 //balle de toutes ses forces.<LINE>
 //Permet d'utiliser<LINE>
-//"Shoken defense".<END>
+//"Seiken defense".<END>
 
 //Crampons imprégnés du style<LINE>
 //Wakado.<LINE>
 //Permet d'utiliser<LINE>
-//"Coup de pied mirage".<END>
+//"Mirage Kick".<END>
 
 //Permet des actions aériennes<LINE>
 //telle une étoile filante.<LINE>
 //Permet d'utiliser<LINE>
-//"Étoile filante".<END>
+//"Shooting star".<END>
 
 //Permet de tirer aussi vite<LINE>
 //qu'un tigre fond sur<LINE>
@@ -2268,7 +2268,7 @@
 //Permet de courir aussi vite<LINE>
 //qu'un tigre féroce,<LINE>
 //et l'utilisation de<LINE>
-//"Dribble en ligne droite".<END>
+//"Straight line dribble".<END>
 
 //Permet de tirer<LINE>
 //avec la fureur d'un tigre,<LINE>
@@ -2287,12 +2287,12 @@
 
 //Rend plus petit.<LINE>
 //Permet d'utiliser<LINE>
-//"Petit technicien".<END>
+//"Little technician".<END>
 
 //Protège-tibias d'un milieu<LINE>
 //de terrain de génie.<LINE>
 //Permet d'utiliser<LINE>
-//"Milieu né".<END>
+//"Midfielder cut".<END>
 
 //Enflamme l'esprit.<LINE>
 //Permet d'utiliser<LINE>
@@ -2306,58 +2306,58 @@
 //Gants qui dégagent<LINE>
 //un halo lumineux.<LINE>
 //Permet d'utiliser<LINE>
-//"Bras-droit en or".<END>
+//"Golden hand".<END>
 
 //Tirer une balle éclair.<LINE>
 //Permet d'utiliser<LINE>
-//"Tir éclair".<END>
+//"Thunder shoot".<END>
 
 //Bracelet pour génie<LINE>
 //du ballon rond.<LINE>
 //Permet d'utiliser<LINE>
-//"Preuve de génie".<END>
+//"Evidence of Geniality".<END>
 
 //Tirer avec un effet courbé.<LINE>
 //Permet d'utiliser<LINE>
-//"Tir banane".<END>
+//"Banana shoot".<END>
 
 //Permet de se mouvoir<LINE>
 //tel un acrobate,<LINE>
 //et l'utilisation<LINE>
-//de "Tir acrobatique".<END>
+//de "Acrobat shoot".<END>
 
 //Porte-bonheur d'acrobate.<LINE>
 //Permet d'utiliser<LINE>
-//"Bloc acrobatique".<END>
+//"Acrobat block".<END>
 
 //Permet une plus grande<LINE>
 //aisance à attraper avec<LINE>
 //les pieds, et l'utilisation<LINE>
-//de "Cissors tackle".<END>
+//de "Scissors tackle".<END>
 
 //Rend plus grand.<LINE>
 //Permet d'utiliser<LINE>
-//"Dribble géant".<END>
+//"Giant dribble".<END>
 
 //Fait paraître<LINE>
 //comme un mur de pierre.<LINE>
 //Permet d'utiliser<LINE>
-//"Blocage mural".<END>
+//"Wall blocking".<END>
 
 //Permet de dégager le ballon<LINE>
 //en l'air,<LINE>
 //et l'utilisation<LINE>
-//de "Coup en l'air".<END>
+//de "Upper kick".<END>
 
 //Permet de tirer avec<LINE>
 //la puissance d'un canon,<LINE>
 //et l'utilisation<LINE>
-//de "Canon shoot".<END>
+//de "Cannon shoot".<END>
 
 //Permet des déplacements<LINE>
 //plus élégants,<LINE>
 //et l'utilisation<LINE>
-//de "Dribble élégant".<END>
+//de "Elegant dribble".<END>
 
 //Permet un bel effet<LINE>
 //dans la frappe,<LINE>
@@ -2367,22 +2367,22 @@
 //Permet de voler le ballon<LINE>
 //et peut-être des cœurs.<LINE>
 //Permet d'utiliser<LINE>
-//"Tacle élégant".<END>
+//"Elegant tackle".<END>
 
 //Permet d'effectuer<LINE>
 //de meilleures têtes,<LINE>
 //et l'utilisation<LINE>
-//de "Tête napalm".<END>
+//de "Napalm header".<END>
 
 //Donnent la puissance d'une<LINE>
 //bombe incendiaire à un tir.<LINE>
 //Permet d'utiliser<LINE>
-//"Tir napalm".<END>
+//"Napalm shot".<END>
 
 //Permet de contrôler<LINE>
 //librement le ballon,<LINE>
 //et l'utilisation<LINE>
-//de "Dribble mirage".<END>
+//de "Phantasmagoric dribble".<END>
 
 //Transforme son tir en une<LINE>
 //flamme bleue silencieuse.<LINE>
@@ -2391,32 +2391,32 @@
 
 //Collier de Schneider.<LINE>
 //Permet d'utiliser<LINE>
-//"Blocage impérial".<END>
+//"Kaiser block".<END>
 
 //Porte-bonheur qui proclame<LINE>
 //empereur.<LINE>
 //Permet d'utiliser<LINE>
-//"Tacle impérial".<END>
+//"Kaiser tackle".<END>
 
 //Crampons qui donnent envie<LINE>
 //de tourner sur soi-même.<LINE>
 //Permet d'utiliser<LINE>
-//"Passe roulante".<END>
+//"Rolling pass".<END>
 
 //Bracelet qui donne<LINE>
 //l'élégance d'un prince.<LINE>
 //Permet d'utiliser<LINE>
-//"Glissade princière".<END>
+//"Prince Slide".<END>
 
 //Permet d'être aussi rapide<LINE>
 //qu'une flèche.<LINE>
 //Permet d'utiliser<LINE>
-//"Tacle en flèche".<END>
+//"Arrow tackle".<END>
 
 //Bracelet qui éloigne<LINE>
 //les autres.<LINE>
 //Permet d'utiliser<LINE>
-//"Dribble du hérisson".<END>
+//"Hedgehog dribble".<END>
 
 //Permet de trouver les<LINE>
 //failles dans le jeu adverse.<LINE>
@@ -2426,7 +2426,7 @@
 //Permet d'ériger une défense<LINE>
 //telle un mur de fer,<LINE>
 //et l'utilisation<LINE>
-//de "Géant de fer".<END>
+//de "Steel giant".<END>
 
 //Gants pour attraper<LINE>
 //même un fantôme.<LINE>
@@ -2436,30 +2436,30 @@
 //Permet de se sentir très<LINE>
 //rapide dans ses mouvements,<LINE>
 //et l'utilisation<LINE>
-//de "Blocage éclair".<END>
+//de "Lightning block".<END>
 
 //Permet une passe <LINE>
 //à la vitesse de la lumière,<LINE>
 //et l'utilisation<LINE>
-//de "Passe laser".<END>
+//de "Laser pass".<END>
 
 //Change le rythme rapidement,<LINE>
 //désoriantant l'adversaire.<LINE>
 //Permet d'utiliser<LINE>
-//"Changement éclair".<END>
+//"Lightning switch".<END>
 
 //Permet de tirer<LINE>
 //comme jamais vu.<LINE>
 //Permet d'utiliser<LINE>
-//"Tir laser".<END>
+//"Laser shoot".<END>
 
 //Aiguise les sens.<LINE>
 //Permet d'utiliser<LINE>
-//"Super réaction".<END>
+//"Super reaction".<END>
 
 //Fait bouillir le sang.<LINE>
 //Permet d'utiliser<LINE>
-//"À l'attaque".<END>
+//"Open fire".<END>
 
 //Donne des ordres précis<LINE>
 //depuis la ligne de fond<LINE>
@@ -2611,7 +2611,7 @@
 
 //Yamamori<END>
 
-//Urabé<END>
+//Urabe<END>
 
 //Kishida<END>
 
@@ -2645,7 +2645,7 @@
 
 //Sawada<END>
 
-//Koïké<END>
+//Koike<END>
 
 //Wakashimazu<END>
 
@@ -2659,15 +2659,15 @@
 
 //Diaz<END>
 
-//Pascual<END>
+//Pascal<END>
 
-//Garban<END>
+//Galvan<END>
 
 //Pierre<END>
 
 //Napoléon<END>
 
-//Margas<END>
+//Margus<END>
 
 //Schester<END>
 
@@ -2675,13 +2675,13 @@
 
 //Kaltz<END>
 
-//Dieter<END>
+//Muller<END>
 
 //Sawaki<END>
 
 //Ishida<END>
 
-//Takéi<END>
+//Takei<END>
 
 //Dean<END>
 
