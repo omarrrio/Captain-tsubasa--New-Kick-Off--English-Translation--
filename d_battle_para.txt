@@ -2206,55 +2206,55 @@ WIN<END>
 
 DRAW<END>
 
-LOOSE<END>
+LOSE<END>
 
-Ball Damage<END>
+BALL DMG<END>
 
 DEFENSE<END>
 
 OFFENSE<END>
 
-コマンド相性（基本）<END>
+Command Compatibility (Basic)<END>
 
-コマンド相性（ＣＳ）<END>
+Command Compatibility (CS)<END>
 
-コマンド相性（トータル）<END>
+Command Compatibility (Total)<END>
 
-コマンド補正（ステータス）<END>
+Command Correction (Status)<END>
 
-必殺技補正<END>
+Special Move Correction<END>
 
-必殺技補正（アイテム）<END>
+Special Move Correction (Item)<END>
 
-コマンド補正（アイテム）<END>
+Command Correction (Item)<END>
 
-コマンド補正（作戦）<END>
+Command Correction (Strategy)<END>
 
-コマンド補正（ＣＳ）<END>
+Command Correction (CS)<END>
 
-コマンド補正（トータル）<END>
+Command Correction (Total)<END>
 
-オフェンス<END>
+Offense<END>
 
-ディフェンス<END>
+Defense<END>
 
-パワー<END>
+Power<END>
 
-フィジカル<END>
+Physical<END>
 
-スピード<END>
+Speed<END>
 
-テクニック<END>
+Technique<END>
 
-スタミナ<END>
+Stamina<END>
 
-ドリブル<END>
+Dribble<END>
 
-パス<END>
+Pass<END>
 
-シュート<END>
+Shoot<END>
 
-メンタリティ<END>
+Mentality<END>
 
-チェイン<END>
+Chain<END>
 
