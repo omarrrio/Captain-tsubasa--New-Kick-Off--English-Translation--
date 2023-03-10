@@ -2,29 +2,29 @@
 
 //OK, the first match of the tournament<LINE>
 //is about to begin.<LINE>
-//lets show what we are made of,<LINE>
+//lets show them what we are made of,<LINE>
 //Nankatsu!<END>
 
-//Tout peut arriver dans un match de foot.<LINE>
-//Tirez dès que vous avez<LINE>
-//la moindre occasion, d'accord?<END>
+//Anything can happen in a football game.<LINE>
+//Shoot whenever you have a chance,<LINE>
+//understood?<END>
 
-//Les clameurs des supporters montent<LINE>
-//dans le stade.<LINE>
-//Oui, Nankatsu Junior High entre<LINE>
-//sur le terrain!<END>
+//The roar of the supporters<LINE>
+//echos through the stadium.<LINE>
+//It can only be them, Nankatsu Junior High<LINE>
+//enter the field!<END>
 
-//Tsubasa Ozora, la superstar du football<LINE>
-//collégien, mène son équipe Nankatsu.<LINE>
-//Quelles batailles nous réservent-ils<LINE>
-//cette année?<END>
+//Tsubasa Ozora, junior high football<LINE>
+//superstar, leads the Nankatsu team.<LINE>
+//What battles do they have<LINE>
+//in store for us this year?<END>
 
-//C'est mon dernier été de collégien<LINE>
-//au Japon!<END>
+//This is my last High School summer<LINE>
+//in Japan!<END>
 
-//Et pour ce dernier été, quel que soit<LINE>
-//mon adversaire, je vais gagner!<END>
+//No matter the opponent,<LINE>
+//i will come out victorious!<END>
 
-//Nankatsu affronte Ito.<LINE>
-//Ils vont bientôt frapper le coup d'envoi.<END>
+//Nankatsu will go against Ito.<LINE>
+//We're moments away from kick-off.<END>
 

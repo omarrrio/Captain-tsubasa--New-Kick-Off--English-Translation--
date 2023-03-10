@@ -1,41 +1,41 @@
 // FILE: EP0200.str containing 12 strings
 
-//Méfiez-vous de la défense impénétrable<LINE>
-//d'Urabé, Nakayama, Kishida et Nishio.<LINE>
-//Elle peut leur permettre de lancer<LINE>
-//des contre-attaques rapides!<LINE>
-//Et surtout méfiez-vous des tirs de Nitta!<END>
+//Beware of Urabe, Nakayama, Kishida<LINE>
+//and Nishio's impenetrable defense.<LINE>
+//It can allow them to launch<LINE>
+//quick counter-attacks!<LINE>
+//And above all, beware of Nitta's shots!<END>
 
-//Entraîneur, vous pouvez me laisser marquer<LINE>
-//Nitta en défense aujourd'hui?<END>
+//I'd like to cover Nitta on defense today,<LINE>
+//if that's alright with you, Coach?<END>
 
-//Si je joue devant comme d'habitude,<LINE>
-//Nitta sera libre de ses mouvements,<LINE>
-//et ils doivent compter là-dessus.<END>
+//If I play up front as usual,<LINE>
+//Nitta will be free to move around,<LINE>
+//they will be counting on that.<END>
 
-//En plus, Nitta me défie!<LINE>
-//J'aimerais pouvoir lui répondre.<END>
+//Moreover, I can feel Nitta's challenge!<LINE>
+//and I'm eager to respond with my own performance.<END>
 
-//D'accord, on suit la stratégie de Tsubasa.<LINE>
-//Des objections?<END>
+//Very well, let's follow Tsubasa's strategy.<LINE>
+//Any objections?<END>
 
-//Non!<END>
+//None!<END>
 
-//Les deux équipes sont entrées<LINE>
-//sur le terrain et le stade est<LINE>
-//en ébullition.<END>
+//Both teams have entered the field<LINE>
+//and the stadium is buzzing with<LINE>
+//excitement.<END>
 
-//Le moment est enfin arrivé, Urabé.<END>
+//The moment has finally arrived, Urabe.<END>
 
-//C'est le match décisif, Ishizaki!<END>
+//Everything is riding on this game, Ishizaki!<END>
 
-//Je sais.<LINE>
-//En plus, le perdant devra faire<LINE>
-//tout ce que le gagnant lui demandera!<END>
+//I know.<LINE>
+//That is why, the loser has to<LINE>
+//do everything the winner asks!<END>
 
-//Ouais!<END>
+//Very well, i'll take you on!<END>
 
-//La finale du tournoi de la préfecture<LINE>
-//de Shizuoka va commencer!<LINE>
-//Et c'est le coup d'envoi!<END>
+//The final of the Shizuoka prefecture<LINE>
+//tournament is about to begin!<LINE>
+//And it's kick-off!<END>
 
