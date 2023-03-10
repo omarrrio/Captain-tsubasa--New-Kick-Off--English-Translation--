@@ -1,38 +1,37 @@
 // FILE: EP0253.str containing 14 strings
 
-//Allez, Ichijo!<LINE>
-//C'est notre chance!<END>
+//Come on, Ichijo!<LINE>
+//This is our chance!<END>
 
 //OK!<END>
 
-//Oh non!<END>
+//Oh no!<END>
 
-//Le gardien de but Ichijo a relancé<LINE>
-//le ballon en un éclair vers Urabé…<END>
+//The goalkeeper Ichijo quickly released<LINE>
+//the ball to Urabe...<END>
 
-//… qui l'a ensuite  expédié à Nitta,<LINE>
-//juste devant les buts!<END>
+//...who then sent it to Nitta,<LINE>
+//right in front of the goal!<END>
 
 //Nitta!<END>
 
-//Il a retourné la situation!<LINE>
-//Si Nitta obtient le ballon,<LINE>
-//le but est quasiment assuré!<LINE>
-//Tsubasa ne peut pas revenir le marquer!<END>
+//He turned the tables!<LINE>
+//If Nitta gets the ball,<LINE>
+//the goal is almost guaranteed!<LINE>
+//Tsubasa can't come back to mark him!<END>
 
-//Il va au fond des filets!<END>
+//It's going into the net!<END>
 
-//Nitta est tout seul, et se met en position<LINE>
-//pour faire une reprise de volée!<END>
+//Nitta is all alone and positions himself<LINE>
+//to make a flying volley shot!<END>
 
-//Ah! Le timing est parfait!<END>
+//Ah! The timing is perfect!<END>
 
-//Tir du faucon en pleine volée!<END>
+//The Hawk's shot in mid-air!<END>
 
-//Et c'est le but!<LINE>
-//Le gardien Morisaki et la défense<LINE>
-//de Nankatsu n'ont pas eu la moindre chance<LINE>
-//de l'arrêter!<END>
+//And it's a goal!<LINE>
+//Goalkeeper Morisaki and the defense<LINE>
+//of Nankatsu had no chance to stop it!<END>
 
 //...<END>
 

@@ -1,61 +1,62 @@
 // FILE: EP0202.str containing 18 strings
 
-//Pour la troisième année consécutive,<LINE>
-//la préfecture de Shizuoka est représentée<LINE>
-//par Nankatsu Junior High!<END>
+//For the third year in a row,<LINE>
+//Nankatsu Junior High is representing<LINE>
+//the Shizuoka prefecture!<END>
 
-//C'est l'occasion de discuter avec Tsubasa,<LINE>
-//leur capitaine.<END>
+//This is an opportunity to speak with Tsubasa,<LINE>
+//their captain.END>
 
-//Vous allez bientôt participer<LINE>
-//au tournoi national.<LINE>
-//Dites-moi, contre qui avez-vous<LINE>
-//le plus envie de jouer?<END>
+//You will soon be participating<LINE>
+//in the national tournament.<LINE>
+//Tell me, who do you most<LINE>
+//to play against?<END>
 
-//Le joueur que j'ai le plus envie<LINE>
-//d'affronter, c'est sans doute...<END>
+//The player I most want<LINE>
+//to face, is without a doubt...<END>
 
 //Taro Misaki.<END>
 
-//Misaki? Le garçon qui jouait<LINE>
-//avec vous à l'école primaire?<END>
+//Misaki? The boy who used to play<LINE>
+//with you in elementary school?<END>
 
-//Oui, tout à fait.<END>
+//Yes, exactly.<END>
 
-//Les rumeurs racontent que sa blessure<LINE>
-//à la jambe ne lui permettra plus jamais<LINE>
-//de jouer au football.<END>
+//Rumors say that his leg injury<LINE>
+//will never allow him to<LINE>
+//play football again.<END>
 
-//Non, ce n'est pas le genre de Misaki.<LINE>
-//Il trouvera toujours un moyen de jouer,<LINE>
-//j'en suis sûr.<END>
+//No, that's not Misaki's style.<LINE>
+//He'll always find a way to play,<LINE>
+//I'm sure of it.<END>
 
-//Nous avons perdu. Comme promis,<LINE>
-//nous ferons tout ce que vous voudrez<LINE>
-//pendant une journée.<END>
+//We lost the game. As promised,<LINE>
+//we will do anything you want<LINE>
+//for a day.<END>
 
-//Ne t'en fais pas pour ça, Urabé.<LINE>
-//Laisse tomber.<END>
+//Don't worry about it, Urabe.<LINE>
+//Let it go.<END>
 
-//Hé, Ishizaki!<LINE>
-//Nous avions juré sur notre honneur!<LINE>
-//On ne peut pas tirer un trait là-dessus!<END>
+//Hey, Ishizaki!<LINE>
+//We swore on our honor!<LINE>
+//We can't just forget about it!<END>
 
-//D'accord.<LINE>
-//Dans ce cas vous nous soutiendrez<LINE>
-//pendant le tournoi national.<LINE>
-//Ça fera l'affaire.<END>
+//Alright.<LINE>
+//In that case, you'll support us<LINE>
+//during the national tournament.<LINE>
+//That'll do.<END>
 
-//Hein? Vous ne demandez rien d'autre?<END>
+//Huh? You're not asking for anything else?<END>
 
-//OK, on va le faire.<LINE>
-//Vous aurez tout notre soutien.<LINE>
-//Mais en échange, promettez-nous de gagner!<LINE>
-//Vous représentez la préfecture de Shizuoka.<END>
+//Very well, we can do that.<LINE>
+//You will have our full support.<LINE>
+//Promise us you'll come out victorious!<LINE>
+//You represent the Shizuoka prefecture now.<END>
 
-//B-bien sûr.<END>
+//O-Of course.<END>
 
-//Je t'interdis de perdre, Tsubasa.<END>
+//I will not allow you to lose,<LINE>
+//Tsubasa.<END>
 
-//Nous allons gagner!<END>
+//We will win, rest assured!<END>
 

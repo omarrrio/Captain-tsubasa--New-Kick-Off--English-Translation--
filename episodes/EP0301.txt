@@ -1,43 +1,43 @@
 // FILE: EP0301.str containing 13 strings
 
-//OK, bien joué les gars!<END>
+//OK, well done guys!<END>
 
-//Comment te sens-tu, Souda?<LINE>
-//Tu peux continuer à marquer Tsubasa Ozora<LINE>
-//en seconde mi-temps?<END>
+//How are you feeling, Souda?<LINE>
+//Can you keep marking Tsubasa Ozora<LINE>
+//in the second half?<END>
 
-//Ne vous en faites pas.<LINE>
-//Le match est dans la poche.<LINE>
-//Ce type là... Tsubasa... Il s'est blessé<LINE>
-//à la jambe.<END>
+//Don't worry.<LINE>
+//The game is in the bag.<LINE>
+//That guy... Tsubasa... He injured<LINE>
+//his leg.<END>
 
-//Hein?<END>
+//What?<END>
 
-//OK, on va faire tomber<LINE>
-//les champions en titre!<LINE>
-//On contre-attaque à la première occasion!<END>
+//OK, let's take down<LINE>
+//the reigning champions!<LINE>
+//We counter-attack at the first opportunity!<END>
 
 //OK.<END>
 
-//Ils s'attendent à ce que vous vous<LINE>
-//impatientiez et que vous commettiez<LINE>
-//une erreur.<LINE>
-//Mais suivez juste la tactique habituelle<LINE>
-//et la victoire est assurée.<END>
+//They're expecting you<LINE>
+//to get impatient and make<LINE>
+//a mistake.<LINE>
+//But just follow the usual tactics<LINE>
+//and victory is assured.<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//On va gagner ce match!<END>
+//We're going to win this match!<END>
 
-//Tsubasa, je sais que c'est pénible<LINE>
-//d'être marqué par lui,<LINE>
-//mais tu dois tenir bon.<END>
+//Tsubasa, I know it's tough<LINE>
+//being marked by him,<LINE>
+//but you have to hang in there.<END>
 
-//J'ai compris.<END>
+//Got it.<END>
 
-//Le moral de l'équipe est au top.<LINE>
-//Je ne peux pas leur parler de ma blessure.<END>
+//The team's morale is high.<LINE>
+//I can't tell them about my injury.<END>
 
-//Je vais juste mettre un bandage dessus<LINE>
-//et continuer la seconde mi-temps...<END>
+//I'll just put a bandage on it<LINE>
+//and continue the second half...<END>
 

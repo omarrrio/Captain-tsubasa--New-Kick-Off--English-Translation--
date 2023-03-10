@@ -1,47 +1,47 @@
 // FILE: EP0252.str containing 15 strings
 
-//Non! Marque Tsubasa!<END>
+//No! Mark Tsubasa!<END>
 
-//Les mouvements du Quartet d'Otomo<LINE>
-//sont vraiment époustouflants!<LINE>
-//Je n'aurais pas une seule occasion de tir<LINE>
-//si je prends le temps de contrôler<LINE>
-//le ballon.<END>
+//The movements of the Otomo Quartet<LINE>
+//are really breathtaking!<LINE>
+//I wouldn't have a single chance to shoot<LINE>
+//if I take the time to control<LINE>
+//the ball.<END>
 
-//Je ne vois qu'une seule solution...<END>
+//I only see one solution...<END>
 
-//Ouah! Tsubasa a repris cette longue passe<LINE>
-//à la volée sans même la contrôler!<END>
+//Wow! Tsubasa took that long pass<LINE>
+//on the volley without even controlling it!<END>
 
-//Reprise de volée!<END>
+//Volley shot!<END>
 
-//C'est de la folie!<LINE>
-//Même pour un génie comme Tsubasa!<LINE>
-//Va-t-il réussir à transformer<LINE>
-//cette passe en tir?<END>
+//It's madness!<LINE>
+//Even for a genius like Tsubasa!<LINE>
+//Will he be able to turn<LINE>
+//this pass into a shot?<END>
 
-//Ouah! J'en ai le souffle coupé!<END>
+//Wow! It takes my breath away!<END>
 
-//Ichijo, attention!<END>
+//Ichijo, watch out!<END>
 
 //Argh!<END>
 
-//Il a... Il a marqué!<END>
+//He... He scored!<END>
 
-//C'était la seule chose à faire,<LINE>
-//et la puissance et la dextérité<LINE>
-//de Tsubasa ont fait la différence!<END>
+//It was the only thing to do,<LINE>
+//and the power and dexterity<LINE>
+//of Tsubasa made the difference!<END>
 
-//Ce tir était hallucinant!<LINE>
-//Même Ichijo n'a pas pu l'arrêter!<END>
+//This shot was amazing!<LINE>
+//Even Ichijo couldn't stop it!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Que... Que s'est-il passé?<LINE>
-//Une passe longue qui se transforme<LINE>
-//à la volée en un long tir...<LINE>
-//Pour finir au fond des filets...<END>
+//What... What happened?<LINE>
+//A long pass that turns<LINE>
+//into a long shot on the fly...<LINE>
+//Ending up in the back of the net...<END>
 
-//Mais il n'aurait pas pu marquer<LINE>
-//d'une autre façon...<END>
+//But he couldn't have scored<LINE>
+//any other way...<END>
 

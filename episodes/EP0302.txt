@@ -1,50 +1,50 @@
 // FILE: EP0302.str containing 17 strings
 
-//Tsubasa! Comment as-tu su<LINE>
-//pour mon Tir en rasoir inversé?<END>
+//Tsubasa! How did you know<LINE>
+//about my Razor Back shot?<END>
 
-//Oui. Si tu ne m'avais rien dit,<LINE>
-//je ne l'aurais peut-être pas attrapé.<END>
+//Yes. If you hadn't told me,<LINE>
+//I might not have caught it.<END>
 
-//C'était juste de l'instinct.<LINE>
-//J'ai compris que tu préparais quelque chose<LINE>
-//en voyant l'angle entre tes deux jambes,<LINE>
-//et je l'ai prévenu sans réfléchir.<END>
+//It was just instinct.<LINE>
+//I understood that you were preparing something<LINE>
+//by seeing the angle between your two legs,<LINE>
+//and I warned him without thinking.<END>
 
-//Je vois... L'angle de mes jambes...<END>
+//I see... The angle of my legs...<END>
 
-//Moi aussi, j'ai beaucoup de mal à courber<LINE>
-//la trajectoire du ballon.<END>
+//I also have a lot of trouble curving<LINE>
+//the trajectory of the ball.<END>
 
-//Moi j'en suis incapable, mais je suis sûr<LINE>
-//que toi, tu peux encore perfectionner<LINE>
-//ton Drive shoot.<END>
+//I can't do it, but I'm sure<LINE>
+//you can still perfect<LINE>
+//your Drive Shot.<END>
 
 //OK.<END>
 
-//Comment va ta jambe?<END>
+//How's your leg?<END>
 
-//Ta jambe? Il t'est arrivé quelque chose,<LINE>
+//Your leg? Did something happen to you,<LINE>
 //Tsubasa?<END>
 
-//Tsubasa a un peu mal à la jambe gauche.<END>
+//Tsubasa's left leg is a bit sore.<END>
 
-//C'est vrai?<END>
+//Really?<END>
 
-//Je vais bien. Ça m'est déjà arrivé avant.<LINE>
-//Ce n'est vraiment pas grave.<END>
+//I'm fine. It's happened to me before.<LINE>
+//It's really not a big deal.<END>
 
-//Bon, vous nous avez battus.<LINE>
-//Vous avez intérêt à gagner le championnat.<END>
+//Well, you beat us.<LINE>
+//You'd better win the championship.<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Allez, à la prochaine, Tsubasa!<END>
+//See you next time, Tsubasa!<END>
 
-//Bon sang, on a perdu!<LINE>
-//Ne pleurez pas. Reprenez-vous les gars,<LINE>
-//et rentrons à la maison.<END>
+//Damn, we lost!<LINE>
+//Don't cry. Pull yourselves together, guys,<LINE>
+//and let's go home.<END>
 
-//Souda... C'est peut-être un type sympa<LINE>
-//finalement...<END>
+//Souda... Maybe he's a nice guy<LINE>
+//after all...<END>
 

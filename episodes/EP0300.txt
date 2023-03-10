@@ -1,85 +1,82 @@
 // FILE: EP0300.str containing 22 strings
 
-//Azumaichi School est notre premier<LINE>
-//adversaire dans le tournoi national.<LINE>
-//Souda, leur capitaine, joue en défense.<LINE>
-//Cette équipe est donc particulièrement<LINE>
-//défensive.<END>
+//Azumaichi School is our first opponent<LINE>
+//in the national tournament.<LINE>
+//Souda, their captain, plays in defense.<LINE>
+//This team is therefore particularly<LINE>
+//defensive.<END>
 
-//Marquer le capitaine de l'équipe adverse<LINE>
-//n'est pas la seule force de Souda.<LINE>
-//Lors du tournoi d'Osaka, contre l'équipe<LINE>
-//Naniwa School menée par Nakanishi,<LINE>
-//ce sont ses tirs à longue distance<LINE>
-//qui ont massacré l'équipe adverse.<END>
+//Scoring against the opposing team's captain<LINE>
+//is not Souda's only strength.<LINE>
+//During the Osaka tournament, against the<LINE>
+//Naniwa School led by Nakanishi,<LINE>
+//it was his long-range shots that massacred<LINE>
+//the opposing team.<END>
 
-//Méfiez-vous des tirs à longue distance<LINE>
-//de Souda et de leurs contre-attaques!<END>
+//Beware of Souda's long-range shots<LINE>
+//and their counterattacks!<END>
 
-//Écoutez-moi bien!<LINE>
-//Nankatsu se résume à Tsubasa Ozora!<LINE>
-//Bloquez-le et la victoire est à nous!<END>
+//Listen to me well!<LINE>
+//Nankatsu is all about Tsubasa Ozora!<LINE>
+//Block him and victory is ours!<END>
 
-//Souda, ce sera ton boulot <LINE>
-//de marquer Tsubasa!<LINE>
-//Nous comptons sur toi!<END>
+//Souda, it will be your job<LINE>
+//to mark Tsubasa!<LINE>
+//We are counting on you!<END>
 
-//Je m'en occupe.<LINE>
-//Je brûle d'impatience de pouvoir abattre<LINE>
-//Tsubasa Ozora devant toute cette foule!<END>
+//I'll take care of it.<LINE>
+//I can't wait to take down Tsubasa Ozora<LINE>
+//in front of all these people!<END>
 
-//Je vais leur montrer ce qu'est<LINE>
-//un vrai défenseur!<END>
+//I'll show them what a real defender is!<END>
 
-//Et c'est donc sous les regards admiratifs<LINE>
-//de la foule que le match du jour va <LINE>
-//commencer. Nankatsu contre <LINE>
-//Azumaichi!<END>
+//And so, under the admiring gazes<LINE>
+//of the crowd, today's match will begin.<LINE>
+//Nankatsu versus Azumaichi!<END>
 
-//Nous sommes là pour vous soutenir<LINE>
-//comme promis!<END>
+//We're here to support you<LINE>
+//as promised!<END>
 
-//Oh! Mais c'est Urabé!<END>
+//Oh! But that's Urabe!<END>
 
-//Vous nous avez battus pour représenter<LINE>
-//la préfecture de Shizuoka!<LINE>
-//Alors vous avez intérêt <LINE>
-//à gagner aujourd'hui!<LINE>
-//Je n'accepterais pas une défaite!<END>
+//You beat us to represent<LINE>
+//Shizuoka prefecture!<LINE>
+//So you better win today!<LINE>
+//I won't accept a defeat!<END>
 
-//Ça marche! Admire le spectacle!<END>
+//Alright! Enjoy the show!<END>
 
-//Hé, les gars.<LINE>
-//Fermez-la, et dépêchez-vous de venir<LINE>
-//sur le terrain!<END>
+//Hey, guys.<LINE>
+//Shut up and hurry up and get on<LINE>
+//the field!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//J'en ai assez d'entendre<LINE>
-//que vous êtes champions depuis deux ans.<LINE>
-//Venez-vous mettre en ligne en vitesse.<END>
+//I'm tired of hearing<LINE>
+//that you've been champions for two years.<LINE>
+//Line up and get ready quickly.<END>
 
-//Attends, tu...<END>
+//Wait, you...<END>
 
 //Ishizaki!<END>
 
 //...<END>
 
-//C'est donc toi, Tsubasa Ozora?<LINE>
-//Tu n'es pas si grand que ça en vrai.<LINE>
-//Pour info, c'est moi qui vais te marquer<LINE>
-//aujourd'hui.<END>
+//So, you're Tsubasa Ozora?<LINE>
+//You're not that tall in real life.<LINE>
+//Just so you know, I'm the one who's going<LINE>
+//to mark you today.<END>
 
-//Tsubasa, c'est Souda.<LINE>
-//Il a marqué le but de la victoire<LINE>
-//lors de la finale d'Osaka contre Nakanishi.<END>
+//Tsubasa, that's Souda.<LINE>
+//He scored the winning goal<LINE>
+//in the Osaka final against Nakanishi.<END>
 
-//Je vois.<END>
+//I see.<END>
 
-//Les joueurs se sont mis en place<LINE>
-//sur le terrain.<LINE>
-//Nankatsu et Azumaichi vont ouvrir<LINE>
-//le National Junior High School Soccer<LINE>
+//The players have taken their positions<LINE>
+//on the field.<LINE>
+//Nankatsu and Azumaichi will open<LINE>
+//the National Junior High School Soccer<LINE>
 //Tournament.<LINE>
-//Le match va commencer!<END>
+//The match is about to begin!<END>
 

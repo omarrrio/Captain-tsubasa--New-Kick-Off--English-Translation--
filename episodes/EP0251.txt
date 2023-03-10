@@ -1,60 +1,59 @@
 // FILE: EP0251.str containing 17 strings
 
-//Et le Quartet d'Otomo,<LINE>
-//en excellente condition pour ce tournoi,<LINE>
-//attend Tsubasa!<LINE>
-//Ils sont la pierre angulaire<LINE>
-//de la défense de Otomo!<END>
+//And the Otomo Quartet,<LINE>
+//in excellent condition for this tournament,<LINE>
+//is waiting for Tsubasa!<LINE>
+//They are the cornerstone<LINE>
+//of Otomo's defense!<END>
 
-//Les spectateurs se déchaînent<LINE>
-//devant un tel affrontement!<END>
+//The spectators are going wild<LINE>
+//at such a confrontation!<END>
 
-//Allez viens, Tsubasa!<LINE>
-//Je peux te jurer qu'on va t'arrêter.<END>
+//Come on, Tsubasa!<LINE>
+//I can promise we're going to stop you.<END>
 
-//Cette année nos seuls objectifs<LINE>
-//sont vaincre la Nankatsu <LINE>
-//et son capitaine Tsubasa!<END>
+//This year, our only objectives<LINE>
+//are to defeat Nankatsu<LINE>
+//and its captain Tsubasa!<END>
 
-//Nous nous sommes entraînés…<END>
+//We have trained ourselves...<END>
 
-//Pour pouvoir être aussi rapides<LINE>
-//que Tsubasa...<END>
+//To be as fast<LINE>
+//as Tsubasa...<END>
 
-//Pour pouvoir contrer la moindre<LINE>
-//de ses feintes...<END>
+//To be able to counter any<LINE>
+//of his moves...<END>
 
-//Nous n'avons peut-être pas ton talent,<LINE>
-//mais nous n'avons pas à rougir en termes<LINE>
-//d'effort et entraînement!<END>
+//We may not have your talent,<LINE>
+//but we have nothing to be ashamed<LINE>
+//of in terms of effort and training!<END>
 
-//Admire un peu le résultat, Tsubasa!<LINE>
-//Tu ne pourras jamais passer!<END>
+//Take a look at the result, Tsubasa!<LINE>
+//You'll never get past us!<END>
 
-//Ils sont quatre, mais cette fois,<LINE>
-//je vais passer!<LINE>
-//Je vais leur faire payer<LINE>
-//pour tout à l'heure.<END>
+//There are four of them, but this time,<LINE>
+//I'll get through!<LINE>
+//I'll make them pay<LINE>
+//for earlier.<END>
 
-//Et c'est le choc<LINE>
-//entre les deux adversaires!<END>
+//And there's the clash<LINE>
+//between the two opponents!<END>
 
 //!!<END>
 
-//Qu'est-ce que...<LINE>
-//Tsubasa a soudainement changé de position!<END>
+//What's that...<LINE>
+//Tsubasa suddenly changed position!<END>
 
-//Il a réussi à faire une passe en retrait<LINE>
-//alors qu'il tombait!<END>
+//He managed to make a backward pass<LINE>
+//while falling down!<END>
 
-//Quelle vitesse de réaction!<LINE>
-//Quelles que soient mes feintes,<LINE>
-//ils ont déjà une longueur d'avance!<END>
+//What quick reflexes!<LINE>
+//Whatever moves I make,<LINE>
+//they're already one step ahead!<END>
 
-//Bien joué, Tsubasa.<END>
+//Well played, Tsubasa.<END>
 
-//Tu as anticipé notre défense<LINE>
-//et tu as opté pour une passe en retrait...<LINE>
-//Alors tu comprends maintenant?<LINE>
-//La fuite est ta seule issue.<END>
-
+//You anticipated our defense<LINE>
+//and chose a backward pass...<LINE>
+//So now you understand?<LINE>
+//Running away is your only way out.<END>

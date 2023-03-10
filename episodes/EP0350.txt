@@ -1,53 +1,50 @@
 // FILE: EP0350.str containing 19 strings
 
-//Me voilà!<END>
+//Here I am!<END>
 
-//Il a disparu!<END>
+//He's disappeared!<END>
 
-//Prends ça! Tacle en rasoir!<END>
+//Take that! Razor Tackle!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Oh, Souda se jette avec un tacle glissé<LINE>
-//en profitant de l'angle mort de Tsubasa!<END>
+//Oh, Souda dives with a sliding tackle,<LINE>
+//taking advantage of Tsubasa's blind spot!<END>
 
-//Tsubasa trébuche sur la jambe de Souda<LINE>
-//et s'écroule!<LINE>
-//C'est une faute ça, Souda!<LINE>
-//Mais l'arbitre ne siffle pas.<END>
+//Tsubasa trips over Souda's leg and falls!<LINE>
+//That's a foul, Souda!<LINE>
+//But the referee doesn't blow his whistle.<END>
 
-//Voilà notre chance!<LINE>
-//Allez! À l'attaque, vite!<END>
+//This is our chance!<LINE>
+//Let's attack, quickly!<END>
 
-//Azumaichi ont une occasion de marquer<LINE>
-//un but!<END>
+//Azumaichi has a chance to score a goal!<END>
 
-//Azumaichi fait remonter le ballon<LINE>
-//jusque devant les buts!<LINE>
-//Vont-ils pouvoir tirer?<END>
+//Azumaichi is moving the ball up<LINE>
+//to the front of the goal!<LINE>
+//Will they be able to shoot?<END>
 
 //OK!<END>
 
-//C'est parti! Razor Shot!<END>
+//Here we go! Razor Shot!<END>
 
-//Morisaki, tu peux l'attraper!<END>
+//Morisaki, you can catch it!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//BUUUUUUT!<END>
+//GOOOOAAAL!<END>
 
-//Souda, le défenseur de Azumaichi,<LINE>
-//a marqué un but! Il a utilisé le même tir<LINE>
-//que lors du dernier match du tournoi<LINE>
-//préliminaire à Osaka : le Razor Shot!<END>
+//Souda, Azumaichi's defender,<LINE>
+//has scored a goal! He used the same shot<LINE>
+//as in the last match of the preliminary tournament in Osaka: the Razor Shot!<END>
 
-//Quelle... Quelle courbe hallucinante...<END>
+//What... What an amazing curve...<END>
 
-//OK, les gars.<LINE>
-//On reste calme et on y retourne ensemble.<END>
+//OK, guys.<LINE>
+//Let's stay calm and go back together.<END>
 
-//Morisaki, tu dois prendre en compte<LINE>
-//la trajectoire en courbe du ballon.<END>
+//Morisaki, you have to take into account<LINE>
+//the curved trajectory of the ball.<END>
 
-//OK. C'est noté.<END>
+//OK. Got it.<END>
 
