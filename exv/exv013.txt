@@ -1,25 +1,25 @@
 // FILE: exv013.str containing 8 strings
 
-//Let's go, Tsubasa !<END>
+//Let's go, Tsubasa!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Alright, let's go !<END>
+//Alright, let's go!<END>
 
 //I won't give up<LINE>
-//the ball !<END>
+//the ball!<END>
 
-//That's it !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//Over here, Tsubasa !<END>
+//That's it!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//Over here, Tsubasa!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

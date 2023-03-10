@@ -4,23 +4,23 @@
 
 //Hop.<END>
 
-//Et voilà Taki !<LINE>
+//Et voilà Taki!<LINE>
 //Il est si petit qu'il a réussi<LINE>
-//à se faufiler entre les jambes de Jito !<END>
+//à se faufiler entre les jambes de Jito!<END>
 
-//Quoi ?!<END>
+//Quoi?!<END>
 
 //Le gardien se rapproche,<LINE>
 //mais Taki fait une passe à droite.<LINE>
-//En direction de Kisugi !<END>
+//En direction de Kisugi!<END>
 
 //Je suis Teppei Kisugi, ancien<LINE>
-//attaquant de Shutetsu !<LINE>
+//attaquant de Shutetsu!<LINE>
 //Désormais c'est pour la Nankatsu…<LINE>
-//que je vais marquer !<END>
+//que je vais marquer!<END>
 
-//Et c'est le but !<END>
+//Et c'est le but!<END>
 
 //Ce but n'a pas été marqué par Tsubasa,<LINE>
-//mais par Taki et Kisugi ensemble !<END>
+//mais par Taki et Kisugi ensemble!<END>
 

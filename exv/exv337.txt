@@ -1,41 +1,41 @@
 // FILE: exv337.str containing 14 strings
 
-//Let's end this !<END>
+//Let's end this!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Catch me if you can !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//Admire the show !<END>
+//Catch me if you can!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Fire !<END>
-
-//Ah !<END>
-
-//Anti-fire !<END>
-
-//Get ready !<END>
-
-//I won't let you pass !<END>
+//Admire the show!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//Fire!<END>
+
+//Ah!<END>
+
+//Anti-fire!<END>
+
+//Get ready!<END>
+
+//I won't let you pass!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 
 //Don't you think that you<LINE>
-//can pass this easy !<END>
+//can pass this easy!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

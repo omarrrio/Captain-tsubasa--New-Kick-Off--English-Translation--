@@ -1,10 +1,10 @@
 // FILE: EP2251.str containing 11 strings
 
-//On remet ça, les gars !<END>
+//On remet ça, les gars!<END>
 
-//Ouais !<END>
+//Ouais!<END>
 
-//Sawada fait une autre passe à Sorimachi !<END>
+//Sawada fait une autre passe à Sorimachi!<END>
 
 //Sorimachi est bien placé pour marquer<LINE>
 //un autre but. Il réceptionne la passe,<LINE>
@@ -12,13 +12,13 @@
 
 //...<END>
 
-//Il tire !<END>
+//Il tire!<END>
 
 //...<END>
 
-//But !<LINE>
+//But!<LINE>
 //Toho Gakuen marque un autre but<LINE>
-//en un temps record !<END>
+//en un temps record!<END>
 
 //...<END>
 

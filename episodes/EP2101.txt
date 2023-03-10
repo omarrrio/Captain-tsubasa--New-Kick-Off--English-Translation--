@@ -4,7 +4,7 @@
 //à l'occasion du National<LINE>
 //Junior High School Tournament.<LINE>
 //L'équipe gagnante représentera<LINE>
-//le secteur de Tokyo !<END>
+//le secteur de Tokyo!<END>
 
 //L'équipe Toho Gakuen se qualifiera<LINE>
 //pour une troisième année de championnat<LINE>

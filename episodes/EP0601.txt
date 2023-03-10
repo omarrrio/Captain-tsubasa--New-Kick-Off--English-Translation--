@@ -6,39 +6,39 @@
 
 //OK, c'est du bon travail, les gars.<LINE>
 //Essuyez votre sueur et battez-vous encore<LINE>
-//en seconde mi-temps !<LINE>
-//Un dernier effort !<END>
+//en seconde mi-temps!<LINE>
+//Un dernier effort!<END>
 
-//Ouais !<END>
+//Ouais!<END>
 
-//Tsubasa, tu peux continuer ?<END>
+//Tsubasa, tu peux continuer?<END>
 
 //Oui, sans problème.<END>
 
-//Je ne vais pas perdre !<LINE>
-//Je refuse de perdre au Japon !<END>
+//Je ne vais pas perdre!<LINE>
+//Je refuse de perdre au Japon!<END>
 
 //OK, continue comme ça en seconde mi-temps.<LINE>
-//Tiens bon et la victoire est assurée !<END>
+//Tiens bon et la victoire est assurée!<END>
 
-//Oui !<END>
+//Oui!<END>
 
 //Nankatsu est fort…<LINE>
 //Et leur défense est vraiment très serrée.<LINE>
 //Mais en combinant toutes nos forces,<LINE>
-//on doit pouvoir les briser !<END>
+//on doit pouvoir les briser!<END>
 
 //Voici enfin la seconde mi-temps.<LINE>
 //Les trente dernières minutes<LINE>
-//d'un combat acharné !<END>
+//d'un combat acharné!<END>
 
 //Et voici enfin la seconde mi-temps<LINE>
-//du match !<END>
+//du match!<END>
 
 //Je vais me montrer digne de la confiance<LINE>
 //de mes camarades, et sceller le cours<LINE>
-//du match avec ma maîtrise du Drive shoot !<END>
+//du match avec ma maîtrise du Drive shoot!<END>
 
 //Et à l'instant critique,<LINE>
-//je marquerai un but !<END>
+//je marquerai un but!<END>
 

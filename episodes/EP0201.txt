@@ -6,7 +6,7 @@
 //national.<LINE>
 //Dans cette dernière demi-heure,<LINE>
 //nous allons leur montrer<LINE>
-//la véritable force de Nankatsu !<END>
+//la véritable force de Nankatsu!<END>
 
 //On dirait qu'ils ne vont pas changer<LINE>
 //de stratégie pour la seconde mi-temps.<LINE>
@@ -21,18 +21,18 @@
 
 //Je dois faire une reprise de volée<LINE>
 //comme Tsubasa l'a faite pour son but.<LINE>
-//C'est le seul moyen !<LINE>
-//Mais vais-je réussir à faire ça ?<END>
+//C'est le seul moyen!<LINE>
+//Mais vais-je réussir à faire ça?<END>
 
-//Hé, Nitta ! C'est le moment, fonce !<END>
+//Hé, Nitta! C'est le moment, fonce!<END>
 
 //Ah... OK.<END>
 
 //Il ne reste plus que trente minutes<LINE>
 //de sueur et de larmes dans la bataille<LINE>
-//entre Nankatsu et Otomo !<LINE>
+//entre Nankatsu et Otomo!<LINE>
 //Est-ce que Nankatsu va réussir à passer<LINE>
 //le tournoi de Shizuoka, premier obstacle<LINE>
 //sur la route d'une troisième victoire<LINE>
-//nationale consécutive ?<END>
+//nationale consécutive?<END>
 

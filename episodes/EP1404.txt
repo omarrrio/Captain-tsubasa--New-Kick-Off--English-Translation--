@@ -15,7 +15,7 @@
 //à la fin du match de demain...<END>
 
 //Entraîneur Barbas, qui va l'emporter<LINE>
-//demain ?<END>
+//demain?<END>
 
 //J'ai bien peur que ce soit l'Allemagne.<LINE>
 //Même si le Japon possède Tsubasa Ozora,<LINE>
@@ -25,12 +25,12 @@
 //Dans ce cas…<LINE>
 //Si le Japon remporte le match de demain,<LINE>
 //tu devras abandonner l'idée de recruter<LINE>
-//Tsubasa. D'accord ?<END>
+//Tsubasa. D'accord?<END>
 
-//Quoi ?<END>
+//Quoi?<END>
 
 //Je suis désolé, mais je compte recruter<LINE>
 //Tsubasa pour mon équipe brésilienne.<END>
 
-//Roberto !<END>
+//Roberto!<END>
 

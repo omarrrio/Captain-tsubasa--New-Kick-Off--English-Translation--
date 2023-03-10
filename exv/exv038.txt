@@ -1,9 +1,9 @@
 // FILE: exv038.str containing 2 strings
 
 //You think that<LINE>
-//you can trespass us ?<END>
+//you can trespass us?<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

@@ -1,11 +1,11 @@
 // FILE: EP4500.str containing 17 strings
 
-//Notre stratégie reste la même !<LINE>
+//Notre stratégie reste la même!<LINE>
 //En première mi-temps, concentrez-vous<LINE>
 //sur la défense. Et en seconde mi-temps,<LINE>
-//attaquez en vous appuyant sur Misugi !<END>
+//attaquez en vous appuyant sur Misugi!<END>
 
-//OK !<END>
+//OK!<END>
 
 //Misugi, tiens-toi prêt à entrer<LINE>
 //sur le terrain.<END>
@@ -21,10 +21,10 @@
 //comme lors du match contre Toho<LINE>
 //pendant le tournoi de Tokyo.<END>
 
-//Oui, entraîneur !<END>
+//Oui, entraîneur!<END>
 
-//Les gars ! Moi aussi, j'ai longtemps<LINE>
-//attendu cette finale !<END>
+//Les gars! Moi aussi, j'ai longtemps<LINE>
+//attendu cette finale!<END>
 
 //Et je sais que la plupart d'entre-nous<LINE>
 //se souviennent de notre défaite d'il y a<LINE>
@@ -32,9 +32,9 @@
 //et de ce funeste tir à longue distance...<END>
 
 //Le match d'aujourd'hui est l'occasion<LINE>
-//de prendre notre revanche !<END>
+//de prendre notre revanche!<END>
 
-//Oui !<END>
+//Oui!<END>
 
 //Enfin...<LINE>
 //Je vais devoir marquer Tsubasa<LINE>
@@ -53,17 +53,17 @@
 
 //Et qu'ils se sont qualifiés pour le tournoi<LINE>
 //national en battant l'équipe de Hyuga,<LINE>
-//Toho Gakuen !<END>
+//Toho Gakuen!<END>
 
 //Shizuoka est encore une fois représentée<LINE>
 //par Nankatsu, qui vise<LINE>
-//un troisième titre consécutif !<END>
+//un troisième titre consécutif!<END>
 
 //Tous les regards seront braqués<LINE>
 //sur les deux petits génies du football,<LINE>
-//les deux capitaines Misugi et Tsubasa !<END>
+//les deux capitaines Misugi et Tsubasa!<END>
 
 //Cette finale désignera<LINE>
-//la meilleure équipe du pays !<LINE>
-//Et c'est le coup d'envoi !<END>
+//la meilleure équipe du pays!<LINE>
+//Et c'est le coup d'envoi!<END>
 

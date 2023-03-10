@@ -1,20 +1,20 @@
 // FILE: exv315.str containing 6 strings
 
-//Let's go, Diaz !<END>
+//Let's go, Diaz!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//There !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//I won't let you shoot !<END>
+//There!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//I won't let you shoot!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

@@ -1,42 +1,42 @@
 // FILE: exv314.str containing 14 strings
 
 //I must be worthy<LINE>
-//of my reputation !<END>
+//of my reputation!<END>
 
-//One genius is enough !<END>
+//One genius is enough!<END>
 
-//It's my Chance !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//After this, it'll be over !<END>
+//It's my Chance!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Look at this !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//Yeah ! I'll go !<END>
+//After this, it'll be over!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Pascual ! Let's go !<END>
+//Look at this!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//Yeah! I'll go!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
+
+//Pascual! Let's go!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 
 //I won't simplfy<LINE>
-//the task !<END>
+//the task!<END>
 
-//I think you're dreaming !<END>
+//I think you're dreaming!<END>
 

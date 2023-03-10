@@ -1,8 +1,8 @@
 // FILE: exv309.str containing 2 strings
 
-//You manage to see this shot ?<END>
+//You manage to see this shot?<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

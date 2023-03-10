@@ -10,7 +10,7 @@
 //Les deux équipes se sont livrées<LINE>
 //à corps perdus dans ce match.<LINE>
 //Les applaudissements du public<LINE>
-//résonnent dans le stade !<END>
+//résonnent dans le stade!<END>
 
 //Je t'avais dit de ne pas trop forcer,<LINE>
 //mais tu ne m'as pas écouté<LINE>
@@ -18,9 +18,9 @@
 
 //Se blesser, ça fait partie du jeu.<END>
 
-//Comment va ton épaule, Tsubasa ?<END>
+//Comment va ton épaule, Tsubasa?<END>
 
-//Tachibana !<END>
+//Tachibana!<END>
 
 //Je ne sais pas quoi dire.<LINE>
 //C'est ma faute.<END>
@@ -28,22 +28,22 @@
 //Non, non, c'était inévitable.<LINE>
 //Merci d'être venu me voir.<END>
 
-//Bats-toi aussi pour nous, d'accord ?<END>
+//Bats-toi aussi pour nous, d'accord?<END>
 
 //OK.<END>
 
-//Compte sur nous. On va gagner !<END>
+//Compte sur nous. On va gagner!<END>
 
-//Oh, Hyuga !<END>
+//Oh, Hyuga!<END>
 
-//Hé, tu ne joues pas aujourd'hui non plus ?<LINE>
-//Comment ça se fait, Hyuga ?<END>
+//Hé, tu ne joues pas aujourd'hui non plus?<LINE>
+//Comment ça se fait, Hyuga?<END>
 
 //Ne t'en fais pas.<LINE>
 //Je te promets que nous nous verrons<LINE>
 //en finale.<END>
 
-//Mais alors, tu n'es pas blessé ?<END>
+//Mais alors, tu n'es pas blessé?<END>
 
 //... Non.<END>
 
@@ -51,7 +51,7 @@
 //consécutive...<END>
 
 //... Je compte sur une finale<LINE>
-//Nankatsu contre Touhou !<END>
+//Nankatsu contre Touhou!<END>
 
 //De ton côté, fais en sorte d'arriver<LINE>
 //en forme en finale.<LINE>

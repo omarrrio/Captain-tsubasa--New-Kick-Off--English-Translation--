@@ -1,20 +1,20 @@
 // FILE: EP1152.str containing 11 strings
 
 //Kaltz envoie le ballon loin <LINE>
-//vers l'avant !<END>
+//vers l'avant!<END>
 
-//À toi !<END>
+//À toi!<END>
 
-//Oh ! Schneider se dirige à une vitesse<LINE>
-//impressionnante vers le ballon !<END>
+//Oh! Schneider se dirige à une vitesse<LINE>
+//impressionnante vers le ballon!<END>
 
-//Il se prépare à tirer du pied droit !<LINE>
-//Voilà son Fire shot !<END>
+//Il se prépare à tirer du pied droit!<LINE>
+//Voilà son Fire shot!<END>
 
-//Quoi ? Mais c'est le Tiger shot de Hyuga !<END>
+//Quoi? Mais c'est le Tiger shot de Hyuga!<END>
 
 //Wakashimazu, le gardien des All Japan, <LINE>
-//n'a pas bougé d'un pouce !<END>
+//n'a pas bougé d'un pouce!<END>
 
 //Wakashimazu...<END>
 

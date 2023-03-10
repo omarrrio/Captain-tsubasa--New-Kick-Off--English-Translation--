@@ -1,27 +1,27 @@
 // FILE: exv077.str containing 8 strings
 
 //You shouldn't<LINE>
-//look away !<END>
+//look away!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//I'm coming !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//He he he, I'm coming !<END>
+//I'm coming!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//I will stop you !<END>
+//He he he, I'm coming!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//I will stop you!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

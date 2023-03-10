@@ -1,6 +1,6 @@
 // FILE: exv274.str containing 2 strings
 
-//I won't tolerate any Goals !<END>
+//I won't tolerate any Goals!<END>
 
 //I don't get beaten off easely<LINE>
 //on the distribution surface.<END>

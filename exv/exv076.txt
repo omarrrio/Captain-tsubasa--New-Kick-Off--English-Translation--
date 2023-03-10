@@ -1,29 +1,29 @@
 // FILE: exv076.str containing 10 strings
 
-//Try then !<END>
+//Try then!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//You are wasting my time !<END>
+//You are wasting my time!<END>
 
-//I will clear you !<END>
+//I will clear you!<END>
 
-//Come on, Tachibana Brothers !<END>
+//Come on, Tachibana Brothers!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //Your little tricks<LINE>
-//won't work with me !<END>
+//won't work with me!<END>
 
-//Out of my way !<END>
+//Out of my way!<END>
 
-//Taste my Power defense !<END>
+//Taste my Power defense!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

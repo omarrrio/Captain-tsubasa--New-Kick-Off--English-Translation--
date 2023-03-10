@@ -1,38 +1,38 @@
 // FILE: exv999.str containing 12 strings
 
-//Here !<END>
+//Here!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//You won't be able to follow me !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//You manage to see this shot ?<END>
+//You won't be able to follow me!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//There !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//I will stop you !<END>
+//You manage to see this shot?<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//I will take the ball !<END>
+//There!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//I will stop you!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
+
+//I will take the ball!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

@@ -3,9 +3,9 @@
 //Il reste encore du temps.<LINE>
 //La prochaine fois, je...<END>
 
-//Remplacement du nº 12 !<END>
+//Remplacement du nº 12!<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //Comment...<LINE>
 //Je peux encore jouer...<END>
@@ -15,14 +15,14 @@
 
 //Tu es remplacé non pas à cause<LINE>
 //de ta blessure, mais parce que tu n'as pas<LINE>
-//respecté les consignes de match !<END>
+//respecté les consignes de match!<END>
 
 //C'est pas vrai...<END>
 
 //Entraîneur, Shingo s'est blessé<LINE>
 //à la jambe…<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //*coup de sifflet*<END>
 

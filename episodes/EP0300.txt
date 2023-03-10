@@ -14,46 +14,46 @@
 //qui ont massacré l'équipe adverse.<END>
 
 //Méfiez-vous des tirs à longue distance<LINE>
-//de Souda et de leurs contre-attaques !<END>
+//de Souda et de leurs contre-attaques!<END>
 
-//Écoutez-moi bien !<LINE>
-//Nankatsu se résume à Tsubasa Ozora !<LINE>
-//Bloquez-le et la victoire est à nous !<END>
+//Écoutez-moi bien!<LINE>
+//Nankatsu se résume à Tsubasa Ozora!<LINE>
+//Bloquez-le et la victoire est à nous!<END>
 
 //Souda, ce sera ton boulot <LINE>
-//de marquer Tsubasa !<LINE>
-//Nous comptons sur toi !<END>
+//de marquer Tsubasa!<LINE>
+//Nous comptons sur toi!<END>
 
 //Je m'en occupe.<LINE>
 //Je brûle d'impatience de pouvoir abattre<LINE>
-//Tsubasa Ozora devant toute cette foule !<END>
+//Tsubasa Ozora devant toute cette foule!<END>
 
 //Je vais leur montrer ce qu'est<LINE>
-//un vrai défenseur !<END>
+//un vrai défenseur!<END>
 
 //Et c'est donc sous les regards admiratifs<LINE>
 //de la foule que le match du jour va <LINE>
 //commencer. Nankatsu contre <LINE>
-//Azumaichi !<END>
+//Azumaichi!<END>
 
 //Nous sommes là pour vous soutenir<LINE>
-//comme promis !<END>
+//comme promis!<END>
 
-//Oh ! Mais c'est Urabé !<END>
+//Oh! Mais c'est Urabé!<END>
 
 //Vous nous avez battus pour représenter<LINE>
-//la préfecture de Shizuoka !<LINE>
+//la préfecture de Shizuoka!<LINE>
 //Alors vous avez intérêt <LINE>
-//à gagner aujourd'hui !<LINE>
-//Je n'accepterais pas une défaite !<END>
+//à gagner aujourd'hui!<LINE>
+//Je n'accepterais pas une défaite!<END>
 
-//Ça marche ! Admire le spectacle !<END>
+//Ça marche! Admire le spectacle!<END>
 
 //Hé, les gars.<LINE>
 //Fermez-la, et dépêchez-vous de venir<LINE>
-//sur le terrain !<END>
+//sur le terrain!<END>
 
-//Quoi ?!<END>
+//Quoi?!<END>
 
 //J'en ai assez d'entendre<LINE>
 //que vous êtes champions depuis deux ans.<LINE>
@@ -61,11 +61,11 @@
 
 //Attends, tu...<END>
 
-//Ishizaki !<END>
+//Ishizaki!<END>
 
 //...<END>
 
-//C'est donc toi, Tsubasa Ozora ?<LINE>
+//C'est donc toi, Tsubasa Ozora?<LINE>
 //Tu n'es pas si grand que ça en vrai.<LINE>
 //Pour info, c'est moi qui vais te marquer<LINE>
 //aujourd'hui.<END>
@@ -81,5 +81,5 @@
 //Nankatsu et Azumaichi vont ouvrir<LINE>
 //le National Junior High School Soccer<LINE>
 //Tournament.<LINE>
-//Le match va commencer !<END>
+//Le match va commencer!<END>
 

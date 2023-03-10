@@ -6,11 +6,11 @@
 //Jetez-y tous un œil.<END>
 
 //Ce sont des informations sur l'Allemagne,<LINE>
-//notre adversaire du jour !<END>
+//notre adversaire du jour!<END>
 
-//Il y a tout ! Leurs points forts,<LINE>
+//Il y a tout! Leurs points forts,<LINE>
 //leurs points faibles, leur manière<LINE>
-//de jouer !<END>
+//de jouer!<END>
 
 //Wakabayashi...<END>
 
@@ -26,7 +26,7 @@
 //Seules celles du joueur que vous allez<LINE>
 //marquer devraient suffire.<END>
 
-//Merci, Wakabayashi !<END>
+//Merci, Wakabayashi!<END>
 
 //Genzo, je n'arrive pas à croire<LINE>
 //que tu aies réuni tout ça...<END>
@@ -39,17 +39,17 @@
 //par rapport à ce que je vous ai déjà dit.<LINE>
 //Donnez tout ce que vous avez sur le terrain<LINE>
 //comme vous l'avez fait jusqu'à aujourd'hui.<LINE>
-//C'est tout !<END>
+//C'est tout!<END>
 
-//Oui !<END>
+//Oui!<END>
 
 //Sinon, en ce qui concerne<LINE>
 //le poste de gardien...<END>
 
-//Genzo Wakabayashi !<LINE>
-//Je compte sur toi aujourd'hui !<END>
+//Genzo Wakabayashi!<LINE>
+//Je compte sur toi aujourd'hui!<END>
 
-//Quoi ?<END>
+//Quoi?<END>
 
 //Mais... Je ne devais pas jouer<LINE>
 //dans ce tournoi...<END>
@@ -59,7 +59,7 @@
 
 //Il n'y a que toi, Wakayabashi.<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //Si Wakashimazu ne peut pas jouer,<LINE>
 //tu es le seul qui puisse le remplacer.<END>
@@ -78,7 +78,7 @@
 
 //Notre esprit d'équipe sera indestructible<LINE>
 //tant que nous aurons tous le même<LINE>
-//et seul objectif : la victoire !<END>
+//et seul objectif : la victoire!<END>
 
 //Avant je détestais Tsubasa par-dessus tout.<LINE>
 //Mais depuis qu'on joue dans la même équipe,<LINE>
@@ -98,42 +98,42 @@
 
 //Tout ce que tu avais fait était<LINE>
 //pour nous rendre plus forts,<LINE>
-//pas vrai ?<END>
+//pas vrai?<END>
 
-//Tu sais que t'es un mauvais acteur, hein ?<END>
+//Tu sais que t'es un mauvais acteur, hein?<END>
 
 //Mais bon, grâce à toi, on s'est renforcés<LINE>
 //en très peu de temps.<END>
 
 //Alors, qu'est-ce que tu comptes faire,<LINE>
-//Wakabayashi ? Tu n'as toujours <LINE>
-//pas l'intention de jouer ? <LINE>
+//Wakabayashi? Tu n'as toujours <LINE>
+//pas l'intention de jouer? <LINE>
 //Tu voulais simplement être là <LINE>
 //pour nous relayer les informations <LINE>
-//sur l'équipe d'Allemagne ?<END>
+//sur l'équipe d'Allemagne?<END>
 
 //Les gars...<END>
 
 //Je... je...<END>
 
 //Dans les cages du Japon, nous retrouverons<LINE>
-//Genzo Wakabayashi aujourd'hui !<END>
+//Genzo Wakabayashi aujourd'hui!<END>
 
 //Je compte sur toi, Wakabayashi.<END>
 
 //C'est la première titularisation<LINE>
 //de Wakabayashi dans ce tournoi.<END>
 
-//Wa-Wakabayashi ?<END>
+//Wa-Wakabayashi?<END>
 
-//Wakabayashi va jouer ?<END>
+//Wakabayashi va jouer?<END>
 
-//Alors tu vas vraiment jouer, hein ?<END>
+//Alors tu vas vraiment jouer, hein?<END>
 
 //Mieux vaut tard que jamais...<END>
 
 //On dirait qu'on va avoir l'occasion<LINE>
-//de s'affronter aujourd'hui, Wakabayashi !<END>
+//de s'affronter aujourd'hui, Wakabayashi!<END>
 
 //Schneider, je ne perdrai pas.<END>
 

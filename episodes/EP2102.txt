@@ -12,10 +12,10 @@
 //Aucun problème.<END>
 
 //Attendez, entraîneur.<LINE>
-//C'est à moi de marquer Misugi !<END>
+//C'est à moi de marquer Misugi!<END>
 
-//Qu'est-ce qui te prend, Hyuga ?<LINE>
-//Refroidis un peu tes ardeurs !<END>
+//Qu'est-ce qui te prend, Hyuga?<LINE>
+//Refroidis un peu tes ardeurs!<END>
 
 //Le football est un sport d'équipe.<LINE>
 //Chaque joueur doit tenir le poste<LINE>
@@ -28,7 +28,7 @@
 //Tu ne peux pas jouer correctement<LINE>
 //si tu ne vois pas plus loin<LINE>
 //que le bout de ton nez.<LINE>
-//Tu piges, Hyuga ?<END>
+//Tu piges, Hyuga?<END>
 
 //Oui, entraîneur.<END>
 
@@ -47,7 +47,7 @@
 //de remporter son troisième championnat.<END>
 
 //Ça signifie que nous ne pouvons pas<LINE>
-//perdre ce match. Compris ?<END>
+//perdre ce match. Compris?<END>
 
 //Hum. Compris, Takeshi.<END>
 

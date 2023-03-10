@@ -1,110 +1,110 @@
 // FILE: bvd076.str containing 54 strings
 
-//Go !<END>
+//Go!<END>
 
-//He's coming !<END>
+//He's coming!<END>
 
-//Aaaargh !<END>
+//Aaaargh!<END>
 
-//Arrrrrgh !<END>
+//Arrrrrgh!<END>
 
-//Oui, fonce !<END>
+//Oui, fonce!<END>
 
-//Allez !<END>
+//Allez!<END>
 
-//Bouge !<END>
+//Bouge!<END>
 
-//I'll put you out of my way !<END>
+//I'll put you out of my way!<END>
 
-//Bring yourself !<END>
+//Bring yourself!<END>
 
-//In your dreams !<END>
+//In your dreams!<END>
 
-//You won't trespass me !<END>
+//You won't trespass me!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//It's over !<END>
+//It's over!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//It's ok !<END>
+//It's ok!<END>
 
-//Oh no, there, you're dreaming !<END>
+//Oh no, there, you're dreaming!<END>
 
-//Aaaargh !<END>
+//Aaaargh!<END>
 
-//I have to stop him !<END>
+//I have to stop him!<END>
 
-//It's over !<END>
+//It's over!<END>
 
-//I have to stop him !<END>
+//I have to stop him!<END>
 
-//Yeaaaah !<END>
+//Yeaaaah!<END>
 
-//Cool !<END>
+//Cool!<END>
 
-//What do you say of this ?<END>
+//What do you say of this?<END>
 
-//Hein, what ?<END>
+//Hein, what?<END>
 
 //!!!<END>
 
-//No !<END>
+//No!<END>
 
-//Watch out in front !<END>
+//Watch out in front!<END>
 
-//Take this !<END>
+//Take this!<END>
 
-//Aaaarrrrgh !<END>
+//Aaaarrrrgh!<END>
 
-//This is for you !<END>
+//This is for you!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//I have to have it !<END>
+//I have to have it!<END>
 
-//Out of my way !<END>
+//Out of my way!<END>
 
-//Yes !<END>
+//Yes!<END>
 
-//You are making me lose my time !<END>
+//You are making me lose my time!<END>
 
-//Tu ne feras pas un pas de plus !<END>
+//Tu ne feras pas un pas de plus!<END>
 
-//Oh no, there, you're dreaming !<END>
+//Oh no, there, you're dreaming!<END>
 
-//Aaaarrrrgh !<END>
+//Aaaarrrrgh!<END>
 
-//Oh no, there, you're dreaming !<END>
+//Oh no, there, you're dreaming!<END>
 
-//I have to have it !<END>
+//I have to have it!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//Take this !<END>
+//Take this!<END>
 
-//You're wasting your time !<END>
+//You're wasting your time!<END>
 
-//Aaaarrrrgh !<END>
+//Aaaarrrrgh!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//You are making me lose my time !<END>
+//You are making me lose my time!<END>
 
-//Aaaarrrrgh !<END>
+//Aaaarrrrgh!<END>
 
-//Yeaaaah !<END>
+//Yeaaaah!<END>
 
-//Je l'ai mis !<END>
+//Je l'ai mis!<END>
 
-//Ah !<END>
+//Ah!<END>
 
-//Hein ?<END>
+//Hein?<END>
 
-//How ?<END>
+//How?<END>
 
-//What ? That's impossible...<END>
+//What? That's impossible...<END>
 

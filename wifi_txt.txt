@@ -1,7 +1,7 @@
 // FILE: wifi_txt.str containing 159 strings
 
 //Connect to<LINE>
-//Nintendo Wi-Fi ?<END>
+//Nintendo Wi-Fi?<END>
 
 //Connecting...<LINE>
 //Please wait.<END>
@@ -21,7 +21,7 @@
 //Nintendo Wi-Fi<LINE>
 //Connection.<END>
 
-//Exchange with who ?<END>
+//Exchange with who?<END>
 
 //Create a session.<END>
 
@@ -29,7 +29,7 @@
 
 //Nintendo Wi-Fi connection<END>
 
-//Exchange with this object ?<LINE>
+//Exchange with this object?<LINE>
 //* The exchanged object will be lost.<END>
 
 //Error code :<END>
@@ -105,7 +105,7 @@
 //Would you like to interrupt<LINE>
 //the Nintendo Wi-Fi connection?<END>
 
-//Exchange with this object ?<LINE>
+//Exchange with this object?<LINE>
 //"SORRY" will be automatically<LINE>
 //selected<LINE>
 //if no decision is taken<LINE>
@@ -154,7 +154,7 @@
 //Unlocked.<END>
 
 //Remove<LINE>
-//from the list ?<END>
+//from the list?<END>
 
 //Removal<LINE>
 //done.<END>

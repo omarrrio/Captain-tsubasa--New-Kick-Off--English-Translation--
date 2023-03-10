@@ -1,24 +1,24 @@
 // FILE: exv039.str containing 8 strings
 
-//Razor Pass !<END>
+//Razor Pass!<END>
 
-//Yeah ! Here we go !<END>
+//Yeah! Here we go!<END>
 
-//Come on, Razor Shoot !<END>
+//Come on, Razor Shoot!<END>
 
 //My Razor Shoot is<LINE>
-//super sharpened !<END>
+//super sharpened!<END>
 
-//Stop day-dreaming !<END>
+//Stop day-dreaming!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //You will tell me some news<LINE>
-//over my Razor Tackle !<END>
+//over my Razor Tackle!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

@@ -1,8 +1,8 @@
 // FILE: EP3102.str containing 4 strings
 
-//Le match est terminé !<LINE>
-//Furano a gagné !<LINE>
-//Furano a conquis Hokkaido !<END>
+//Le match est terminé!<LINE>
+//Furano a gagné!<LINE>
+//Furano a conquis Hokkaido!<END>
 
 //Furano s'est révélé invincible<LINE>
 //une fois encore.<LINE>
@@ -12,8 +12,8 @@
 //le meilleur du pays.<END>
 
 //Espérons qu'ils joueront aussi bien<LINE>
-//lors du championnat national !<END>
+//lors du championnat national!<END>
 
-//Prochaine étape, le championnat national !<LINE>
-//Tsubasa et Nankatsu, prenez garde !<END>
+//Prochaine étape, le championnat national!<LINE>
+//Tsubasa et Nankatsu, prenez garde!<END>
 

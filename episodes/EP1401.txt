@@ -1,6 +1,6 @@
 // FILE: EP1401.str containing 9 strings
 
-//Co-comment... se passe le match ?<END>
+//Co-comment... se passe le match?<END>
 
 //Même réduits à dix, on tient plus ou moins<LINE>
 //le coup pour l'instant.<END>

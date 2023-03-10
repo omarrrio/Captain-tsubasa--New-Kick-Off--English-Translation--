@@ -1,24 +1,24 @@
 // FILE: exv108.str containing 8 strings
 
-//Hyuga !<END>
+//Hyuga!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//I'll pass it to you !<END>
+//I'll pass it to you!<END>
 
-//I have to go !<END>
+//I have to go!<END>
 
-//It's your chance, Hyuga !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//Admire the show !<END>
+//It's your chance, Hyuga!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//Admire the show!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

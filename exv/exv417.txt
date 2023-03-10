@@ -1,40 +1,40 @@
 // FILE: exv417.str containing 14 strings
 
-//Now !<END>
+//Now!<END>
 
-//Now is your turn !<END>
+//Now is your turn!<END>
 
 //It's like this<LINE>
-//how we dribble !<END>
+//how we dribble!<END>
 
-//Youhou !<END>
+//Youhou!<END>
 
-//Here we go !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//It's a Drive shoot !<END>
-
-//That's it !<END>
-
-//That's so weak !<END>
+//Here we go!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//It's a Drive shoot!<END>
+
+//That's it!<END>
+
+//That's so weak!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 
 //You can stop the ball<LINE>
-//this way aswell !<END>
+//this way aswell!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//You won't trespass me !<END>
+//You won't trespass me!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

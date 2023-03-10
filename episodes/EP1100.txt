@@ -1,11 +1,11 @@
 // FILE: EP1100.str containing 19 strings
 
-//Wa-Wakabayashi !<LINE>
-//Ça fait un sacré bail !<END>
+//Wa-Wakabayashi!<LINE>
+//Ça fait un sacré bail!<END>
 
 //Vous avez tous l'air en forme.<END>
 
-//Wakabayashi !<END>
+//Wakabayashi!<END>
 
 //En ce qui me concerne, j'ai comme but<LINE>
 //de surpasser Tsubasa Ozora,<LINE>
@@ -13,7 +13,7 @@
 
 //C'est de marquer un but contre toi,<LINE>
 //Wakabayashi, hors de<LINE>
-//la surface de réparation !<END>
+//la surface de réparation!<END>
 
 //Hyuga...<END>
 
@@ -24,25 +24,25 @@
 //Je vais être honnête... Les All Japan sans<LINE>
 //Tsubasa...<END>
 
-//Vous n'avez aucune chance de gagner !<END>
+//Vous n'avez aucune chance de gagner!<END>
 
-//Pour qui tu te prends ?<END>
+//Pour qui tu te prends?<END>
 
 //Enfin, que le meilleur l'emporte demain.<END>
 
 //Wakabayashi, on va voir demain ce que<LINE>
 //ces trois années en Allemagne t'ont<LINE>
-//réellement apporté !<END>
+//réellement apporté!<END>
 
 //Et laisse-moi te dire que les All Japan Jr.<LINE>
-//Youth vont gagner contre FC Allemagne !<END>
+//Youth vont gagner contre FC Allemagne!<END>
 
 //Abordez ce match comme un match normal,<LINE>
 //il n'y a pas de match amical qui vaille. <LINE>
 //Donnez le meilleur de vous-même et<LINE>
-//décrochez-moi la victoire !<END>
+//décrochez-moi la victoire!<END>
 
-//Oui !<END>
+//Oui!<END>
 
 //Pour la défense, ne lâchez pas Schneider<LINE>
 //une seconde. Gardez un œil sur lui<LINE>
@@ -55,6 +55,6 @@
 //S'il y en a bien un qui puisse marquer<LINE>
 //un but contre Genzo, c'est lui.<END>
 
-//Marquer contre Wakabayashi ?<LINE>
-//Vous êtes sérieux ?<END>
+//Marquer contre Wakabayashi?<LINE>
+//Vous êtes sérieux?<END>
 

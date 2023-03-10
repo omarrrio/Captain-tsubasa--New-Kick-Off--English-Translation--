@@ -1,16 +1,16 @@
 // FILE: EP2103.str containing 22 strings
 
-//Oh ! L'arbitre vient de siffler<LINE>
+//Oh! L'arbitre vient de siffler<LINE>
 //la fin du match. Toho Gakuen se qualifie<LINE>
 //pour le championnat national<LINE>
-//pour la troisième année consécutive !<END>
+//pour la troisième année consécutive!<END>
 
-//Nous avons gagné !<END>
+//Nous avons gagné!<END>
 
-//Ouais !<END>
+//Ouais!<END>
 
 //Le championnat national.<LINE>
-//On s'y verra, Tsubasa !<END>
+//On s'y verra, Tsubasa!<END>
 
 //On y était presque, Misugi.<END>
 
@@ -19,20 +19,20 @@
 //En trois ans, je n'ai pas affronté<LINE>
 //Tsubasa une seule fois.<END>
 
-//Très bien !<END>
+//Très bien!<END>
 
-//Hein ?<END>
+//Hein?<END>
 
-//Entraîneur Kira !<END>
+//Entraîneur Kira!<END>
 
 //Kojiro, tu t'es ramolli<LINE>
-//depuis la dernière fois que je t'ai vu !<END>
+//depuis la dernière fois que je t'ai vu!<END>
 
-//Quoi ?<END>
+//Quoi?<END>
 
-//On dirait un tigre en cage !<END>
+//On dirait un tigre en cage!<END>
 
-//Un tigre en cage ?<END>
+//Un tigre en cage?<END>
 
 //Oui. Toute ton attention était tournée<LINE>
 //vers Misugi, même lorsque<LINE>
@@ -41,10 +41,10 @@
 //Je ne me souviens pas t'avoir appris<LINE>
 //à jouer comme ça.<END>
 
-//Kojiro ! Avant d'entrer sur le terrain,<LINE>
+//Kojiro! Avant d'entrer sur le terrain,<LINE>
 //tu dois laisser tes sentiments<LINE>
 //aux vestiaires. Tu dois garder<LINE>
-//la tête froide !<END>
+//la tête froide!<END>
 
 //Si tu ne changes pas d'attitude,<LINE>
 //Takeshi, Wakashimazu et les autres<LINE>

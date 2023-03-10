@@ -1,22 +1,22 @@
 // FILE: exv338.str containing 6 strings
 
 //Let us see if you manage<LINE>
-//to understand this trajectory !<END>
+//to understand this trajectory!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //I can confronte<LINE>
-//anyone !<END>
+//anyone!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//I'm holding you !<END>
+//I'm holding you!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

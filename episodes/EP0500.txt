@@ -17,7 +17,7 @@
 //serrées 1 à 0.<END>
 
 //Comment Hirado résistera-t-il<LINE>
-//face aux champions de Nankatsu ?<LINE>
+//face aux champions de Nankatsu?<LINE>
 //Ce sera sûrement là tout l'intérêt<LINE>
 //de ce match.<END>
 
@@ -36,10 +36,10 @@
 //*sourire*<END>
 
 //Les gars, ce sont de nouveaux arrivants,<LINE>
-//alors restez sur vos gardes !<END>
+//alors restez sur vos gardes!<END>
 
-//Oui !<END>
+//Oui!<END>
 
 //Et c'est devant un stade bondé<LINE>
-//que les quarts de finale vont commencer !<END>
+//que les quarts de finale vont commencer!<END>
 

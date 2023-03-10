@@ -1,32 +1,32 @@
 // FILE: exv065.str containing 10 strings
 
-//Skylab hurricane !<END>
+//Skylab hurricane!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Here is our Twin shoot !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//Jito ! Let's go !<END>
+//Here is our Twin shoot!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//here you go, Masao !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//Come on !<END>
+//Jito! Let's go!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//here you go, Masao!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
+
+//Come on!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

@@ -4,109 +4,109 @@
 //Si je parviens à t'arrêter,<LINE>
 //j'égalise le score.<END>
 
-//Oui ! C'est exactement ce que j'espérais.<LINE>
-//Tiens-toi prêt, Misugi !<END>
+//Oui! C'est exactement ce que j'espérais.<LINE>
+//Tiens-toi prêt, Misugi!<END>
 
 //Misugi tente de bloquer le dribble<LINE>
-//de Hyuga ! Hyuga cherche à conserver<LINE>
-//le ballon ! Ces deux-là mènent une lutte<LINE>
-//acharnée !<END>
+//de Hyuga! Hyuga cherche à conserver<LINE>
+//le ballon! Ces deux-là mènent une lutte<LINE>
+//acharnée!<END>
 
 //Hyuga parviendra-t-il à se frayer<LINE>
 //un chemin jusqu'aux buts, ou se fera-t-il<LINE>
-//voler le ballon par Misugi ?<END>
+//voler le ballon par Misugi?<END>
 
 //Hyuga ne semble vraiment pas vouloir<LINE>
-//passer le ballon à un coéquipier !<END>
+//passer le ballon à un coéquipier!<END>
 
-//Je dois y arriver !<END>
+//Je dois y arriver!<END>
 
 //Je dois...<END>
 
-//... l'arrêter !<END>
+//... l'arrêter!<END>
 
-//Hein ?<END>
+//Hein?<END>
 
-//Que s'est-il passé ? Misugi est tombé,<LINE>
+//Que s'est-il passé? Misugi est tombé,<LINE>
 //donnant ainsi l'occasion à Hyuga<LINE>
-//de prendre le ballon !<END>
+//de prendre le ballon!<END>
 
-//Les gars !<END>
+//Les gars!<END>
 
-//Que se passe-t-il ?<END>
+//Que se passe-t-il?<END>
 
-//Holà ! Misugi a envoyé le ballon<LINE>
-//loin de Hyuga alors qu'il tombait !<END>
+//Holà! Misugi a envoyé le ballon<LINE>
+//loin de Hyuga alors qu'il tombait!<END>
 
-//Musashi récupère le ballon perdu !<END>
+//Musashi récupère le ballon perdu!<END>
 
 //...<END>
 
 //Musashi passe rapidement à l'attaque,<LINE>
-//mais Misugi est toujours à terre !<END>
+//mais Misugi est toujours à terre!<END>
 
-//Faites ce que dit Misugi !<LINE>
-//Nous devons agir rapidement !<END>
+//Faites ce que dit Misugi!<LINE>
+//Nous devons agir rapidement!<END>
 
 //Toho s'active en vue de bloquer<LINE>
-//l'attaque de Musashi !<END>
+//l'attaque de Musashi!<END>
 
-//Amenez-vous, les enfants !<LINE>
+//Amenez-vous, les enfants!<LINE>
 //Misugi est le seul à pouvoir marquer<LINE>
-//dans mes buts !<END>
+//dans mes buts!<END>
 
 //L'équipe de Musashi parviendra-t-elle<LINE>
 //à égaliser, ou se heurtera-t-elle<LINE>
-//à la défense de Toho ?<LINE>
+//à la défense de Toho?<LINE>
 //Nous allons peut-être assister<LINE>
-//à un tournant du match !<END>
+//à un tournant du match!<END>
 
-//Regardez ça !<LINE>
+//Regardez ça!<LINE>
 //Musashi fait une série<LINE>
-//de passes étourdissante !<END>
+//de passes étourdissante!<END>
 
 //Chaque joueur effectue une passe<LINE>
-//par déviation !<END>
+//par déviation!<END>
 
-//Le gardien de but est Wakashimazu !<LINE>
+//Le gardien de but est Wakashimazu!<LINE>
 //Inutile de tirer de loin, ça ne passera<LINE>
-//jamais !<END>
+//jamais!<END>
 
 //Approchez-vous le plus possible<LINE>
 //de la cage de but et tirez au plus près.<LINE>
-//C'est la seule façon d'y arriver !<END>
+//C'est la seule façon d'y arriver!<END>
 
 //On dirait que la ténacité de Misugi<LINE>
-//a influencé Musashi !<END>
+//a influencé Musashi!<END>
 
-//Nous avons une ouverture !<LINE>
-//À toi de jouer, Honma !<END>
+//Nous avons une ouverture!<LINE>
+//À toi de jouer, Honma!<END>
 
-//Ouah ! Et voilà, la passe finale<LINE>
-//de Musashi !<END>
+//Ouah! Et voilà, la passe finale<LINE>
+//de Musashi!<END>
 
 //Moi, Ken Wakashimazu, je jure d'abandonner<LINE>
 //définitivement le football si je vous<LINE>
-//laisse marquer un troisième but !<END>
+//laisse marquer un troisième but!<END>
 
 //Wakashimazu fonce hors de la cage,<LINE>
-//mais Honma est déjà en position de tir !<END>
+//mais Honma est déjà en position de tir!<END>
 
-//Personne ne m'empêchera de marquer ce but !<END>
+//Personne ne m'empêchera de marquer ce but!<END>
 
-//Ouah !<END>
+//Ouah!<END>
 
-//Quoi !<END>
+//Quoi!<END>
 
-//Ouf !<END>
+//Ouf!<END>
 
-//Wakashimazu l'a... arrêté !<END>
+//Wakashimazu l'a... arrêté!<END>
 
 //Il a vu qu'une main ne suffirait pas,<LINE>
 //aussi a-t-il joint ses deux mains<LINE>
 //et sauté au bon moment<LINE>
-//pour bloquer le tir !<END>
+//pour bloquer le tir!<END>
 
 //Les défenseurs de Toho n'arrivent pas<LINE>
-//à approcher du ballon !<END>
+//à approcher du ballon!<END>
 

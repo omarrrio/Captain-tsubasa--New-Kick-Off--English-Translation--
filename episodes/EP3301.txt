@@ -13,10 +13,10 @@
 //On fera mieux en deuxième mi-temps.<END>
 
 //Nous devons d'abord marquer un but,<LINE>
-//et ensuite nous pourrons dominer !<LINE>
-//Ayez confiance en vous, les gars !<END>
+//et ensuite nous pourrons dominer!<LINE>
+//Ayez confiance en vous, les gars!<END>
 
-//Oui, entraîneur !<END>
+//Oui, entraîneur!<END>
 
 //Mince, si on peine ici, on n'arrivera<LINE>
 //jamais à gagner le championnat.<END>
@@ -26,5 +26,5 @@
 
 //Le soleil est toujours plus ardent.<LINE>
 //Les joueurs devront désormais se battre<LINE>
-//aussi contre la chaleur !<END>
+//aussi contre la chaleur!<END>
 

@@ -1,14 +1,14 @@
 // FILE: exv005.str containing 4 strings
 
-//I will stop it !<END>
+//I will stop it!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//You are not stronger than me !<END>
+//You are not stronger than me!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

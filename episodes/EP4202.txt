@@ -3,7 +3,7 @@
 //Le coup de sifflet marque<LINE>
 //la fin du match.<LINE>
 //Musashi Junior High remporte<LINE>
-//son premier match !<END>
+//son premier match!<END>
 
 //Misugi avait attiré l'attention<LINE>
 //lors des phases qualificatives,<LINE>
@@ -16,12 +16,12 @@
 //se demande si on va le voir jouer<LINE>
 //lors de ce tournoi national...<END>
 
-//Bien joué, les gars !<LINE>
-//Vous avez fait un très bon match !<LINE>
-//Vous pouvez avoir confiance en vous !<END>
+//Bien joué, les gars!<LINE>
+//Vous avez fait un très bon match!<LINE>
+//Vous pouvez avoir confiance en vous!<END>
 
 //Vous avez tous très bien joué.<LINE>
-//Vous n'avez même pas eu besoin de moi !<END>
+//Vous n'avez même pas eu besoin de moi!<END>
 
 //Le tournoi débute à peine.<LINE>
 //Mais plus on va avancer,<LINE>

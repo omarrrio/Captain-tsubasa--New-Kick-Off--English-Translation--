@@ -1,19 +1,19 @@
 // FILE: EP5001.str containing 28 strings
 
-//Fin du match !<END>
+//Fin du match!<END>
 
 //Merci pour le match d'aujourd'hui.<LINE>
-//Nous ne l'oublierons jamais !<END>
+//Nous ne l'oublierons jamais!<END>
 
-//Pourquoi ils sourient ? Ils n'ont pas honte<LINE>
-//de s'être inclinés sur un tel score ?<END>
+//Pourquoi ils sourient? Ils n'ont pas honte<LINE>
+//de s'être inclinés sur un tel score?<END>
 
 //J'arrête. Je quitte l'équipe.<LINE>
 //J'abandonne le foot.<END>
 
-//Bons déplacements, nº 12 !<END>
+//Bons déplacements, nº 12!<END>
 
-//Si tu aimes le foot, ne renonce jamais !<END>
+//Si tu aimes le foot, ne renonce jamais!<END>
 
 //Les paroles de Tsubasa Ozora m'avaient ému.<LINE>
 //Il était ensuite parti au royaume du<LINE>
@@ -24,7 +24,7 @@
 //Je voulais à tout prix le voir<LINE>
 //avant qu'il ne parte...<END>
 
-//Tsubasa Ozora !<END>
+//Tsubasa Ozora!<END>
 
 //???<END>
 
@@ -32,27 +32,27 @@
 //mais...<END>
 
 //Je te souhaite de faire un malheur<LINE>
-//au Brésil !<END>
+//au Brésil!<END>
 
 //(Nous offrirons un jour ensemble<LINE>
-//la coupe du monde au Japon !)<END>
+//la coupe du monde au Japon!)<END>
 
 //Au revoir...<END>
 
-//Le nº 12 de Nakahara !<END>
+//Le nº 12 de Nakahara!<END>
 
-//Hein ?<END>
+//Hein?<END>
 
-//Bon courage, toi aussi !<END>
+//Bon courage, toi aussi!<END>
 
-//Tu te souviens de moi !<END>
+//Tu te souviens de moi!<END>
 
-//Tiens !<END>
+//Tiens!<END>
 
-//Qu'est-ce que c'est ?<END>
+//Qu'est-ce que c'est?<END>
 
 //Vingt-cinq cents américains, dix francs<LINE>
-//français et cent yens... Mais, c'est... !<END>
+//français et cent yens... Mais, c'est...!<END>
 
 //Ce sont les pièces des pays organisateurs :<LINE>
 //les États-Unis, la France... et aussi<LINE>
@@ -73,11 +73,11 @@
 //pour qui j'ai le plus profond respect...<END>
 
 //C'est pour toutes ces raisons que je suis<LINE>
-//en Italie, le royaume du foot européen !<END>
+//en Italie, le royaume du foot européen!<END>
 
 //Je ne renoncerai jamais à mon rêve<LINE>
 //et je me donnerai à fond<LINE>
-//sous le soleil italien !<END>
+//sous le soleil italien!<END>
 
-//Non ! Je ne renoncerai pas !<END>
+//Non! Je ne renoncerai pas!<END>
 

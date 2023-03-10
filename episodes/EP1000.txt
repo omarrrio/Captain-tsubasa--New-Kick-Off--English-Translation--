@@ -11,11 +11,11 @@
 //à cause de la blessure contractée pendant<LINE>
 //le championnat.<END>
 
-//Hé, c'est Tsubasa !<END>
+//Hé, c'est Tsubasa!<END>
 
 //Salut Ishizaki, salut tout le monde.<END>
 
-//Ta blessure, ça va ?<END>
+//Ta blessure, ça va?<END>
 
 //Oui, c'est presque guéri.<LINE>
 //Mais le médecin ne m'autorise toujours<LINE>
@@ -31,21 +31,21 @@
 //Tu es évidemment le bienvenu, mais<LINE>
 //ne penses-tu pas que nous regarder <LINE>
 //va te donner encore plus envie <LINE>
-//de jouer ?<END>
+//de jouer?<END>
 
-//Hmm... Je n'avais pas pensé à ça !<END>
+//Hmm... Je n'avais pas pensé à ça!<END>
 
-//Tu ne changeras jamais !<END>
+//Tu ne changeras jamais!<END>
 
-//Ha ha ha ha !<END>
+//Ha ha ha ha!<END>
 
 //Bon, puisque Tsubasa est là...<LINE>
 //Misugi, pourquoi tu ne lui donnerais pas<LINE>
-//ce dont nous avons parlé tout à l'heure ?<END>
+//ce dont nous avons parlé tout à l'heure?<END>
 
-//Ah oui !<END>
+//Ah oui!<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //Voici le maillot des All Japan Jr. Youth...<END>
 
@@ -73,10 +73,10 @@
 
 //Ah...<END>
 
-//Tsubasa ?<END>
+//Tsubasa?<END>
 
 //Qu'est-ce que j'ai envie d'aller<LINE>
-//à la tournée européenne !<END>
+//à la tournée européenne!<END>
 
 //Même si tu n'as pas l'occasion de porter<LINE>
 //ce maillot cette fois-ci, tu le porteras<LINE>
@@ -86,7 +86,7 @@
 //d'entraînement.<LINE>
 //Je vais maintenant dévoiler la liste<LINE>
 //des 17 joueurs sélectionnés pour la tournée<LINE>
-//européenne !<END>
+//européenne!<END>
 
 //!!!<END>
 
@@ -111,10 +111,10 @@
 //se passer de la paire en or<LINE>
 //formée par Tsubasa Ozora et Taro Misaki.<END>
 
-//Hein ! Misaki a été sélectionné ?<END>
+//Hein! Misaki a été sélectionné?<END>
 
 //Deux jours plus tard,<LINE>
 //les All Japan Jr. Youth Team décollèrent<LINE>
 //pour l'Allemagne, la première étape<LINE>
-//de la tournée européenne !<END>
+//de la tournée européenne!<END>
 

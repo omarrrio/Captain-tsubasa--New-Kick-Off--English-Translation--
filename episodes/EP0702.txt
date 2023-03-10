@@ -11,16 +11,16 @@
 //de deux autres mi-temps de dix minutes.<LINE>
 //Vingt minutes de plus de lutte acharnée...<END>
 
-//Tsu... Tsubasa !<LINE>
-//Que s'est-il passé ?<END>
+//Tsu... Tsubasa!<LINE>
+//Que s'est-il passé?<END>
 
-//Hé, Tsubasa !<END>
+//Hé, Tsubasa!<END>
 
 //Bon, les gars, on va devoir jouer<LINE>
 //les prolongations.<END>
 
 //Tsu... Tsubasa...<LINE>
-//Tu te sens bien ?<END>
+//Tu te sens bien?<END>
 
 //Tsubasa, je suis désolé<LINE>
 //mais je ne peux pas te laisser jouer<LINE>
@@ -38,13 +38,13 @@
 //Allez, accompagne-moi à l'infirmerie.<END>
 
 //Docteur, vous vous souvenez de la promesse<LINE>
-//que vous m'aviez faite ?<END>
+//que vous m'aviez faite?<END>
 
-//Laquelle ?<END>
+//Laquelle?<END>
 
 //Je suis toujours debout.<LINE>
 //Je ne suis pas tombé.<LINE>
-//N'est-ce pas ?<END>
+//N'est-ce pas?<END>
 
 //Je vous en supplie. Laissez-moi aller<LINE>
 //au bout de ce que mon corps peut endurer.<END>
@@ -52,11 +52,11 @@
 //Je dois retourner sur le terrain<LINE>
 //pour affronter Hyuga.<END>
 
-//Je vais jouer les prolongations !<END>
+//Je vais jouer les prolongations!<END>
 
 //Docteur, vous croyez vraiment qu'un joueur<LINE>
 //blessé et diminué aurait pu jouer<LINE>
-//comme il a joué ?<END>
+//comme il a joué?<END>
 
 //Quand Tsubasa ne pourra plus bouger<LINE>
 //et qu'il handicapera l'équipe...<LINE>
@@ -68,14 +68,14 @@
 //Nankatsu a encore besoin de Tsubasa.<END>
 
 //Tsubasa, pourquoi tu n'irais pas te reposer<LINE>
-//sur le banc ?<LINE>
+//sur le banc?<LINE>
 //Ça devrait te redonner un peu d'énergie.<END>
 
 //Ishizaki...<END>
 
 //On va aller jusqu'au bout tous ensemble,<LINE>
-//jusqu'à notre troisième titre national !<LINE>
-//D'accord, Tsubasa ?<END>
+//jusqu'à notre troisième titre national!<LINE>
+//D'accord, Tsubasa?<END>
 
 //Oui.<END>
 
@@ -87,16 +87,16 @@
 //Vous avez bien joué<LINE>
 //pendant ces soixante minutes.<LINE>
 //Alors récupérez bien<LINE>
-//pour les vingt dernières minutes !<END>
+//pour les vingt dernières minutes!<END>
 
-//OK !<END>
+//OK!<END>
 
 //Wakashimazu, tu ne peux plus te servir<LINE>
 //que de ta main droite,<LINE>
 //mais tu vas quand même être notre gardien<LINE>
 //pour les vingt prochaines minutes.<END>
 
-//Ou-oui, entraîneur ! Bien sûr !<END>
+//Ou-oui, entraîneur! Bien sûr!<END>
 
 //Et voici enfin le début des prolongations<LINE>
 //de la finale du National Junior High School<LINE>
@@ -111,10 +111,10 @@
 
 //Est-ce que ce sera Nankatsu,<LINE>
 //qui vise un troisième titre national<LINE>
-//consécutif historique ?<LINE>
+//consécutif historique?<LINE>
 //Ou est-ce que la troisième tentative<LINE>
 //sera la bonne pour Toho<LINE>
-//qui rêve de sa première victoire ?<END>
+//qui rêve de sa première victoire?<END>
 
 //Les dix première minutes des prolongations<LINE>
 //vont bientôt commencer<LINE>

@@ -3,7 +3,7 @@
 //Il serait peut-être temps qu'on mette<LINE>
 //notre plan à exécution.<END>
 
-//D'accord, Gino !<END>
+//D'accord, Gino!<END>
 
 //Ils sont si calmes...<END>
 
@@ -16,7 +16,7 @@
 //C'est une des équipes favorites<LINE>
 //pour remporter compétition.<END>
 
-//Montrez-leur de quoi vous êtes capables !<END>
+//Montrez-leur de quoi vous êtes capables!<END>
 
-//O-oui !<END>
+//O-oui!<END>
 

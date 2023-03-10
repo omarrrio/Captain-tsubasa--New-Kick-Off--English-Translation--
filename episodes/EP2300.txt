@@ -1,30 +1,30 @@
 // FILE: EP2300.str containing 27 strings
 
-//Entraîneur, où est Hyuga ?<END>
+//Entraîneur, où est Hyuga?<END>
 
-//Hyuga ne viendra pas !<LINE>
+//Hyuga ne viendra pas!<LINE>
 //Il n'a pas besoin de s'entraîner<LINE>
 //puisqu'il ne participera pas au tournoi.<LINE>
 //Aussi je lui ai dit de rentrer chez lui.<END>
 
-//P-pourquoi ?<END>
+//P-pourquoi?<END>
 
 //Entraîneur, nous ne pouvons pas gagner<LINE>
-//sans Hyuga !<END>
+//sans Hyuga!<END>
 
-//C'est vrai, entraîneur !<END>
+//C'est vrai, entraîneur!<END>
 
-//Ça suffit !<LINE>
-//Vous n'allez pas vous y mettre !<LINE>
-//Vous n'avez pas à critiquer mes ordres !<END>
+//Ça suffit!<LINE>
+//Vous n'allez pas vous y mettre!<LINE>
+//Vous n'avez pas à critiquer mes ordres!<END>
 
-//Wakashimazu ! À compter de maintenant,<LINE>
+//Wakashimazu! À compter de maintenant,<LINE>
 //et ce jusqu'à la fin du tournoi,<LINE>
 //je te nomme capitaine de l'équipe.<END>
 
-//Hein ?<END>
+//Hein?<END>
 
-//Compris ?<END>
+//Compris?<END>
 
 //Entraîneur...<END>
 
@@ -36,7 +36,7 @@
 //lors du match de championnat<LINE>
 //contre Nankatsu.<END>
 
-//Je vais jouer le match de championnat !<LINE>
+//Je vais jouer le match de championnat!<LINE>
 //Je vais aider mes coéquipiers<LINE>
 //à donner le meilleur d'eux-mêmes<LINE>
 //afin que Toho remporte le tournoi.<LINE>
@@ -45,11 +45,11 @@
 //La composition de départ de l'équipe sera<LINE>
 //la même que celle d'hier.<END>
 
-//Compris ?<END>
+//Compris?<END>
 
-//Et Hyuga, entraîneur ?<END>
+//Et Hyuga, entraîneur?<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //Ça va aller.<LINE>
 //J'ai vu les gars de l'autre équipe<LINE>
@@ -58,28 +58,28 @@
 
 //Et puis, au cas où ça se passerait mal,<LINE>
 //je me tiendrai prêt à entrer sur le terrain<LINE>
-//à tout moment !<END>
+//à tout moment!<END>
 
 //...<END>
 
 //Hyuga...<END>
 
-//Mais que se passe-t-il ?<LINE>
-//Hyuga ne joue pas aujourd'hui non plus ?<END>
+//Mais que se passe-t-il?<LINE>
+//Hyuga ne joue pas aujourd'hui non plus?<END>
 
 //Nous somme sûrs de gagner sans Hyuga.<LINE>
-//Vous n'êtes pas de taille contre nous !<END>
+//Vous n'êtes pas de taille contre nous!<END>
 
-//Quoi ?!<END>
+//Quoi?!<END>
 
-//Répète ce que tu viens de dire, imbécile !<LINE>
+//Répète ce que tu viens de dire, imbécile!<LINE>
 //Même sans son capitaine,<LINE>
-//Toho va vous écraser à plates coutures !<END>
+//Toho va vous écraser à plates coutures!<END>
 
-//Ah bon ? Hyuga semble pourtant porter<LINE>
+//Ah bon? Hyuga semble pourtant porter<LINE>
 //l'équipe à lui tout seul<LINE>
 //d'après ce que j'ai pu voir.<END>
 
 //Vous allez voir que nous pouvons gagner<LINE>
-//sans Hyuga !<END>
+//sans Hyuga!<END>
 

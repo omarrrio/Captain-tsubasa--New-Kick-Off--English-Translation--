@@ -1,111 +1,111 @@
 // FILE: bvd340.str containing 54 strings
 
-//Go !<END>
+//Go!<END>
 
-//He's coming !<END>
+//He's coming!<END>
 
-//Arrrrgh !<END>
+//Arrrrgh!<END>
 
-//Take !<END>
+//Take!<END>
 
-//Catch this !<END>
+//Catch this!<END>
 
-//Go !<END>
+//Go!<END>
 
-//Let me pass !<END>
+//Let me pass!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//Bring yourself !<END>
+//Bring yourself!<END>
 
-//In your dreams !<END>
+//In your dreams!<END>
 
-//You won't trespass me !<END>
+//You won't trespass me!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//It's over !<END>
+//It's over!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//It's ok !<END>
+//It's ok!<END>
 
 //Don't you think that you'll<LINE>
-//pass !<END>
+//pass!<END>
 
-//Arrrrgh !<END>
+//Arrrrgh!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//Bring yourself !<END>
+//Bring yourself!<END>
 
-//I won't let you pass !<END>
+//I won't let you pass!<END>
 
-//Yeaaaah !<END>
+//Yeaaaah!<END>
 
-//Cool !<END>
+//Cool!<END>
 
-//What do you say of this ?<END>
+//What do you say of this?<END>
 
-//Hein, what ?<END>
+//Hein, what?<END>
 
 //!!!<END>
 
-//No !<END>
+//No!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//Take this !<END>
+//Take this!<END>
 
-//Aaaarrrrgh !<END>
+//Aaaarrrrgh!<END>
 
-//This is for you !<END>
+//This is for you!<END>
 
-//Catch this !<END>
+//Catch this!<END>
 
-//I have to have it !<END>
+//I have to have it!<END>
 
-//Let me pass !<END>
+//Let me pass!<END>
 
-//Yes !<END>
+//Yes!<END>
 
-//You won't have it !<END>
+//You won't have it!<END>
 
-//In your dreams !<END>
-
-//Don't you think that you'll<LINE>
-//pass !<END>
-
-//Aaaarrrrgh !<END>
+//In your dreams!<END>
 
 //Don't you think that you'll<LINE>
-//pass !<END>
+//pass!<END>
 
-//I have to have it !<END>
+//Aaaarrrrgh!<END>
 
-//I have to stop him !<END>
+//Don't you think that you'll<LINE>
+//pass!<END>
 
-//Take this !<END>
+//I have to have it!<END>
 
-//Youw on't pass !<END>
+//I have to stop him!<END>
 
-//Aaaarrrrgh !<END>
+//Take this!<END>
 
-//Ouuaaargh !<END>
+//Youw on't pass!<END>
 
-//Il ne passera pas !<END>
+//Aaaarrrrgh!<END>
 
-//Aaaarrrrgh !<END>
+//Ouuaaargh!<END>
 
-//Yeaaaah !<END>
+//Il ne passera pas!<END>
 
-//I did it !<END>
+//Aaaarrrrgh!<END>
 
-//Ah !<END>
+//Yeaaaah!<END>
 
-//Hein ?<END>
+//I did it!<END>
+
+//Ah!<END>
+
+//Hein?<END>
 
 //Grrr....<END>
 

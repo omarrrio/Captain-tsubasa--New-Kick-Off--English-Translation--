@@ -5,19 +5,19 @@
 
 //Toho avait le contrôle du match,<LINE>
 //mais la participation de Misugi l'a fait<LINE>
-//basculer du côté de Musashi !<END>
+//basculer du côté de Musashi!<END>
 
 //Il va être intéressant de voir les effets<LINE>
 //de cette pause sur le cours du match.<END>
 
 //Misugi, souviens-toi que tu ne peux jouer<LINE>
-//que vingt minutes, d'accord ?<END>
+//que vingt minutes, d'accord?<END>
 
 //Oui, je comprends.<END>
 
 //Vingt minutes de plus...<LINE>
 //Nous allons sceller ce match<LINE>
-//en vingt minutes !<END>
+//en vingt minutes!<END>
 
 //Et voici les joueurs qui reviennent<LINE>
 //sur le terrain. Avec l'entrée de Misugi,<LINE>

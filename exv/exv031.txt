@@ -1,8 +1,8 @@
 // FILE: exv031.str containing 2 strings
 
-//We will stop you !<END>
+//We will stop you!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

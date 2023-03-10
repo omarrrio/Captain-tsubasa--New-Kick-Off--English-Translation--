@@ -7,7 +7,7 @@
 //des deux équipes ira en finale.<END>
 
 //C'est Pierre, le capitaine de la France,<LINE>
-//qui va tirer en premier !<END>
+//qui va tirer en premier!<END>
 
 //Voilà le gardien du Japon, Wakashimazu.<END>
 
@@ -17,15 +17,15 @@
 //avec la fatigue et sa blessure<LINE>
 //à la main droite...<END>
 
-//Buuuuuuuuuuut !<LINE>
-//C'était un tir puissant !<LINE>
+//Buuuuuuuuuuut!<LINE>
+//C'était un tir puissant!<LINE>
 //Wakashimazu n'avait aucune chance<LINE>
-//de l'arrêter !<END>
+//de l'arrêter!<END>
 
 //La France entame bien les tirs au but.<LINE>
-//Qui va tirer pour le Japon maintenant ?<END>
+//Qui va tirer pour le Japon maintenant?<END>
 
-//Oh ! Ça va être Hyuga !<END>
+//Oh! Ça va être Hyuga!<END>
 
 //L'attaquant vedette du Japon, Hyuga,<LINE>
 //endosse la responsabilité de tirer<LINE>
@@ -38,14 +38,14 @@
 //en finale.<END>
 
 //Hyuga, ne te laisse pas déconcentrer<LINE>
-//par la foule. Fais ce que tu as à faire !<END>
+//par la foule. Fais ce que tu as à faire!<END>
 
 //Je sais.<END>
 
 //Merci, Tsubasa.<LINE>
 //Tu as toujours les mots qu'il faut.<END>
 
-//Hyuga marque sans sourciller !<LINE>
+//Hyuga marque sans sourciller!<LINE>
 //Il démontre encore une fois que le Japon<LINE>
 //est déterminé à gagner ce match.<END>
 
@@ -55,13 +55,13 @@
 //C'est au tour des deuxièmes tireurs.<END>
 
 //Le Français Bossis et le Japonais<LINE>
-//Matsuyama marquent tous les deux !<END>
+//Matsuyama marquent tous les deux!<END>
 
 //Ferreri et Misaki font également leur part<LINE>
-//du boulot !<END>
+//du boulot!<END>
 
 //Pareil pour Rust et Misugi<LINE>
-//qui marquent sans problème !<END>
+//qui marquent sans problème!<END>
 
 //Et maintenant place aux cinquièmes tireurs…<LINE>
 //C'est Napoléon qui va tirer pour la France<LINE>
@@ -73,57 +73,57 @@
 //Place au buteur vedette de la France,<LINE>
 //Louis Napoléon.<END>
 
-//Hé, le gardien ! Tu as beau m'avoir empêché<LINE>
+//Hé, le gardien! Tu as beau m'avoir empêché<LINE>
 //de réaliser mon troisième coup du chapeau<LINE>
 //en trois matchs d'affilée...<END>
 
 //Mais, tu ne m'empêcheras pas de devenir<LINE>
-//le meilleur buteur de la compétition !<LINE>
+//le meilleur buteur de la compétition!<LINE>
 //J'ai deux buts de retard sur Schneider,<LINE>
 //mais je les rattraperai sans problème<LINE>
-//pendant la finale de demain !<END>
+//pendant la finale de demain!<END>
 
 //Tout ce qui m'importe maintenant, c'est<LINE>
 //de remporter ce match, remporter le tournoi<LINE>
 //demain, et puis obtenir le titre<LINE>
-//de meilleur buteur de la compétition !<END>
+//de meilleur buteur de la compétition!<END>
 
 //Je t'en veux pour le coup du chapeau, mais<LINE>
 //je vais me venger en marquant ce penalty.<END>
 
 //J'ai une chance sur deux.<LINE>
 //Je vais à nouveau plonger à droite,<LINE>
-//peu importe ma blessure !<LINE>
+//peu importe ma blessure!<LINE>
 //Misugi, lui, a mis sa vie en jeu,<LINE>
-//ma blessure n'est rien comparé à ça !<END>
+//ma blessure n'est rien comparé à ça!<END>
 
 //Je vais réduire cette main droite<LINE>
-//en miettes !<END>
+//en miettes!<END>
 
-//Prends ça ! Canon shoot !<END>
+//Prends ça! Canon shoot!<END>
 
-//On va voir ça !<END>
+//On va voir ça!<END>
 
-//Shoken defense !<END>
+//Shoken defense!<END>
 
-//Oh ! Il a arrêté le penalty !<END>
+//Oh! Il a arrêté le penalty!<END>
 
 //Wakashimazu a arrêté le Canon shoot<LINE>
-//de Napoléon grâce à son coup de poing !<END>
+//de Napoléon grâce à son coup de poing!<END>
 
-//Qu-quoi ?<END>
+//Qu-quoi?<END>
 
-//Vous avez vu ? Je l'ai arrêté !<END>
+//Vous avez vu? Je l'ai arrêté!<END>
 
-//Super arrêt, Wakashimazu !<END>
+//Super arrêt, Wakashimazu!<END>
 
-//Bien joué, Wakashimazu !<END>
+//Bien joué, Wakashimazu!<END>
 
 //Le gardien karatéka, Ken Wakashimazu,<LINE>
-//a sans doute été l'homme du match !<END>
+//a sans doute été l'homme du match!<END>
 
 //Mon poignet droit est fini…<LINE>
-//Je compte sur toi, Tsubasa !<END>
+//Je compte sur toi, Tsubasa!<END>
 
 //Le 5e tireur des All Japan n'est autre<LINE>
 //que leur capitaine, Tsubasa Ozora.<END>
@@ -134,22 +134,22 @@
 //aussi rapidement de ta blessure.<END>
 
 //Si Tsubasa marque, le Japon se retrouvera<LINE>
-//en finale demain !<END>
+//en finale demain!<END>
 
 //Toute la France prie pour que Tsubasa<LINE>
 //rate son penalty...<END>
 
 //Tsubasa s'élance...<END>
 
-//Buuuuuuuuuuut !<LINE>
-//Tsubasa a marqué le but de la victoire !<END>
+//Buuuuuuuuuuut!<LINE>
+//Tsubasa a marqué le but de la victoire!<END>
 
 //C'est aux tirs au but que<LINE>
 //le Japon remporte sa place<LINE>
-//pour la finale !<END>
+//pour la finale!<END>
 
-//Tsubasa !<END>
+//Tsubasa!<END>
 
-//On a gagné ! Wakashimazu, on a gagné<LINE>
-//grâce à toi !<END>
+//On a gagné! Wakashimazu, on a gagné<LINE>
+//grâce à toi!<END>
 

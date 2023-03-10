@@ -67,7 +67,7 @@
 //his team.<END>
 
 //Play with<LINE>
-//this team ?<END>
+//this team?<END>
 
 //A team has more<LINE>
 //than 3 players. It<LINE>

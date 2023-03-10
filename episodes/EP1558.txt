@@ -1,108 +1,108 @@
 // FILE: EP1558.str containing 48 strings
 
 //Nous sommes les héritiers du football<LINE>
-//allemand ! Je me dois de protéger<LINE>
-//ses valeurs avec ce tir !<END>
+//allemand! Je me dois de protéger<LINE>
+//ses valeurs avec ce tir!<END>
 
-//Schneider tire !<END>
+//Schneider tire!<END>
 
-//Tu vas voir !<END>
+//Tu vas voir!<END>
 
-//Fireeeeeeeee !<END>
+//Fireeeeeeeee!<END>
 
-//J'y vais au mental !<LINE>
+//J'y vais au mental!<LINE>
 //C'est mon dernier Blocage de face<LINE>
-//du match !<END>
+//du match!<END>
 
-//Aaah ! Le tir a été bloqué ! Ishizaki a<LINE>
+//Aaah! Le tir a été bloqué! Ishizaki a<LINE>
 //contré le Fire shot<LINE>
-//avec son Blocage de face !<END>
+//avec son Blocage de face!<END>
 
-//Ce n'est pas possible !<END>
+//Ce n'est pas possible!<END>
 
 //Mais est-ce qu'Ishizaki va se remettre<LINE>
 //du Fire shot de Schneider tiré à bout<LINE>
-//portant ?<END>
+//portant?<END>
 
 //Urgh...<END>
 
-//Ishizaki !<END>
+//Ishizaki!<END>
 
-//Le ballon est toujours en jeu !<LINE>
+//Le ballon est toujours en jeu!<LINE>
 //Il ne faut pas que je me préoccupe<LINE>
-//de mes adversaires. Je dois marquer !<END>
+//de mes adversaires. Je dois marquer!<END>
 
 //Les efforts d'Ishizaki ne seront pas<LINE>
-//vains ! Je vais arrêter Schneider !<END>
+//vains! Je vais arrêter Schneider!<END>
 
 //Je vais dégager le ballon<LINE>
-//avant que tu tires !<END>
+//avant que tu tires!<END>
 
-//Schneider !<END>
+//Schneider!<END>
 
-//Quoi ?!<END>
+//Quoi?!<END>
 
 //Margas passe le ballon de la tête<LINE>
-//à Schneider qui va directement tirer !<END>
+//à Schneider qui va directement tirer!<END>
 
-//Prends ça, Wakabayashi !<END>
+//Prends ça, Wakabayashi!<END>
 
-//Je vais l'arrêter !<END>
+//Je vais l'arrêter!<END>
 
 //Tsubasa est revenu pour contrer<LINE>
-//le tir de Schneider !<END>
+//le tir de Schneider!<END>
 
 //Mais celui-ci l'a vu venir, et au lieu de<LINE>
-//tirer lève le ballon dans les airs !<END>
+//tirer lève le ballon dans les airs!<END>
 
 //Il esquive ainsi le tacle de Tsubasa<LINE>
-//et s'apprête à tirer de nouveau !<END>
+//et s'apprête à tirer de nouveau!<END>
 
 //Mais Tsubasa ne renonce pas<LINE>
-//et saute vers la balle !<LINE>
+//et saute vers la balle!<LINE>
 //Assiste-t-on là à un Blocage de face<LINE>
-//de la part de Tsubasa ?<END>
+//de la part de Tsubasa?<END>
 
-//Quoi ?!<END>
+//Quoi?!<END>
 
 //C'est une nouvelle feinte<LINE>
-//de la part de Schneider !<END>
+//de la part de Schneider!<END>
 
 //Il attend le bon moment pour tirer...<LINE>
-//Va-t-il tirer du gauche cette fois-ci ?<END>
+//Va-t-il tirer du gauche cette fois-ci?<END>
 
-//Une frappe du gauche ? Une feinte ?<LINE>
-//Qu'est-ce qu'il va faire ?<END>
+//Une frappe du gauche? Une feinte?<LINE>
+//Qu'est-ce qu'il va faire?<END>
 
-//Non Fire !<END>
+//Non Fire!<END>
 
-//C'est une frappe du gauche !<LINE>
+//C'est une frappe du gauche!<LINE>
 //Le tir est brossé, mais Wakabayashi est<LINE>
-//sur la trajectoire !<END>
+//sur la trajectoire!<END>
 
-//Il ne réussit pas à l'arrêter !<LINE>
-//C'est un buuuuuuuuuuut !<END>
+//Il ne réussit pas à l'arrêter!<LINE>
+//C'est un buuuuuuuuuuut!<END>
 
 //Le tir de Schneider s'écrase<LINE>
-//au fond des filets !<LINE>
-//Wakabayashi n'a rien pu faire !<END>
+//au fond des filets!<LINE>
+//Wakabayashi n'a rien pu faire!<END>
 
 //Raaaah, je n'aurais pas dû hésiter...<END>
 
-//Ishizaki, ça va ?<END>
+//Ishizaki, ça va?<END>
 
 //Pas trop... J'ai la tête qui tourne<LINE>
 //et je n'arrête pas de saigner du nez...<END>
 
 //Tu t'es sans doute cassé le nez...<END>
 
-//C'est peut-être une commotion cérébrale !<LINE>
-//Allonge-toi et ne bouge plus !<END>
+//C'est peut-être une commotion cérébrale!<LINE>
+//Allonge-toi et ne bouge plus!<END>
 
 //Zut... C'était justement à mon tour<LINE>
 //de briller sur le devant de la scène...<END>
 
-//Tsubasa... Tsubasa est là ?<END>
+//Tsubasa... Tsubasa est là?<END>
 
 //Ishizaki... Je suis là.<END>
 
@@ -121,20 +121,20 @@
 //devenir le meilleur joueur au monde,<LINE>
 //Tsubasa. Je sais que tu y arriveras.<END>
 
-//De quoi tu parles, Ishizaki ?<LINE>
+//De quoi tu parles, Ishizaki?<LINE>
 //Il n'y a pas que moi.<LINE>
 //Nous devons tous donner le meilleur<LINE>
-//de nous-mêmes pour nous améliorer !<END>
+//de nous-mêmes pour nous améliorer!<END>
 
 //Tu as raison... Mais je ne pense pas<LINE>
 //pouvoir en faire plus que ça...<END>
 
 //Ishizaki...<END>
 
-//Ishizaki, relève-toi !<END>
+//Ishizaki, relève-toi!<END>
 
-//Il a perdu connaissance !<LINE>
-//Apportez la civière !<END>
+//Il a perdu connaissance!<LINE>
+//Apportez la civière!<END>
 
 //Ishizaki a pris le tir de Schneider<LINE>
 //de plein fouet au visage, et il quitte<LINE>

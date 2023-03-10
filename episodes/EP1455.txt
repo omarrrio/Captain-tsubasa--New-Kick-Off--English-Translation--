@@ -4,7 +4,7 @@
 //Il n'y a que lui qui puisse organiser<LINE>
 //le jeu du Japon.<END>
 
-//Voilà que Tsubasa se dirige sur Pierre !<END>
+//Voilà que Tsubasa se dirige sur Pierre!<END>
 
 //La clé du match repose sur mon aptitude<LINE>
 //à dribbler Pierre.<END>
@@ -16,16 +16,16 @@
 //ont changé.<END>
 
 //Je ne renoncerai pas, et ce,<LINE>
-//quel que soit l'adversaire !<LINE>
-//Je me battrai jusqu'au bout !<END>
+//quel que soit l'adversaire!<LINE>
+//Je me battrai jusqu'au bout!<END>
 
 //Ce n'est que comme ça que je deviendrai<LINE>
 //le meilleur joueur au monde...<END>
 
 //On va assister à un duel<LINE>
-//entre Tsubasa et Pierre !<END>
+//entre Tsubasa et Pierre!<END>
 
-//À quoi il pense ? Il n'a pas réussi<LINE>
+//À quoi il pense? Il n'a pas réussi<LINE>
 //à me dribbler tout à l'heure.<LINE>
 //Il devrait essayer de faire autre chose.<END>
 
@@ -35,21 +35,21 @@
 //Soit il pense vraiment pouvoir me dribbler,<LINE>
 //soit il est complètement fou.<END>
 
-//Pierre, écoute-moi bien !<LINE>
-//Je suis un fou, un fou du foot !<LINE>
-//Et cette fois-ci, je vais te dribbler !<END>
+//Pierre, écoute-moi bien!<LINE>
+//Je suis un fou, un fou du foot!<LINE>
+//Et cette fois-ci, je vais te dribbler!<END>
 
-//Je vais l'emporter par la vitesse !<END>
+//Je vais l'emporter par la vitesse!<END>
 
-//Tsubasa est passé ! Il a effacé Pierre,<LINE>
+//Tsubasa est passé! Il a effacé Pierre,<LINE>
 //non pas grâce à sa technique,<LINE>
-//mais grâce à sa rapidité !<LINE>
-//Il file à une vitesse hallucinante !<END>
+//mais grâce à sa rapidité!<LINE>
+//Il file à une vitesse hallucinante!<END>
 
 //Pierre n'a rien pu faire<LINE>
-//pour stopper Tsubasa !<END>
+//pour stopper Tsubasa!<END>
 
-//Tsubasa a remporté son duel !<END>
+//Tsubasa a remporté son duel!<END>
 
 //Impossible...<END>
 
@@ -63,20 +63,20 @@
 //Je n'oublierai jamais tout<LINE>
 //ce qu'il a fait pour moi...<END>
 
-//Drive shoot !<END>
+//Drive shoot!<END>
 
-//Tsubasa tire sans hésiter !<LINE>
+//Tsubasa tire sans hésiter!<LINE>
 //Il enchaîne son dribble<LINE>
-//avec un Drive shoot !<END>
+//avec un Drive shoot!<END>
 
 //Le ballon laisse une magnifique <LINE>
 //trajectoire en forme d'arc dans<LINE>
-//le ciel français !<END>
+//le ciel français!<END>
 
-//Buuuuuuuuuuuuuuuuuuuuuuuuuuut !<LINE>
-//Quel Drive shoot !<END>
+//Buuuuuuuuuuuuuuuuuuuuuuuuuuut!<LINE>
+//Quel Drive shoot!<END>
 
-//Super !<END>
+//Super!<END>
 
 //Il y a trois ans, la même pluie tombait<LINE>
 //en demi-finales, et Misugi me dominait<LINE>

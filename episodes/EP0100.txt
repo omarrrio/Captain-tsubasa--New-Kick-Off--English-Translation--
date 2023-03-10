@@ -3,27 +3,27 @@
 //OK, the first match of the tournament<LINE>
 //is about to begin.<LINE>
 //lets show what we are made of,<LINE>
-//Nankatsu !<END>
+//Nankatsu!<END>
 
 //Tout peut arriver dans un match de foot.<LINE>
 //Tirez dès que vous avez<LINE>
-//la moindre occasion, d'accord ?<END>
+//la moindre occasion, d'accord?<END>
 
 //Les clameurs des supporters montent<LINE>
 //dans le stade.<LINE>
 //Oui, Nankatsu Junior High entre<LINE>
-//sur le terrain !<END>
+//sur le terrain!<END>
 
 //Tsubasa Ozora, la superstar du football<LINE>
 //collégien, mène son équipe Nankatsu.<LINE>
 //Quelles batailles nous réservent-ils<LINE>
-//cette année ?<END>
+//cette année?<END>
 
 //C'est mon dernier été de collégien<LINE>
-//au Japon !<END>
+//au Japon!<END>
 
 //Et pour ce dernier été, quel que soit<LINE>
-//mon adversaire, je vais gagner !<END>
+//mon adversaire, je vais gagner!<END>
 
 //Nankatsu affronte Ito.<LINE>
 //Ils vont bientôt frapper le coup d'envoi.<END>

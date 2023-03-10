@@ -1,48 +1,48 @@
 // FILE: EP1502.str containing 24 strings
 
-//Victoire ! Les All Japan Jr. Youth<LINE>
-//sont champions !<END>
+//Victoire! Les All Japan Jr. Youth<LINE>
+//sont champions!<END>
 
 //Les All Japan Jr. Youth sont champions<LINE>
-//du monde !<END>
+//du monde!<END>
 
-//On a... gagné !<END>
+//On a... gagné!<END>
 
 //Ga-gagné...<END>
 
-//Tsubasa !<END>
+//Tsubasa!<END>
 
-//On a gagné !<END>
+//On a gagné!<END>
 
-//On a réussi !<END>
+//On a réussi!<END>
 
-//Le Japon a gagné !<END>
+//Le Japon a gagné!<END>
 
-//Les gars !<END>
+//Les gars!<END>
 
 //Tous les joueurs du Japon courent<LINE>
-//vers leur capitaine, Tsubasa !<END>
+//vers leur capitaine, Tsubasa!<END>
 
-//On a réussi, Tsubasa !<END>
+//On a réussi, Tsubasa!<END>
 
-//Je l'avais dit, non ? Vous avez vu de quoi<LINE>
-//Tsubasa est capable !<END>
+//Je l'avais dit, non? Vous avez vu de quoi<LINE>
+//Tsubasa est capable!<END>
 
 //Non, ce n'est pas seulement grâce à moi...<LINE>
 //C'est grâce à tout le monde...<END>
 
 //C'est notre jeu d'équipe qui nous a menés<LINE>
-//à la victoire !<END>
+//à la victoire!<END>
 
 //Notre rêve de devenir champions<LINE>
-//s'est réalisé ! Je suis si heureux<LINE>
-//de jouer au foot !<END>
+//s'est réalisé! Je suis si heureux<LINE>
+//de jouer au foot!<END>
 
-//Les joueurs du Japon fondent en larmes !<LINE>
+//Les joueurs du Japon fondent en larmes!<LINE>
 //On assiste là à une scène de bonheur<LINE>
-//intense !<END>
+//intense!<END>
 
-//Félicitations, All Japan Jr. Youth !<END>
+//Félicitations, All Japan Jr. Youth!<END>
 
 //Schneider...<END>
 
@@ -56,12 +56,12 @@
 //une prochaine fois…<LINE>
 //Car notre duel ne fait que commencer.<END>
 
-//D'accord !<END>
+//D'accord!<END>
 
 //Allez les gars, on a donné le meilleur<LINE>
 //de nous-mêmes, on n'a pas de quoi avoir<LINE>
-//honte !<LINE>
-//Nous pouvons rentrer la tête haute !<END>
+//honte!<LINE>
+//Nous pouvons rentrer la tête haute!<END>
 
 //Les Germany Jr. Youth quittent maintenant<LINE>
 //le terrain avant leurs adversaires<LINE>

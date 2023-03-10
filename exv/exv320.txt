@@ -1,20 +1,20 @@
 // FILE: exv320.str containing 6 strings
 
-//Hop, hop, hop !<END>
+//Hop, hop, hop!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//You won't go any farther !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//You are so weak !<END>
+//You won't go any farther!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//You are so weak!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

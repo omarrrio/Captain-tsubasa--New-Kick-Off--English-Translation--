@@ -2,21 +2,21 @@
 
 //Hyuga marque son troisième but<LINE>
 //de la journée, faisant ainsi<LINE>
-//un coup du chapeau !<END>
+//un coup du chapeau!<END>
 
 //Hyuga Kojiro n'est pas l'un des meilleurs<LINE>
 //buteurs du pays pour rien.<LINE>
 //C'est un élément essentiel<LINE>
-//de Toho Gakuen !<END>
+//de Toho Gakuen!<END>
 
-//Beau tir, Hyuga !<END>
+//Beau tir, Hyuga!<END>
 
 //De son côté, Musashi est en mauvaise<LINE>
 //posture après avoir encaissé<LINE>
 //un troisième but malgré une stratégie<LINE>
-//misant tout sur la défense !<END>
+//misant tout sur la défense!<END>
 
-//Faites-moi jouer, entraîneur !<END>
+//Faites-moi jouer, entraîneur!<END>
 
 //Non, Misugi, tu entres<LINE>
 //en deuxième mi-temps.<END>
@@ -25,11 +25,11 @@
 //nous allons finir par perdre.<LINE>
 //Donnez-moi 30 minutes.<LINE>
 //Je vous en prie, faites-moi entrer<LINE>
-//sur le terrain, entraîneur !<END>
+//sur le terrain, entraîneur!<END>
 
-//Musashi remplace un joueur !<LINE>
+//Musashi remplace un joueur!<LINE>
 //Le numéro 14, Misugi, entre<LINE>
-//sur le terrain !<END>
+//sur le terrain!<END>
 
 //!!<END>
 
@@ -40,9 +40,9 @@
 
 //Ils ne comptent pas laisser<LINE>
 //à Toho Gakuen une autre chance<LINE>
-//de marquer des points !<LINE>
+//de marquer des points!<LINE>
 //Musashi fait preuve d'audace en changeant<LINE>
-//de stratégie !<END>
+//de stratégie!<END>
 
 //Tu arrives trop tard, Misugi.<LINE>
 //Ton équipe ne peut pas nous battre.<LINE>

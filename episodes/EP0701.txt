@@ -4,21 +4,21 @@
 //Continuez comme ça à la seconde mi-temps.<END>
 
 //Passez le ballon à Hyuga<LINE>
-//et la victoire est à nous !<END>
+//et la victoire est à nous!<END>
 
 //Entraîneur...<END>
 
 //L'entraîneur te fait confiance, Hyuga...<END>
 
-//Allez, en avant pour la seconde mi-temps !<LINE>
-//Et ramenez un premier titre pour Toho !<END>
+//Allez, en avant pour la seconde mi-temps!<LINE>
+//Et ramenez un premier titre pour Toho!<END>
 
-//OK !<END>
+//OK!<END>
 
-//Tsubasa, ça va ?<END>
+//Tsubasa, ça va?<END>
 
 //Est-ce que tu vas pouvoir jouer<LINE>
-//la seconde mi-temps ?<END>
+//la seconde mi-temps?<END>
 
 //Oui, ça va aller.<LINE>
 //J'ai refait mon bandage<LINE>
@@ -26,17 +26,17 @@
 //Je peux encore me battre à fond<LINE>
 //pendant trente minutes.<END>
 
-//C'est vrai, Tsubasa ? Génial !<END>
+//C'est vrai, Tsubasa? Génial!<END>
 
-//Attends une minute !<LINE>
+//Attends une minute!<LINE>
 //La prochaine fois que tu tombes,<LINE>
 //je te fais quitter le terrain.<END>
 
 //Oui, je sais.<END>
 
-//OK, en avant, les gars !<LINE>
+//OK, en avant, les gars!<LINE>
 //Notre rêve d'un troisième titre national<LINE>
-//n'est pas mort !<LINE>
+//n'est pas mort!<LINE>
 //Et il va se réaliser à la fin<LINE>
-//des trente prochaines minutes !<END>
+//des trente prochaines minutes!<END>
 

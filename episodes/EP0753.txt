@@ -1,38 +1,38 @@
 // FILE: EP0753.str containing 25 strings
 
-//Taki !<END>
+//Taki!<END>
 
 //Tsubasa passe le ballon<LINE>
-//et fait une accélération !<END>
+//et fait une accélération!<END>
 
-//Tsubasa, attrape !<END>
+//Tsubasa, attrape!<END>
 
-//Taki renvoie la passe !<LINE>
+//Taki renvoie la passe!<LINE>
 //La balle flotte littéralement<LINE>
-//dans les airs !<END>
+//dans les airs!<END>
 
-//OK !<END>
+//OK!<END>
 
-//OK !<END>
+//OK!<END>
 
 //Malgré cela, Tsubasa file vers les buts.<END>
 
-//Et le gardien Wakashimazu plonge !<END>
+//Et le gardien Wakashimazu plonge!<END>
 
-//Non !<LINE>
+//Non!<LINE>
 //Les deux joueurs se sont percutés<LINE>
-//en plein vol !<END>
+//en plein vol!<END>
 
-//Et ils sont retombés ensemble !<END>
+//Et ils sont retombés ensemble!<END>
 
-//Tsubasa, tu n'as rien ?<END>
+//Tsubasa, tu n'as rien?<END>
 
 //Je vais bien. Ce n'était rien du tout.<END>
 
 //Tu dis ça, mais tu te tiens l'épaule...<END>
 
 //Pourquoi faut-il que tu tires autant<LINE>
-//sur la corde ?<END>
+//sur la corde?<END>
 
 //Oui, c'était évident<LINE>
 //que vous alliez vous rentrer dedans.<LINE>
@@ -43,7 +43,7 @@
 
 //C'est parce que c'était une passe de Taki.<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //Comme c'était une passe de Taki,<LINE>
 //une passe d'un coéquipier,<LINE>

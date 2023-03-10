@@ -1,16 +1,16 @@
 // FILE: exv000.str containing 4 strings
 
 //Every thing is alright.<LINE>
-//I am not afraid !<END>
+//I am not afraid!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //I'd like at least to<LINE>
-//touch the ball !<END>
+//touch the ball!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

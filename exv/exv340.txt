@@ -1,19 +1,19 @@
 // FILE: exv340.str containing 6 strings
 
-//That's all ?<END>
+//That's all?<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //You think you can<LINE>
-//score with that ?<END>
+//score with that?<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Here !<END>
+//Here!<END>
 
-//Ah !<END>
+//Ah!<END>
 

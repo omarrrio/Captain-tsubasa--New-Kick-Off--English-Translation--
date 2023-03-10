@@ -1,13 +1,13 @@
 // FILE: EP4402.str containing 9 strings
 
-//Et l'arbitre siffle la fin du match !<LINE>
+//Et l'arbitre siffle la fin du match!<LINE>
 //C'est Musashi qui continue en finale<LINE>
 //à l'issue de sa demi-finale<LINE>
-//contre Meiwa-Higashi !<END>
+//contre Meiwa-Higashi!<END>
 
 //Pas de doute, Musashi a été beaucoup<LINE>
 //plus forte à partir de l'entrée de Misugi<LINE>
-//sur le terrain !<END>
+//sur le terrain!<END>
 
 //Je croyais que Meiwa-Higashi avait pris<LINE>
 //le contrôle du match, mais avec Misugi,<LINE>
@@ -15,7 +15,7 @@
 
 //Musashi a gagné le droit d'aller en finale.<END>
 
-//Misugi ! Ta victoire contre Toho<LINE>
+//Misugi! Ta victoire contre Toho<LINE>
 //n'était vraiment pas un coup de chance.<LINE>
 //Je n'aurais pas réussi à venger Hyuga...<END>
 
@@ -23,12 +23,12 @@
 
 //Vous nous avez battus, vous avez battu<LINE>
 //la Toho de Hyuga, vous êtes les seuls<LINE>
-//capables de battre Nankatsu !<LINE>
+//capables de battre Nankatsu!<LINE>
 //Misugi, vous devez empêcher Nankatsu<LINE>
-//de gagner son troisième titre consécutif !<END>
+//de gagner son troisième titre consécutif!<END>
 
-//On va le faire !<END>
+//On va le faire!<END>
 
 //Il ne reste plus que la finale.<LINE>
-//Tsubasa, je vais enfin t'affronter !<END>
+//Tsubasa, je vais enfin t'affronter!<END>
 

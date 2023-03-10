@@ -1,19 +1,19 @@
 // FILE: EP4557.str containing 11 strings
 
-//Argh !<END>
+//Argh!<END>
 
-//Capitaine !<END>
+//Capitaine!<END>
 
-//Misugi !<END>
+//Misugi!<END>
 
-//Non !<LINE>
-//Je dois remplacer Misugi sur le champ !<END>
+//Non!<LINE>
+//Je dois remplacer Misugi sur le champ!<END>
 
-//Attendez un peu, entraîneur !<END>
+//Attendez un peu, entraîneur!<END>
 
-//Misugi !<END>
+//Misugi!<END>
 
-//Je vais bien ! Je peux continuer à jouer !<END>
+//Je vais bien! Je peux continuer à jouer!<END>
 
 //Mais Misugi...<END>
 
@@ -26,5 +26,5 @@
 //mieux que quiconque.<END>
 
 //Laissez-moi au moins rester le temps<LINE>
-//de marquer un but de plus !<END>
+//de marquer un but de plus!<END>
 

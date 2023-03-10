@@ -1,7 +1,7 @@
 // FILE: exv303.str containing 2 strings
 
 //I will stop it,<LINE>
-//for certain !<END>
+//for certain!<END>
 
-//It's my golden right arm !<END>
+//It's my golden right arm!<END>
 

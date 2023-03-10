@@ -1,7 +1,7 @@
 // FILE: EP0302.str containing 17 strings
 
-//Tsubasa ! Comment as-tu su<LINE>
-//pour mon Tir en rasoir inversé ?<END>
+//Tsubasa! Comment as-tu su<LINE>
+//pour mon Tir en rasoir inversé?<END>
 
 //Oui. Si tu ne m'avais rien dit,<LINE>
 //je ne l'aurais peut-être pas attrapé.<END>
@@ -22,14 +22,14 @@
 
 //OK.<END>
 
-//Comment va ta jambe ?<END>
+//Comment va ta jambe?<END>
 
-//Ta jambe ? Il t'est arrivé quelque chose,<LINE>
-//Tsubasa ?<END>
+//Ta jambe? Il t'est arrivé quelque chose,<LINE>
+//Tsubasa?<END>
 
 //Tsubasa a un peu mal à la jambe gauche.<END>
 
-//C'est vrai ?<END>
+//C'est vrai?<END>
 
 //Je vais bien. Ça m'est déjà arrivé avant.<LINE>
 //Ce n'est vraiment pas grave.<END>
@@ -37,11 +37,11 @@
 //Bon, vous nous avez battus.<LINE>
 //Vous avez intérêt à gagner le championnat.<END>
 
-//Oui !<END>
+//Oui!<END>
 
-//Allez, à la prochaine, Tsubasa !<END>
+//Allez, à la prochaine, Tsubasa!<END>
 
-//Bon sang, on a perdu !<LINE>
+//Bon sang, on a perdu!<LINE>
 //Ne pleurez pas. Reprenez-vous les gars,<LINE>
 //et rentrons à la maison.<END>
 

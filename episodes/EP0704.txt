@@ -1,7 +1,7 @@
 // FILE: EP0704.str containing 39 strings
 
 //Nankatsu et Toho sont tous les deux<LINE>
-//déclarés vainqueurs !<LINE>
+//déclarés vainqueurs!<LINE>
 //Aucune des deux équipes,<LINE>
 //aucun de ces deux grands rivaux,<LINE>
 //n'a pu remporter une victoire décisive.<LINE>
@@ -23,16 +23,16 @@
 //pour ces deux équipes<LINE>
 //qui se sont si durement affrontées.<END>
 
-//Tsubasa ! On a réussi !<LINE>
-//C'est notre troisième victoire d'affilée !<END>
+//Tsubasa! On a réussi!<LINE>
+//C'est notre troisième victoire d'affilée!<END>
 
-//Hyuga ! Notre première victoire !<END>
+//Hyuga! Notre première victoire!<END>
 
-//Capitaine, nous sommes champions !<END>
+//Capitaine, nous sommes champions!<END>
 
 //C'est terminé...<END>
 
-//Tsubasa !<END>
+//Tsubasa!<END>
 
 //Hyuga...<END>
 
@@ -47,26 +47,26 @@
 
 //Je suis désolé, Hyuga.<END>
 
-//Nankatsu est champion !<LINE>
-//Pour la troisième année consécutive !<LINE>
+//Nankatsu est champion!<LINE>
+//Pour la troisième année consécutive!<LINE>
 //Leur nom restera certainement inscrit<LINE>
 //dans l'histoire du football collégien.<LINE>
-//Bravo pour l'équipe de Nankatsu !<END>
+//Bravo pour l'équipe de Nankatsu!<END>
 
-//Tsubasa ! Notre troisième victoire !<LINE>
-//On a réussi !<END>
+//Tsubasa! Notre troisième victoire!<LINE>
+//On a réussi!<END>
 
-//On a réalisé notre rêve !<END>
+//On a réalisé notre rêve!<END>
 
 //Merci à tous.<LINE>
 //On a réussi...<END>
 
-//Tsubasa !<END>
+//Tsubasa!<END>
 
 //Hyuga...<END>
 
 //On n'a pas réussi à vous battre en finale.<LINE>
-//Tu as fait un boulot épatant, Tsubasa !<END>
+//Tu as fait un boulot épatant, Tsubasa!<END>
 
 //J'aurais vraiment voulu t'affronter<LINE>
 //au meilleur de ta forme.<LINE>
@@ -83,7 +83,7 @@
 
 //Allez, le Brésil t'attend.<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //Si tu restes ici, tu seras pour moi<LINE>
 //la cible à abattre.<END>
@@ -119,6 +119,6 @@
 //Hyuga et Tsubasa,<LINE>
 //se félicitent mutuellement<LINE>
 //pour la qualité de ce match,<LINE>
-//et échangent leurs maillots !<LINE>
-//Ils affichent tous deux un grand sourire !<END>
+//et échangent leurs maillots!<LINE>
+//Ils affichent tous deux un grand sourire!<END>
 

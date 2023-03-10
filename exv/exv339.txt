@@ -1,21 +1,21 @@
 // FILE: exv339.str containing 6 strings
 
-//I will stop you !<END>
+//I will stop you!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Get off me !<END>
+//Get off me!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //A shoot doesn't necesseraly<LINE>
-//have to be powerful !<END>
+//have to be powerful!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

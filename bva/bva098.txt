@@ -1,115 +1,115 @@
 // FILE: bva098.str containing 54 strings
 
-//Come on !<END>
+//Come on!<END>
 
-//Get ready !<END>
+//Get ready!<END>
 
-//Admire the work !<END>
+//Admire the work!<END>
 
-//Take !<END>
+//Take!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//Come on !<END>
+//Come on!<END>
 
-//Let me pass !<END>
+//Let me pass!<END>
 
-//Admire the work !<END>
+//Admire the work!<END>
 
-//Bring yourself !<END>
+//Bring yourself!<END>
 
-//I won't let him in !<END>
+//I won't let him in!<END>
 
-//Oh no, you're dreaming !<END>
+//Oh no, you're dreaming!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//It's over !<END>
+//It's over!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//Get ready !<END>
+//Get ready!<END>
 
 //I won't let this<LINE>
-//happen !<END>
+//happen!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//I will stop him !<END>
+//I will stop him!<END>
 
-//Bring yourself !<END>
+//Bring yourself!<END>
 
-//Let me handle it !<END>
+//Let me handle it!<END>
 
-//Yes !<END>
+//Yes!<END>
 
-//Cool !<END>
+//Cool!<END>
 
-//What do you say of this ?<END>
+//What do you say of this?<END>
 
 //Oh...<END>
 
 //!!!<END>
 
-//No !<END>
+//No!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//Take this !<END>
+//Take this!<END>
 
-//Aaaarrrrgh !<END>
+//Aaaarrrrgh!<END>
 
-//This is for you !<END>
+//This is for you!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//I have to have it !<END>
+//I have to have it!<END>
 
-//Let me pass !<END>
+//Let me pass!<END>
 
-//Yes !<END>
+//Yes!<END>
 
-//You won't have it !<END>
+//You won't have it!<END>
 
-//I won't let him in !<END>
-
-//I won't let this<LINE>
-//happen !<END>
-
-//Aaaarrrrgh !<END>
+//I won't let him in!<END>
 
 //I won't let this<LINE>
-//happen !<END>
+//happen!<END>
 
-//I have to have it !<END>
+//Aaaarrrrgh!<END>
 
-//I have to stop it !<END>
+//I won't let this<LINE>
+//happen!<END>
 
-//Take this !<END>
+//I have to have it!<END>
 
-//You won't go any further !<END>
+//I have to stop it!<END>
 
-//Aaaarrrrgh !<END>
+//Take this!<END>
+
+//You won't go any further!<END>
+
+//Aaaarrrrgh!<END>
 
 //No way we're letting<LINE>
-//them score any more !<END>
+//them score any more!<END>
 
-//Yaaaah !<END>
+//Yaaaah!<END>
 
 //You won't score<LINE>
-//taht easy !<END>
+//taht easy!<END>
 
-//Yes !<END>
+//Yes!<END>
 
-//I did it !<END>
+//I did it!<END>
 
-//Ah !<END>
+//Ah!<END>
 
-//Impossible !<END>
+//Impossible!<END>
 
 //Grrr....<END>
 
-//What ? That's impossible...<END>
+//What? That's impossible...<END>
 

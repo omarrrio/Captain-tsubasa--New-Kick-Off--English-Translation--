@@ -1,49 +1,49 @@
 // FILE: EP4251.str containing 16 strings
 
-//Ça y est !<END>
+//Ça y est!<END>
 
-//Honma tire !<END>
+//Honma tire!<END>
 
-//Je ne le laisserai pas entrer !<END>
+//Je ne le laisserai pas entrer!<END>
 
-//Le gardien a réussi à arrêter le ballon !<LINE>
-//Quelle réaction fantastique !<END>
+//Le gardien a réussi à arrêter le ballon!<LINE>
+//Quelle réaction fantastique!<END>
 
 //Il est hors de question de perdre <LINE>
-//contre Musashi, surtout sans Misugi !<END>
+//contre Musashi, surtout sans Misugi!<END>
 
-//Comment a-t-il réussi à l'arrêter ?<END>
+//Comment a-t-il réussi à l'arrêter?<END>
 
-//Honma, ne te laisse pas déconcentrer !<LINE>
-//Contente-toi de jouer comme d'habitude !<END>
+//Honma, ne te laisse pas déconcentrer!<LINE>
+//Contente-toi de jouer comme d'habitude!<END>
 
-//OK... Entendu !<END>
+//OK... Entendu!<END>
 
-//Personne n'a le ballon !<LINE>
-//Est-ce que Honma va le prendre en premier ?<LINE>
-//Ou est-ce que ce sera Seki ?<LINE>
+//Personne n'a le ballon!<LINE>
+//Est-ce que Honma va le prendre en premier?<LINE>
+//Ou est-ce que ce sera Seki?<LINE>
 //Les deux joueurs foncent vers le ballon.<END>
 
 //Nous avons été sélectionnés<LINE>
-//parmi mille joueurs !<LINE>
-//Et nous sommes des anciens de Musashi FC !<END>
+//parmi mille joueurs!<LINE>
+//Et nous sommes des anciens de Musashi FC!<END>
 
 //Ce n'est pas parce que Misugi ne joue pas<LINE>
 //que nous allons laisser cette partie<LINE>
-//se terminer par un match nul !<END>
+//se terminer par un match nul!<END>
 
-//Allez !<END>
+//Allez!<END>
 
-//Honma a été un tout petit peu plus rapide !<LINE>
+//Honma a été un tout petit peu plus rapide!<LINE>
 //Il a eu le temps de tirer et le ballon file<LINE>
-//maintenant tout droit vers les buts !<END>
+//maintenant tout droit vers les buts!<END>
 
-//Non !<END>
+//Non!<END>
 
-//Buuut !<LINE>
+//Buuut!<LINE>
 //La frappe de Honma vient de prouver<LINE>
-//que Musashi ne baisse pas les bras !<END>
+//que Musashi ne baisse pas les bras!<END>
 
 //Cette frappe puissante fait trembler<LINE>
-//le filet des buts de Matsukami !<END>
+//le filet des buts de Matsukami!<END>
 

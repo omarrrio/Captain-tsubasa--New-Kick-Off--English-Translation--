@@ -1,112 +1,112 @@
 // FILE: bvb013.str containing 54 strings
 
-//Go !<END>
+//Go!<END>
 
-//Get readyi !<END>
+//Get readyi!<END>
 
-//There you go !<END>
+//There you go!<END>
 
-//Take !<END>
+//Take!<END>
 
-//Here we go !<END>
+//Here we go!<END>
 
-//Go !<END>
+//Go!<END>
 
-//I won't let you have it !<END>
+//I won't let you have it!<END>
 
-//Get readyi !<END>
+//Get readyi!<END>
 
-//Bring yourself !<END>
+//Bring yourself!<END>
 
-//Ah !<END>
+//Ah!<END>
 
-//You won't trespass me !<END>
+//You won't trespass me!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//Admire the show !<END>
+//Admire the show!<END>
 
-//I have to have it !<END>
+//I have to have it!<END>
 
-//Get readyi !<END>
+//Get readyi!<END>
 
-//I will take it from you !<END>
+//I will take it from you!<END>
 
-//Ah !<END>
+//Ah!<END>
 
-//I have to stop him !<END>
+//I have to stop him!<END>
 
-//I got it !<END>
+//I got it!<END>
 
-//I will to stop him !<END>
+//I will to stop him!<END>
 
-//Yes !<END>
+//Yes!<END>
 
-//Cool !<END>
+//Cool!<END>
 
-//What do you say of this ?<END>
+//What do you say of this?<END>
 
 //Oh...<END>
 
-//Argh !<END>
+//Argh!<END>
 
-//No !<END>
+//No!<END>
 
-//It's not over yet !<END>
+//It's not over yet!<END>
 
-//I will score on you !<END>
+//I will score on you!<END>
 
-//Here !<END>
+//Here!<END>
 
-//You have to score !<END>
+//You have to score!<END>
 
-//I'll let you handle it !<END>
+//I'll let you handle it!<END>
 
-//I have to have it !<END>
+//I have to have it!<END>
 
-//Let me pass !<END>
+//Let me pass!<END>
 
-//There, that's my chance !<END>
+//There, that's my chance!<END>
 
-//You won't have it !<END>
+//You won't have it!<END>
 
-//I won't let this pass by !<END>
-
-//I won't let this<LINE>
-//happen !<END>
-
-//I have to stop him !<END>
+//I won't let this pass by!<END>
 
 //I won't let this<LINE>
-//happen !<END>
+//happen!<END>
 
-//You won't have it !<END>
+//I have to stop him!<END>
 
-//I have to stop him !<END>
+//I won't let this<LINE>
+//happen!<END>
 
-//You stop here !<END>
+//You won't have it!<END>
 
-//You won't go any further !<END>
+//I have to stop him!<END>
 
-//Ah !<END>
+//You stop here!<END>
 
-//I have to stop him !<END>
+//You won't go any further!<END>
 
-//I can't let him in !<END>
+//Ah!<END>
 
-//I have to get there in time !<END>
+//I have to stop him!<END>
 
-//Yes !<END>
+//I can't let him in!<END>
 
-//I did it !<END>
+//I have to get there in time!<END>
 
-//Ah !<END>
+//Yes!<END>
 
-//Impossible !<END>
+//I did it!<END>
 
-//What !<END>
+//Ah!<END>
 
-//What ? That's impossible...<END>
+//Impossible!<END>
+
+//What!<END>
+
+//What? That's impossible...<END>
 

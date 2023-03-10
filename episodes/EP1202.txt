@@ -21,7 +21,7 @@
 
 //Tsubasa... J'ai réalisé.<END>
 
-//Quoi donc ?<END>
+//Quoi donc?<END>
 
 //Pendant ces trois dernières années,<LINE>
 //tout ce qui m'importait<LINE>
@@ -35,5 +35,5 @@
 //Je...<END>
 
 //Je veux devenir le meilleur attaquant,<LINE>
-//le meilleur nº 9 du monde !<END>
+//le meilleur nº 9 du monde!<END>
 

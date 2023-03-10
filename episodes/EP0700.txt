@@ -3,9 +3,9 @@
 //C'est mon dernier match au Japon...<LINE>
 //Et le dernier de mes années de collège.<END>
 
-//Et notre dernier match ensemble !<END>
+//Et notre dernier match ensemble!<END>
 
-//Aujourd'hui la victoire sera mienne !<LINE>
+//Aujourd'hui la victoire sera mienne!<LINE>
 //Je ne perdrai pas, Tsubasa.<END>
 
 //Hyuga.<END>

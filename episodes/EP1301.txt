@@ -1,12 +1,12 @@
 // FILE: EP1301.str containing 16 strings
 
-//Qu'est-ce qu'il vous arrive ?<LINE>
-//Vous comptez trop sur Diaz !<END>
+//Qu'est-ce qu'il vous arrive?<LINE>
+//Vous comptez trop sur Diaz!<END>
 
 //Vous faites tous partie<LINE>
-//de la sélection argentine !<LINE>
-//Vous devez avoir plus confiance en vous !<LINE>
-//Ne vous reposez pas uniquement sur Diaz !<END>
+//de la sélection argentine!<LINE>
+//Vous devez avoir plus confiance en vous!<LINE>
+//Ne vous reposez pas uniquement sur Diaz!<END>
 
 //Ce n'est pas de leur faute.<END>
 
@@ -32,8 +32,8 @@
 //que tous les dix ans...<END>
 
 //Tant que je serai sur les terrains,<LINE>
-//l'Argentine ne perdra pas !<LINE>
-//On peut jouer sans s'inquiéter !<END>
+//l'Argentine ne perdra pas!<LINE>
+//On peut jouer sans s'inquiéter!<END>
 
 //Tsubasa et Diaz,<LINE>
 //le match repose en partie<LINE>
@@ -48,7 +48,7 @@
 
 //D'accord.<END>
 
-//Allez, les gars. On y va !<END>
+//Allez, les gars. On y va!<END>
 
-//Oui !<END>
+//Oui!<END>
 

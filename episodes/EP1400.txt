@@ -1,11 +1,11 @@
 // FILE: EP1400.str containing 13 strings
 
-//C'est parti, les gars !<END>
+//C'est parti, les gars!<END>
 
-//Oui !<END>
+//Oui!<END>
 
-//Il faut qu'on prenne exemple sur Tsubasa !<LINE>
-//On doit faire de notre mieux !<END>
+//Il faut qu'on prenne exemple sur Tsubasa!<LINE>
+//On doit faire de notre mieux!<END>
 
 //Les joueurs clés de la France<LINE>
 //sont l'attaquant, Napoléon,<LINE>
@@ -13,7 +13,7 @@
 
 //Souda, tu t'occupes de Napoléon.<END>
 
-//Oui !<END>
+//Oui!<END>
 
 //On compte sur toi.<END>
 
@@ -23,12 +23,12 @@
 //pour qu'on puisse utiliser efficacement<LINE>
 //Tsubasa au milieu de terrain.<END>
 
-//D'accord !<END>
+//D'accord!<END>
 
 //C'est l'occasion ou jamais<LINE>
-//de finir mon duel avec lui !<END>
+//de finir mon duel avec lui!<END>
 
-//On y va, les gars !<END>
+//On y va, les gars!<END>
 
-//Allez ! C'est parti pour la demi-finale !<END>
+//Allez! C'est parti pour la demi-finale!<END>
 

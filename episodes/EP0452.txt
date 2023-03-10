@@ -1,104 +1,104 @@
 // FILE: EP0452.str containing 38 strings
 
-//Oh ? Le géant Daimaru vient à peine<LINE>
+//Oh? Le géant Daimaru vient à peine<LINE>
 //d'entrer sur le terrain en seconde mi-temps<LINE>
 //et déjà Hanawa lui passe le ballon.<END>
 
-//OK, on leur prend le ballon !<LINE>
-//Pas question de les laisser attaquer !<END>
+//OK, on leur prend le ballon!<LINE>
+//Pas question de les laisser attaquer!<END>
 
 //La puissance explosive de mes coups<LINE>
 //de pieds est la seule raison<LINE>
 //pour laquelle on me laisse jouer.<END>
 
-//Quoi ? Daimaru frappe le ballon du milieu<LINE>
-//du terrain avec une force extraordinaire !<LINE>
-//Le ballon file vers les buts de Nankatsu !<END>
+//Quoi? Daimaru frappe le ballon du milieu<LINE>
+//du terrain avec une force extraordinaire!<LINE>
+//Le ballon file vers les buts de Nankatsu!<END>
 
-//Quoi ?!<END>
+//Quoi?!<END>
 
-//C'est une blague ?<END>
+//C'est une blague?<END>
 
-//C'est le moment, Kazuo !<END>
+//C'est le moment, Kazuo!<END>
 
-//OK !<END>
+//OK!<END>
 
 //La seconde mi-temps est à peine commencée<LINE>
-//et Nankatsu est déjà mis en difficulté !<END>
+//et Nankatsu est déjà mis en difficulté!<END>
 
-//Bon ! Il faut qu'on saute !<LINE>
-//On saute et on bloque !<LINE>
-//C'est la seule solution !<END>
+//Bon! Il faut qu'on saute!<LINE>
+//On saute et on bloque!<LINE>
+//C'est la seule solution!<END>
 
-//Tsubasa court vers ses propres poteaux !<END>
+//Tsubasa court vers ses propres poteaux!<END>
 
 //Hé hé, Tsubasa.<LINE>
 //Désolé, mais tu vas sauter pour rien.<END>
 
 //Hanawa tente un Skylab hurricane,<LINE>
-//mais cette fois avec Kazuo en dessous !<END>
+//mais cette fois avec Kazuo en dessous!<END>
 
 //Et voilà le Skylab hurricane<LINE>
-//des frères Tachibana !<END>
+//des frères Tachibana!<END>
 
-//C'est bon, je l'ai !<END>
+//C'est bon, je l'ai!<END>
 
-//Eh oui, je suis Tsubasa !<LINE>
+//Eh oui, je suis Tsubasa!<LINE>
 //Même seul,<LINE>
-//je peux atteindre les cieux !<END>
+//je peux atteindre les cieux!<END>
 
-//Ah ! Tsubasa saute !<LINE>
+//Ah! Tsubasa saute!<LINE>
 //Mais cette fois, il prend carrément appui<LINE>
 //sur la barre transversale,<LINE>
-//pas sur le poteau !<END>
+//pas sur le poteau!<END>
 
-//Quoi ?!<END>
+//Quoi?!<END>
 
 //Les deux joueurs sont dans les airs.<LINE>
-//Ozora s'élève... Et c'est la collision !<LINE>
-//Tsubasa a bloqué le Skylab hurricane !<LINE>
+//Ozora s'élève... Et c'est la collision!<LINE>
+//Tsubasa a bloqué le Skylab hurricane!<LINE>
 //Une technique de défense hallucinante<LINE>
 //contre la nouvelle technique<LINE>
-//des frères Tachibana !<END>
+//des frères Tachibana!<END>
 
-//Mais ils sont en danger !<LINE>
+//Mais ils sont en danger!<LINE>
 //Les deux joueurs ont perdu l'équilibre<LINE>
-//et retombent vers le sol !<END>
+//et retombent vers le sol!<END>
 
-//Oh non ! Attention !<END>
+//Oh non! Attention!<END>
 
-//Masao !<END>
+//Masao!<END>
 
-//Non !<END>
+//Non!<END>
 
 //Il va tomber sur la tête...<END>
 
 //Les deux joueurs ont basculé<LINE>
-//et ils se sont écrasés au sol !<END>
+//et ils se sont écrasés au sol!<END>
 
-//Tsubasa !<END>
+//Tsubasa!<END>
 
 //On dirait que Tsubasa est tombé en premier<LINE>
-//et qu'il s'est fait très mal !<END>
+//et qu'il s'est fait très mal!<END>
 
 //Mon... épaule...<END>
 
-//Ça va, Masao ?<END>
+//Ça va, Masao?<END>
 
 //Tsubasa a amorti ma chute.<END>
 
-//Hein ?<END>
+//Hein?<END>
 
 //C'est grave, tu t'es peut-être déboîté<LINE>
 //l'épaule.<LINE>
-//Va vite à l'infirmerie !<END>
+//Va vite à l'infirmerie!<END>
 
 //Je vais bien...<LINE>
 //Je peux continuer à jouer.<END>
 
 //Tsubasa, tu n'as vraiment pas l'air bien.<LINE>
 //Tu as très mauvaise mine.<LINE>
-//Tu dois aller te faire examiner !<END>
+//Tu dois aller te faire examiner!<END>
 
 //Il a raison.<LINE>
 //Nous continuerons en ton absence.<END>

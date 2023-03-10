@@ -1,33 +1,33 @@
 // FILE: exv326.str containing 10 strings
 
 //Let's show them<LINE>
-//our Eiffel Tower !<END>
+//our Eiffel Tower!<END>
 
-//Allons-y, Napoléon !<END>
-
-//I won't give up<LINE>
-//the ball !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//And here is my Slider shoot !<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
+//Allons-y, Napoléon!<END>
 
 //I won't give up<LINE>
-//the ball !<END>
+//the ball!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//Here !<END>
+//And here is my Slider shoot!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//I won't give up<LINE>
+//the ball!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
+
+//Here!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 

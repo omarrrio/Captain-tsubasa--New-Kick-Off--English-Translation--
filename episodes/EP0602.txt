@@ -1,13 +1,13 @@
 // FILE: EP0602.str containing 9 strings
 
-//Ouais ! On a réussi, Tsubasa !<END>
+//Ouais! On a réussi, Tsubasa!<END>
 
-//On a... gagné !<END>
+//On a... gagné!<END>
 
-//Tsubasa !<END>
+//Tsubasa!<END>
 
-//Qu'y a-t-il, Tsubasa ?<LINE>
-//Un champion ne tombe pas à terre !<END>
+//Qu'y a-t-il, Tsubasa?<LINE>
+//Un champion ne tombe pas à terre!<END>
 
 //Matsuyama.<END>
 

@@ -1,37 +1,37 @@
 // FILE: exv088.str containing 12 strings
 
 //Here, your turn to play<LINE>
-//now !<END>
+//now!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //I will never give up<LINE>
-//the ball !<END>
+//the ball!<END>
 
-//I will never lose !<END>
+//I will never lose!<END>
 
-//Take my Eagle shot !<END>
+//Take my Eagle shot!<END>
 
 //I'll show you what<LINE>
-//we are able to do !<END>
+//we are able to do!<END>
 
-//You can stop this ?<END>
-
-//Returning to<LINE>
-//Mode Selection.<LINE>
-//Continue ?<END>
-
-//I got you !<END>
+//You can stop this?<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
-//I'm not kidding !<END>
+//I got you!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
-//Continue ?<END>
+//Continue?<END>
+
+//I'm not kidding!<END>
+
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue?<END>
 
