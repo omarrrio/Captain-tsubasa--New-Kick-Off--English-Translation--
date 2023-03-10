@@ -52,7 +52,7 @@
 //Hey, Tsubasa. A message From Wakabayashi<LINE>
 //arrived this morning.<END>
 
-//Hein? Wa-Wakabayashi?<END>
+//Huh? Wa-Wakabayashi?<END>
 
 //What?<END>
 
