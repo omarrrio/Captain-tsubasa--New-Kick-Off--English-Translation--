@@ -1,20 +1,20 @@
 // FILE: repro.str containing 266 strings
 
-Victory : 6-0<END>
+Victory: 6-0<END>
 
 Center forward of champion Nankatsu<END>
 
-Victory : 3-1<END>
+Victory: 3-1<END>
 
 Victory of Tsubasa against Nitta<END>
 
-Wall of steel of Otomo's Quartet !<END>
+Wall of steel of Otomo's Quartet!<END>
 
 Unbelievable volley recovery<END>
 
-Volley recovery : Falcon shoot !<END>
+Volley recovery: Falcon shoot!<END>
 
-Victory : 2-1<END>
+Victory: 2-1<END>
 
 Razor shoot<END>
 
@@ -22,57 +22,57 @@ Soda, the champions' slayer<END>
 
 Imperfect Drive shoot<END>
 
-Razor shoot !<END>
+Razor shoot!<END>
 
-Victory : 3-2<END>
+Victory: 3-2<END>
 
-That's simple, some antiaircraft soccer !<END>
+That's simple, some antiaircraft soccer!<END>
 
-New Skylab hurricane !<END>
+New Skylab hurricane!<END>
 
 In exchange of Victory<END>
 
-Low altitude Skylab hurricane !<END>
+Low altitude Skylab hurricane!<END>
 
-Guardian obstinate of Nankatsu !<END>
+Guardian obstinate of Nankatsu!<END>
 
-Victory : 4-3<END>
+Victory: 4-3<END>
 
-Sano and Jito, strange duo !<END>
+Sano and Jito, strange duo!<END>
 
-Power shoot !<END>
+Power shoot!<END>
 
-Tsubasa's injury is getting worse !<END>
+Tsubasa's injury is getting worse!<END>
 
-Backspin !<END>
+Backspin!<END>
 
-It's done ! Drive shoot !<END>
+It's done! Drive shoot!<END>
 
-Tenacity impact !<END>
+Tenacity impact!<END>
 
 Nankatsu's striker<END>
 
-Victory : 3-2<END>
+Victory: 3-2<END>
 
-The first tackle is a feint ?<END>
+The first tackle is a feint?<END>
 
-Avalanche Move !<END>
+Avalanche Move!<END>
 
-This is Furano's spirit !<END>
+This is Furano's spirit!<END>
 
 Beautiful friendship<END>
 
 Super long head<END>
 
-All to attack !<END>
+All to attack!<END>
 
 The phoenix takes flight...<END>
 
-Victory : 4-4<END>
+Victory: 4-4<END>
 
 Drive shoot power<END>
 
-Toho score first !<END>
+Toho score first!<END>
 
 desire for a 3rd consecutive title<END>
 
@@ -80,11 +80,11 @@ We must not waste this pass<END>
 
 Tiger shot piercing Nankatsu<END>
 
-I will annihilate Nankatsu !<END>
+I will annihilate Nankatsu!<END>
 
 Miraculous Drive shoot<END>
 
-A lightning ! Diving head !<END>
+A lightning! Diving head!<END>
 
 Crossed lightning<END>
 
@@ -92,7 +92,7 @@ Shoot for adventure<END>
 
 Real soccer<END>
 
-Defeat : 1-5<END>
+Defeat: 1-5<END>
 
 SGGK Wakabayashi<END>
 
@@ -102,11 +102,11 @@ Yelling Fire shot<END>
 
 Strength Difference<END>
 
-Victory : 2-1<END>
+Victory: 2-1<END>
 
 Golden right arm<END>
 
-Drive shoot stoped !<END>
+Drive shoot stoped!<END>
 
 Italy counter-attack<END>
 
@@ -114,7 +114,7 @@ Japan's golden pair<END>
 
 Awakening of the tigre<END>
 
-Victory : 5-4<END>
+Victory: 5-4<END>
 
 Argentina golden pair<END>
 
@@ -122,23 +122,23 @@ The round ball prodigy<END>
 
 True Drive shoot<END>
 
-Counter-attack signal !<END>
+Counter-attack signal!<END>
 
-Skylab twin shoot !<END>
+Skylab twin shoot!<END>
 
 True team play<END>
 
 Genius Proof<END>
 
-Attack of the Argentina goals !<END>
+Attack of the Argentina goals!<END>
 
-The glass champion is here !<END>
+The glass champion is here!<END>
 
-Victory : 4-4 (5-4)<END>
+Victory: 4-4 (5-4)<END>
 
 The little soccer player is fine<END>
 
-Unexpected : Slider shoot !<END>
+Unexpected: Slider shoot!<END>
 
 Unexpected yellow card<END>
 
@@ -146,13 +146,13 @@ Home team advantage<END>
 
 True goal<END>
 
-I know nothing but soccer !<END>
+I know nothing but soccer!<END>
 
 Eiffel Attack<END>
 
 Even if my right arm passes...<END>
 
-Victory : 3-2<END>
+Victory: 3-2<END>
 
 Wakayabashi's secret document<END>
 
@@ -176,7 +176,7 @@ On the brink<END>
 
 Captain Tsubasa<END>
 
-Victory : 3-2<END>
+Victory: 3-2<END>
 
 Musashi without Misugi<END>
 
@@ -186,55 +186,55 @@ Misugi's ultimate attack<END>
 
 Prince of the field<END>
 
-The glass champion defeated !<END>
+The glass champion defeated!<END>
 
-Victory : 4-0<END>
+Victory: 4-0<END>
 
 Stream of combinations<END>
 
-Hyuga on the bench ?<END>
+Hyuga on the bench?<END>
 
 Cage on wall of steel<END>
 
 Little technician<END>
 
-Victory : 8-0<END>
+Victory: 8-0<END>
 
-Who is Toho's center forward ?<END>
+Who is Toho's center forward?<END>
 
-I will score again !<END>
+I will score again!<END>
 
 Toho without Hyuga<END>
 
-Victory : 2-1<END>
+Victory: 2-1<END>
 
-Sawada in danger !<END>
+Sawada in danger!<END>
 
-Kamikaze Sliding Squad !<END>
+Kamikaze Sliding Squad!<END>
 
-We'll tie the score !<END>
+We'll tie the score!<END>
 
 Until the captain's return...<END>
 
 Guardian out of surface<END>
 
-Victory : 4-3<END>
+Victory: 4-3<END>
 
 Drive shoot Power<END>
 
-We have to score a goal !<END>
+We have to score a goal!<END>
 
 Lobed shoot<END>
 
-Tremble ! A new Wakashimazu<END>
+Tremble! A new Wakashimazu<END>
 
-Whatever the number !<END>
+Whatever the number!<END>
 
 Toho's Golden pair<END>
 
 Budding Genius<END>
 
-Tegatana Defense !<END>
+Tegatana Defense!<END>
 
 Nankatsu hidden strength<END>
 
@@ -244,13 +244,13 @@ Why are we on the field<END>
 
 Tragic end<END>
 
-Victory : 7-0<END>
+Victory: 7-0<END>
 
 Avalanche Move, secret technique<END>
 
-Furnao Tempest arrives !<END>
+Furnao Tempest arrives!<END>
 
-Victory : 4-0<END>
+Victory: 4-0<END>
 
 Calme decision<END>
 
@@ -258,25 +258,25 @@ Bond of friendship<END>
 
 Sleeping Eagle<END>
 
-Victory : 2-1<END>
+Victory: 2-1<END>
 
 Golden team<END>
 
 Key players are in bad shapes<END>
 
-Goal opportunity missed !<END>
+Goal opportunity missed!<END>
 
-Explosion !<END>
+Explosion!<END>
 
 Strike skimming the ground<END>
 
 Furano's spirit<END>
 
-Victory : 3-2<END>
+Victory: 3-2<END>
 
 False tackle<END>
 
-Avalanche Move !<END>
+Avalanche Move!<END>
 
 the fruit of efforts<END>
 
@@ -290,15 +290,15 @@ Furano Strength demonstration<END>
 
 Presentiment<END>
 
-Victory : 3-2<END>
+Victory: 3-2<END>
 
-I will give it back to you !<END>
+I will give it back to you!<END>
 
-no one left but Tsubasa !<END>
+no one left but Tsubasa!<END>
 
 Champions' domination<END>
 
-Roar of the Tiger !<END>
+Roar of the Tiger!<END>
 
 Snowstorm<END>
 
@@ -306,7 +306,7 @@ Proof of confidence<END>
 
 Bridge to glory<END>
 
-Victory : 4-3<END>
+Victory: 4-3<END>
 
 The Team's star<END>
 
@@ -316,7 +316,7 @@ A life-risking pass<END>
 
 Unbreakable heart<END>
 
-Victory : without Misugi<END>
+Victory: without Misugi<END>
 
 All primary school<END>
 
@@ -324,9 +324,9 @@ If Misugi isn't here...<END>
 
 Tight defensive line<END>
 
-One more goal !<END>
+One more goal!<END>
 
-Victory : with Misugi<END>
+Victory: with Misugi<END>
 
 Reciprocation attack/defense<END>
 
@@ -336,7 +336,7 @@ The offside trap of Musashi<END>
 
 Elegant shot<END>
 
-Victory : 3-2<END>
+Victory: 3-2<END>
 
 Meiwa Kamikaze Sliding Squad<END>
 
@@ -346,23 +346,23 @@ Friends with teh same spirit<END>
 
 The best is yet to come<END>
 
-Counter-attack countered !<END>
+Counter-attack countered!<END>
 
-The champion is here !<END>
+The champion is here!<END>
 
-Victory : more than one goal difference<END>
+Victory: more than one goal difference<END>
 
 Dazzling fast attack<END>
 
 The champion, Nankatsu<END>
 
-Here is the prince !<END>
+Here is the prince!<END>
 
-Champions' duel !<END>
+Champions' duel!<END>
 
 Special moves clash<END>
 
-The ball disapeared !<END>
+The ball disapeared!<END>
 
 Elegant combinations<END>
 
@@ -370,7 +370,7 @@ Switch<END>
 
 Destiny shoot<END>
 
-Victory : 5 goals on one half<END>
+Victory: 5 goals on one half<END>
 
 Solitary battle<END>
 
@@ -379,14 +379,14 @@ First contact<END>
 Replacement<END>
 
 Tsubasa spends his last summer<LINE>
-in college !<LINE>
+in college!<LINE>
 Hoping to obtain<LINE>
 their 3rd consecutive title,<LINE>
 they must win the first<LINE>
-match of the tourney !<END>
+match of the tourney!<END>
 
 A challenge against former teammates<LINE>
-of Nankatsu SC like Urabe !<LINE>
+of Nankatsu SC like Urabe!<LINE>
 Will Nankatsu resist<LINE>
 Nitta's concentrated attacks<LINE>
 around the Falcon Shoot?<END>
@@ -394,15 +394,15 @@ around the Falcon Shoot?<END>
 Nankatsu's 1st adversary for the<LINE>
 nationals will be Azumaichi Junior<LINE>
 High, the team representing Osaka<LINE>
-after beating Naniwa Junior High !<LINE>
+after beating Naniwa Junior High!<LINE>
 Souda, the champions' slayer, will<LINE>
 do everything to stop tsubasa from<LINE>
-reaching his objective !<END>
+reaching his objective!<END>
 
 The Tachibana brothers are back with<LINE>
-more than one trick up their sleeves !<LINE>
+more than one trick up their sleeves!<LINE>
 Will Nankatsu dispose<LINE>
-of their aero mid-air moves ?<END>
+of their aero mid-air moves?<END>
 
 Surprise of the tournament, team<LINE>
 Hirado Junior High has climbed<LINE>
@@ -410,7 +410,7 @@ to this level of the competition<LINE>
 with their still unknown potential.<LINE>
 What type of game will the duo,<LINE>
 Sano the forward center and Jito<LINE>
-the defender will provide us with ?<END>
+the defender will provide us with?<END>
 
 In the Semifinals, Nankatsu<LINE>
 will face Furano Junior High.<LINE>
@@ -418,14 +418,14 @@ This team climbed up to this<LINE>
 level of the competition developing<LINE>
 an unequal team play.<LINE>
 The duel between the two captains<LINE>
-flocked with nº 10 will begin !<END>
+flocked with nº 10 will begin!<END>
 
 Toho is determined on defeating<LINE>
 it's adversary Nankatsu, which aims<LINE>
 for a 3rd consécutive title,<LINE>
 and take it's<LINE>
 1st championship.<LINE>
-Which team will get out victorious ?<END>
+Which team will get out victorious?<END>
 
 The tale of the encounter of<LINE>
 Shingo Aoi, young player of<LINE>
@@ -437,7 +437,7 @@ The European tour begins,<LINE>
 and teh first adversary against Japan<LINE>
 is a selection of players<LINE>
 of the german championship including<LINE>
-their ex-teammate Wakabayashi !<END>
+their ex-teammate Wakabayashi!<END>
 
 The first team to go out<LINE>
 against Japan in the French<LINE>
@@ -449,7 +449,7 @@ Led by Fan Diaz,<LINE>
 a gifted player, Argentina faces<LINE>
 Japan and it's prodigy Tsubasa Ozora.<LINE>
 The duel between thse two geniuses<LINE>
-can begin !<END>
+can begin!<END>
 
 The tournament host country,<LINE>
 France reunited it's best<LINE>
@@ -462,7 +462,7 @@ but here he is standing against<LINE>
 the most strongest team of all.<LINE>
 Will they be able to stop the Kaizer,<LINE>
 Schneider, and overcome<LINE>
-the legendary GK Muller ?<END>
+the legendary GK Muller?<END>
 
 DUMMY_F<END>
 
@@ -488,23 +488,23 @@ DUMMY_F<END>
 
 For the 3rd consecutive time,<LINE>
 Toho access the regional finals<LINE>
-without breaking a sweat !<LINE>
+without breaking a sweat!<LINE>
 Will Toho defeat their adversary<LINE>
 led by the prodigy Jun Misugi,<LINE>
 and to win their ticket<LINE>
 to the national tournament?<END>
 
 Thanks to their victory on Musashi,<LINE>
-Toho access the nationals !<LINE>
+Toho access the nationals!<LINE>
 The first match for the title<LINE>
-conquest will now begin !<END>
+conquest will now begin!<END>
 
 Toho takes on the 2nd match<LINE>
 of the tournament without Hyuga,<LINE>
 excluded by coach Kitazume.<LINE>
 Could they win<LINE>
-without their champion ?<LINE>
-How Hyuga will react ?<END>
+without their champion?<LINE>
+How Hyuga will react?<END>
 
 In the semifinals of the nationals,<LINE>
 Toho faces Meiwa-Higashi<LINE>
@@ -512,77 +512,77 @@ composed of former teammats of Hyuga,<LINE>
 Sawa et Wakashimazu.<LINE>
 How Toho<LINE>
 led by Sawada will take it<LINE>
-against Meiwa-Higashi ?<END>
+against Meiwa-Higashi?<END>
 
 The finals will put Toho against<LINE>
 the champion Nankatsu Junior High<LINE>
 led by Tsubasa,<LINE>
-whose aiming for a 3rd consecutive title !<LINE>
+whose aiming for a 3rd consecutive title!<LINE>
 It's the shot for Toho<LINE>
 to claim theiur first title<LINE>
-and end the reign Nankatsu !<END>
+and end the reign Nankatsu!<END>
 
 The Hokkaido Regionals' title is close<LINE>
 to be obtained by Furano Junior High.<LINE>
 With a greased team play,<LINE>
 They're aiming a place<LINE>
-in the national tounament !<END>
+in the national tounament!<END>
 
 After winning<LINE>
 thee Hokkaido Regional,<LINE>
 will Furano Junior High defeat<LINE>
 Suwa Junior High team,<LINE>
 their 1st adversary<LINE>
-in the nationals ?<END>
+in the nationals?<END>
 
 Furano will face Minamiuwa<LINE>
 in the quarterfinals.<LINE>
 One match left before opposing<LINE>
 Nankatsu team.<LINE>
 Could Furano continue<LINE>
-it's momentum ?<END>
+it's momentum?<END>
 
-It's the moment of truth !<LINE>
+It's the moment of truth!<LINE>
 Here they are opposing Nankatsu<LINE>
-and their undefeatable team play !<LINE>
+and their undefeatable team play!<LINE>
 Will they be able to win<LINE>
-their ticket to the finals ?<END>
+their ticket to the finals?<END>
 
-The title is so close !<LINE>
+The title is so close!<LINE>
 Furano faces the dreadful team<LINE>
 Toho.<LINE>
 The destiny reunited Matsuyama et Hyuga<LINE>
-in this battle for the title !<END>
+in this battle for the title!<END>
 
 Toho dominates<LINE>
 Musashi Junior High, and forces<LINE>
 Jun Misugi, the Prince of the field,<LINE>
 to get back to the ground<LINE>
 after two years of absence<LINE>
-to help reverse the situation !<END>
+to help reverse the situation!<END>
 
 Musashi Junior High decides<LINE>
 to preserve Misugi for this match.<LINE>
 Will they be able to win<LINE>
-without Misugi on the field ?<END>
+without Misugi on the field?<END>
 
-Does Musashi always base on Misugi ?<LINE>
+Does Musashi always base on Misugi?<LINE>
 Affirmed in all cases<LINE>
 by team Konishi Junior High<LINE>
 whose thinking to win<LINE>
 easely without Misugi on the field.<END>
 
-"We were supposed to beat Hyuga !"<LINE>
+"We were supposed to beat Hyuga!"<LINE>
 Meiwa-Higashi gathered<LINE>
 the best elements whome formaly<LINE>
 composed Meiwa FC team,<LINE>
-and will now strike Musashi !<END>
+and will now strike Musashi!<END>
 
 The finals will pit the two prodigies<LINE>
-Misugi et Tsubasa !<LINE>
+Misugi et Tsubasa!<LINE>
 Will Misugi be able to take<LINE>
 revenge on Tsubasa<LINE>
-who defeated him 3 years before ?<END>
+who defeated him 3 years before?<END>
 
 Play an amical match against<LINE>
 a team specilazied<LINE>
@@ -615,33 +615,33 @@ DUMMY_F<END>
 <LINE>
 Led by Tsubasa OzaruNankatsu Junior High<LINE>
 will attempt to win it's 3rd<LINE>
-consecutive title !<END>
+consecutive title!<END>
 
 Selected from the National Junior High<LINE>
 School Tournament, Tsubasa and the<LINE>
 players of Japan's National Junior<LINE>
 Youth will conquer the French<LINE>
-International Jr. Youth Tournament !<END>
+International Jr. Youth Tournament!<END>
 
 Finalist for 2 consecutive years,<LINE>
 a new Toho prepares<LINE>
 to take revenge on Nankatsu<LINE>
-and to win their first tounament !<END>
+and to win their first tounament!<END>
 
 Coming from Hokkaido, Furano Junior High,<LINE>
 known for it's perfect team play,<LINE>
 is ready to surge on the tournament<LINE>
-under the lead of Matsuyama !<END>
+under the lead of Matsuyama!<END>
 
 After 2 years of re-education, Misugi,<LINE>
 The Prince of the field, comes back<LINE>
 to the ground. Will we assist again<LINE>
-to a confrontation between Tsubasa and him ?<END>
+to a confrontation between Tsubasa and him?<END>
 
 You have joined the legendary team of<LINE>
-Nankatsu ! Become captain who<LINE>
+Nankatsu! Become captain who<LINE>
 will surpass your teammate's,<LINE>
-Tsubasa Ozora, talents !<END>
+Tsubasa Ozora, talents!<END>
 
 Play an amical match.<END>
 
@@ -656,31 +656,31 @@ against you would be great.<END>
 Thwart Otomo's Quartet<LINE>
 composed of former teammates<LINE>
 from Nankatsu SC like Urabe, Nakayama,<LINE>
-Kishida and Nishio, is imperative !<LINE>
+Kishida and Nishio, is imperative!<LINE>
 You'll have to keep an eye<LINE>
 on Nitta's counter-attacks<LINE>
-and his Falcon Shoot !<END>
+and his Falcon Shoot!<END>
 
 The next adversary is<LINE>
 the representative of Osaka,<LINE>
-Azumaichi Junior High !<LINE>
+Azumaichi Junior High!<LINE>
 The team play around their captain<LINE>
 and defender Souda.<LINE>
 Watch out for his shoots<LINE>
-and his tackles labeled "Razors" !<END>
+and his tackles labeled "Razors"!<END>
 
 The next match will be played<LINE>
 against teh representative of Akita,<LINE>
 Hanawa Junior High.<LINE>
 Can you overcome the extraordinary<LINE>
 aero play of the<LINE>
-Tachibana Twins, Masao and Kazuo ?<END>
+Tachibana Twins, Masao and Kazuo?<END>
 
 Hirado Junior High, representative of<LINE>
 Nagasaki, is your next adversary.<LINE>
 Be careful not to let yourself<LINE>
 surprised by the powerful combinations<LINE>
-of Jito and from the agile Sano !<END>
+of Jito and from the agile Sano!<END>
 
 The representative of Hokkaido,<LINE>
 Furano Junior High, led by<LINE>
@@ -688,7 +688,7 @@ their captain Matsuyama, are known<LINE>
 for their excellent team play.<LINE>
 Watch out for their defensive avalanche!<LINE>
 They are also really tough<LINE>
-in the second half !<END>
+in the second half!<END>
 
 Kojiro Hyuga, the ferocious tiger,<LINE>
 Lead this dreadful team<LINE>
@@ -703,32 +703,32 @@ the dangerous center forward Schneider,<LINE>
 the center field Karltz,<LINE>
 and the GK Wakabayashi.<LINE>
 Can you face<LINE>
-this world-class team ?<END>
+this world-class team?<END>
 
 It's a match against Italy,<LINE>
 this team known for<LINE>
 it's legendary defensive skills.<LINE>
 Can you win against<LINE>
-the Perfect Keeper Gino Hernandez ?<END>
+the Perfect Keeper Gino Hernandez?<END>
 
 Here you are standing against Argentina<LINE>
 and the famous Diaz, a prodigy of<LINE>
-soccer for the last 10 years !<END>
+soccer for the last 10 years!<END>
 
 The next competitive is France,<LINE>
 which is said to have an elegant style<LINE>
-game, capting the crowds !<LINE>
+game, capting the crowds!<LINE>
 Don't let your guard down<LINE>
 against their middle fielder, Pierre,<LINE>
 nor their forward center Napoléon,<LINE>
-and take the victory !<END>
+and take the victory!<END>
 
 Germany is a world-class<LINE>
 team.<LINE>
 The feints will not be enough<LINE>
 against this team,<LINE>
 and you'll have to give everything<LINE>
-to obtain the victory !<END>
+to obtain the victory!<END>
 
 Your adversary is England,<LINE>
 Known as the cradle of soccer!<LINE>
@@ -739,17 +739,17 @@ around their captain Robson.<END>
 
 The next match is against Uruguay,<LINE>
 one of the most magnificent teams<LINE>
-of South America !<LINE>
+of South America!<LINE>
 Watch out for their fast attacks,<LINE>
 and specifically their center forward,<LINE>
-Victorino, and take the victory !<END>
+Victorino, and take the victory!<END>
 
 This team includes<LINE>
 the best players<LINE>
 selected by Yoichi Takahashi,<LINE>
-the creator of "Captain Tsubasa" !<LINE>
+the creator of "Captain Tsubasa"!<LINE>
 Can you really take the<LINE>
-ultimate win with your team ?<END>
+ultimate win with your team?<END>
 
 <END>
 

@@ -209,7 +209,7 @@
 //cus on shots blocking and ra<END>
 
 //Save the<LINE>
-//party ?<END>
+//party?<END>
 
 //Saving…<END>
 
@@ -220,32 +220,32 @@
 //Loading is complete.<END>
 
 //Overwrite<LINE>
-//the data ?<END>
+//the data?<END>
 
 //The current party<LINE>
 //won't be<LINE>
 //saved.<LINE>
-//Continue ?<END>
+//Continue?<END>
 
 //Access to save screen.<END>
 
 //Continue without saving.<END>
 
-//See epilogue ?<END>
+//See epilogue?<END>
 
 //See epilogue.<END>
 
 //Pass epilogue.<END>
 
 //Return to main<LINE>
-//screen ?<END>
+//screen?<END>
 
 //Interrupt<LINE>
 //Party<LINE>
 //and return<LINE>
-//to main screen ?<END>
+//to main screen?<END>
 
 //The match won't be<LINE>
 //saved.<LINE>
-//Continue ?<END>
+//Continue?<END>
 

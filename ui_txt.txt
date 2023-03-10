@@ -884,7 +884,7 @@
 
 //Pick your name.<END>
 
-//Play a friendly match.<END>
+//Play a friendly game.<END>
 
 //Change team formation<LINE>
 //and strategy.<END>
@@ -1105,9 +1105,9 @@
 
 //Napalm shot<END>
 
-//Phantasmagoric dribble<END>
+//Phantasmagoric Dribble<END>
 
-//Non-fire shot<END>
+//Non-fire Shot<END>
 
 //Kaiser block<END>
 
@@ -1149,7 +1149,7 @@
 
 //Twin shoot<END>
 
-//Golden Combi<END>
+//Golden Combination<END>
 
 //Nankatsu<END>
 
@@ -1231,9 +1231,9 @@
 
 //Resume suspended party.<END>
 
-//Goalkeeper strength<END>
+//Goalkeeper Strength<END>
 
-//Ace killer<END>
+//Ace Killer<END>
 
 //Trickster<END>
 
@@ -2019,24 +2019,24 @@
 //Grants matchless<LINE>
 //courage.<LINE>
 //Allow usage of<LINE>
-//"My friend, the ball".<END>
+//the "My friend, the ball" ability.<END>
 
 //Grants kamikaze<LINE>
 //spirit.<LINE>
 //allow usage of<LINE>
-//"Physical wall".<END>
+//the "Physical wall" ability.<END>
 
-//Grant a defense of steel,<LINE>
+//Grants a defense of steel,<LINE>
 //and usage<LINE>
-//of "Wall of steel".<END>
+//of the "Wall of steel" ability.<END>
 
-//Grant huge strength.<LINE>
+//Grants huge strength.<LINE>
 //Allow usage of<LINE>
-//"Power Defense".<END>
+//the "Power Defense" ability.<END>
 
 //Makes you want to outflank on<LINE>
 //the right wing. Allow usage of<LINE>
-//"Sideline Dribble".<END>
+//the "Sideline Dribble" ability.<END>
 
 //Grant huge courage.<LINE>
 //Allow usage of "5m<LINE>
@@ -2045,221 +2045,221 @@
 //Grant power to jump<LINE>
 //high in the air.<LINE>
 //Allow usage of<LINE>
-//"Jet Head".<END>
+//the "Jet Head" ability.<END>
 
 //Makes you want to score.<LINE>
 //Allow usage of<LINE>
-//"Scoremonger's pride".<END>
+//the "Scoremonger's pride" ability.<END>
 
 //Allow delevery<LINE>
 //of great passes.<LINE>
 //Allow usage of<LINE>
-//"Drive pass".<END>
+//the "Drive pass" ability.<END>
 
 //makes you want to shoot<LINE>
 //with all you got.<LINE>
 //Allow usage of<LINE>
-//"Heel lift".<END>
+//the "Heel lift" ability.<END>
 
 //Imbued bracelet<LINE>
 //of Brazilian's joy.<LINE>
 //Allow usage of<LINE>
-//"Brazilian Dribble".<END>
+//the "Brazilian Dribble" ability.<END>
 
 //Allow inversed shots,<LINE>
 //and usage<LINE>
-//of "Overhead Kick".<END>
+//of the "Overhead Kick" ability.<END>
 
 //Allow Pheonix style shoots.<LINE>
 //Allow usage of<LINE>
-//"Drive shoot".<END>
+//the "Drive shoot" ability.<END>
 
 //Cleats offered<LINE>
 //to Tsubasa by Sanae.<LINE>
 //Allow usage of<LINE>
-//"Drive overhead".<END>
+//the "Drive overhead" ability.<END>
 
 //An amazing artistic bracelet.<LINE>
 //Allow usage of<LINE>
-//"Artistic Dribble".<END>
+//the "Artistic Dribble" ability.<END>
 
 //Makes you hard to<LINE>
 //detectable, and usage<LINE>
-//of "Unexpected ambush".<END>
+//of the "Unexpected ambush" ability.<END>
 
 //Allows you to stand up<LINE>
 //to your fear, and usage<LINE>
-//of "Face block".<END>
+//of the "Face block" ability.<END>
 
 //Allows you to be<LINE>
 //fast as a hawk,<LINE>
 //and usage<LINE>
-//of "Falcon shoot".<END>
+//of the "Falcon shoot" ability.<END>
 
 //Makes you faster,<LINE>
 //allows usage<LINE>
-//of "Speed Star".<END>
+//of the "Speed Star" ability.<END>
 
 //Allows you to take<LINE>
 //the adversary by surprise,<LINE>
 //and usage<LINE>
-//of "Killer pass".<END>
+//of the "Killer pass" ability.<END>
 
 //Allows you to shoot<LINE>
 //faster,<LINE>
 //and usage<LINE>
-//of "High Speed Pass".<END>
+//of the "High Speed Pass" ability.<END>
 
 //Grabts you a prince's<LINE>
 //imposing.<LINE>
 //Allows usage of<LINE>
-//"Young noble of the field".<END>
+//the "Young noble of the field" ability.<END>
 
 //Once you wear them, these<LINE>
 //spikes gives you a big<LINE>
 //determination. Allows<LINE>
-//usage of "Glass heart shoot".<END>
+//usage of the "Glass heart shoot" ability.<END>
 
 //Makes you faster than sound,<LINE>
 //and allow usage<LINE>
-//of "Speed Intercept".<END>
+//of the "Speed Intercept" ability.<END>
 
 //Allows stronger<LINE>
 //heads,<LINE>
 //and usage<LINE>
-//of "Power head".<END>
+//of the "Power head" ability.<END>
 
 //Makes you stronger,<LINE>
 //and allows usage<LINE>
-//of "Aggressive Dribble".<END>
+//of the "Aggressive Dribble" ability.<END>
 
 //Increases your technique,<LINE>
 //and allows usage<LINE>
-//of "Technical Dribble".<END>
+//of the "Technical Dribble" ability.<END>
 
 //Makes you want to hit<LINE>
 //the ball.<LINE>
 //Allows usage of<LINE>
-//"Kamikaze sliding".<END>
+//the "Kamikaze sliding" ability.<END>
 
 //Grants Meiwa FC<LINE>
 //Players' experience.<LINE>
 //Allows usage of<LINE>
-//"Kamikaze sliding".<END>
+//the "Kamikaze sliding" ability.<END>
 
 //Twist ball trajectory.<LINE>
 //Allows usage of<LINE>
-//"Razor Pass".<END>
+//the "Razor Pass" ability.<END>
 
 //Allows Sharp shooting,<LINE>
 //and usage<LINE>
-//of "Razor Shoot".<END>
+//of the "Razor Shoot" ability.<END>
 
 //Gives the tenacity<LINE>
 //of a snake.<LINE>
 //Allows usage of<LINE>
-//"Snake block".<END>
+//the "Snake block" ability.<END>
 
 //Shinguards Making it<LINE>
 //easier against a champion.<LINE>
 //Allows usage<LINE>
-//of "Razor tackle".<END>
+//of the "Razor tackle" ability.<END>
 
 //Gives the desire<LINE>
 //to jump up the air.<LINE>
 //Allows usage of<LINE>
-//"Triangle shoot".<END>
+//the "Triangle shoot" ability.<END>
 
 //Allows to set an effect<LINE>
 //on the ball,<LINE>
 //and usage<LINE>
-//of "Backspin pass".<END>
+//of the "Backspin pass" ability.<END>
 
 //A huge force emanates<LINE>
 //from these crampons.<LINE>
 //Allows usage of<LINE>
-//"Power shoot".<END>
+//the "Power shoot" ability.<END>
 
 //Grants a strong feeling<LINE>
-//of power, and usage<LINE>
-//of "Power Dribble".<END>
+//of power, and the usage<LINE>
+//of the "Power Dribble" ability.<END>
+
+//Makes you feel much<LINE>
+//lighter, and grants you<LINE>
+//the "Like a feather" ability.<END>
+
+//Cleats that may<LINE>
+//surprise the opponent.<LINE>
+//Grants you the<LINE>
+//"Surprise header" ability.<END>
+
+//Allows stealing the ball<LINE>
+//to be much easierplus,<LINE>
+//and grants usage of<LINE>
+//the "Quick snatch" ability.<END>
+
+//Cleats that prevent<LINE>
+//slipping on ice.<LINE>
+//Allows usage of<LINE>
+//the "Furano's Soul" ability.<END>
+
+//Cleats for uneven<LINE>
+//terrain.<LINE>
+//Allows usage of<LINE>
+//the "Eagle pass" ability.<END>
+
+//Grants unfailing morale<LINE>
+//against all challenges.<LINE>
+//Allows usage of<LINE>
+//the "Persistent keep" ability.<END>
+
+//Allows shooting like<LINE>
+//a flying eagle,<LINE>
+//and usage of<LINE>
+//the "Eagle shot" ability.<END>
+
+//Grants a shot as strong<LINE>
+//as a blizzard,<LINE>
+//and usage of<LINE>
+//the "Blizzard shot" ability.<END>
+
+//Shin guards that<LINE>
+//can withstand a blizzard<LINE>
+//even. Alloows usage of<LINE>
+//the "Blizzard cut" ability.<END>
+
+//This lucky charm can<LINE>
+//facilitate an effort.<LINE>
+//Allows usage of<LINE>
+//the "Faint tackle" ability.<END>
+
+//Very warm Gloves.<LINE>
+//Allow usage of<LINE>
+//the "Calm decision" ability.<END>
+
+//Makes you more nimble.<LINE>
+//Allows usage of<LINE>
+//the "Triangle Assault" ability.<END>
+
+//Gloves of a karaté master.<LINE>
+//Allows usage of<LINE>
+//the "Shuto defense" ability.<END>
+
+//Allows you to dive onto<LINE>
+//the ball with all your might.<LINE>
+//Grants usage of<LINE>
+//the "Seiken defense" ability.<END>
+
+//Cleats imbued with the<LINE>
+//Wakado style.<LINE>
+//Grants usage of<LINE>
+//the "Mirage Kick" ability.<END>
+
+//Allows for aerial actions<LINE>
+//like a shooting star.<LINE>
+//Grants usage of the<LINE>
+//the "Shooting star" ability.<END>
 -------------------------------------------------> im here, if you edit, put this bookmark where you stop
-//Permet de se sentir<LINE>
-//plus léger, et l'utilisation<LINE>
-//de "Like a feather".<END>
-
-//Crampons qui risquent<LINE>
-//de surprendre l'adversaire.<LINE>
-//Permet d'utiliser<LINE>
-//"Surprise header".<END>
-
-//Permet de subtiliser<LINE>
-//plus facilement le ballon,<LINE>
-//et l'utilisation<LINE>
-//de "Quick snatch".<END>
-
-//Crampons pour ne pas glisser<LINE>
-//sur la glace.<LINE>
-//Permet d'utiliser<LINE>
-//"Furano's Soul".<END>
-
-//Crampons pour terrain<LINE>
-//irrégulier.<LINE>
-//Permet d'utiliser<LINE>
-//"Eagle pass".<END>
-
-//Confère un moral<LINE>
-//à toute épreuve.<LINE>
-//Permet d'utiliser<LINE>
-//"Persistent keep".<END>
-
-//Permet de tirer tel un aigle<LINE>
-//qui s'envole,<LINE>
-//et l'utilisation<LINE>
-//de "Eagle shot".<END>
-
-//Permet un tir aussi puissant<LINE>
-//que le blizzard,<LINE>
-//et l'utilisation<LINE>
-//de "Blizzard shot".<END>
-
-//Protège-tibias qui<LINE>
-//garderaient même d'un<LINE>
-//blizzard. Permet d'utiliser<LINE>
-//"Blizzard cut".<END>
-
-//Ce porte-bonheur permet<LINE>
-//de faciliter un effort.<LINE>
-//Permet d'utiliser<LINE>
-//"Faint tackle".<END>
-
-//Gants très chauds.<LINE>
-//Permet d'utiliser<LINE>
-//"Calm decision".<END>
-
-//Rend plus agile.<LINE>
-//Permet d'utiliser<LINE>
-//"Triangle Assault".<END>
-
-//Gants d'un maître du karaté.<LINE>
-//Permet d'utiliser<LINE>
-//"Shuto defense".<END>
-
-//Permet de plonger sur la<LINE>
-//balle de toutes ses forces.<LINE>
-//Permet d'utiliser<LINE>
-//"Seiken defense".<END>
-
-//Crampons imprégnés du style<LINE>
-//Wakado.<LINE>
-//Permet d'utiliser<LINE>
-//"Mirage Kick".<END>
-
-//Permet des actions aériennes<LINE>
-//telle une étoile filante.<LINE>
-//Permet d'utiliser<LINE>
-//"Shooting star".<END>
-
 //Permet de tirer aussi vite<LINE>
 //qu'un tigre fond sur<LINE>
 //sa proie, et l'utilisation<LINE>
@@ -3435,7 +3435,7 @@
 
 //L'épopée de la conquête<LINE>
 //du monde des All Japan<LINE>
-//Junior Youth !<END>
+//Junior Youth!<END>
 
 //La conquête de la première<LINE>
 //coupe de Toho Gakuen<LINE>
@@ -3447,11 +3447,11 @@
 
 //Après 2 ans d'absence,<LINE>
 //Misugi reprend les rênes<LINE>
-//de Musashi Junior High !<END>
+//de Musashi Junior High!<END>
 
 //Mode qui te permet<LINE>
 //d'être le capitaine<LINE>
-//de ta propre équipe !<END>
+//de ta propre équipe!<END>
 
 //L'adversaire<LINE>
 //sélectionne<LINE>
@@ -3459,11 +3459,11 @@
 
 //Trop d'objets.<LINE>
 //Échanger cet objet<LINE>
-//avec un autre ?<END>
+//avec un autre?<END>
 
 //Supprimer<LINE>
-//cet objet ?<END>
+//cet objet?<END>
 
 //Désirez-vous vous <LINE>
-//débarrasser de l'objet ?<END>
+//débarrasser de l'objet?<END>
 
