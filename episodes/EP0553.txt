@@ -1,62 +1,61 @@
 // FILE: EP0553.str containing 22 strings
 
-//Je vais les achever.<END>
+//I'm going to finish them off.<END>
 
-//Le libéro Jito est monté au milieu<LINE>
-//du terrain, là où la bataille fait rage.<END>
+//The libero Jito has come up to<LINE>
+//the middle of the field, where the battle is raging.<END>
 
-//Donne-moi la balle!<END>
+//Give me the ball!<END>
 
-//Et passe pour Jito.<END>
+//And pass to Jito.<END>
 
-//Ils vont encore faire une combinaison!<LINE>
-//Ne laissez pas Sano libre!<END>
+//They're going to make another combination!<LINE>
+//Don't let Sano get free!<END>
 
-//Hmm... J'y vais, Sano...<END>
+//Hmm... I'm going, Sano...<END>
 
-//Navré, mais le troisième but est pour nous.<END>
+//Sorry, but the third goal is ours.<END>
 
-//Moi, Hiroshi Jito, je vais mettre fin<LINE>
-//au règne de Nankatsu!<END>
+//I, Hiroshi Jito, am going to end<LINE>
+//Nankatsu's reign!<END>
 
-//Et c'est encore un tir à longue distance<LINE>
-//de Jito!<END>
+//And it's another long-range shot<LINE>
+//from Jito!<END>
 
-//Mais cette fois, c'est un simple tir<LINE>
-//qui n'a pas la puissance habituelle.<END>
+//But this time, it's a simple shot<LINE>
+//that doesn't have the usual power.<END>
 
-//Et Sano ne peut pas se démarquer<LINE>
-//des trois joueurs devant les buts<LINE>
-//pour modifier la trajectoire<LINE>
-//au dernier instant!<END>
+//And Sano can't get free<LINE>
+//from the three players in front of the goal<LINE>
+//to change the trajectory<LINE>
+//at the last moment!<END>
 
 //OK!<END>
 
-//Morisaki sort de ses buts et s'apprête<LINE>
-//à ramasser le ballon.<END>
+//Morisaki comes out of the goal and prepares<LINE>
+//to pick up the ball.<END>
 
-//Maintenant!<END>
+//Now!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Oh! Quand le ballon a touché le sol,<LINE>
-//il est reparti en arrière!<LINE>
-//Comme lors d'un backspin au golf!<END>
+//Oh! When the ball hit the ground,<LINE>
+//it spun backwards!<LINE>
+//Like in a backspin in golf!<END>
 
-//Jito a réussi à mettre un backspin<LINE>
-//dans le ballon sur ce tir<LINE>
-//à longue distance!<END>
+//Jito managed to put backspin<LINE>
+//on the ball on this long-range shot!<END>
 
-//Oh non!<END>
+//Oh no!<END>
 
-//Sano plonge en direction du ballon!<END>
+//Sano dives towards the ball!<END>
 
-//Alors que Morisaki est toujours<LINE>
-//devant les buts!<END>
+//While Morisaki is still<LINE>
+//in front of the goal!<END>
 
-//Et c'est le troisième but!<END>
+//And it's the third goal!<END>
 
-//Ce but est décisif pour Hirado!<LINE>
-//Les champions de Nankatsu ont concédé<LINE>
-//un troisième but!<END>
+//This goal is decisive for Hirado!<LINE>
+//The champions of Nankatsu have conceded<LINE>
+//a third goal!<END>
 

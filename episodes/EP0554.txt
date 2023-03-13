@@ -1,47 +1,46 @@
 // FILE: EP0554.str containing 16 strings
 
-//J'arrive, Hirado!<LINE>
-//Vous allez être les premiers à subir<LINE>
-//les effets de mon Drive shoot!<END>
+//I'm coming, Hirado!<LINE>
+//You will be the first ones to suffer<LINE>
+//the effects of my Drive Shot!<END>
 
-//Tsubasa, dès que tu vois les buts, tire!<END>
+//Tsubasa, as soon as you see the goal, shoot!<END>
 
 //OK... Roberto!<END>
 
-//Tsubasa est à peine rentré<LINE>
-//dans la moitié du terrain de Hirado<LINE>
-//qu'il s'apprête déjà à tirer!<END>
+//Tsubasa has barely entered<LINE>
+//Hirado's half of the field<LINE>
+//when he's already preparing to shoot!<END>
 
 //Argh!<END>
 
-//Drive shoot!<END>
+//Drive Shot!<END>
 
-//Tsubasa a mis toutes ses forces<LINE>
-//dans ce tir à longue distance!<END>
+//Tsubasa put all his strength<LINE>
+//into this long-range shot!<END>
 
-//Hmm... Pas de panique, le gardien.<LINE>
-//Peu importe la puissance de son tir...<LINE>
-//Il ne va pas vers les buts.<END>
+//Hmm... No need to panic, goalkeeper.<LINE>
+//No matter how powerful his shot is...<LINE>
+//It's not going towards the goal.<END>
 
-//Le ballon passe au-dessus de la tête<LINE>
-//du gardien... Il va passer par-dessus<LINE>
-//la barre et...<END>
+//The ball goes over the goalkeeper's head...<LINE>
+//It's going over the bar and...<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Il... Il est rentré!<END>
+//It... It went in!<END>
 
-//Comment?!<END>
+//How?!<END>
 
-//J'ai marqué...<END>
+//I scored...<END>
 
-//Le tir de Tsubasa semblait parti<LINE>
-//pour passer loin au-dessus des buts,<LINE>
-//mais...<END>
+//Tsubasa's shot seemed to be going<LINE>
+//far above the goal,<LINE>
+//but...<END>
 
-//Grâce à un effet plongeant, il a terminé<LINE>
-//sa course au fond des filets adverses!<END>
+//Thanks to a diving effect, it ended up<LINE>
+//in the back of the opposing net!<END>
 
-//Quelle poisse!<LINE>
-//Ce tir, c'était juste un coup de bol!<END>
+//What a bad luck!<LINE>
+//That shot was just a fluke!<END>
 

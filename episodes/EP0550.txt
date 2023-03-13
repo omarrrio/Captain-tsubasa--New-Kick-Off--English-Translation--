@@ -1,42 +1,42 @@
 // FILE: EP0550.str containing 14 strings
 
-//OK, il est temps de vous révéler<LINE>
-//la véritable puissance de Hirado!<END>
+//OK, it's time to reveal<LINE>
+//the true power of Hirado!<END>
 
-//Hmm... Ils cachent quelque chose.<END>
+//Hmm... They're hiding something.<END>
 
-//C'est parti!<END>
+//Here we go!<END>
 
-//Morisaki! Attention, il va tirer!<END>
+//Morisaki! Watch out, he's going to shoot!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Quoi? Jito a tiré du milieu du terrain<LINE>
-//sans réfléchir!<END>
+//What? Jito has shot from midfield<LINE>
+//without thinking!<END>
 
-//Son tir est très puissant!<LINE>
-//Le ballon file tout droit<LINE>
-//vers les buts de Nankatsu.<END>
+//His shot is very powerful!<LINE>
+//The ball is heading straight<LINE>
+//toward Nankatsu's goal.<END>
 
-//Mais Morisaki, le gardien de Nankatsu,<LINE>
-//a vu venir ce tir, et se prépare<LINE>
-//à l'arrêter.<LINE>
-//Je crois qu'il va l'avoir.<END>
+//But Morisaki, Nankatsu's goalkeeper,<LINE>
+//saw this shot coming and prepares<LINE>
+//to stop it.<LINE>
+//I think he's got it.<END>
 
-//OK, je l'ai.<END>
+//OK, I've got it.<END>
 
-//... Quoi?<END>
+//... What?<END>
 
-//Hein? Sano a sauté du côté du but<LINE>
-//et a dévié la trajectoire du ballon!<END>
+//Huh? Sano jumped to the side of the goal<LINE>
+//and deflected the ball's trajectory!<END>
 
-//Il est rentré! C'est un but!<END>
+//It's in! It's a goal!<END>
 
-//Ah ah ah! Vous avez vu ça?<LINE>
-//On peut modifier la trajectoire du ballon<LINE>
-//juste devant le but!<LINE>
-//C'est notre combinaison de jeu!<END>
+//Ahahaha! Did you see that?<LINE>
+//We can change the ball's trajectory<LINE>
+//just in front of the goal!<LINE>
+//It's our combination play!<END>
 
-//Les champions de Nankatsu se sont laissés<LINE>
-//berner par une technique toute simple!<END>
+//The champions of Nankatsu were deceived<LINE>
+//by such a simple technique!<END>
 

@@ -1,101 +1,100 @@
 // FILE: EP0555.str containing 31 strings
 
-//Tsubasa va tirer un Drive shoot!<END>
+//Tsubasa is going to shoot a Drive shoot!<END>
 
-//Même avec une jambe et une épaule blessées,<LINE>
-//je vais réussir ce Drive shoot!<END>
+//Even with a leg and a shoulder injured,<LINE>
+//I will succeed in this Drive shoot!<END>
 
-//C'est ça qu'il va faire?<LINE>
-//Bon sang, si on n'arrive pas à contrer<LINE>
-//son Drive shoot, nous ne sommes<LINE>
-//plus du tout certains de gagner le match!<END>
+//Is that what he's going to do?<LINE>
+//Damn, if we can't counter<LINE>
+//his Drive shoot, we are no longer<LINE>
+//certain to win the match!<END>
 
-//C'est parti, Drive shoot!<END>
+//Here we go, Drive shoot!<END>
 
-//Malgré ses blessures, Tsubasa tire!<LINE>
-//On dirait qu'il ne voit plus rien d'autre<LINE>
-//que le ballon et les buts adverses!<END>
+//Despite his injuries, Tsubasa shoots!<LINE>
+//It looks like he doesn't see anything else<LINE>
+//but the ball and the opposing goal!<END>
 
-//Quoi?<LINE>
-//Sano se jette sur la trajectoire du tir!<END>
+//What?<LINE>
+//Sano throws himself in the path of the shot!<END>
 
-//Mais Sano est éjecté dans les airs!<END>
+//But Sano is ejected into the air!<END>
 
 //Sano!<END>
 
-//Le corps de Sano a arrêté le Drive shoot<LINE>
-//de Tsubasa!<END>
+//Sano's body stopped Tsubasa's Drive shoot!<END>
 
-//Mais Tsubasa ne perd pas de temps<LINE>
-//et se rue sur le ballon!<END>
+//But Tsubasa doesn't waste any time<LINE>
+//and rushes towards the ball!<END>
 
-//Le ballon est toujours en jeu!<END>
+//The ball is still in play!<END>
 
-//Tsubasa, le capitaine de Nankatsu, charge<LINE>
-//durant cette seconde mi-temps<LINE>
-//vers les buts adverses<LINE>
-//avec une étonnante ténacité!<END>
+//Tsubasa, the captain of Nankatsu, charges<LINE>
+//towards the opposing goal<LINE>
+//with astonishing tenacity<LINE>
+//during this second half!<END>
 
 //Grrr…<LINE>
-//Sano, ta défense n'aura pas été vaine!<END>
+//Sano, your defense was not in vain!<END>
 
-//Et Tsubasa tente un Drive shoot!<END>
+//And Tsubasa attempts a Drive shoot!<END>
 
-//Mais Jito tente le même mouvement défensif<LINE>
-//que Sano, et se précipite pour bloquer<LINE>
-//le ballon avec son corps!<END>
+//But Jito attempts the same defensive move<LINE>
+//as Sano, and rushes to block<LINE>
+//the ball with his body!<END>
 
 //Argh!<END>
 
-//La résistance de Hirado est incroyable!<LINE>
-//Ils ne laissent pas entrer un seul but!<END>
+//Hirado's resistance is incredible!<LINE>
+//They don't allow a single goal to get in!<END>
 
-//Le corps de géant de Jito a lui aussi été<LINE>
-//projeté par l'impact!<LINE>
-//Le Drive shoot de Tsubasa est vraiment<LINE>
-//d'une puissance diabolique!<END>
+//Jito's giant body was also<LINE>
+//thrown by the impact!<LINE>
+//Tsubasa's Drive shoot is really<LINE>
+//diabolically powerful!<END>
 
-//Et Tsubasa se précipite à nouveau<LINE>
-//vers le ballon retombé au sol!<LINE>
-//C'est tout bonnement incroyable!<END>
+//And Tsubasa rushes again<LINE>
+//towards the ball that has fallen to the ground!<LINE>
+//It's simply incredible!<END>
 
-//Pas encore…<LINE>
-//Vous n'avez pas encore paré<LINE>
-//mon Drive shoot!<LINE>
-//Le Drive shoot de Roberto est invincible!<END>
+//Not yet…<LINE>
+//You haven't yet defended against<LINE>
+//my Drive shoot!<LINE>
+//Roberto's Drive shoot is invincible!<END>
 
-//Il est complètement focalisé sur les buts!<LINE>
-//Et sur la victoire!<LINE>
-//Pour une troisième victoire consécutive<LINE>
-//en tournoi national!<END>
+//He is completely focused on the goal!<LINE>
+//And on victory!<LINE>
+//For a third consecutive victory<LINE>
+//in the national tournament!<END>
 
 //Ah!<END>
 
-//Ne t'imagine pas que nous allons laisser<LINE>
-//passer le ballon!<END>
+//Don't imagine that we're going to let<LINE>
+//the ball pass!<END>
 
-//Oh! Jito se relève immédiatement<LINE>
-//après avoir pris le Drive shoot de Tsubasa<LINE>
-//de plein fouet!<END>
+//Oh! Jito immediately gets up<LINE>
+//after taking Tsubasa's Drive shoot<LINE>
+//in full force!<END>
 
-//Ouah!<END>
+//Wow!<END>
 
-//Et il va le bloquer une nouvelle fois!<LINE>
-//Quelle défense extraordinaire!<END>
+//And he's going to block it again!<LINE>
+//What an extraordinary defense!<END>
 
-//Et encore une fois, il est frappé<LINE>
-//par le Drive shoot de Tsubasa!<END>
+//And once again, he is struck<LINE>
+//by Tsubasa's Drive shoot!<END>
 
-//Mais... Qu'est-ce que…<LINE>
-//Buuuuut!<END>
+//But... What is this...<LINE>
+//Goaaal!<END>
 
-//En voulant bloquer le Drive shoot,<LINE>
-//Jito a été repoussé derrière<LINE>
-//sa propre ligne de but!<END>
+//In trying to block the Drive shoot,<LINE>
+//Jito was pushed behind<LINE>
+//his own goal line!<END>
 
-//Quelle erreur...<END>
+//What a mistake...<END>
 
-//L'obstination de Tsubasa a été plus forte<LINE>
-//que celle de ses adversaires!<LINE>
-//Et son Drive shoot était fabuleux!<END>
+//Tsubasa's determination was stronger<LINE>
+//than that of his opponents!<LINE>
+//And his Drive shoot was fabulous!<END>
 

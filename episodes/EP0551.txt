@@ -1,61 +1,60 @@
 // FILE: EP0551.str containing 20 strings
 
-//Oh, pendant que Sano garde la balle,<LINE>
-//Jito fait un appel croisé<LINE>
-//depuis l'aile opposée!<END>
+//Oh, while Sano keeps the ball,<LINE>
+//Jito makes a cross run<LINE>
+//from the opposite wing!<END>
 
-//Les gars, Jito remonte le terrain!<END>
+//Guys, Jito is moving up the field!<END>
 
-//Hein?<END>
+//What?<END>
 
-//Hé hé hé, vous voulez vraiment me laisser<LINE>
-//tout seul? C'est moi qui ai le ballon,<LINE>
-//vous avez oublié?<END>
+//Heh heh heh, do you really want to leave me<LINE>
+//all alone? It's me who has the ball,<LINE>
+//have you forgotten?<END>
 
-//Sano traverse juste devant les buts,<LINE>
-//se donnant une occasion de tirer!<END>
+//Sano is running just in front of the goal,<LINE>
+//giving himself a chance to shoot!<END>
 
-//Attention! Ne le laissez pas tirer!<END>
+//Watch out! Don't let him shoot!<END>
 
-//Hmm... Je crois que je vais plutôt passer.<END>
+//Hmm... I think I'll pass instead.<END>
 
-//Hein?<END>
+//What?<END>
 
-//Sano a préféré faire une passe!<LINE>
-//Il s'amuse avec les champions de Nankatsu!<END>
+//Sano decided to make a pass!<LINE>
+//He's having fun with the champions of Nankatsu!<END>
 
-//Mais Jito n'est pas pour <LINE>
-//autant libre de ses mouvements.<LINE>
-//Il est marqué par Oda.<END>
+//But Jito is not as free<LINE>
+//in his movements. He's marked by Oda.<END>
 
-//Vous ne comprenez pas?<LINE>
-//Vous pouvez venir autant que vous voulez,<LINE>
-//ça ne changera rien!<END>
+//Don't you understand?<LINE>
+//You can come as much as you want,<LINE>
+//it won't change anything!<END>
 
-//Hein? Malgré son marquage,<LINE>
-//Jito tire en force!<END>
+//What? Despite being marked,<LINE>
+//Jito shoots with force!<END>
 
-//Cependant, ce n'est pas cette fois-ci<LINE>
-//un tir à longue distance,<LINE>
-//mais un tir à pleine puissance<LINE>
-//à bout portant!<LINE>
-//Morisaki va-t-il réussir à l'arrêter?<END>
+//However, this time<LINE>
+//it's not a long-distance shot,<LINE>
+//but a full-power shot<LINE>
+//from point-blank range!<LINE>
+//Will Morisaki be able to stop it?<END>
 
 //!!<END>
 
-//Il... Il l'a eu!<LINE>
-//Morisaki s'est placé juste devant le ballon<LINE>
-//pour l'arrêter!<END>
+//He... He got it!<LINE>
+//Morisaki placed himself right in front of the ball<LINE>
+//to stop it!<END>
 
-//Bien joué, Morisaki!<END>
+//Well done, Morisaki!<END>
 
 //Argh...<END>
 
-//Hein?<END>
+//What?<END>
 
 //Mo... Morisaki!<END>
 
-//Non! On dirait que le gardien est tombé<LINE>
-//dans les buts avec le ballon!<LINE>
-//Quelle puissance incroyable!<END>
+//No! It looks like the goalkeeper fell<LINE>
+//into the goal with the ball!<LINE>
+//What incredible power!<END>
 

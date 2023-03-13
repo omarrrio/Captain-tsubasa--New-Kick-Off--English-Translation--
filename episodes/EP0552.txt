@@ -1,25 +1,25 @@
 // FILE: EP0552.str containing 9 strings
 
-//Tsubasa s'apprête à tirer!<END>
+//Tsubasa is about to shoot!<END>
 
-//OK, voilà notre premier but!<END>
+//OK, here comes our first goal!<END>
 
-//Jito anticipe et se lance<LINE>
-//pour arrêter le tir!<END>
+//Jito anticipates and rushes<LINE>
+//to block the shot!<END>
 
-//Tu crois que tu peux marquer?<END>
+//You think you can score?<END>
 
-//Mais le tir à mi-distance de Tsubasa<LINE>
-//est parti juste un peu trop tôt pour Jito!<LINE>
-//Dans son élan, Jito percute Tsubasa!<END>
+//But Tsubasa's mid-range shot<LINE>
+//was released just a bit too early for Jito!<LINE>
+//In his momentum, Jito collides with Tsubasa!<END>
 
-//Et le tir touche le poteau!<END>
+//And the shot hits the post!<END>
 
-//Quelle malchance!<LINE>
-//Pas de but pour Nankatsu!<END>
+//What bad luck!<LINE>
+//No goal for Nankatsu!<END>
 
 //!!<END>
 
-//L'épaule gauche blessée de Tsubasa<LINE>
-//est encore une fois touchée!<END>
+//Tsubasa's injured left shoulder<LINE>
+//is once again affected!<END>
 

@@ -1,69 +1,68 @@
 // FILE: EP0501.str containing 20 strings
 
-//La première mi-temps vient de s'achever<LINE>
-//et Nankatsu a perdu son avantage.<LINE>
-//On peut dire que le chemin<LINE>
-//vers un troisième titre consécutif<LINE>
-//est devenu un peu plus escarpé.<END>
+//The first half just ended<LINE>
+//and Nankatsu lost their advantage.<LINE>
+//We can say that the path<LINE>
+//to a third consecutive title<LINE>
+//has become a little steeper.<END>
 
-//OK, c'est bon.<LINE>
-//On va simplement jouer la seconde mi-temps<LINE>
-//sans concéder de but comme d'habitude.<LINE>
-//Hmmm... Il n'y en pas un seul<LINE>
-//qui soit aussi fort que moi.<END>
+//OK, it's fine.<LINE>
+//We'll just play the second half<LINE>
+//without conceding a goal as usual.<LINE>
+//Hmmm... There isn't a single<LINE>
+//one who's as strong as me.<END>
 
-//C'est foutu, on ne peut pas gagner.<END>
+//It's over, we can't win.<END>
 
-//Tsubasa... Taki et Kisugi...<LINE>
-//Tous blessés...<END>
+//Tsubasa... Taki and Kisugi...<LINE>
+//All injured...<END>
 
-//Les gars, ce n'est pas le moment<LINE>
-//d'abandonner!<LINE>
-//Nous ne sommes qu'à mi-chemin!<END>
+//Guys, this is not the time<LINE>
+//to give up!<LINE>
+//We're only halfway there!<END>
 
-//Taki, Kisugi, comment vous sentez-vous?<END>
+//Taki, Kisugi, how are you feeling?<END>
 
-//Ça ira. Juste quelques égratignures.<LINE>
-//Nous sommes prêts pour la seconde mi-temps.<END>
+//We're fine. Just a few scratches.<LINE>
+//We're ready for the second half.<END>
 
-//Mais Tsubasa n'est pas encore remis.<END>
+//But Tsubasa is not fully recovered yet.<END>
 
-//Tu ne veux quand même pas jeter l'éponge?<END>
+//You're not seriously giving up, are you?<END>
 
-//Jamais! Je n'abandonnerai pas!<LINE>
-//Il est trop tôt pour baisser les bras.<END>
+//Never! I won't give up!<LINE>
+//It's too early to throw in the towel.<END>
 
-//En plus, je n'ai pas encore utilisé<LINE>
-//mon Drive shoot.<END>
+//Besides, I haven't used<LINE>
+//my Drive Shoot yet.<END>
 
 //Hmm...<END>
 
-//OK, les gars.<LINE>
-//C'est parti pour la seconde mi-temps.<END>
+//OK, guys.<LINE>
+//Let's get started with the second half.<END>
 
 //Ah... Tsubasa...<END>
 
-//Il a raison. On doit aller de l'avant!<LINE>
-//La première mi-temps n'a aucune<LINE>
-//importance, peu importe le score.<END>
+//He's right. We have to move forward!<LINE>
+//The first half doesn't matter,<LINE>
+//no matter what the score is.<END>
 
-//On va devoir tout donner tous ensemble!<END>
+//We'll have to give it our all together!<END>
 
-//Un seul sourire de Tsubasa et le moral<LINE>
-//des autres joueurs remonte.<LINE>
-//Même blessé, Tsubasa reste le pilier<LINE>
-//de l'équipe.<END>
+//Just one smile from Tsubasa and the morale<LINE>
+//of the other players rises.<LINE>
+//Even injured, Tsubasa remains the pillar<LINE>
+//of the team.<END>
 
-//OK, c'est parti!<END>
+//OK, let's go!<END>
 
-//Et les deux équipes sont de retour<LINE>
-//sur le terrain!<LINE>
-//La seconde mi-temps débute enfin!<END>
+//And both teams are back<LINE>
+//on the field!<LINE>
+//The second half finally begins!<END>
 
-//Il y avait quelques inquiétudes<LINE>
-//sur la santé du capitaine Tsubasa,<LINE>
-//mais il est bien sur le terrain<LINE>
-//pour le début de la seconde mi-temps.<LINE>
-//Et c'est à Nankatsu de frapper le coup<LINE>
-//d'envoi.<END>
+//There were some concerns<LINE>
+//about the health of captain Tsubasa,<LINE>
+//but he's on the field<LINE>
+//for the start of the second half.<LINE>
+//And it's Nankatsu's turn to kick off.<END>
 
