@@ -1,58 +1,58 @@
 // FILE: EP0655.str containing 18 strings
 
-//Jamais de la vie! Je vais te passer<LINE>
-//grâce à mon excellent contrôle de balle!<END>
+//No way! I'll get past you thanks to<LINE>
+//my excellent ball control!<END>
 
-//Tu ne me passeras pas!<END>
+//You won't get past me!<END>
 
-//Oh que si!<END>
+//Oh, yes I will!<END>
 
-//Je vais t'arrêter!<LINE>
-//C'est la seule chose que je puisse<LINE>
-//encore faire dans ce match!<END>
+//I'll stop you!<LINE>
+//It's the only thing I can do<LINE>
+//in this match now!<END>
 
-//Oh non! On dirait qu'ils se foncent<LINE>
-//dedans! Oui, ils se sont percutés!<END>
+//Oh no! They seem to be colliding!<LINE>
+//Yes, they crashed into each other!<END>
 
-//Est-ce que Matsuyama va en profiter<LINE>
-//pour faire une passe, ou va-t-il tenter<LINE>
-//un tir à longue distance?<END>
+//Will Matsuyama take advantage of this<LINE>
+//to make a pass or will he attempt<LINE>
+//a long-range shot?<END>
 
-//Matsuyama se met en position pour tirer!<END>
+//Matsuyama is getting into position to shoot!<END>
 
-//Mais Nankatsu tente désespérément<LINE>
-//de le bloquer!<END>
+//But Nankatsu is desperately trying<LINE>
+//to block him!<END>
 
-//Maintenant!<END>
+//Now!<END>
 
-//Mais Matsuyama change de position<LINE>
-//pour faire une passe!<LINE>
-//Il envoie le ballon vers les buts!<END>
+//But Matsuyama changes his position<LINE>
+//to make a pass!<LINE>
+//He sends the ball towards the goal!<END>
 
-//Matsuyama laisse à ses coéquipiers<LINE>
-//le soin de conclure l'action!<END>
+//Matsuyama leaves it to his teammates<LINE>
+//to finish the move!<END>
 
-//Les joueurs de Furano se positionnent<LINE>
-//face au ballon devant les buts!<END>
+//The Furano players are positioning<LINE>
+//themselves in front of the goal!<END>
 
-//Allez! Il faut que nous transformions<LINE>
-//la passe du capitaine en but!<END>
+//Come on! We have to turn<LINE>
+//the captain's pass into a goal!<END>
 
-//L'amitié et la confiance nous unissent.<LINE>
-//Je compte sur vous les gars!<END>
+//Friendship and trust unite us.<LINE>
+//I'm counting on you guys!<END>
 
-//Morisaki, le gardien de Nankatsu,<LINE>
-//plonge vers le ballon!<END>
+//Morisaki, the Nankatsu goalkeeper,<LINE>
+//dives towards the ball!<END>
 
-//But!<LINE>
-//Morisaki n'a rien pu faire<LINE>
-//contre cette puissante attaque!<LINE>
-//Furano ne lâche rien et nous montre <LINE>
-//aujourd'hui son meilleur football!<END>
+//Goal!<LINE>
+//Morisaki couldn't do anything<LINE>
+//against this powerful attack!<LINE>
+//Furano is not giving up and showing us<LINE>
+//its best football today!<END>
 
-//On a réussi!<END>
+//We did it!<END>
 
-//Tsubasa a reçu un choc très violent<LINE>
-//à son épaule blessée, et a été<LINE>
-//littéralement éjecté dans les airs!<END>
+//Tsubasa received a very violent shock<LINE>
+//to his injured shoulder and was<LINE>
+//literally thrown into the air!<END>
 

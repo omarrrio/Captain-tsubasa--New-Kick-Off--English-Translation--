@@ -1,53 +1,52 @@
 // FILE: EP0754.str containing 17 strings
 
-//Tsubasa défie Hyuga en face-à-face!<END>
+//Tsubasa challenges Hyuga one-on-one!<END>
 
-//Et cette fois, c'est Hyuga qui l'emporte.<END>
+//And this time, it's Hyuga who wins.<END>
 
-//Hyuga remonte le terrain seul<LINE>
-//tout en dribblant.<END>
+//Hyuga dribbles up the field alone.<END>
 
-//Je refuse de perdre!<LINE>
-//Je refuse de perdre encore une fois!<LINE>
-//Que ce soit contre Tsubasa<LINE>
-//ou n'importe qui!<END>
+//I refuse to lose!<LINE>
+//I refuse to lose again!<LINE>
+//Whether it's against Tsubasa<LINE>
+//or anyone else!<END>
 
-//Grrr! Je vais lui reprendre le ballon<LINE>
-//pour venger Tsubasa!<END>
+//Grrr! I'll take the ball back from him<LINE>
+//to avenge Tsubasa!<END>
 
-//Prends ça, Hyuga!<END>
+//Take that, Hyuga!<END>
 
-//Kisugi se rue violemment…<END>
+//Kisugi rushes violently…<END>
 
-//… pour tacler Hyuga de plein fouet!<END>
+//…to tackle Hyuga head on!<END>
 
-//Ça... Ça ne l'a pas du tout perturbé!<END>
+//That... That didn't bother him at all!<END>
 
-//Hmmm! Si un seul joueur ne suffit pas,<LINE>
-//alors allons-y tous ensemble!<END>
+//Hmmm! If one player isn't enough,<LINE>
+//then let's all go together!<END>
 
-//Une vague de joueurs de Nankatsu<LINE>
-//se rapproche de lui!<END>
+//A wave of Nankatsu players<LINE>
+//approaches him!<END>
 
-//Amenez-vous si ça vous chante!<LINE>
-//Et essayez donc de m'arrêter!<LINE>
-//Peu importe votre nombre!<END>
+//Come on if you want!<LINE>
+//And try to stop me!<LINE>
+//No matter how many of you there are!<END>
 
-//Goûtez donc à mon Tiger shot!<END>
+//Taste my Tiger Shot!<END>
 
 //Argh!<END>
 
-//Hyuga défie le raz-de-marée!<LINE>
-//Et ce sont les autres joueurs<LINE>
-//qui sont éjectés!<END>
+//Hyuga challenges the tidal wave!<LINE>
+//And it's the other players<LINE>
+//who are ejected!<END>
 
-//Hyuga a brisé la déferlante avec son Tiger<LINE>
-//shot! Le gardien Morisaki n'a pas eu<LINE>
-//le temps de réagir!<END>
+//Hyuga has broken the wave with his Tiger<LINE>
+//Shot! Goalkeeper Morisaki didn't have<LINE>
+//time to react!<END>
 
-//C'est vraiment impressionnant!<LINE>
-//Le Tiger shot de Hyuga<LINE>
-//est un rouleau compresseur!<LINE>
-//Ce superbe tir permet à Toho<LINE>
-//d'inscrire un but!<END>
+//It's really impressive!<LINE>
+//Hyuga's Tiger Shot<LINE>
+//is a steamroller!<LINE>
+//This superb shot allows Toho<LINE>
+//to score a goal!<END>
 

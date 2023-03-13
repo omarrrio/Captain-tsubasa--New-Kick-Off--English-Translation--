@@ -2,69 +2,67 @@
 
 //Taki!<END>
 
-//Tsubasa passe le ballon<LINE>
-//et fait une accélération!<END>
+//Tsubasa passes the ball<LINE>
+//and makes an acceleration!<END>
 
-//Tsubasa, attrape!<END>
+//Tsubasa, catch it!<END>
 
-//Taki renvoie la passe!<LINE>
-//La balle flotte littéralement<LINE>
-//dans les airs!<END>
-
-//OK!<END>
+//Taki returns the pass!<LINE>
+//The ball is literally floating<LINE>
+//in the air!<END>
 
 //OK!<END>
 
-//Malgré cela, Tsubasa file vers les buts.<END>
+//OK!<END>
 
-//Et le gardien Wakashimazu plonge!<END>
+//Despite this, Tsubasa heads towards the goal.<END>
 
-//Non!<LINE>
-//Les deux joueurs se sont percutés<LINE>
-//en plein vol!<END>
+//And goalkeeper Wakashimazu dives!<END>
 
-//Et ils sont retombés ensemble!<END>
+//No!<LINE>
+//The two players collide<LINE>
+//in mid-air!<END>
 
-//Tsubasa, tu n'as rien?<END>
+//And they fall down together!<END>
 
-//Je vais bien. Ce n'était rien du tout.<END>
+//Tsubasa, are you okay?<END>
 
-//Tu dis ça, mais tu te tiens l'épaule...<END>
+//I'm fine. It was nothing.<END>
 
-//Pourquoi faut-il que tu tires autant<LINE>
-//sur la corde?<END>
+//You say that, but you're holding your shoulder...<END>
 
-//Oui, c'était évident<LINE>
-//que vous alliez vous rentrer dedans.<LINE>
-//Tu n'avais pas besoin d'aller <LINE>
-//le défier en l'air.<END>
+//Why do you always push yourself<LINE>
+//so hard?<END>
+
+//Yeah, it was obvious<LINE>
+//that you two were going to crash into each other.<LINE>
+//You didn't have to go <LINE>
+//challenge him in the air.<END>
 
 //...<END>
 
-//C'est parce que c'était une passe de Taki.<END>
+//It's because it was a pass from Taki.<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Comme c'était une passe de Taki,<LINE>
-//une passe d'un coéquipier,<LINE>
-//il voulait marquer à tout prix,<LINE>
-//quitte même à se sacrifier.<END>
+//Since it was a pass from a teammate Taki,<LINE>
+//he wanted to score at all costs,<LINE>
+//even if it meant sacrificing himself.<END>
 
-//Tsubasa est comme ça.<END>
+//That's just how Tsubasa is.<END>
 
 //Tsubasa...<END>
 
-//Ah ah.<LINE>
-//Mais je vais très bien.<LINE>
-//Ne vous en faites pas pour moi.<END>
+//Ahaha.<LINE>
+//But I'm perfectly fine.<LINE>
+//Don't worry about me.<END>
 
-//Bon, le match n'est pas encore terminé.<END>
+//Well, the match isn't over yet.<END>
 
 //...<END>
 
-//Grâce au dégagement de Sawada de <LINE>
-//la Toho ils ont réussi à obtenir un <LINE>
-//corner. C'est désormais l'état de <LINE>
-//Wakashimazu et de Tsubasa après <LINE>
-//leur chute qui nous inquiète.<END>
+//Thanks to Sawada's clearance from<LINE>
+//Toho they managed to get a corner. Now<LINE>
+//the condition of Wakashimazu and Tsubasa<LINE>
+//after their fall is what worries us.<END>
 

@@ -1,44 +1,40 @@
 // FILE: EP0601.str containing 13 strings
 
-//Nankatsu contre Furano.<LINE>
-//Les deux équipes très équilibrées<LINE>
-//ont mérité leur place en demi-finale.<END>
+//Nankatsu against Furano.<LINE>
+//The two very evenly matched teams<LINE>
+//have earned their place in the semi-finals.<END>
 
-//OK, c'est du bon travail, les gars.<LINE>
-//Essuyez votre sueur et battez-vous encore<LINE>
-//en seconde mi-temps!<LINE>
-//Un dernier effort!<END>
+//OK, great work, guys.<LINE>
+//Wipe your sweat and keep fighting<LINE>
+//in the second half!<LINE>
+//One last push!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//Tsubasa, tu peux continuer?<END>
+//Tsubasa, can you continue?<END>
 
-//Oui, sans problème.<END>
+//Yes, no problem.<END>
 
-//Je ne vais pas perdre!<LINE>
-//Je refuse de perdre au Japon!<END>
+//I'm not going to lose!<LINE>
+//I refuse to lose in Japan!<END>
 
-//OK, continue comme ça en seconde mi-temps.<LINE>
-//Tiens bon et la victoire est assurée!<END>
+//OK, keep it up in the second half.<LINE>
+//Hold on and victory is assured!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Nankatsu est fort…<LINE>
-//Et leur défense est vraiment très serrée.<LINE>
-//Mais en combinant toutes nos forces,<LINE>
-//on doit pouvoir les briser!<END>
+//Nankatsu is strong…<LINE>
+//And their defense is really tight.<LINE>
+//But by combining all of our strengths,<LINE>
+//we should be able to break them!<END>
 
-//Voici enfin la seconde mi-temps.<LINE>
-//Les trente dernières minutes<LINE>
-//d'un combat acharné!<END>
+//Here comes the second half at last.<LINE>
+//The final thirty minutes<LINE>
+//of an intense battle!<END>
 
-//Et voici enfin la seconde mi-temps<LINE>
-//du match!<END>
+//And here comes the second half<LINE>
+//of the match!<END>
 
-//Je vais me montrer digne de la confiance<LINE>
-//de mes camarades, et sceller le cours<LINE>
-//du match avec ma maîtrise du Drive shoot!<END>
-
-//Et à l'instant critique,<LINE>
-//je marquerai un but!<END>
+//I'll show myself worthy of the trust<LINE>
+//of my teammat
 

@@ -1,55 +1,54 @@
 // FILE: EP0652.str containing 18 strings
 
-//Matsuyama et Tsubasa courent tous les deux<LINE>
-//vers le ballon!<LINE>
-//Qui va l'atteindre en premier?<END>
+//Matsuyama and Tsubasa are both running towards<LINE>
+//the ball!<LINE>
+//Who will reach it first?<END>
 
-//Capitaine, laisse-le nous!<END>
+//Captain, let us take care of it!<END>
 
 //OK.<END>
 
-//Matsuyama part vers la droite!<END>
+//Matsuyama heads to the right!<END>
 
 //Grrr...<END>
 
-//C'est maintenant une course entre Tsubasa<LINE>
-//et Kanéda qui a surgi de l'aile!<END>
+//Now it's a race between Tsubasa<LINE>
+//and Kaneda, who has come up from the wing!<END>
 
-//Tsubasa ne va pas s'en sortir.<LINE>
-//Kanéda fait une passe en le taclant!<END>
+//Tsubasa won't make it.<LINE>
+//Kaneda makes a pass while tackling him!<END>
 
-//Oh non!<END>
+//Oh no!<END>
 
-//OK, je l'ai.<END>
+//OK, I've got it.<END>
 
-//Matsuyama est démarqué et déja en position<LINE>
-//de tir.<END>
+//Matsuyama is open and already in position<LINE>
+//to shoot.<END>
 
-//Maintenant... Je vais marquer!<END>
+//Now... I'm going to score!<END>
 
-//Je ne suis pas aussi doué pour le football<LINE>
-//que Tsubasa ou Hyuga...<LINE>
-//C'est pour ça que je m'entraîne.<LINE>
-//La seule façon de toujours s'améliorer<LINE>
-//est de travailler!<END>
+//I'm not as naturally talented at football<LINE>
+//as Tsubasa or Hyuga...<LINE>
+//That's why I train.<LINE>
+//The only way to always get better<LINE>
+//is to work hard!<END>
 
-//Matsuyama a mis toute sa puissance<LINE>
-//dans ce long tir!<END>
+//Matsuyama puts all his power<LINE>
+//into this long shot!<END>
 
-//Le tir de Matsuyama reste très près du<LINE>
-//sol!<END>
+//Matsuyama's shot stays very close to the ground!<END>
 
-//But! Il a marqué!<LINE>
-//Le gardien Morisaki a mis trop de temps<LINE>
-//à réagir!<END>
+//Goal! He scored!<LINE>
+//Goalkeeper Morisaki took too long<LINE>
+//to react!<END>
 
-//Un splendide tir à longue distance<LINE>
-//de Matsuyama!<LINE>
-//L'entraînement dans les dures conditions<LINE>
-//de Hokkaido l'a rendu très fort!<END>
+//A splendid long-distance shot<LINE>
+//from Matsuyama!<LINE>
+//Training in the tough conditions<LINE>
+//of Hokkaido has made him very strong!<END>
 
-//Matsuyama a marqué avec un long tir<LINE>
-//après l'Avalanche move de Furano!<END>
+//Matsuyama scored with a long shot<LINE>
+//after Furano's Avalanche move!<END>
 
-//On a marqué, les gars!<END>
+//We scored, guys!<END>
 

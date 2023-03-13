@@ -1,25 +1,23 @@
 // FILE: EP0751.str containing 8 strings
 
-//Maintenant!<END>
+//Koike sends the ball to the right!<END>
 
-//Koïké envoie le ballon sur la droite!<END>
+//And now Hyuga centers<LINE>
+//towards Nankatsu's goal!<END>
 
-//Et maintenant Hyuga centre<LINE>
-//en direction des buts de Nankatsu!<END>
+//Take this!<LINE>
+//I just need to see<LINE>
+//a small piece of the goal<LINE>
+//to be able to aim my Tiger Shot!<END>
 
-//Prends ça!<LINE>
-//J'ai juste besoin de voir<LINE>
-//un petit bout des buts<LINE>
-//pour pouvoir cadrer mon Tiger shot!<END>
+//What's this?... Hyuga didn't center!<LINE>
+//He shot without having an angle!<END>
 
-//Qu'est-ce que?... Hyuga n'a pas centré!<LINE>
-//Il a tiré sans avoir d'angle de tir!<END>
+//And... Goal!<END>
 
-//Et... But!<END>
+//Nobody in front of the goal had time<LINE>
+//to move before the ball landed<LINE>
+//in the back of the net!<END>
 
-//Personne devant les buts n'a eu le temps<LINE>
-//de bouger avant que le ballon n'atterrisse<LINE>
-//au fond des filets!<END>
-
-//C'est son Tiger shot!<END>
+//It's his Tiger Shot!<END>
 

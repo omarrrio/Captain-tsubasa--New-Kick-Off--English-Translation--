@@ -1,39 +1,37 @@
 // FILE: EP0757.str containing 11 strings
 
-//Laisse-moi faire!<END>
+//Let me handle it!<END>
 
-//Une passe croisée d'Ishizaki!<END>
+//A cross pass from Ishizaki!<END>
 
-//Désolé les amis, mais j'ai joué<LINE>
-//avec le grand Tsubasa Ozora plus longtemps<LINE>
-//que n'importe lequel d'entre vous.<LINE>
-//Tsubasa, gagnons ce match!<LINE>
-//Gagnons-le ensemble!<END>
+//Sorry guys, but I've played with<LINE>
+//the great Tsubasa Ozora longer than<LINE>
+//any of you. Tsubasa, let's win this<LINE>
+//match! Let's win it together!<END>
 
-//Ishizaki saute vers le ballon!<LINE>
-//Mais Hyuga est déjà de retour près des buts<LINE>
-//et bondit au même moment!<END>
+//Ishizaki jumps towards the ball!<LINE>
+//But Hyuga is already back near the<LINE>
+//goal and jumps at the same time!<END>
 
-//Tu t'imagines que je vais<LINE>
-//te laisser marquer?<END>
+//Do you think I'll let<LINE>
+//you score?<END>
 
-//Oh! La tête d'Ishizaki n'est pas passée!<LINE>
-//Hyuga s'est dressé devant tel un mur!<END>
+//Oh! Ishizaki's header didn't go through!<LINE>
+//Hyuga stood in front of it like a wall!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Ishizaki renvoie le ballon en plein vol!<END>
+//Ishizaki sends the ball back in mid-air!<END>
 
-//Ishizaki... Et vous tous les gars...<END>
+//Ishizaki... And all you guys...<END>
 
-//Et maintenant Tsubasa vole vers le ballon!<LINE>
-//Les actions de Nankatsu se terminent<LINE>
-//toujours avec leur capitaine Tsubasa!<END>
+//And now Tsubasa flies towards the ball!<LINE>
+//Nankatsu's actions always end with<LINE>
+//their captain Tsubasa!<END>
 
-//Et c'est le but!<LINE>
-//Les magnifiques passes de Nankatsu<LINE>
-//et la courageuse <LINE>
-//retournée acrobatique de Tsubasa<LINE>
-//ont finalement poussé le ballon<LINE>
-//au fond des buts!<END>
+//And it's a goal!<LINE>
+//The beautiful passes from Nankatsu<LINE>
+//and the courageous acrobatic kick<LINE>
+//from Tsubasa have finally pushed the<LINE>
+//ball into the net!<END>
 

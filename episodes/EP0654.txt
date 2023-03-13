@@ -2,26 +2,24 @@
 
 //Izawa!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Tsubasa n'a touché le ballon qu'un instant<LINE>
-//mais il n'a pas pu l'envoyer vers le but!<END>
+//Tsubasa only touched the ball for a moment<LINE>
+//but he couldn't send it towards the goal!<END>
 
-//Tsubasa est blessé, mais il arrive<LINE>
-//malgré tout à produire ce niveau de jeu!<LINE>
-//Je dois absolument réussir moi aussi!<END>
+//Tsubasa is injured, but he is still able<LINE>
+//to produce this level of play!<LINE>
+//I absolutely have to succeed too!<END>
 
-//C'est une passe en retrait pour Izawa!<LINE>
-//Izawa se jette devant les buts<LINE>
-//dans une tentative de tête plongeante<LINE>
-//désespérée!<END>
+//It's a back pass to Izawa!<LINE>
+//Izawa dives in front of the goal<LINE>
+//in a desperate attempt at a diving header!<END>
 
-//But!<LINE>
-//Izawa s'est servi de sa détente prodigieuse<LINE>
-//pour réaliser un plongeon de cinq mètres!<END>
+//Goal!<LINE>
+//Izawa used his incredible leap<LINE>
+//to make a dive of five meters!<END>
 
-//Tout en se battant avec Matsuyama,<LINE>
-//Tsubasa a réussi une passe<LINE>
-//incroyable, cadrée au millimètre<LINE>
-//près dans les pieds d'Izawa!<END>
+//While fighting with Matsuyama,<LINE>
+//Tsubasa managed an incredible pass,<LINE>
+//accurately placed in Izawa's feet!<END>
 

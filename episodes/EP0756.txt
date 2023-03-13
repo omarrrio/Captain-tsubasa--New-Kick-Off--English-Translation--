@@ -1,39 +1,39 @@
 // FILE: EP0756.str containing 14 strings
 
-//En avant, l'équipe des tacleurs de Toho!<END>
+//Let's go, Toho's tackling team!<END>
 
-//Mais Nankatsu est plus fort!<END>
+//But Nankatsu is stronger!<END>
 
-//Jamais vous ne me la prendrez!<END>
+//You'll never take it from me!<END>
 
-//J'arrive!<END>
+//I'm coming!<END>
 
-//Nankatsu file vers les buts de Toho<LINE>
-//avec détermination!<END>
+//Nankatsu heads towards Toho's goal<LINE>
+//with determination!<END>
 
-//On ne perdra pas!<LINE>
-//Vous aurez beau jouer avec la plus<LINE>
-//grande détermination possible,<LINE>
-//ça n'aura aucun effet sur moi!<END>
+//We won't lose!<LINE>
+//You can play with the greatest<LINE>
+//determination possible,<LINE>
+//it won't have any effect on me!<END>
 
-//Malgré la bonne volonté de Nankatsu,<LINE>
-//Hyuga ne recule pas d'un centimètre!<END>
+//Despite Nankatsu's good will,<LINE>
+//Hyuga doesn't back down a bit!<END>
 
-//Oh! Et il se met en position de tir!<END>
+//Oh! And he's in shooting position!<END>
 
-//Prenez ça!<END>
+//Take this!<END>
 
-//Le Tiger shot file tout droit.<LINE>
-//Si je me positionne face à Hyuga,<LINE>
-//le ballon viendra droit sur moi!<END>
+//The Tiger Shot goes straight ahead.<LINE>
+//If I position myself in front of Hyuga,<LINE>
+//the ball will come straight at me!<END>
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
-//Et... C'est un but!<LINE>
-//Le gardien Wakashimazu n'a pas eu<LINE>
-//la moindre chance!<END>
+//And... it's a goal!<LINE>
+//Goalkeeper Wakashimazu didn't<LINE>
+//stand a chance!<END>
 
 //...<END>
 
-//Ce... Ce n'est pas possible...<END>
+//Thi... This can't be happening...<END>
 

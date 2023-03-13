@@ -1,42 +1,42 @@
 // FILE: EP0653.str containing 14 strings
 
-//Vélo retourné! <END>
+//Bicycle kick!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Et voici le fameux Vélo retourné<LINE>
-//tant attendu de Tsubasa.<LINE>
-//Matsuyama ne pourra pas bloquer ça!<END>
+//And here comes Tsubasa's famous<LINE>
+//bicycle kick!<LINE>
+//Matsuyama won't be able to stop this!<END>
 
-//Mais le ballon vient de très loin!<LINE>
-//Tsubasa va avoir du mal à le contrôler!<END>
+//But the ball is coming from a long way off!<LINE>
+//Tsubasa is going to have trouble controlling it!<END>
 
 //!!<END>
 
-//Kato a sauté vers le ballon,<LINE>
-//mais il n'a pas réussi à l'atteindre!<END>
+//Kato has jumped up towards the ball,<LINE>
+//but he hasn't been able to reach it!<END>
 
-//Et c'est un but!<LINE>
-//Le ballon a été parfaitement cadré<LINE>
-//dans la partie droite du but!<LINE>
-//Un superbe tir retourné à longue distance<LINE>
-//de Tsubasa!<END>
+//And it's a goal!<LINE>
+//The ball has been perfectly aimed<LINE>
+//into the right side of the goal!<LINE>
+//A superb long-range bicycle kick<LINE>
+//by Tsubasa!<END>
 
-//Oh! Tsubasa va retomber<LINE>
-//sur son épaule blessée!<END>
+//Oh! Tsubasa is going to land<LINE>
+//on his injured shoulder!<END>
 
 //Tsubasa!<END>
 
-//Matsuyama était sous Tsubasa<LINE>
-//pour amortir sa chute!<END>
+//Matsuyama was under Tsubasa<LINE>
+//to cushion his fall!<END>
 
 //Matsuyama!<END>
 
-//Tsubasa, tu n'es pas blessé?<END>
+//Tsubasa, are you hurt?<END>
 
-//Merci, Matsuyama.<END>
+//Thanks, Matsuyama.<END>
 
-//Pas la peine de me remercier.<LINE>
-//Je préfère battre un Tsubasa<LINE>
-//en bonne santé.<END>
+//No need to thank me.<LINE>
+//I'd rather beat a<LINE>
+//top performant Tsubasa.<END>
 

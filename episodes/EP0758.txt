@@ -2,114 +2,114 @@
 
 //Drive shoot!<END>
 
-//Je ne te laisserai pas entrer<LINE>
-//dans les buts de Toho!<LINE>
+//I won't let you get<LINE>
+//into Toho's goal!<LINE>
 //Tiger shot!<END>
 
-//Hyuga est face au ballon!<LINE>
-//Va-t-il réussir à repousser le Drive shoot<LINE>
-//avec un Tiger shot?<END>
+//Hyuga is facing the ball!<LINE>
+//Will he be able to repel the Drive shoot<LINE>
+//with a Tiger shot?<END>
 
-//C'est un duel! Un face-à-face!<END>
+//It's a duel! A face-to-face!<END>
 
-//C'est... C'est incroyable!<LINE>
-//Les deux joueurs ont frappé au même instant<LINE>
-//et avec la même force le ballon<LINE>
-//qui n'a pas bougé d'un centimètre!<LINE>
-//Tsubasa et Hyuga ont été repoussés<LINE>
-//par la violence de l'impact!<END>
+//It's... It's incredible!<LINE>
+//Both players struck the ball at the same moment<LINE>
+//and with the same force<LINE>
+//which didn't budge an inch!<LINE>
+//Tsubasa and Hyuga were repelled<LINE>
+//by the violence of the impact!<END>
 
-//Oh, Tsubasa se relève!<END>
+//Oh, Tsubasa stands up!<END>
 
-//Allez! Mon rêve dépend de toi!<LINE>
-//Sois ma victoire!<LINE>
+//Come on! My dream depends on you!<LINE>
+//Be my victory!<LINE>
 //Drive shoot!<END>
 
-//Le Drive shoot de Tsubasa file<LINE>
-//dans les airs.<END>
+//Tsubasa's Drive shoot flies<LINE>
+//into the air.<END>
 
-//Je vais l'arrêter!<LINE>
-//Je vais vous montrer<LINE>
-//que je peux l'arrêter!<END>
+//I'll stop it!<LINE>
+//I'll show you<LINE>
+//that I can stop it!<END>
 
-//Tégatana defense!<END>
+//Tegatana defense!<END>
 
-//Oh! Il l'a bloqué!<LINE>
-//Nankatsu n'a pas marqué!<END>
+//Oh! He blocked it!<LINE>
+//Nankatsu didn't score!<END>
 
-//Mais après avoir arrêté le tir,<LINE>
-//Wakashimazu a perdu l'équilibre,<LINE>
-//et a percuté le poteau de but<LINE>
-//avec l'épaule droite!<END>
+//But after stopping the shot,<LINE>
+//Wakashimazu lost his balance,<LINE>
+//and hit the goal post<LINE>
+//with his right shoulder!<END>
 
-//Le ballon roule maintenant vers Tsubasa!<END>
+//The ball now rolls towards Tsubasa!<END>
 
-//Mais Tsubasa est tombé à genoux!<LINE>
-//Que se passe-t-il?<END>
+//But Tsubasa fell to his knees!<LINE>
+//What's going on?<END>
 
-//Le ballon... Mon ami revient vers moi.<END>
+//The ball... My friend comes back to me.<END>
 
-//Je vais marquer! Oui, je vais marquer!<END>
+//I'll score! Yes, I'll score!<END>
 
-//Je continuerai d'utiliser mon Drive shoot<LINE>
-//jusqu'à ce qu'on ait brisé<LINE>
-//la défense de la Toho.<LINE>
-//Jusqu'à la victoire de la Nankatsu!<END>
+//I'll keep using my Drive shoot<LINE>
+//until we break<LINE>
+//Toho's defense.<LINE>
+//Until Nankatsu's victory!<END>
 
-//Allez! Je dois bouger!<END>
+//Come on! I have to move!<END>
 
 //Rrraagh! Tiger...<END>
 
 //Shot!<END>
 
-//Il l'a renvoyé!<END>
+//He returned it!<END>
 
-//Pense-t-il sérieusement profiter du rebond<LINE>
-//du Drive shoot de Tsubasa sur le poteau<LINE>
-//pour viser les buts de Nankatsu?<END>
+//Does he seriously think to take advantage of the rebound<LINE>
+//of Tsubasa's Drive shoot on the post<LINE>
+//to aim for Nankatsu's goal?<END>
 
-//C'est... C'est le dernier tir!<END>
+//It's... It's the final shot!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Il est renvoyé à nouveau!<END>
+//It's returned again!<END>
 
-//Tsubasa le renvoie avec un Drive shoot!<END>
+//Tsubasa returns it with a Drive shoot!<END>
 
-//Il a effectué un Jumping high volley kick<LINE>
-//pour tirer le ballon<LINE>
-//que Hyuga lui avait déjà renvoyé!<END>
+//He performed a Jumping high volley kick<LINE>
+//to shoot the ball<LINE>
+//that Hyuga had already returned to him!<END>
 
-//Cette fois, c'est sûr!<LINE>
-//Il va marquer et ce sera<LINE>
-//la troisième victoire de Nankatsu!<END>
+//This time, for sure!<LINE>
+//He's going to score and it will be<LINE>
+//Nankatsu's third victory!<END>
 
 //Rrraaagh!<END>
 
-//Oh! Wakashimazu est debout!<LINE>
-//Alors qu'il était blessé à terre,<LINE>
-//il tente maintenant un plongeon<LINE>
-//en prenant appui sur le poteau!<END>
+//Oh! Wakashimazu is standing up!<LINE>
+//Even though he was injured on the ground,<LINE>
+//he's now attempting a dive<LINE>
+//using the post as leverage!<END>
 
-//Il a pris le tir en pleine poitrine!<END>
+//He caught the shot with his chest!<END>
 
-//Mais ça ne suffit pas!<LINE>
-//Même s'il a attrapé la balle,<LINE>
-//il va tomber avec dans les buts.<END>
+//But it's not enough!<LINE>
+//Even though he caught the ball,<LINE>
+//he's going to fall with it into the goal.<END>
 
-//Allez!<END>
+//Come on!<END>
 
-//Je vais l'arrêter!<LINE>
-//Je ne laisserai pas Tsubasa…<LINE>
-//Je ne laisserai pas Nankatsu<LINE>
-//marquer un autre but!<END>
+//I'll stop it!<LINE>
+//I won't let Tsubasa...<LINE>
+//I won't let Nankatsu<LINE>
+//score another goal!<END>
 
-//Il l'a arrêté! Il l'a encore arrêté!<END>
+//He stopped it! He stopped it again!<END>
 
-//Alors que Wakashimazu allait tomber<LINE>
-//dans le but, Hyuga a plongé<LINE>
-//pour le rattraper!<END>
+//As Wakashimazu was about to fall<LINE>
+//into the goal, Hyuga dove<LINE>
+//to catch him!<END>
 
-//Le ballon a fini sa course<LINE>
-//juste devant la ligne de but!<END>
+//The ball ended its trajectory<LINE>
+//just in front of the goal line!<END>
 

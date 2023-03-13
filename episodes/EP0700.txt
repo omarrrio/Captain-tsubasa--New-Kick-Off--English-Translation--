@@ -1,23 +1,23 @@
 // FILE: EP0700.str containing 7 strings
 
-//C'est mon dernier match au Japon...<LINE>
-//Et le dernier de mes années de collège.<END>
+//This is my last match in Japan...<LINE>
+//And the last one of my middle school years.<END>
 
-//Et notre dernier match ensemble!<END>
+//And our last match together!<END>
 
-//Aujourd'hui la victoire sera mienne!<LINE>
-//Je ne perdrai pas, Tsubasa.<END>
+//Today, victory will be mine!<LINE>
+//I won't lose, Tsubasa.<END>
 
 //Hyuga.<END>
 
-//Les joueurs des deux équipes sont<LINE>
-//sur le terrain.<END>
+//The players of both teams are<LINE>
+//on the field.<END>
 
-//C'est à Toho Gakuen de donner<LINE>
-//le coup d'envoi.<END>
+//It's Toho Gakuen's turn<LINE>
+//to kick off.<END>
 
-//Le capitaine Hyuga, qui fait<LINE>
-//sa première apparition dans le tournoi,<LINE>
-//attend le coup de sifflet<LINE>
-//avec son coéquipier Sawada.<END>
+//Captain Hyuga, who is making<LINE>
+//his first appearance in the tournament,<LINE>
+//awaits the whistle<LINE>
+//with his teammate Sawada.<END>
 

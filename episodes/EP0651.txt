@@ -1,69 +1,69 @@
 // FILE: EP0651.str containing 21 strings
 
-//OK, c'est parti!<END>
+//OK, let's go!<END>
 
-//Tu t'imagines que tu vas t'en tirer<LINE>
-//avec ça?<END>
+//You think you can get away with that?<LINE>
+//<END>
 
 //Ah!<END>
 
-//Matsuyama, le capitaine de Furano, est<LINE>
-//revenu jusqu'ici et a intercepté le ballon.<END>
+//Matsuyama, the captain of Furano, has<LINE>
+//come back here and intercepted the ball.<END>
 
-//OK, allons-y!<LINE>
-//Tout le monde en avant!<LINE>
-//C'est le moment de l'Avalanche<LINE>
-//de Furano!<END>
+//OK, let's go!<LINE>
+//Everyone forward!<LINE>
+//It's time for the Avalanche<LINE>
+//of Furano!<END>
 
-//Quoi? L'Avalanche?<END>
+//What? The Avalanche?<END>
 
-//Oh! Furano contre-attaque!<LINE>
-//Tous les joueurs de Furano se dirigent<LINE>
-//vers les buts de Nankatsu!<END>
+//Oh! Furano counter-attacks!<LINE>
+//All the players of Furano are heading<LINE>
+//towards Nankatsu's goal!<END>
 
-//Que se passe-t-il?<LINE>
-//Ils remontent tous le terrain!<END>
+//What's happening?<LINE>
+//They're all moving up the field!<END>
 
-//Allez, allez, les gars!<LINE>
-//Je vous enverrai le ballon!<END>
+//Come on, come on, guys!<LINE>
+//I'll send you the ball!<END>
 
-//C'est une tactique audacieuse!<LINE>
-//Ils doivent tous avoir une confiance totale<LINE>
-//en Matsuyama et en sa capacité de garder<LINE>
-//le ballon.<END>
+//It's a bold tactic!<LINE>
+//They must all have complete confidence<LINE>
+//in Matsuyama and his ability to keep<LINE>
+//the ball.<END>
 
-//Kisugi et Taki tentent de<LINE>
-//lui prendre le ballon,<LINE>
-//mais Matsuyama ne se laisse pas faire!<END>
+//Kisugi and Taki try to<LINE>
+//take the ball from him,<LINE>
+//but Matsuyama won't let them!<END>
 
-//Il a la réputation d'avoir<LINE>
-//le meilleur contrôle de balle du tournoi.<END>
+//He's reputed to have<LINE>
+//the best ball control in the tournament.<END>
 
 //!<END>
 
-//Tsubasa court lui aussi vers Matsuyama!<END>
+//Tsubasa also runs towards Matsuyama!<END>
 
-//Je vais passer en longueur<LINE>
-//avant qu'il arrive!<END>
+//I'll pass it long<LINE>
+//before he gets here!<END>
 
-//Là!<END>
+//There!<END>
 
-//Matsuyama a fait une longue passe en avant<LINE>
-//à ses coéquipiers qui remontent le terrain.<END>
+//Matsuyama made a long pass ahead<LINE>
+//to his teammates who are moving up the field.<END>
 
-//Peu importe leur nombre,<LINE>
-//il n'y a qu'un seul ballon!<LINE>
-//Je vais contrer leur attaque<LINE>
-//en dégageant la balle!<END>
+//No matter how many there are,<LINE>
+//there's only one ball!<LINE>
+//I'll counter their attack<LINE>
+//by clearing the ball!<END>
 
-//Ça ne marchera pas...<LINE>
-//Ils se couvrent les uns les autres.<END>
+//That won't work...<LINE>
+//They're covering each other.<END>
 
-//Oui, même si tu interceptes le ballon,<LINE>
-//nous le reprendrons en nous couvrant<LINE>
-//mutuellement.<LINE>
-//C'est ça l'Avalanche de Furano!<END>
+//Yes, even if you intercept the ball,<LINE>
+//we'll take it back by covering<LINE>
+//each other.<LINE>
+//That's the Avalanche of Furano!<END>
 
-//L'Avalanche de Furano va-t-il réussir<LINE>
-//à briser la défense de Nankatsu?<END>
+//Will the Avalanche of Furano succeed<LINE>
+//in breaking through Nankatsu's defense?<END>
 

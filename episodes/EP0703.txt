@@ -1,60 +1,58 @@
 // FILE: EP0703.str containing 18 strings
 
 //Tsubasa?<LINE>
-//Tsubasa, ça va?<END>
+//Tsubasa, are you okay?<END>
 
-//Les amis...<END>
+//Friends...<END>
 
-//Qu'y a-t-il Tsubasa?<END>
+//What's wrong, Tsubasa?<END>
 
-//Je... Je veux jouer en seconde mi-temps.<END>
+//I... I want to play in the second half.<END>
 
-//Mais je ne serai pas capable de jouer<LINE>
-//au meilleur de mes capacités.<END>
+//But I won't be able to play to the best of my abilities.<END>
 
-//Vous pouvez me remplacer si vous voulez.<LINE>
-//Je ne veux pas être un poids pour vous.<LINE>
-//Ça ne me gêne pas...<END>
+//You can replace me if you want.<LINE>
+//I don't want to be a burden to you.<LINE>
+//It doesn't bother me...<END>
 
 //Tsubasa...<END>
 
-//Mais... je voudrais vraiment pouvoir jouer<LINE>
-//jusqu'à la fin…<LINE>
-//Être sur le terrain jusqu'à la fin...<END>
+//But... I really want to be able to play<LINE>
+//until the end...<LINE>
+//To be on the field until the end...<END>
 
-//Alors viens Tsubasa!<LINE>
-//On va se battre ensemble<LINE>
-//pour la seconde mi-temps!<LINE>
-//On est arrivés jusqu'ici ensemble!<LINE>
-//On ira jusqu'au bout ensemble!<END>
+//Then come on, Tsubasa!<LINE>
+//We'll fight together<LINE>
+//for the second half!<LINE>
+//We've come this far together!<LINE>
+//We'll go all the way together!<END>
 
-//Les amis...<END>
+//Friends...<END>
 
-//Vous êtes tous d'accord?<LINE>
-//Vous voulez bien me laisser jouer,<LINE>
-//même dans cet état?<END>
+//Are you all in agreement?<LINE>
+//Will you let me play,<LINE>
+//even in this condition?<END>
 
-//Bien sûr!<END>
+//Of course!<END>
 
-//Tu es notre capitaine!<END>
+//You are our captain!<END>
 
-//Mes amis...<END>
+//My friends...<END>
 
-//La dernière pause est bientôt terminée.<LINE>
-//Je me demande quelles directives<LINE>
-//les entraîneurs sont en train de donner<LINE>
-//à leurs équipes...<END>
+//The last break is almost over.<LINE>
+//I wonder what instructions<LINE>
+//the coaches are giving their teams...<END>
 
-//Vous êtes arrivés jusqu'ici, alors<LINE>
-//je n'ai plus de consignes à vous donner.<LINE>
-//Faites en sorte de ne rien regretter<LINE>
-//et battez-vous de toutes vos forces!<END>
+//You've come this far, so<LINE>
+//I have no more instructions to give you.<LINE>
+//Make sure you have no regrets<LINE>
+//and fight with all your might!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Le stade tremble sous les applaudissements<LINE>
-//de la foule alors que les deux équipes<LINE>
-//entrent sur le terrain!<LINE>
-//Il est temps de commencer<LINE>
-//les dix dernières minutes de prolongation!<END>
+//The stadium trembles with applause<LINE>
+//from the crowd as the two teams<LINE>
+//enter the field!<LINE>
+//It's time to start<LINE>
+//the last ten minutes of extra time!<END>
 

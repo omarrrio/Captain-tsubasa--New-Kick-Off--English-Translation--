@@ -1,78 +1,77 @@
 // FILE: EP0759.str containing 27 strings
 
-//Hyuga a été un peu plus rapide!<LINE>
-//Il dégage le ballon!<END>
+//Hyuga was a little faster!<LINE>
+//He clears the ball!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Tsubasa... Nous sommes amis, n'est-ce pas?<END>
+//Tsubasa... We are friends, right?<END>
 
-//Ishizaki... Et vous autres...<LINE>
-//Mes amis...<END>
+//Ishizaki... And you all...<LINE>
+//My friends...<END>
 
-//Tiens, Tsubasa!<END>
+//Here, Tsubasa!<END>
 
-//Ishizaki renvoie le ballon à Tsubasa!<END>
+//Ishizaki sends the ball back to Tsubasa!<END>
 
-//Le numéro onze de Nankatsu<LINE>
-//suivait Tsubasa!<LINE>
-//Ishizaki de Nankatsu passe le ballon<LINE>
-//à Tsubasa alors qu'il est toujours au sol!<END>
+//The number eleven of Nankatsu<LINE>
+//was following Tsubasa!<LINE>
+//Nankatsu's Ishizaki passes the ball<LINE>
+//to Tsubasa while he's still on the ground!<END>
 
-//Une passe d'Ishizaki... De tout le monde...<END>
+//A pass from Ishizaki... From everyone...<END>
 
-//Ils sont là!<LINE>
-//Mes amis sont toujours derrière moi!<LINE>
-//Tout le monde est là pour moi!<LINE>
-//Je ne suis pas tout seul!<END>
+//They're here!<LINE>
+//My friends are always behind me!<LINE>
+//Everyone is here for me!<LINE>
+//I'm not alone!<END>
 
-//Tsubasa! À toi de jouer maintenant!<END>
+//Tsubasa! It's your turn now!<END>
 
-//Ohhhh! Tsubasa s'est relevé!<END>
+//Ohhhh! Tsubasa got up!<END>
 
-//Mais le ballon vient de derrière lui!<LINE>
-//Tsubasa ne peut pas le voir...<END>
+//But the ball came from behind him!<LINE>
+//Tsubasa can't see it...<END>
 
-//Bats-toi, Tsubasa!<END>
+//Fight, Tsubasa!<END>
 
-//Mon dernier tir au Japon!<LINE>
-//Mon but d'adieu!<END>
+//My last shot in Japan!<LINE>
+//My farewell goal!<END>
 
-//Tsubasa met toute son énergie dans son tir.<END>
+//Tsubasa puts all his energy into his shot.<END>
 
-//C'est un tir bas, pas un Drive shoot!<END>
+//It's a low shot, not a Drive Shoot!<END>
 
-//Allez, Tsubasa!<LINE>
-//Je vais l'arrêter d'une main!<END>
+//Come on, Tsubasa!<LINE>
+//I'll stop it with one hand!<END>
 
-//Mais le ballon a de l'effet!<LINE>
-//Il a obliqué!<LINE>
-//Serait-ce... un Drive shoot?<END>
+//But the ball has some spin!<LINE>
+//It curved!<LINE>
+//Could it be... a Drive Shoot?<END>
 
-//Mais il tourne trop.<LINE>
-//Et il ne se dirige plus vers le but!<END>
+//But it's spinning too much.<LINE>
+//And it's not going towards the goal anymore!<END>
 
-//Comment?!<END>
+//What?!<END>
 
-//Le ballon a obliqué vers le sol,<LINE>
-//et rebondit maintenant avec un backspin<LINE>
-//qui l'envoie directement dans le filet.<LINE>
-//C'est un but!<END>
+//The ball curved towards the ground,<LINE>
+//and is now bouncing with a backspin<LINE>
+//that sends it directly into the net.<LINE>
+//It's a goal!<END>
 
-//C'est…c'est un tir littéralement <LINE>
-//miraculeux! Tsubasa a effectué <LINE>
-//un Drive shoot pour réaliser <LINE>
-//un tir inédit!<END>
+//It's... it's a literally miraculous shot!<LINE>
+//Tsubasa performed a Drive Shoot to make<LINE>
+//an unprecedented shot!<END>
 
-//Un tir! Il me faut juste un tir!<END>
+//A shot! I just need one shot!<END>
 
-//Allez, Tsubasa! Amène-toi!<END>
+//Come on, Tsubasa! Bring it on!<END>
 
-//Mais le ballon n'est pas perdu!<LINE>
-//Ishizaki a repris le ballon<LINE>
-//envoyé par Hyuga!<END>
+//But the ball is not lost!<LINE>
+//Ishizaki has taken the ball<LINE>
+//sent by Hyuga!<END>
 
-//Oui! J'ai réussi!<END>
+//Yes! I did it!<END>
 
 <END>
 

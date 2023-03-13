@@ -1,140 +1,138 @@
 // FILE: EP0702.str containing 38 strings
 
-//Ça y est. L'arbitre vient de siffler<LINE>
-//la fin de la seconde mi-temps.<END>
+//That's it. The referee just blew the whistle<LINE>
+//ending the second half.<END>
 
-//Aucune des deux équipes n'a pu marquer<LINE>
-//le but de la victoire<LINE>
-//lors des soixante minutes précédentes.<LINE>
-//La finale du tournoi national<LINE>
-//opposant Nankatsu à Toho se prolonge donc<LINE>
-//de deux autres mi-temps de dix minutes.<LINE>
-//Vingt minutes de plus de lutte acharnée...<END>
+//Neither team was able to score<LINE>
+//the winning goal<LINE>
+//during the previous sixty minutes.<LINE>
+//The final of the national tournament<LINE>
+//between Nankatsu and Toho is therefore extended<LINE>
+//by two additional ten-minute halves.<LINE>
+//Twenty more minutes of fierce struggle...<END>
 
 //Tsu... Tsubasa!<LINE>
-//Que s'est-il passé?<END>
+//What happened?<END>
 
-//Hé, Tsubasa!<END>
+//Hey, Tsubasa!<END>
 
-//Bon, les gars, on va devoir jouer<LINE>
-//les prolongations.<END>
+//Well, guys, we're going to have to play<LINE>
+//overtime.<END>
 
 //Tsu... Tsubasa...<LINE>
-//Tu te sens bien?<END>
+//Are you feeling okay?<END>
 
-//Tsubasa, je suis désolé<LINE>
-//mais je ne peux pas te laisser jouer<LINE>
-//plus longtemps.<END>
+//Tsubasa, I'm sorry<LINE>
+//but I can't let you play<LINE>
+//any longer.<END>
 
-//Tu as accompli un travail formidable,<LINE>
-//mais tu dois maintenant écouter le médecin.<LINE>
-//Ta jambe et ton épaule ont besoin<LINE>
-//d'être soignées.<END>
+//You've done a great job,<LINE>
+//but you need to listen to the doctor now.<LINE>
+//Your leg and shoulder need<LINE>
+//to be treated.<END>
 
-//Oui, Tsubasa.<LINE>
-//En tant que médecin,<LINE>
-//je ne peux pas t'autoriser à retourner<LINE>
-//sur le terrain.<LINE>
-//Allez, accompagne-moi à l'infirmerie.<END>
+//Yes, Tsubasa.<LINE>
+//As a doctor,<LINE>
+//I cannot allow you to return<LINE>
+//to the field.<LINE>
+//Come on, come with me to the infirmary.<END>
 
-//Docteur, vous vous souvenez de la promesse<LINE>
-//que vous m'aviez faite?<END>
+//Doctor, do you remember the promise<LINE>
+//you made to me?<END>
 
-//Laquelle?<END>
+//Which one?<END>
 
-//Je suis toujours debout.<LINE>
-//Je ne suis pas tombé.<LINE>
-//N'est-ce pas?<END>
+//I'm still standing.<LINE>
+//I haven't fallen.<LINE>
+//Right?<END>
 
-//Je vous en supplie. Laissez-moi aller<LINE>
-//au bout de ce que mon corps peut endurer.<END>
+//Please. Let me go<LINE>
+//as far as my body can endure.<END>
 
-//Je dois retourner sur le terrain<LINE>
-//pour affronter Hyuga.<END>
+//I have to go back on the field<LINE>
+//to face Hyuga.<END>
 
-//Je vais jouer les prolongations!<END>
+//I'm going to play extra time!<END>
 
-//Docteur, vous croyez vraiment qu'un joueur<LINE>
-//blessé et diminué aurait pu jouer<LINE>
-//comme il a joué?<END>
+//Doctor, do you really think a<LINE>
+//injured and diminished player could have<LINE>
+//played as he did?<END>
 
-//Quand Tsubasa ne pourra plus bouger<LINE>
-//et qu'il handicapera l'équipe...<LINE>
-//nous le remplacerons.<END>
+//When Tsubasa can no longer move<LINE>
+//and handicaps the team...<LINE>
+//we'll replace him.<END>
 
-//Les gars...<END>
+//Guys...<END>
 
-//Mais pour l'instant,<LINE>
-//Nankatsu a encore besoin de Tsubasa.<END>
+//But for now,<LINE>
+//Nankatsu still needs Tsubasa.<END>
 
-//Tsubasa, pourquoi tu n'irais pas te reposer<LINE>
-//sur le banc?<LINE>
-//Ça devrait te redonner un peu d'énergie.<END>
+//Tsubasa, why don't you go rest<LINE>
+//on the bench?<LINE>
+//It should give you some energy.<END>
 
 //Ishizaki...<END>
 
-//On va aller jusqu'au bout tous ensemble,<LINE>
-//jusqu'à notre troisième titre national!<LINE>
-//D'accord, Tsubasa?<END>
+//We'll go all the way together,<LINE>
+//to our third national title!<LINE>
+//Agreed, Tsubasa?<END>
 
-//Oui.<END>
+//Yes.<END>
 
-//Plus qu'un match, un seul match,<LINE>
-//et c'est fini.<END>
+//Just one more match, one match left,<LINE>
+//and it's over.<END>
 
 //Hyuga.<END>
 
-//Vous avez bien joué<LINE>
-//pendant ces soixante minutes.<LINE>
-//Alors récupérez bien<LINE>
-//pour les vingt dernières minutes!<END>
+//You played well<LINE>
+//during those sixty minutes.<LINE>
+//So rest up<LINE>
+//for the final twenty minutes!<END>
 
 //OK!<END>
 
-//Wakashimazu, tu ne peux plus te servir<LINE>
-//que de ta main droite,<LINE>
-//mais tu vas quand même être notre gardien<LINE>
-//pour les vingt prochaines minutes.<END>
+//Wakashimazu, you can only use<LINE>
+//your right hand now,<LINE>
+//but you're still going to be our keeper<LINE>
+//for the next twenty minutes.<END>
 
-//Ou-oui, entraîneur! Bien sûr!<END>
+//Y-yes, coach! Of course!<END>
 
-//Et voici enfin le début des prolongations<LINE>
-//de la finale du National Junior High School<LINE>
+//And now, the start of extra time<LINE>
+//in the final of the National Junior High School<LINE>
 //Tournament.<END>
 
-//Le match a été splendide, et digne<LINE>
-//de ce que l'on attendait d'un match<LINE>
-//destiné à couronner<LINE>
-//la meilleur équipe du pays.<LINE>
-//Nankatsu et Toho méritent<LINE>
-//toutes les deux la victoire.<END>
+//The match has been splendid, and worthy<LINE>
+//of what was expected from a match<LINE>
+//destined to crown<LINE>
+//the best team in the country.<LINE>
+//Nankatsu and Toho both deserve<LINE>
+//the victory.<END>
 
-//Est-ce que ce sera Nankatsu,<LINE>
-//qui vise un troisième titre national<LINE>
-//consécutif historique?<LINE>
-//Ou est-ce que la troisième tentative<LINE>
-//sera la bonne pour Toho<LINE>
-//qui rêve de sa première victoire?<END>
+//Will it be Nankatsu,<LINE>
+//aiming for a historic third consecutive national title?<LINE>
+//Or will the third attempt<LINE>
+//be successful for Toho,<LINE>
+//dreaming of their first victory?<END>
 
-//Les dix première minutes des prolongations<LINE>
-//vont bientôt commencer<LINE>
-//devant un stade plein à craquer.<END>
+//The first ten minutes of extra time<LINE>
+//will soon begin<LINE>
+//in front of a packed stadium.<END>
 
-//Si aucune des deux équipes ne l'emporte,<LINE>
-//elles seront toutes les deux<LINE>
-//déclarées gagnantes.<END>
+//If neither team wins,<LINE>
+//they'll both be declared<LINE>
+//the winners.<END>
 
-//Les amis…<LINE>
-//Je ne serais jamais arrivé là<LINE>
-//sans votre aide.<END>
+//Friends...<LINE>
+//I would never have made it here<LINE>
+//without your help.<END>
 
-//Mais je serai bientôt seul,<LINE>
-//car au terme de notre troisième titre<LINE>
-//national consécutif,<LINE>
-//je partirai pour le Brésil.<END>
+//But soon I'll be alone,<LINE>
+//because after our third consecutive national title,<LINE>
+//I'll leave for Brazil.<END>
 
-//Merci les amis. Merci pour tout.<END>
+//Thanks, friends. Thanks for everything.<END>
 
-//C'est à Nankatsu de donner le coup d'envoi<LINE>
-//des prolongations.<END>
+//It's up to Nankatsu to start<LINE>
+//the extra time.<END>
 

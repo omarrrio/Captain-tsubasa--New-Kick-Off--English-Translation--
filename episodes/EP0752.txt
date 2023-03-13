@@ -1,68 +1,68 @@
 // FILE: EP0752.str containing 20 strings
 
-//Arrêtez-les! Formez un mur!<LINE>
-//Ne les laissez pas tirer!<END>
+//Stop them! Form a wall!<LINE>
+//Don't let them shoot!<END>
 
-//Toho essaie d'éviter un but<LINE>
-//en dressant un mur<LINE>
-//sur le chemin de Tsubasa.<END>
+//Toho tries to prevent a goal<LINE>
+//by building a wall<LINE>
+//in the path of Tsubasa.<END>
 
-//Vas-y, Tsubasa! Tire ton Drive shoot!<LINE>
-//J'ai compris comment l'arrêter!<END>
+//Go, Tsubasa! Shoot your Drive shoot!<LINE>
+//I've figured out how to stop it!<END>
 
-//Pour un tir ordinaire,<LINE>
-//le gardien doit s'avancer<LINE>
-//pour diminuer l'angle de tir possible, mais<LINE>
-//pour le Drive shoot, c'est l'inverse...<END>
+//For an ordinary shot,<LINE>
+//the goalkeeper must move forward<LINE>
+//to reduce the possible shooting angle, but<LINE>
+//for the Drive shoot, it's the opposite...<END>
 
-//Pour arrêter le Drive shoot,<LINE>
-//je vais rester juste devant la ligne de but<LINE>
-//et attraper le ballon<LINE>
-//au moment de sa descente.<END>
+//To stop the Drive shoot,<LINE>
+//I'll stay right in front of the goal line<LINE>
+//and catch the ball<LINE>
+//at the moment of its descent.<END>
 
-//Allez, Drive shoot! Brise ce mur!<END>
+//Come on, Drive shoot! Break this wall!<END>
 
-//Le voilà!<LINE>
-//Le super tir de Tsubasa, le Drive shoot!<END>
+//There it is!<LINE>
+//The super shot of Tsubasa, the Drive shoot!<END>
 
-//Moi, Ken Wakashimazu, je vais arrêter<LINE>
-//le Drive shoot!<END>
+//I, Ken Wakashimazu, will stop<LINE>
+//the Drive shoot!<END>
 
-//Wakashimazu ne s'avance pas. Au contraire,<LINE>
-//il attend sur la ligne de but, prêt à<LINE>
-//arrêter le ballon!<END>
+//Wakashimazu does not move forward. On the contrary,<LINE>
+//he waits on the goal line, ready to<LINE>
+//stop the ball!<END>
 
 //Argh!<END>
 
-//Il... Il l'a arrêté!<END>
+//He... He stopped it!<END>
 
-//Wakashimazu a attrapé le ballon<LINE>
-//d'une seule main,<LINE>
-//juste sur la ligne de but!<LINE>
-//Il... Il a vaincu le Drive shoot!<END>
+//Wakashimazu caught the ball<LINE>
+//with one hand,<LINE>
+//right on the goal line!<LINE>
+//He... He defeated the Drive shoot!<END>
 
-//Comment?<END>
+//How?<END>
 
 //!!<END>
 
-//Oh! Attendez!<END>
+//Oh! Wait!<END>
 
-//Nous pensions qu'il avait arrêté<LINE>
-//le Drive shoot de Tsubasa,<LINE>
-//mais le ballon n'avait ni perdu<LINE>
-//sa puissance ni sa vitesse<LINE>
-//de rotation…<END>
+//We thought he had stopped<LINE>
+//Tsubasa's Drive shoot,<LINE>
+//but the ball had not lost<LINE>
+//its power or speed<LINE>
+//of rotation...<END>
 
-//Quoi? Wakashimazu!<END>
+//What? Wakashimazu!<END>
 
-//Eh bien, il semble que le match<LINE>
-//ne soit pas encore terminé!<END>
+//Well, it seems that the match<LINE>
+//is not yet over!<END>
 
-//Mon Drive shoot…<LINE>
-//C'est la première fois<LINE>
-//que quelqu'un arrive à réagir assez vite<LINE>
-//pour le toucher.<LINE>
-//Beau travail, Wakashimazu.<END>
+//My Drive shoot...<LINE>
+//It's the first time<LINE>
+//someone has reacted fast enough<LINE>
+//to touch it.<LINE>
+//Good job, Wakashimazu.<END>
 
-//… repoussant ainsi le gardien Wakashimazu!<END>
+//...thus repelling goalkeeper Wakashimazu!<END>
 

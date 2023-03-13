@@ -1,50 +1,50 @@
 // FILE: EP0760.str containing 16 strings
 
-//Non, Hyuga!<LINE>
-//Si tu tires de là, ça ne marchera pas!<END>
+//No, Hyuga!<LINE>
+//If you shoot from there, it won't work!<END>
 
-//Oh! Sawada s'est élancé pour empêcher<LINE>
-//son coéquipier Hyuga de tirer!<END>
+//Oh! Sawada rushed to stop<LINE>
+//his teammate Hyuga from shooting!<END>
 
-//C'est... C'est ça!<LINE>
-//Takeshi, ta jambe! Par ici!<END>
+//That's... That's it!<LINE>
+//Takeshi, your leg! Over here!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Oh... Que se passe-t-il?<END>
+//Oh... What's happening?<END>
 
-//Hyuga utilise la jambe de Sawada<LINE>
-//pour sauter, alors que ce dernier arrivait<LINE>
-//sur lui avec un tacle glissé!<END>
+//Hyuga uses Sawada's leg<LINE>
+//to jump, as the latter was<LINE>
+//sliding in for a tackle!<END>
 
-//Et il saute par dessus la défense<LINE>
-//de Nankatsu pour atterrir sans encombre!<END>
+//And he jumps over Nankatsu's defense<LINE>
+//to land unscathed!<END>
 
-//Là, en un clin d'œil, il tire à la volée!<END>
+//Then, in the blink of an eye, he shoots on the fly!<END>
 
-//Allez! Un lob... Tiger shot!<END>
+//Go! A lob... Tiger shot!<END>
 
-//Le ballon fonce droit vers le gardien!<LINE>
-//Mais la balle est assez puissante<LINE>
-//pour repousser Morisaki dans les buts!<END>
+//The ball zooms straight towards the keeper!<LINE>
+//But the shot is powerful enough<LINE>
+//to push Morisaki back into the goal!<END>
 
-//Or, Tsubasa est devant le but!<LINE>
-//Il plonge pour rattraper Morisaki!<END>
+//However, Tsubasa is in front of the net!<LINE>
+//He dives to catch Morisaki!<END>
 
-//Ouuuaah!<END>
+//Whoaa!<END>
 
-//Et une fois encore, nous assistons<LINE>
-//à une prouesse de Tsubasa!<LINE>
-//Un magnifique plongeon<LINE>
-//du capitaine Tsubasa!<END>
+//And once again, we witness<LINE>
+//a feat by Tsubasa!<LINE>
+//A beautiful dive<LINE>
+//by captain Tsubasa!<END>
 
-//Il l'a eu!<LINE>
-//Tsubasa a rattrapé Morisaki<LINE>
-//avant qu'il ne tombe dans le but!<END>
+//He got it!<LINE>
+//Tsubasa caught Morisaki<LINE>
+//before he fell into the goal!<END>
 
-//Oh non!<LINE>
-//Ils ont finalement tous les deux <LINE>
-//été entraînés dans les cages!<END>
+//Oh no!<LINE>
+//They both finally got<LINE>
+//dragged into the goal!<END>
 
-//Et c'est un but! Un but pour Toho!<END>
+//And it's a goal! A goal for Toho!<END>
 

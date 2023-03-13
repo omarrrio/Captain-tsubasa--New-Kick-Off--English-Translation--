@@ -1,43 +1,43 @@
 // FILE: EP0755.str containing 13 strings
 
-//Il fait une passe!<LINE>
-//Hyuga ne tente pas un tir,<LINE>
-//mais préfère passer la balle sur les côtés.<END>
+//He makes a pass!<LINE>
+//Hyuga doesn't try to shoot,<LINE>
+//but instead passes the ball to the sides.<END>
 
-//Et maintenant il file droit devant!<END>
+//And now he runs straight ahead!<END>
 
-//C'était un une-deux avec Sawada!<END>
+//It was a one-two with Sawada!<END>
 
-//Cependant les deux joueurs n'ont pas eu<LINE>
-//l'occasion de jouer en duo<LINE>
-//de tout le tournoi!<LINE>
-//Est-ce que Sawada va réussir à suivre <LINE>
-//Hyuga qui court plus vite que jamais?<END>
+//However, the two players haven't had<LINE>
+//the chance to play together<LINE>
+//during the entire tournament!<LINE>
+//Will Sawada be able to keep up<LINE>
+//with Hyuga who is running faster than ever?<END>
 
-//Tsubasa avait Misaki.<LINE>
-//Moi, je suis là pour Hyuga!<END>
+//Tsubasa had Misaki.<LINE>
+//I'm here for Hyuga!<END>
 
-//Nous sommes le golden duo de Toho!<END>
+//We are Toho's golden duo!<END>
 
-//Belle passe, Takeshi!<LINE>
-//C'est parti pour notre troisième but!<END>
+//Nice pass, Takeshi!<LINE>
+//Here we go for our third goal!<END>
 
-//Mais voici Tsubasa qui surgit de l'aile<LINE>
-//pour le bloquer!<END>
+//But here comes Tsubasa from the wing<LINE>
+//to block it!<END>
 
-//Je ne vais pas te permettre<LINE>
-//de venir gâcher la passe de Takeshi!<END>
+//I won't allow you<LINE>
+//to spoil Takeshi's pass!<END>
 
-//Mais Hyuga tire malgré tout!<LINE>
-//C'est un Tiger shot!<END>
+//But Hyuga shoots anyway!<LINE>
+//It's a Tiger shot!<END>
 
-//Tsubasa est expulsé par le ballon!<END>
+//Tsubasa is hit and knocked out by the ball!<END>
 
 //!<END>
 
-//Et but!<LINE>
-//La tentative de Tsubasa a ralenti la balle,<LINE>
-//mais ça n'a pas suffi pour permettre<LINE>
-//à Morisaki d'atteindre le ballon<LINE>
-//dans un plongeon désespéré!<END>
+//And it's a goal!<LINE>
+//Tsubasa's attempt slowed down the ball,<LINE>
+//but it wasn't enough to allow<LINE>
+//Morisaki to reach the ball<LINE>
+//in a desperate dive!<END>
 

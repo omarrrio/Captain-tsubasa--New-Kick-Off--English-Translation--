@@ -1,42 +1,41 @@
 // FILE: EP0701.str containing 13 strings
 
-//OK, vous avez tous fait du bon boulot.<LINE>
-//Continuez comme ça à la seconde mi-temps.<END>
+//Okay, you've all done a great job.<LINE>
+//Keep it up in the second half.<END>
 
-//Passez le ballon à Hyuga<LINE>
-//et la victoire est à nous!<END>
+//Pass the ball to Hyuga<LINE>
+//and victory is ours!<END>
 
-//Entraîneur...<END>
+//Coach...<END>
 
-//L'entraîneur te fait confiance, Hyuga...<END>
+//The coach trusts you, Hyuga...<END>
 
-//Allez, en avant pour la seconde mi-temps!<LINE>
-//Et ramenez un premier titre pour Toho!<END>
+//Alright, let's go for the second half!<LINE>
+//And bring home the first championship for Toho!<END>
 
-//OK!<END>
+//Okay!<END>
 
-//Tsubasa, ça va?<END>
+//Tsubasa, are you okay?<END>
 
-//Est-ce que tu vas pouvoir jouer<LINE>
-//la seconde mi-temps?<END>
+//Can you play in the second half?<END>
 
-//Oui, ça va aller.<LINE>
-//J'ai refait mon bandage<LINE>
-//et pris quelques médicaments.<LINE>
-//Je peux encore me battre à fond<LINE>
-//pendant trente minutes.<END>
+//Yes, I'll be fine.<LINE>
+//I retaped my bandage<LINE>
+//and took some medicine.<LINE>
+//I can still give my all<LINE>
+//for thirty more minutes.<END>
 
-//C'est vrai, Tsubasa? Génial!<END>
+//Is that true, Tsubasa? Awesome!<END>
 
-//Attends une minute!<LINE>
-//La prochaine fois que tu tombes,<LINE>
-//je te fais quitter le terrain.<END>
+//Wait a minute!<LINE>
+//The next time you fall,<LINE>
+//I'm taking you out of the game.<END>
 
-//Oui, je sais.<END>
+//Yes, I know.<END>
 
-//OK, en avant, les gars!<LINE>
-//Notre rêve d'un troisième titre national<LINE>
-//n'est pas mort!<LINE>
-//Et il va se réaliser à la fin<LINE>
-//des trente prochaines minutes!<END>
+//Alright, let's go guys!<LINE>
+//Our dream of a third national title<LINE>
+//is not dead!<LINE>
+//And it will come true at the end<LINE>
+//of the next thirty minutes!<END>
 
