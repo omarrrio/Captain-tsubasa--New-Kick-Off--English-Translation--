@@ -1,52 +1,43 @@
 // FILE: EP1350.str containing 18 strings
 
-//C'est au tour de Matsuyama d'y aller!<END>
+//It's Matsuyama's turn now!<END>
 
-//Je m'en charge!<END>
+//I'll handle it!<END>
 
-//Diaz fonce droit sur Matsuyama!<END>
+//Diaz charges straight at Matsuyama!<END>
 
-//Parfait.<END>
+//Perfect.<END>
 
-//Diaz saute au-dessus du tacle de Matsuyama.<END>
+//Diaz jumps over Matsuyama's tackle.<END>
 
-//Mais Matsuyama ne s'avoue pas vaincu<LINE>
-//et tacle encore plus haut!<END>
+//But Matsuyama doesn't give up and tackles even higher!<END>
 
-//Oh! Diaz se sert du pied de Matsuyama<LINE>
-//pour s'envoler encore plus haut!<END>
+//Oh! Diaz uses Matsuyama's foot to jump even higher!<END>
 
-//Et il effectue une passe dans les airs!<END>
+//And he makes a pass in the air!<END>
 
-//Je vais intercepter la passe!<END>
+//I'll intercept the pass!<END>
 
-//Incroyable! Diaz a mis de l'effet<LINE>
-//dans sa passe!<END>
+//Incredible! Diaz puts spin on his pass!<END>
 
-//Quoi!<END>
+//What!<END>
 
-//Pascual réceptionne le ballon,<LINE>
-//et le renvoie vers Diaz!<END>
+//Pascual receives the ball, and passes it back to Diaz!<END>
 
-//Tiens, Diaz!<END>
+//Here, Diaz!<END>
 
-//Diaz efface le défenseur Ishizaki<LINE>
-//en le débordant sur le côté!<LINE>
-//Il effectue une rondade<LINE>
-//et conclut par un flip arrière!<LINE>
-//Il va tirer en plein retourné!<END>
+//Diaz evades Ishizaki by dribbling past him on the side!<LINE>
+//He does a cartwheel and finishes with a backflip!<LINE>
+//He's going to shoot in a full backward flip!<END>
 
-//Wakashimazu plonge,<LINE>
-//mais ne touche pas la balle!<LINE>
-//Buuuuuuuuuuuuuuuuut!<END>
+//Wakashimazu dives, but doesn't touch the ball!<LINE>
+//Goooooooal!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//L'Argentine ouvre la marque,<LINE>
-//et avec la manière!<END>
+//Argentina scores the first goal, and in style!<END>
 
-//Quelle combinaison!<LINE>
-//Le jeu acrobatique de Diaz<LINE>
-//et la technique de passe de Pascual!<LINE>
-//C'est la paire en or de l'Argentine!<END>
+//What a combination!<LINE>
+//Diaz's acrobatic play and Pascual's passing technique!<LINE>
+//They're Argentina's golden pair!<END>
 
