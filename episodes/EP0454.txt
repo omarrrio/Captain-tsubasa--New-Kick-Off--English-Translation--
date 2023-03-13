@@ -1,75 +1,75 @@
 // FILE: EP0454.str containing 23 strings
 
-//Allez, Kazuo!<END>
+//Let's go, Kazuo!<END>
 
-//On remet ça, Masao?<END>
+//Shall we do it again, Masao?<END>
 
-//Vous avez encore des techniques<LINE>
-//sous le coude?<END>
+//Do you still have some techniques<LINE>
+//up your sleeve?<END>
 
-//Masao envoie le ballon vers l'avant.<LINE>
-//Et Kazuo s'élance en courant!<LINE>
-//Que se passe-t-il?<END>
+//Masao passes the ball forward.<LINE>
+//And Kazuo runs towards it!<LINE>
+//What's happening?<END>
 
-//Maintenant que Misaki n'est plus là,<LINE>
-//nous sommes le meilleur duo du Japon!<LINE>
-//Et ce match en est la preuve!<END>
+//Now that Misaki's not here anymore,<LINE>
+//we are the best duo in Japan!<LINE>
+//And this match is proof of that!<END>
 
-//Vos techniques en duo lors<LINE>
-//du tournoi national n'étaient<LINE>
-//que de la chance.<LINE>
-//Nous, c'est différent.<LINE>
-//Nous sommes un vrai duo...<END>
+//Your duo techniques during<LINE>
+//the national tournament were<LINE>
+//just luck.<LINE>
+//But we're different.<LINE>
+//We are a real duo...<END>
 
-//C'est parti! Twin shoot!<END>
+//Here we go! Twin Shot!<END>
 
-//Que… qu'est-ce que c'est que ça?<END>
+//What...what is that?<END>
 
-//Ah! Les frères Tachibana<LINE>
-//vont frapper simultanément!<END>
+//Ah! The Tachibana brothers<LINE>
+//are going to shoot simultaneously!<END>
 
-//Ah! Le ballon file vers les buts<LINE>
-//dans un effet ondulatoire!<END>
+//Ah! The ball is moving towards the goal<LINE>
+//in a wave-like pattern!<END>
 
 //Morisaki!<END>
 
-//Ça ne reste finalement qu'un ballon<LINE>
-//quel que soit l'effet donné.<LINE>
-//Et le ballon est mon ami.<LINE>
-//Même si je le prends en pleine figure!<END>
+//In the end, it's just a ball<LINE>
+//no matter what kind of effect it has.<LINE>
+//And the ball is my friend.<LINE>
+//Even if I take it right in the face!<END>
 
-//Allez, il y a bien une partie de mon corps<LINE>
-//qui va le toucher!<END>
+//Come on, there's got to be some part of my body<LINE>
+//that will touch it!<END>
 
-//Le gardien Morisaki utilise tout son corps<LINE>
-//pour bloquer le ballon!<END>
+//Goalkeeper Morisaki uses his entire body<LINE>
+//to block the ball!<END>
 
-//Le ballon a touché l'épaule de Morisaki!<END>
+//The ball hits Morisaki's shoulder!<END>
 
-//Mais le choc a juste dévié le ballon<LINE>
-//qui se dirige toujours vers les buts!<END>
+//But the impact just deflects the ball<LINE>
+//and it's still moving towards the goal!<END>
 
-//Non! Si on prend un but maintenant,<LINE>
-//c'est fini!<END>
+//No! If we get scored on now,<LINE>
+//it's over!<END>
 
 //Ah!<END>
 
-//Ishizaki s'est jeté sur la trajectoire<LINE>
-//du ballon d'un seul coup!<END>
+//Ishizaki suddenly jumps<LINE>
+//in front of the ball's trajectory!<END>
 
-//Oh! Il l'a bloqué avec son visage!<LINE>
-//Bien joué, Ishizaki!<LINE>
-//Nankatsu est vraiment prêt à tout<LINE>
-//pour défendre ses buts!<LINE>
-//Hanawa n'a pas marqué!<END>
+//Oh! He blocks it with his face!<LINE>
+//Well done, Ishizaki!<LINE>
+//Nankatsu is really ready to do anything<LINE>
+//to defend its goal!<LINE>
+//Hanawa didn't score!<END>
 
-//Mais Ishizaki est entraîné par son élan<LINE>
-//et percute le poteau!<END>
+//But Ishizaki is carried forward by his momentum<LINE>
+//and hits the goalpost!<END>
 
 //Ishizaki!<END>
 
-//Je n'ai rien!<LINE>
-//Dépêche-toi de contre-attaquer, Tsubasa!<LINE>
-//Tous nos adversaires sont en attaque,<LINE>
-//leur défense est affaiblie!<END>
+//I'm okay!<LINE>
+//Hurry up and counterattack, Tsubasa!<LINE>
+//All our opponents are in attack,<LINE>
+//their defense is weakened!<END>
 

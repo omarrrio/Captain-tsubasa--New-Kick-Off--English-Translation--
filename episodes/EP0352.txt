@@ -1,43 +1,43 @@
 // FILE: EP0352.str containing 13 strings
 
-//Grrr... Il n'y a que ça qui marchera...<END>
+//Grrr... That's the only thing that will work...<END>
 
-//Ah! Tsubasa s'est rapidement placé<LINE>
-//en position de tir!<END>
+//Ah! Tsubasa quickly positioned himself<LINE>
+//to shoot!<END>
 
-//Regarde-moi, Roberto!<END>
+//Watch me, Roberto!<END>
 
-//Quoi?<END>
+//What?<END>
 
 //Drive shoot!<END>
 
-//Souda ne pourra pas le bloquer<LINE>
-//avec un tacle effectué trop tard!<LINE>
-//Et Tsubasa tire à longue distance!<END>
+//Souda won't be able to block it<LINE>
+//with a tackle done too late!<LINE>
+//And Tsubasa shoots from long distance!<END>
 
-//Mais le tir est mal cadré.<LINE>
-//Le ballon monte trop haut…<LINE>
-//Il va heurter la barre transversale...<END>
+//But the shot is off target.<LINE>
+//The ball rises too high...<LINE>
+//It will hit the crossbar...<END>
 
-//Quoi? Le ballon retombe d'un seul coup!<END>
+//What? The ball suddenly drops down!<END>
 
-//Comment?!<END>
+//What?!<END>
 
-//Le ballon n'a pas soudainement perdu<LINE>
-//de sa puissance.<LINE>
-//Non, en fait Tsubasa avait mis un effet!<END>
+//The ball didn't suddenly lose<LINE>
+//its power.<LINE>
+//No, in fact, Tsubasa put spin on it!<END>
 
-//Et il est dedans!<LINE>
-//Le gardien n'a même pas eu<LINE>
-//le temps de bouger!<END>
+//And it's in!<LINE>
+//The goalkeeper didn't even<LINE>
+//have time to move!<END>
 
-//Ah, excusez-moi. Le ballon a atterri<LINE>
-//dans les filets au-dessus de la cage.<LINE>
-//Le but n'est pas pour cette fois.<END>
+//Oh, excuse me. The ball landed<LINE>
+//in the net above the goal.<LINE>
+//The goal is not valid this time.<END>
 
-//Mais ça n'est pas passé loin.<LINE>
-//Regardez, le tir de Tsubasa <LINE>
-//était si puissant<LINE>
-//que le ballon s'est coincé<LINE>
-//entre les mailles du filet!<END>
+//But it was close.<LINE>
+//Look, Tsubasa's shot<LINE>
+//was so powerful<LINE>
+//that the ball got stuck<LINE>
+//in the mesh of the net!<END>
 

@@ -1,89 +1,84 @@
 // FILE: EP0453.str containing 28 strings
 
-//Et le match redémarre<LINE>
-//avec un corner de Hanawa.<END>
+//And the game restarts<LINE>
+//with a corner kick from Hanawa.<END>
 
-//Oh! Ce doit être la stratégie ultime<LINE>
-//de Nankatsu!<END>
+//Oh! This must be Nankatsu's ultimate strategy!<END>
 
-//Kisugi et Taki sont déjà<LINE>
-//sur la barre transversale,<LINE>
-//prêts à bloquer le Skylab hurricane<LINE>
-//des frères Tachibana!<END>
+//Kisugi and Taki are already<LINE>
+//on the crossbar,<LINE>
+//ready to block the Tachibana brothers' Skylab Hurricane!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//On ne peut pas reproduire la figure<LINE>
-//de Tsubasa, mais on peut au moins monter<LINE>
-//sur la barre transversale en avance!<END>
+//We can't replicate Tsubasa's move,<LINE>
+//but at least we can jump onto the crossbar first!<END>
 
-//Comme ça, nous les bloquerons<LINE>
-//même s'ils tentent un Skylab hurricane!<LINE>
-//On ne les laissera pas égaliser!<END>
+//That way, we'll block them<LINE>
+//even if they attempt a Skylab Hurricane!<LINE>
+//We won't let them equalize!<END>
 
-//C'est marrant ça...<LINE>
-//Allez, sautez pour voir!<END>
+//This is funny...<LINE>
+//Come on, jump to see!<END>
 
-//Allez!<LINE>
-//Tsubasa a réussi à nous arrêter une fois,<LINE>
-//mais même s'il était encore là,<LINE>
-//il ne pourrait rien faire contre nous!<END>
+//Let's go!<LINE>
+//Tsubasa stopped us once,<LINE>
+//but even if he were still here,<LINE>
+//he couldn't do anything against us!<END>
 
-//Et ce Skylab hurricane va le prouver.<LINE>
-//Regardez ça!<END>
+//And this Skylab Hurricane will prove it.<LINE>
+//Look at this!<END>
 
-//Cette fois, Masao est en dessous.<LINE>
-//Hanawa va tenter un Skylab hurricane<LINE>
-//comme prévu.<END>
+//This time, Masao is below.<LINE>
+//Hanawa will attempt a Skylab Hurricane<LINE>
+//as planned.<END>
 
-//Allez, sautez!<LINE>
-//Kisugi! Taki!<LINE>
-//Sautez le plus haut possible<LINE>
-//et bloquez-les!<END>
+//Jump, Kisugi! Taki!<LINE>
+//Jump as high as possible<LINE>
+//and block them!<END>
 
 //OK!<END>
 
-//Daimaru est devant les buts<LINE>
-//et envoie le ballon vers l'avant!<END>
+//Daimaru is in front of the goal<LINE>
+//and sends the ball forward!<END>
 
-//Comment?!<END>
+//What?!<END>
 
-//Hein? Cette fois, c'est une balle basse!<END>
+//Huh? This time, it's a low ball!<END>
 
-//Allez!<END>
+//Let's go!<END>
 
-//Le Skylab hurricane ne s'effectue pas<LINE>
-//forcément en hauteur,mais<LINE>
-//sous n'importe quel angle.<END>
+//The Skylab Hurricane doesn't necessarily<LINE>
+//have to be done in the air, but<LINE>
+//at any angle.<END>
 
-//Allez!<LINE>
-//Un Skylab hurricane à basse altitude!<END>
+//Let's go!<LINE>
+//A low altitude Skylab Hurricane!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//En bas?<END>
+//Low?<END>
 
-//Mais...<END>
+//But...<END>
 
-//Kisugi et Taki sont sur la barre<LINE>
-//transversale!<LINE>
-//Ils ne vont pas redescendre à temps!<LINE>
-//Et Morisaki ne pourra pas l'attraper<LINE>
-//non plus!<END>
+//Kisugi and Taki are on the crossbar!<LINE>
+//They won't come down in time!<LINE>
+//And Morisaki won't be able to catch it<LINE>
+//either!<END>
 
-//Buuuut!<END>
+//Gooooal!<END>
 
-//Oh, Tsubasa qui avait été absent<LINE>
-//pendant quelques minutes<LINE>
-//revient sur le terrain.<END>
+//Oh, Tsubasa, who had been absent<LINE>
+//for a few minutes,<LINE>
+//returns to the field.<END>
 
-//Comment va ton épaule?<END>
+//How's your shoulder?<END>
 
-//Ça va aller.<END>
+//I'll be fine.<END>
 
-//Pardon, Tsubasa. Comme tu le vois,<LINE>
-//ils ont réussi à égaliser.<END>
+//Sorry, Tsubasa. As you can see,<LINE>
+//they managed to equalize.<END>
 
-//Ils nous ont rattrapés, alors on va devoir<LINE>
-//reprendre l'avantage! Allez, les gars!<END>
+//They caught up to us, so we'll have to<LINE>
+//take the lead again! Let's go, guys!<END>
 

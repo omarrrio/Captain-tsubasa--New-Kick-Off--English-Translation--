@@ -1,63 +1,62 @@
 // FILE: EP0402.str containing 22 strings
 
-//Nankatsu est qualifiée<LINE>
-//pour les quarts de finale.<LINE>
-//Hanawa s'est bien battue<LINE>
-//mais son parcours s'arrête là.<END>
+//Nankatsu is qualified<LINE>
+//for the quarterfinals.<LINE>
+//Hanawa fought well<LINE>
+//but their journey ends here.<END>
 
-//On a... perdu.<END>
+//We... lost.<END>
 
-//Les deux équipes se sont livrées<LINE>
-//à corps perdus dans ce match.<LINE>
-//Les applaudissements du public<LINE>
-//résonnent dans le stade!<END>
+//Both teams gave it their all in this match.<LINE>
+//The applause of the crowd<LINE>
+//echoes in the stadium!<END>
 
-//Je t'avais dit de ne pas trop forcer,<LINE>
-//mais tu ne m'as pas écouté<LINE>
-//et tu t'es encore blessé.<END>
+//I told you not to push too hard,<LINE>
+//but you didn't listen to me<LINE>
+//and you got injured again.<END>
 
-//Se blesser, ça fait partie du jeu.<END>
+//Getting injured is part of the game.<END>
 
-//Comment va ton épaule, Tsubasa?<END>
+//How's your shoulder, Tsubasa?<END>
 
 //Tachibana!<END>
 
-//Je ne sais pas quoi dire.<LINE>
-//C'est ma faute.<END>
+//I don't know what to say.<LINE>
+//It's my fault.<END>
 
-//Non, non, c'était inévitable.<LINE>
-//Merci d'être venu me voir.<END>
+//No, no, it was inevitable.<LINE>
+//Thanks for coming to see me.<END>
 
-//Bats-toi aussi pour nous, d'accord?<END>
+//Fight for us too, okay?<END>
 
-//OK.<END>
+//Okay.<END>
 
-//Compte sur nous. On va gagner!<END>
+//Count on us. We'll win!<END>
 
 //Oh, Hyuga!<END>
 
-//Hé, tu ne joues pas aujourd'hui non plus?<LINE>
-//Comment ça se fait, Hyuga?<END>
+//Hey, you're not playing today either?<LINE>
+//What's up, Hyuga?<END>
 
-//Ne t'en fais pas.<LINE>
-//Je te promets que nous nous verrons<LINE>
-//en finale.<END>
+//Don't worry.<LINE>
+//I promise we'll see each other<LINE>
+//in the final.<END>
 
-//Mais alors, tu n'es pas blessé?<END>
+//So, you're not injured?<END>
 
-//... Non.<END>
+//... No.<END>
 
-//Dans ce cas, pour la troisième année<LINE>
-//consécutive...<END>
+//In that case, for the third year<LINE>
+//in a row...<END>
 
-//... Je compte sur une finale<LINE>
-//Nankatsu contre Touhou!<END>
+//... I'm counting on a final<LINE>
+//Nankatsu against Touhou!<END>
 
-//De ton côté, fais en sorte d'arriver<LINE>
-//en forme en finale.<LINE>
-//Sinon ça ne vaudra pas le coup.<END>
+//On your part, make sure to arrive<LINE>
+//in shape for the final.<LINE>
+//Otherwise, it won't be worth it.<END>
 
-//*sourire*<END>
+//*smiles*<END>
 
 //...<END>
 

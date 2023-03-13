@@ -1,44 +1,43 @@
 // FILE: EP0450.str containing 13 strings
 
-//Allez! Il est temps de leur montrer<LINE>
-//notre foot aérien!<END>
+//Come on! It's time to show them our<LINE>
+//airborne soccer skills!<END>
 
-//Quoi? Masao Tachibana a envoyé le ballon<LINE>
-//en l'air devant les buts!<END>
+//What? Masao Tachibana sent the ball<LINE>
+//flying in front of the goal!<END>
 
-//Allez, Masao!<LINE>
-//On va commencer par égaliser<LINE>
-//avec le Triangle shoot!<END>
+//Go for it, Masao!<LINE>
+//We'll start by equalizing<LINE>
+//with the Triangle Shot!<END>
 
-//Vous croyez vraiment que ça va marcher?<LINE>
-//Je vous ai pourtant prévenus<LINE>
-//que ça serait inefficace contre nous!<END>
+//Do you really think that will work?<LINE>
+//I warned you<LINE>
+//it would be ineffective against us!<END>
 
-//Ah bon?<LINE>
-//Dans ce cas, on va en avoir le cœur net!<END>
+//Oh really?<LINE>
+//In that case, let's see for ourselves!<END>
 
-//Kazuo prend appui sur le poteau<LINE>
-//pour se propulser dans les airs!<END>
+//Kazuo takes off from the post<LINE>
+//to propel himself into the air!<END>
 
-//Et voilà notre défense! Là!<END>
+//And there's our defense! There!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Oh! Ishizaki a frappé le poteau<LINE>
-//de ses propres buts de toutes ses forces!<END>
+//Oh! Ishizaki struck the post<LINE>
+//of his own goal with all his might!<END>
 
-//Le coup de pied d'Ishizaki a fait vibrer<LINE>
-//le poteau que Kazuo voulait utiliser!<LINE>
-//Du coup, l'attaquant a perdu l'équilibre<LINE>
-//et n'a pas pu sauter!<END>
+//Ishizaki's kick caused<LINE>
+//the post Kazuo was going to use to vibrate!<LINE>
+//As a result, the attacker lost his balance<LINE>
+//and couldn't jump!<END>
 
-//Tu as aimé ma technique anti-football<LINE>
-//aérien?<END>
+//Did you like my anti-airborne soccer<LINE>
+//technique?<END>
 
-//Kazuo s'est écrasé au sol, et le ballon<LINE>
-//roule dans les mains du gardien Morisaki.<END>
+//Kazuo crashes to the ground, and the ball<LINE>
+//rolls into the hands of goalkeeper Morisaki.<END>
 
-//Ils ont contré le football aérien<LINE>
-//des frères Tachibana<LINE>
-//et leur Triangle shoot!<END>
+//They countered the Tachibana brothers'<LINE>
+//airborne soccer and their Triangle Shot!<END>
 

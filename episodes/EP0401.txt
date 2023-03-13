@@ -1,44 +1,43 @@
 // FILE: EP0401.str containing 13 strings
 
-//Nous nous sommes beaucoup entraînés<LINE>
-//pour parfaire notre Skylab hurricane,<LINE>
-//afin de battre Nankatsu.<END>
+//We have trained a lot<LINE>
+//to perfect our Skylab Hurricane<LINE>
+//in order to beat Nankatsu.<END>
 
-//Ce tir demande un effort des jambes<LINE>
-//très intense. Nous ne pouvons donc pas<LINE>
-//l'utiliser de nombreuses fois.<LINE>
-//Alors on a intérêt à ne pas le faire<LINE>
-//pour rien!<END>
+//This shot requires a very intense<LINE>
+//effort from the legs. So we can't<LINE>
+//use it many times.<LINE>
+//So we better not waste it!<END>
 
-//Daimaru, c'est à toi de jouer<LINE>
-//dans cette seconde mi-temps.<END>
+//Daimaru, it's your turn to play<LINE>
+//in the second half.<END>
 
-//On compte sur toi, Daimaru.<END>
+//We're counting on you, Daimaru.<END>
 
-//Hé hé... OK.<END>
+//Heh heh... OK.<END>
 
-//Bien. Nous sommes prêts à vous présenter<LINE>
-//en exclusivité "la défaite de Nankatsu"!<END>
+//All right. We're ready to present to you<LINE>
+//"the defeat of Nankatsu" exclusively!<END>
 
-//La nouvelle technique aérienne<LINE>
-//des frères Tachibana...<LINE>
-//Skylab hurricane...<LINE>
-//Tu crois qu'on peut la bloquer?<END>
+//The new aerial technique<LINE>
+//of the Tachibana brothers...<LINE>
+//Skylab Hurricane...<LINE>
+//Do you think we can stop it?<END>
 
-//Ce tir fait énormément travailler<LINE>
-//les jambes. Ils ne devraient pas pouvoir<LINE>
-//l'utiliser très souvent.<END>
+//This shot requires a lot of<LINE>
+//legwork. They shouldn't be able<LINE>
+//to use it very often.<END>
 
-//Oh, je vois.<END>
+//Oh, I see.<END>
 
-//De toute façon, on ne change rien.<LINE>
-//On joue notre football habituel<LINE>
-//et on ne leur laisse aucune chance!<END>
+//Anyway, we're not changing anything.<LINE>
+//We'll play our usual football<LINE>
+//and we won't give them any chances!<END>
 
-//Ouais, peu importe la manière,<LINE>
-//un but, c'est un but!<END>
+//Yeah, no matter how we do it,<LINE>
+//a goal is a goal!<END>
 
-//OK! C'est parti pour la seconde mi-temps!<END>
+//OK! Here we go for the second half!<END>
 
-//Coup d'envoi de Hanawa!<END>
+//Hanawa starts the game!<END>
 

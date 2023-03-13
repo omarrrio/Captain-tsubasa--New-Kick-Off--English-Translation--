@@ -1,115 +1,113 @@
 // FILE: EP0452.str containing 38 strings
 
-//Oh? Le géant Daimaru vient à peine<LINE>
-//d'entrer sur le terrain en seconde mi-temps<LINE>
-//et déjà Hanawa lui passe le ballon.<END>
+//Oh? The giant Daimaru has just entered<LINE>
+//the field in the second half<LINE>
+//and already Hanawa passes him the ball.<END>
 
-//OK, on leur prend le ballon!<LINE>
-//Pas question de les laisser attaquer!<END>
+//OK, let's take the ball from them!<LINE>
+//No way we're letting them attack!<END>
 
-//La puissance explosive de mes coups<LINE>
-//de pieds est la seule raison<LINE>
-//pour laquelle on me laisse jouer.<END>
+//The explosive power of my kicks<LINE>
+//is the only reason they let me play.<END>
 
-//Quoi? Daimaru frappe le ballon du milieu<LINE>
-//du terrain avec une force extraordinaire!<LINE>
-//Le ballon file vers les buts de Nankatsu!<END>
+//What? Daimaru kicks the ball from the middle<LINE>
+//of the field with extraordinary force!<LINE>
+//The ball flies towards Nankatsu's goal!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//C'est une blague?<END>
+//Is this a joke?<END>
 
-//C'est le moment, Kazuo!<END>
+//This is it, Kazuo!<END>
 
 //OK!<END>
 
-//La seconde mi-temps est à peine commencée<LINE>
-//et Nankatsu est déjà mis en difficulté!<END>
+//The second half has barely started<LINE>
+//and Nankatsu is already in trouble!<END>
 
-//Bon! Il faut qu'on saute!<LINE>
-//On saute et on bloque!<LINE>
-//C'est la seule solution!<END>
+//Alright! We have to jump!<LINE>
+//We jump and block!<LINE>
+//It's the only solution!<END>
 
-//Tsubasa court vers ses propres poteaux!<END>
+//Tsubasa runs towards his own goalposts!<END>
 
-//Hé hé, Tsubasa.<LINE>
-//Désolé, mais tu vas sauter pour rien.<END>
+//Hey hey, Tsubasa.<LINE>
+//Sorry, but you're jumping for nothing this time.<END>
 
-//Hanawa tente un Skylab hurricane,<LINE>
-//mais cette fois avec Kazuo en dessous!<END>
+//Hanawa tries a Skylab Hurricane,<LINE>
+//but this time with Kazuo underneath!<END>
 
-//Et voilà le Skylab hurricane<LINE>
-//des frères Tachibana!<END>
+//And here comes the Tachibana brothers'<LINE>
+//Skylab Hurricane!<END>
 
-//C'est bon, je l'ai!<END>
+//Got it!<END>
 
-//Eh oui, je suis Tsubasa!<LINE>
-//Même seul,<LINE>
-//je peux atteindre les cieux!<END>
+//Yeah, I'm Tsubasa!<LINE>
+//Even alone,<LINE>
+//I can reach the heavens!<END>
 
-//Ah! Tsubasa saute!<LINE>
-//Mais cette fois, il prend carrément appui<LINE>
-//sur la barre transversale,<LINE>
-//pas sur le poteau!<END>
+//Ah! Tsubasa jumps!<LINE>
+//But this time, he's actually using<LINE>
+//the crossbar for support,<LINE>
+//not the post!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Les deux joueurs sont dans les airs.<LINE>
-//Ozora s'élève... Et c'est la collision!<LINE>
-//Tsubasa a bloqué le Skylab hurricane!<LINE>
-//Une technique de défense hallucinante<LINE>
-//contre la nouvelle technique<LINE>
-//des frères Tachibana!<END>
+//The two players are in the air.<LINE>
+//Ozora rises... And it's a collision!<LINE>
+//Tsubasa has blocked the Skylab Hurricane!<LINE>
+//An incredible defensive technique<LINE>
+//against the Tachibana brothers' new technique!<END>
 
-//Mais ils sont en danger!<LINE>
-//Les deux joueurs ont perdu l'équilibre<LINE>
-//et retombent vers le sol!<END>
+//But they're in danger!<LINE>
+//The two players have lost their balance<LINE>
+//and are falling towards the ground!<END>
 
-//Oh non! Attention!<END>
+//Oh no! Look out!<END>
 
 //Masao!<END>
 
-//Non!<END>
+//No!<END>
 
-//Il va tomber sur la tête...<END>
+//He's going to land on his head...<END>
 
-//Les deux joueurs ont basculé<LINE>
-//et ils se sont écrasés au sol!<END>
+//The two players have flipped over<LINE>
+//and crashed to the ground!<END>
 
 //Tsubasa!<END>
 
-//On dirait que Tsubasa est tombé en premier<LINE>
-//et qu'il s'est fait très mal!<END>
+//It looks like Tsubasa landed first<LINE>
+//and got hurt badly!<END>
 
-//Mon... épaule...<END>
+//My... shoulder...<END>
 
-//Ça va, Masao?<END>
+//Are you okay, Masao?<END>
 
-//Tsubasa a amorti ma chute.<END>
+//Tsubasa cushioned my fall.<END>
 
-//Hein?<END>
+//What?<END>
 
-//C'est grave, tu t'es peut-être déboîté<LINE>
-//l'épaule.<LINE>
-//Va vite à l'infirmerie!<END>
+//It could be serious, you might have dislocated<LINE>
+//your shoulder.<LINE>
+//Go to the infirmary right away!<END>
 
-//Je vais bien...<LINE>
-//Je peux continuer à jouer.<END>
+//I'm fine...<LINE>
+//I can keep playing.<END>
 
-//Tsubasa, tu n'as vraiment pas l'air bien.<LINE>
-//Tu as très mauvaise mine.<LINE>
-//Tu dois aller te faire examiner!<END>
+//Tsubasa, you don't look good at all.<LINE>
+//You look really pale.<LINE>
+//You need to get checked out!<END>
 
-//Il a raison.<LINE>
-//Nous continuerons en ton absence.<END>
+//He's right.<LINE>
+//We'll continue without you.<END>
 
-//Va à l'infirmerie tout de suite.<LINE>
-//C'est un ordre.<LINE>
-//Si tu ne m'écoutes pas, je te fais sortir.<END>
+//Go to the infirmary immediately.<LINE>
+//That's an order.<LINE>
+//If you don't listen to me, I'll make you leave.<END>
 
-//OK... J'ai compris.<END>
+//Okay... I understand.<END>
 
-//Désolé, les amis.<LINE>
-//Je reviendrai vite.<LINE>
-//Je compte sur vous en mon absence.<END>
+//Sorry, friends.<LINE>
+//I'll be back soon.<LINE>
+//I'm counting on you while I'm gone.<END>
 

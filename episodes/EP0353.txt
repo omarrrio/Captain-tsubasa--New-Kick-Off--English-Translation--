@@ -1,56 +1,56 @@
 // FILE: EP0353.str containing 19 strings
 
-//Prends ce Tacle en rasoir!<END>
+//Take this Razor Tackle!<END>
 
-//Ouah!<END>
+//Wow!<END>
 
-//Oh! Souda a pris le ballon<LINE>
-//avec un puissant tacle glissé!<END>
+//Oh! Souda took the ball<LINE>
+//with a powerful sliding tackle!<END>
 
-//Souda abuse encore une fois<LINE>
-//de la tactique des appels croisés!<END>
+//Souda is once again using<LINE>
+//the cross runs tactic!<END>
 
-//Morisaki, il va tirer! Fais attention<LINE>
-//à la trajectoire en courbe!<END>
+//Morisaki, he's going to shoot! Be careful<LINE>
+//with the curved trajectory!<END>
 
 //OK!<END>
 
-//Tsubasa, ton Drive shoot n'est pas encore<LINE>
-//parfait. Mais ce n'est pas le cas<LINE>
-//de mon Razor Shot! Il est plus qu'affûté!<END>
+//Tsubasa, your Drive Shot is not yet<LINE>
+//perfect. But that's not the case<LINE>
+//for my Razor Shot! It's sharper than ever!<END>
 
-//C'est parti!<LINE>
-//Avec ça, le match sera pour nous!<END>
+//Here it comes!<LINE>
+//With this, the match will be ours!<END>
 
-//Souda se place rapidement<LINE>
-//en position de tir!<END>
+//Souda quickly positions himself<LINE>
+//for the shot!<END>
 
 //!!<END>
 
-//Morisaki, il va aller de l'autre côté!<LINE>
-//Saute dans la direction opposée<LINE>
-//cette fois-ci!<END>
+//Morisaki, he's going to the other side!<LINE>
+//Jump in the opposite direction<LINE>
+//this time!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Souda nous gratifie de son tir<LINE>
-//à longue distance : le Razor Shot!<END>
+//Souda treats us with his long-range shot:<LINE>
+//the Razor Shot!<END>
 
-//Oh, mais cette fois le ballon part<LINE>
-//dans l'autre direction!<LINE>
-//Il oblique vers la gauche!<LINE>
-//C'est un Reverse Razor Shot!<END>
+//Oh, but this time the ball goes<LINE>
+//in the other direction!<LINE>
+//It curves to the left!<LINE>
+//It's a Reverse Razor Shot!<END>
 
-//Ouah!<END>
+//Wow!<END>
 
-//Oh! Mais le gardien Morisaki se dirige<LINE>
-//du bon côté!<END>
+//Oh! But goalkeeper Morisaki is diving<LINE>
+//in the right direction!<END>
 
 //...<END>
 
-//Il... Il l'a arrêté!<END>
+//He... He stopped it!<END>
 
-//Morisaki a réussi à arrêter le ballon<LINE>
-//cette fois!<LINE>
-//Un arrêt parfait, du grand art!<END>
+//Morisaki managed to stop the ball<LINE>
+//this time!<LINE>
+//A perfect save, a masterpiece!<END>
 

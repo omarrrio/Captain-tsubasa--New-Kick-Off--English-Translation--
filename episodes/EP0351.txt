@@ -1,23 +1,23 @@
 // FILE: EP0351.str containing 7 strings
 
-//Tsubasa file vers le ballon,<LINE>
-//mais il est dos aux buts.<END>
+//Tsubasa rushes towards the ball,<LINE>
+//but he's facing away from the goal.<END>
 
-//Ah! On va peut-être assister<LINE>
-//à son retourné favori!<END>
+//Ah! We might be witnessing<LINE>
+//his signature overhead kick!<END>
 
-//J'ai enfin une occasion.<LINE>
-//Je ne vais pas la gâcher!<END>
+//I finally have a chance.<LINE>
+//I won't waste it!<END>
 
-//C'est ça, ton plan?<END>
+//Is that your plan?<END>
 
-//Oh! Souda bondit<LINE>
-//pour une reprise de volée!<END>
+//Oh! Souda jumps up<LINE>
+//for a volley shot!<END>
 
-//Les deux joueurs se percutent<LINE>
-//dans les airs!<LINE>
-//Le ballon est retombé!<LINE>
-//Souda a bloqué le tir retourné de Tsubasa!<END>
+//Both players collide<LINE>
+//in mid-air!<LINE>
+//The ball falls!<LINE>
+//Souda blocks Tsubasa's overhead kick!<END>
 
-//Et les deux joueurs retombent ensemble!<END>
+//And both players fall down together!<END>
 
