@@ -1,73 +1,72 @@
 // FILE: EP1250.str containing 24 strings
 
-//Oh! Il s'est pris un tacle par-derrière!<LINE>
-//Faute! L'arbitre demande à<LINE>
-//l'Italie de calmer le jeu.<END>
+//Oh! He got tackled from behind!<LINE>
+//Foul! The referee is asking<LINE>
+//Italy to calm down.<END>
 
-//On tient notre chance, les gars.<LINE>
-//Je peux marquer directement d'ici!<END>
+//We've got our chance, guys.<LINE>
+//I can score directly from here!<END>
 
-//Ah bon? Tu veux dire que tu es capable<LINE>
-//de rentrer ton Drive shoot d'ici?<LINE>
-//C'est à ça que tu pensais?<END>
+//Really? You mean you can make your Drive Shot from here?<LINE>
+//Is that what you're thinking?<END>
 
-//Mais ils doivent être préparés<LINE>
-//au Drive shoot de Tsubasa, non?<END>
+//But they must be prepared<LINE>
+//for Tsubasa's Drive Shot, right?<END>
 
-//Oui. C'est pourquoi... Matsuyama...<END>
+//Yes. That's why... Matsuyama...<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Ah... je vois... D'accord, on y va!<END>
+//Ah... I see... Okay, let's do it!<END>
 
-//Le Japon obtient un coup franc direct<LINE>
-//face aux buts italiens.<END>
+//Japan gets a direct free kick<LINE>
+//in front of the Italian goal.<END>
 
-//Que vont-ils faire? De cette distance,<LINE>
-//ils pourraient tirer directement au but!<END>
+//What are they going to do? From this distance,<LINE>
+//they could shoot directly at the goal!<END>
 
-//L'Italie place son mur.<END>
+//Italy sets up its wall.<END>
 
-//Je suis sûr qu'il va tirer<LINE>
-//comme je l'ai déjà vu faire.<END>
+//I'm sure he's going to shoot<LINE>
+//as I've seen him do before.<END>
 
-//Tsubasa se place à côté du ballon.<LINE>
-//Va-t-il nous offrir<LINE>
-//un de ses fameux Drive shoot?<END>
+//Tsubasa steps up next to the ball.<LINE>
+//Will he give us<LINE>
+//one of his famous Drive Shots?<END>
 
-//Le Drive shoot lui permettrait de  tirer<LINE>
-//au-dessus du mur et de viser le but!<END>
+//The Drive Shot would allow him to shoot<LINE>
+//over the wall and aim for the goal!<END>
 
-//Mais n'oublions pas qu'il a en face de lui<LINE>
-//le gardien des All Italy Jr. Youth,<LINE>
-//Gino Hernandez, le meilleur gardien<LINE>
-//d'Europe. Il ne se laissera sûrement pas<LINE>
-//faire aussi facilement!<END>
+//But let's not forget that he's up against<LINE>
+//the goalkeeper of All Italy Jr. Youth,<LINE>
+//Gino Hernandez, the best goalkeeper<LINE>
+//in Europe. He surely won't make it<LINE>
+//easy for him!<END>
 
-//Tsubasa s'élance! Il s'apprête à tirer!<END>
+//Tsubasa is running! He's about to shoot!<END>
 
-//On saute! Il ne faut pas que le ballon<LINE>
-//passe au-dessus du mur!<END>
+//We jump! We can't let the ball<LINE>
+//go over the wall!<END>
 
-//Aah! C'est une feinte! Ce n'est pas<LINE>
-//Tsubasa, mais Matsuyama qui va tirer!<END>
+//Aah! It's a feint! It's not<LINE>
+//Tsubasa, but Matsuyama who's going to shoot!<END>
 
-//Je vais marquer!<END>
+//I'm going to score!<END>
 
-//Matsuyama a déclenché son Eagle shot!<LINE>
-//Le ballon rase le sol vers les cages!<END>
+//Matsuyama unleashes his Eagle Shot!<LINE>
+//The ball skims across the ground towards the goal!<END>
 
-//Ce n'est pas possible!<END>
+//This can't be!<END>
 
-//Ohhh! Arrêt du gardien italien!<END>
+//Ohhh! Stop by the Italian goalkeeper!<END>
 
-//Quel arrêt réflexe! Quelle poigne!<LINE>
-//Le puissant Eagle shot de Matsuyama<LINE>
-//a été arrêté d'une seule main!<END>
+//What a reflex save! What a grip!<LINE>
+//Matsuyama's powerful Eagle Shot<LINE>
+//was stopped with one hand!<END>
 
-//Gino Hernandez nous prouve encore une fois<LINE>
-//sur cet arrêt qu'il est le meilleur gardien<LINE>
-//d'Europe!<END>
+//Gino Hernandez once again proves<LINE>
+//with this save that he's the best goalkeeper<LINE>
+//in Europe!<END>
 
-//*coup de sifflet*<END>
+//*whistle blow*<END>
 

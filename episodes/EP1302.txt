@@ -1,63 +1,63 @@
 // FILE: EP1302.str containing 25 strings
 
-//Tsubasa, on a gagné!<END>
+//Tsubasa, we won!<END>
 
-//Oui, on a gagné!<END>
+//Yes, we won!<END>
 
-//Je vous l'avais dit!<LINE>
-//Si on joue tous ensemble, on est capables<LINE>
-//de rivaliser avec les meilleurs!<END>
+//I told you so!<LINE>
+//If we play together, we can<LINE>
+//compete with the best!<END>
 
-//Nous sommes dans le dernier carré!<END>
+//We're in the semi-finals!<END>
 
-//On a battu l'Italie et maintenant<LINE>
-//l'Argentine!<END>
+//We beat Italy and now<LINE>
+//Argentina!<END>
 
-//Continuons sur notre lancée<LINE>
-//et remportons le tournoi!<END>
+//Let's keep it up<LINE>
+//and win the tournament!<END>
 
-//Nous avons perdu... J'ai...<END>
+//We lost... I...<END>
 
 //Diaz...<END>
 
-//Nous avons perdu...<END>
+//We lost...<END>
 
-//J'étais destiné à devenir<LINE>
-//le meilleur joueur au monde...<END>
+//I was destined to become<LINE>
+//the world's greatest player...<END>
 
-//Mais le nº 10 des All Japan Team<LINE>
-//a mis un frein à ma carrière...<END>
+//But the number 10 of the All Japan Team<LINE>
+//put a brake on my career...<END>
 
-//Hé, le nº 10!<END>
+//Hey, number 10!<END>
 
-//Dis-moi... Dis-moi ton nom...<END>
+//Tell me... Tell me your name...<END>
 
 //Tsubasa... Tsubasa Ozora.<END>
 
 //Tsubasa...<END>
 
-//Oui.<END>
+//Yes.<END>
 
-//Je n'oublierai jamais ce nom.<END>
+//I'll never forget that name.<END>
 
-//Tu veux bien échanger ton maillot<LINE>
-//avec le mien?<END>
+//Do you want to exchange jerseys<LINE>
+//with me?<END>
 
-//Bien sûr!<END>
+//Of course!<END>
 
-//Bonne chance pour demain…<LINE>
-//et après-demain.<END>
+//Good luck for tomorrow...<LINE>
+//and the day after tomorrow.<END>
 
-//Merci.<END>
+//Thank you.<END>
 
-//Et ne l'oublie pas, j'aurai ma revanche.<END>
+//And don't forget, I'll have my revenge.<END>
 
-//Fan Diaz était le meilleur des joueurs<LINE>
-//que j'ai affrontés jusqu'à maintenant…<LINE>
-//J'ai encore beaucoup de chemin à faire.<END>
+//Fan Diaz was the best player<LINE>
+//I've faced so far...<LINE>
+//I still have a long way to go.<END>
 
-//Je suis sûr que Roberto me dirait<LINE>
-//de ne pas me contenter de ce match.<END>
+//I'm sure Roberto would tell me<LINE>
+//not to be satisfied with this match.<END>
 
-//Je dois m'améliorer...<END>
+//I need to improve...<END>
 

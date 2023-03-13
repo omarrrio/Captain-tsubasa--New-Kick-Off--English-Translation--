@@ -1,56 +1,56 @@
 // FILE: EP1251.str containing 20 strings
 
-//À vous!<END>
+//It's yours!<END>
 
-//La relance est effectuée rapidement et<LINE>
-//l'Italie va repartir en attaque!<END>
+//The ball is quickly relaunched and<LINE>
+//Italy is going to attack again!<END>
 
-//Attendez! Le ballon arrive droit<LINE>
-//sur Tsubasa!<END>
+//Wait! The ball is coming straight<LINE>
+//to Tsubasa!<END>
 
-//Viens...<END>
+//Come on...<END>
 
 //!!!<END>
 
-//Allez, approche!<END>
+//Come on, get closer!<END>
 
-//Quoi? Mais qu'est-ce qu'il fait?<END>
+//What? What is he doing?<END>
 
-//Il m'invite à frapper un Drive shoot?<END>
+//He's inviting me to shoot a Drive shoot?<END>
 
-//Allez! Tire ton Drive shoot!<END>
+//Come on! Shoot your Drive shoot!<END>
 
-//Très bien!<END>
+//All right!<END>
 
-//On va voir si tu es capable d'arrêter<LINE>
-//mon Drive shoot!<END>
+//Let's see if you can stop<LINE>
+//my Drive shoot!<END>
 
-//Tsubasa tire!<LINE>
-//C'est son fameux Drive shoot!<END>
+//Tsubasa shoots!<LINE>
+//It's his famous Drive shoot!<END>
 
 //Driiiiive shoot!<END>
 
-//Plongeon du gardien!<LINE>
-//Gino Hernandez plonge pour l'arrêt!<END>
+//The goalkeeper dives!<LINE>
+//Gino Hernandez dives to stop it!<END>
 
-//Incroyable! Il arrête le ballon<LINE>
-//d'une main!<END>
+//Incredible! He stops the ball<LINE>
+//with one hand!<END>
 
-//Il a attrapé le ballon d'une main<LINE>
-//comme il l'avait fait<LINE>
-//pour le tir de Matsuyama!<END>
+//He caught the ball with one hand<LINE>
+//just as he did<LINE>
+//for Matsuyama's shot!<END>
 
-//Oh! Mais attendez, le tir de Tsubasa<LINE>
-//est trop puissant et repousse le gardien<LINE>
-//dans les cages!<END>
+//Oh! But wait, Tsubasa's shot<LINE>
+//is too powerful and pushes the goalkeeper<LINE>
+//into the goal!<END>
 
-//Aaah! Hernandez utilise sa main gauche<LINE>
-//pour envelopper le ballon<LINE>
-//et l'arrête ainsi d'un trait!<END>
+//Aaah! Hernandez uses his left hand<LINE>
+//to wrap the ball<LINE>
+//and stop it in one go!<END>
 
-//Quel arrêt! Le ballon n'a pas passé<LINE>
-//la ligne de but!<END>
+//What a save! The ball didn't cross<LINE>
+//the goal line!<END>
 
-//Hernandez s'est défait du Drive shoot<LINE>
-//de Tsubasa!<END>
+//Hernandez has deflected Tsubasa's<LINE>
+//Drive shoot!<END>
 

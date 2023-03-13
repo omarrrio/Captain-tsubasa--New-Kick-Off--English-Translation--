@@ -1,70 +1,69 @@
 // FILE: EP1356.str containing 27 strings
 
-//C'est parti!<END>
+//Let's go!<END>
 
-//Diaz nous démontre encore une fois<LINE>
-//toute l'étendue de ses dribbles<LINE>
-//et s'enfonce vers les buts adverses!<END>
+//Diaz once again shows us<LINE>
+//the extent of his dribbling skills<LINE>
+//and heads towards the opposing goal!<END>
 
-//Hein!<END>
+//Huh!<END>
 
 //Ah!<END>
 
-//Diaz efface successivement le rapide Nitta,<LINE>
-//le technique Sano et le fin Izawa!<END>
+//Diaz successively evades the speedy Nitta,<LINE>
+//the technical Sano, and the cunning Izawa!<END>
 
-//On ne représente pas la défense japonaise<LINE>
-//pour rien! On va t'arrêter!<END>
+//We don't represent the Japanese defense<LINE>
+//for nothing! We're going to stop you!<END>
 
-//Diaz, je suis derrière toi!<END>
+//Diaz, I'm right behind you!<END>
 
-//Pascual suit Diaz de près!<END>
+//Pascual is closely following Diaz!<END>
 
-//Diaz nous régale de ses dribbles<LINE>
-//fantastiques!<END>
+//Diaz delights us with his fantastic dribbling!<END>
 
 //Ishizaki...<END>
 
 //Ah!<END>
 
-//Jito... Il efface les deux défenseurs!<END>
+//Jito... He evades the two defenders!<END>
 
-//Quoi!<END>
+//What!<END>
 
-//Rhaaa!<END>
+//Argh!<END>
 
-//Même Souda n'est pas capable d'arrêter Diaz<LINE>
-//à l'aide de son Tacle en rasoir!<END>
+//Even Souda isn't able to stop Diaz<LINE>
+//with his Razor Tackle!<END>
 
-//C'est pas possible!<END>
+//This can't be!<END>
 
-//Il ne reste plus que le libéro, Matsuyama,<LINE>
-//dans son passage!<END>
+//There's only the sweeper, Matsuyama,<LINE>
+//left in his way!<END>
 
-//Non!<END>
+//No!<END>
 
-//Oh! Il vient d'effacer Matsuyama!<END>
+//Oh! He just got past Matsuyama!<END>
 
-//Le voilà face au gardien, Wakashimazu...<LINE>
-//Celui-ci sort des buts sans hésiter!<END>
+//Now he's facing the goalkeeper, Wakashimazu...<LINE>
+//Wakashimazu rushes out of the goal!<END>
 
-//Rhaaa!<END>
+//Argh!<END>
 
-//Oh la la! Diaz a dribblé Wakashimazu!<END>
+//Oh my god! Diaz dribbled past Wakashimazu!<END>
 
-//C'est incroyable!<LINE>
-//Diaz a effacé 8 joueurs à lui tout seul!<LINE>
-//Il tire dans les cages maintenant vides!<END>
+//This is incredible!<LINE>
+//Diaz got past 8 players all by himself!<LINE>
+//He's now shooting at the empty goal!<END>
 
-//Fan Diaz a-t-il été béni<LINE>
-//par les dieux du football?<END>
+//Has Fan Diaz been blessed<LINE>
+//by the football gods?<END>
 
-//But!<END>
+//Goal!<END>
 
-//Vous avez vu All Japan?<LINE>
-//Voilà ce dont Diaz est capable!<END>
+//Did you see that, All Japan?<LINE>
+//This is what Diaz is capable of!<END>
 
-//Fan Diaz nous a montré toute l'étendue<LINE>
-//de son génie en se débarrassant<LINE>
-//successivement de 8 joueurs!<END>
+//Fan Diaz has shown us the full extent<LINE>
+//of his genius by getting past<LINE>
+//eight players successively!<END>
 

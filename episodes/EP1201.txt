@@ -1,22 +1,19 @@
 // FILE: EP1201.str containing 7 strings
 
-//Il serait peut-être temps qu'on mette<LINE>
-//notre plan à exécution.<END>
+//It's about time we put our plan into action.<END>
 
-//D'accord, Gino!<END>
+//Alright, Gino!<END>
 
-//Ils sont si calmes...<END>
+//They're so calm...<END>
 
-//Il faudra être particulièrement vigilants<LINE>
-//en seconde période.<END>
+//We'll have to be particularly vigilant<LINE>
+//in the second half.<END>
 
-//Tsubasa a raison. N'oubliez pas<LINE>
-//que nous affrontons les All Italy Jr.<LINE>
-//Youth Team.<LINE>
-//C'est une des équipes favorites<LINE>
-//pour remporter compétition.<END>
+//Tsubasa is right. Don't forget that we're<LINE>
+//playing against the All Italy Jr. Youth Team.<LINE>
+//They're one of the favorites to win the competition.<END>
 
-//Montrez-leur de quoi vous êtes capables!<END>
+//Show them what you're capable of!<END>
 
-//O-oui!<END>
+//Y-Yes!<END>
 

@@ -1,51 +1,51 @@
 // FILE: EP1351.str containing 17 strings
 
-//Va-t-on assister à un duel<LINE>
-//entre Tsubasa et Diaz?<END>
+//Is this going to be a showdown
+//between Tsubasa and Diaz?<END>
 
-//Un milieu de terrain sait quand il faut<LINE>
-//attaquer et quand il faut passer le ballon.<LINE>
-//Notre duel peut attendre.<END>
+//A midfielder knows when to
+//attack and when to pass the ball.
+//Our showdown can wait.<END>
 
-//Quoi?!<END>
+//What?!<END>
 
 //Pascual!<END>
 
-//Diaz a évité le un contre un avec Tsubasa<LINE>
-//et a fait une passe à Pascual!<END>
+//Diaz avoided the one-on-one with Tsubasa
+//and passed to Pascual!<END>
 
-//La passe effectuée, il fonce aussitôt<LINE>
-//vers les buts des All Japan!<END>
+//After the pass, he immediately
+//sprinted towards the All Japan's goal.<END>
 
-//Pascual prolonge pour Diaz qui se présente<LINE>
-//face au but!<END>
+//Pascual passes back to Diaz who is now
+//facing the goal!<END>
 
-//Allez!<END>
+//Go!<END>
 
-//Très bien.<END>
+//Very well.<END>
 
-//Saut périlleux avant de la part de Diaz!<LINE>
-//Profitant de son élan, il tire<LINE>
-//en plein saut!<END>
+//A daring somersault by Diaz!<LINE>
+//Taking advantage of his momentum, he shoots
+//in mid-air!<END>
 
-//Mais Wakashimazu a tout anticipé<LINE>
-//et se trouve sur la trajectoire du ballon!<END>
+//But Wakashimazu anticipated everything
+//and is on the ball's trajectory!<END>
 
-//Oh! C'est une frappe enroulée!<END>
+//Oh! It's a curling shot!<END>
 
-//Non!<END>
+//No!<END>
 
-//Buuuuuuut!<LINE>
-//Diaz avait donné un puissant effet<LINE>
-//au ballon lors de son salto avant!<END>
+//Goooooal!<LINE>
+//Diaz put a strong spin on the ball
+//during his front flip!<END>
 
-//Ressaisissez-vous!<LINE>
-//N'oubliez pas<LINE>
-//que vous représentez le Japon!<END>
+//Pull yourselves together!<LINE>
+//Don't forget that
+//you represent Japan!<END>
 
 //Wakabayashi...<END>
 
-//Tout est de ma faute.<LINE>
-//Je suis obsédé par la présence de Roberto…<LINE>
-//Je dois me ressaisir...<END>
+//It's all my fault.<LINE>
+//I'm obsessed with Roberto's presence...
+//I need to get a hold of myself...<END>
 

@@ -1,75 +1,73 @@
 // FILE: EP1355.str containing 26 strings
 
-//Hyuga s'apprête à tirer!<END>
+//Hyuga is getting ready to shoot!<END>
 
-//Tu penses que je vais te laisser tirer<LINE>
-//aussi facilement?<END>
+//Do you think I'll let you shoot that easily?<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//L'Argentine ne se montre pas vaincue !<LINE>
-//Pascual bloque la tentative de tir<LINE>
-//de Hyuga par un tacle fantastique!<END>
+//Argentina isn't giving up!<LINE>
+//Pascual makes a fantastic tackle<LINE>
+//and blocks Hyuga's shot attempt!<END>
 
-//Bien joué, Pascual!<END>
+//Well played, Pascual!<END>
 
-//Ce n'est pas fini!<END>
+//It's not over yet!<END>
 
-//N'oublions pas que le ballon<LINE>
-//est toujours en jeu...<END>
+//Let's not forget that the ball<LINE>
+//is still in play...<END>
 
-//Hyuga effectue un retourné<LINE>
-//et fait une passe!<END>
-
-//Tsubasa!<END>
-
-//En tant que capitaine de l'équipe,<LINE>
-//je me dois de mettre cette passe<LINE>
-//au fond des filets...<END>
-
-//Sinon, je ne suis pas digne<LINE>
-//de porter le brassard de capitaine!<END>
-
-//Tsubasa effectue un geste technique<LINE>
-//d'une rare finesse<LINE>
-//et accomplit une bicyclette <LINE>
-//retournée dos à la passe!<END>
-
-//Je vais pas te laisser faire!<END>
-
-//Fan Diaz, le capitaine de All Argentina Jr.<LINE>
-//Youth Team, bloque le tir!<END>
-
-//C'est une occasion de but ratée!<END>
-
-//Fan Diaz... C'est vrai que tu es doué...<END>
-
-//Mais même si tu as bloqué mon tir,<LINE>
-//je ne vais pas laisser passer<LINE>
-//cette occasion!<LINE>
-//Je dois récupérer ce ballon avant toi...<END>
+//Hyuga performs a bicycle kick<LINE>
+//and makes a pass!<END>
 
 //Tsubasa!<END>
 
-//Oh! Misaki surgit<LINE>
-//aux côtés des deux joueurs!<END>
+//As the captain of the team,<LINE>
+//I have to put this pass<LINE>
+//in the back of the net...<END>
 
-//Je compte sur toi, Misaki!<END>
+//Otherwise, I'm not worthy<LINE>
+//of wearing the captain's armband!<END>
 
-//Quoi?!<END>
+//Tsubasa performs a rare and delicate<LINE>
+//technical move and does a<LINE>
+//backflip bicycle kick!<END>
 
-//Magnifique! Tsubasa récupère le ballon<LINE>
-//après le contre de Diaz<LINE>
-//et le passe directement à Misaki!<END>
+//I won't let you do that!<END>
 
-//Belle passe, Tsubasa!<END>
+//Fan Diaz, the captain of All Argentina Jr.<LINE>
+//Youth Team, blocks the shot!<END>
 
-//Quelle reprise de volée<LINE>
-//de la part de Misaki!<END>
+//That was a missed opportunity for a goal!<END>
 
-//Et c'est le buuuuuuuuuuuuuut!<END>
+//Fan Diaz... it's true that you're talented...<END>
 
-//Misaki remet les deux équipes à égalité!<LINE>
-//Quelle action magnifique<LINE>
-//de la part de Misaki et Tsubasa!<END>
+//But even if you blocked my shot,<LINE>
+//I'm not going to let this opportunity<LINE>
+//pass me by!<LINE>
+//I have to get this ball before you...<END>
+
+//Tsubasa!<END>
+
+//Oh! Misaki appears<LINE>
+//beside the two players!<END>
+
+//I'm counting on you, Misaki!<END>
+
+//What?!<END>
+
+//Beautiful! Tsubasa retrieves the ball<LINE>
+//after Diaz's tackle<LINE>
+//and passes it directly to Misaki!<END>
+
+//Great pass, Tsubasa!<END>
+
+//What a volley<LINE>
+//from Misaki!<END>
+
+//And it's a goooooooal!<END>
+
+//Misaki ties the two teams up!<LINE>
+//What a magnificent play<LINE>
+//by Misaki and Tsubasa!<END>
 

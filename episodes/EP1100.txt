@@ -1,60 +1,60 @@
 // FILE: EP1100.str containing 19 strings
 
 //Wa-Wakabayashi!<LINE>
-//Ça fait un sacré bail!<END>
+//Long time no see!<END>
 
-//Vous avez tous l'air en forme.<END>
+//You all look well.<END>
 
 //Wakabayashi!<END>
 
-//En ce qui me concerne, j'ai comme but<LINE>
-//de surpasser Tsubasa Ozora,<LINE>
-//mais j'en ai également un autre.<END>
+//As for me, my goal is<LINE>
+//to surpass Tsubasa Ozora,<LINE>
+//but I have another one as well.<END>
 
-//C'est de marquer un but contre toi,<LINE>
-//Wakabayashi, hors de<LINE>
-//la surface de réparation!<END>
+//It's to score a goal against you,<LINE>
+//Wakabayashi, from outside<LINE>
+//the penalty area!<END>
 
 //Hyuga...<END>
 
-//J'ai eu vent des victoires de Nankatsu et<LINE>
-//de Toho au Japon, mais je n'ai pas été<LINE>
-//en Allemagne pendant trois ans pour rien.<END>
+//I heard about Nankatsu and Toho's victories<LINE>
+//in Japan, but I didn't spend three years<LINE>
+//in Germany for nothing.<END>
 
-//Je vais être honnête... Les All Japan sans<LINE>
+//I'll be honest... The All Japan without<LINE>
 //Tsubasa...<END>
 
-//Vous n'avez aucune chance de gagner!<END>
+//You guys don't stand a chance of winning!<END>
 
-//Pour qui tu te prends?<END>
+//Who do you think you are?<END>
 
-//Enfin, que le meilleur l'emporte demain.<END>
+//Well, may the best man win tomorrow.<END>
 
-//Wakabayashi, on va voir demain ce que<LINE>
-//ces trois années en Allemagne t'ont<LINE>
-//réellement apporté!<END>
+//Wakabayashi, we'll see tomorrow what<LINE>
+//those three years in Germany have<LINE>
+//really done for you!<END>
 
-//Et laisse-moi te dire que les All Japan Jr.<LINE>
-//Youth vont gagner contre FC Allemagne!<END>
+//And let me tell you, the All Japan Jr.<LINE>
+//Youth will beat FC Germany!<END>
 
-//Abordez ce match comme un match normal,<LINE>
-//il n'y a pas de match amical qui vaille. <LINE>
-//Donnez le meilleur de vous-même et<LINE>
-//décrochez-moi la victoire!<END>
+//Approach this match like any other,<LINE>
+//there's no such thing as a friendly match. <LINE>
+//Give it your all and<LINE>
+//bring me the victory!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Pour la défense, ne lâchez pas Schneider<LINE>
-//une seconde. Gardez un œil sur lui<LINE>
-//quoi qu'il arrive. Vous devrez le marquer<LINE>
-//en priorité.<END>
+//For defense, don't let Schneider<LINE>
+//out of your sight for a second. Keep an eye on him<LINE>
+//no matter what. You'll need to mark him<LINE>
+//as a priority.<END>
 
-//C'est le meilleur attaquant d'Allemagne.<LINE>
-//Karl Heinz Schneider, le Kaizer.<END>
+//He's the best striker in Germany.<LINE>
+//Karl Heinz Schneider, the Kaizer.<END>
 
-//S'il y en a bien un qui puisse marquer<LINE>
-//un but contre Genzo, c'est lui.<END>
+//If anyone can score<LINE>
+//against Genzo, it's him.<END>
 
-//Marquer contre Wakabayashi?<LINE>
-//Vous êtes sérieux?<END>
+//Score against Wakabayashi?<LINE>
+//Are you serious?<END>
 

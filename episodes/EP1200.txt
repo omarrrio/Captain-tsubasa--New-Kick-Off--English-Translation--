@@ -1,76 +1,75 @@
 // FILE: EP1200.str containing 31 strings
 
-//Allez, les gars! Encore un effort!<END>
+//Come on guys! One last effort!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Entraîneur…<END>
+//Coach...<END>
 
-//Qu'est-ce qu'il y a, Matsuyama?<END>
+//What's up, Matsuyama?<END>
 
-//Tsubasa motive à lui seul l'équipe.<END>
+//Tsubasa alone is motivating the team.<END>
 
-//Il fera un bien meilleur capitaine que moi.<END>
+//He'll make a much better captain than me.<END>
 
-//Entraîneur, veuillez remettre le brassard<LINE>
-//de capitaine à Tsubasa.<END>
-
-//Matsuyama...<END>
-
-//Écoutez-moi tous.<END>
-
-//Tsubasa, à partir d'aujourd'hui<LINE>
-//tu reprends le brassard de capitaine.<END>
-
-//Comment? Moi? Vous êtes sûr?<END>
-
-//Je n'y suis pour rien,<LINE>
-//c'était à la demande de Matsuyama.<END>
-
-//Tsubasa, il n'y a que toi<LINE>
-//qui puisses être le capitaine de l'équipe.<END>
+//Coach, please give Tsubasa the captain's armband.<END>
 
 //Matsuyama...<END>
 
-//Je suis sûr que tout le monde<LINE>
-//est du même avis que moi.<END>
+//Listen to me, everyone.<END>
 
-//Oui!<END>
+//Tsubasa, starting today,<LINE>
+//you'll take back the captain's armband.<END>
 
-//Les gars...<END>
+//What? Me? Are you sure?<END>
 
-//Comptez sur moi! Je ferai de mon mieux!<END>
+//I had nothing to do with it,<LINE>
+//it was at Matsuyama's request.<END>
 
-//Tu vois. Le brassard de capitaine<LINE>
-//te va à merveille!<END>
+//Tsubasa, only you<LINE>
+//can be the team captain.<END>
 
-//Une dernière chose...<END>
+//Matsuyama...<END>
 
-//Hein?<END>
+//I'm sure everyone<LINE>
+//agrees with me.<END>
 
-//Jusqu'à maintenant, Jun Misugi assistait<LINE>
-//l'équipe en tant qu'entraîneur, mais j'ai<LINE>
-//pris la décision de le faire jouer.<END>
+//Yes!<END>
 
-//Si vous voulez bien de moi.<END>
+//Guys...<END>
+
+//Count on me! I'll do my best!<END>
+
+//You see. The captain's armband<LINE>
+//looks great on you!<END>
+
+//One last thing...<END>
+
+//What?<END>
+
+//Until now, Jun Misugi had been<LINE>
+//assisting the team as a coach, but I've<LINE>
+//decided to make him play.<END>
+
+//If you'll have me.<END>
 
 //M-Misugi...<END>
 
 //Misugi!<END>
 
-//Voilà notre équipe renforcée!<END>
+//Our team is now stronger!<END>
 
-//OK les gars! On se doit de remporter<LINE>
-//notre match contre l'Italie<LINE>
-//si on veut terminer premier<LINE>
-//de notre groupe!<END>
+//OK guys! We have to win<LINE>
+//our match against Italy<LINE>
+//if we want to finish first<LINE>
+//in our group!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Écoutez-moi tous.<END>
+//Listen to me, everyone.<END>
 
-//Voici le onze de départ pour le match<LINE>
-//contre l'Italie.<END>
+//Here is the starting lineup for the match<LINE>
+//against Italy.<END>
 
 //!!!<END>
 

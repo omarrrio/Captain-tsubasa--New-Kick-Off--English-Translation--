@@ -1,66 +1,66 @@
 // FILE: EP1150.str containing 23 strings
 
-//Je vais marquer!<END>
+//I'm going to score!<END>
 
-//Nitta déclenche son fameux Tir du faucon!<END>
+//Nitta unleashes his famous Falcon Shot!<END>
 
-//Impressionnant! Le gardien l'a arrêté!<END>
+//Impressive! The goalkeeper stopped it!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Quel arrêt de la part de Wakabayashi!<LINE>
-//Ce gardien est tout simplement<LINE>
-//exceptionnel!<LINE>
-//Normalement ce tir était destiné à aller<LINE>
-//tout droit au fond des filets!<END>
+//What a save by Wakabayashi!<LINE>
+//This goalkeeper is simply<LINE>
+//exceptional!<LINE>
+//Normally, this shot was destined to go<LINE>
+//straight into the back of the net!<END>
 
-//À mon tour!<END>
+//My turn!<END>
 
-//Souda remonte le terrain et tire!<END>
+//Souda moves up the field and shoots!<END>
 
-//Une frappe enroulée...<END>
+//A curling shot...<END>
 
-//Waouh! Wakabayashi a parfaitement lu<LINE>
-//la trajectoire du ballon et a effectué<LINE>
-//un arrêt impeccable!<END>
+//Wow! Wakabayashi perfectly read<LINE>
+//the trajectory of the ball and made<LINE>
+//an impeccable save!<END>
 
-//Il a deviné la trajectoire<LINE>
-//de mon Tir en rasoir du premier coup!<LINE>
-//Comment a-t-il fait?<END>
+//He guessed the trajectory<LINE>
+//of my Razor Shot on the first try!<LINE>
+//How did he do it?<END>
 
-//Très bien, à mon tour de défier<LINE>
-//le grand Wakabayashi!<END>
+//All right, now it's my turn to challenge<LINE>
+//the great Wakabayashi!<END>
 
-//Matsuyama frappe au but! C'est le fameux<LINE>
-//Eagle shot qu'il a ramené tout droit des<LINE>
-//plaines enneigées de Hokkaido!<END>
+//Matsuyama shoots at the goal! It's the famous<LINE>
+//Eagle Shot that he brought straight from<LINE>
+//the snow-covered plains of Hokkaido!<END>
 
-//Aah! Rien n'y fait!<LINE>
-//Wakabayashi s'est emparé du ballon<LINE>
-//qui filait à ras de terre vers le but!<END>
+//Aah! Nothing can get past him!<LINE>
+//Wakabayashi grabbed the ball<LINE>
+//that was rolling along the ground towards the goal!<END>
 
-//Allons-y!<END>
+//Let's go!<END>
 
-//Oh! Masao effectue une glissade<LINE>
-//dos au sol!<END>
+//Oh! Masao slides<LINE>
+//backwards on the ground!<END>
 
-//On assiste là au jeu aérien<LINE>
-//des frères jumeaux Tachibana!<END>
+//We're witnessing the aerial play<LINE>
+//of the Tachibana twins!<END>
 
-//Allez, Kazuo!<END>
+//Come on, Kazuo!<END>
 
-//Leur Skylab hurricane s'élève<LINE>
-//dans le ciel germanique!<END>
+//Their Skylab Hurricane rises<LINE>
+//in the German sky!<END>
 
-//Attrape-moi ça, Wakabayashi!<END>
+//Catch that, Wakabayashi!<END>
 
-//Ahhhh! Nouvel arrêt de Wakabayashi!<END>
+//Ahhhh! Another save by Wakabayashi!<END>
 
-//Quel arrêt réflexe!<END>
+//What a reflex save!<END>
 
-//Mais existe-t-il un tir<LINE>
-//que Wakabayashi ne puisse arrêter?<END>
+//But is there a shot<LINE>
+//that Wakabayashi can't stop?<END>
 
-//Tel un rideau de fer, rien ne passe<LINE>
-//à travers SGGK, Genzo Wakabayashi!<END>
+//Like an iron curtain, nothing gets past<LINE>
+//SGGK, Genzo Wakabayashi!<END>
 

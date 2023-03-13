@@ -1,37 +1,36 @@
 // FILE: EP1300.str containing 14 strings
 
-//Le Japon s'est qualifié pour les quarts<LINE>
-//de finale et retrouvera l'Argentine!<END>
+//Japan has qualified for the quarter-finals<LINE>
+//and will face Argentina!<END>
 
-//Cette équipe argentine regorge de talent<LINE>
-//et peut compter sur le génie de Fan Diaz!<END>
+//This Argentine team is full of talent<LINE>
+//and can rely on the genius of Fan Diaz!<END>
 
-//J'ai hâte de le voir jouer<LINE>
-//contre le capitaine de la sélection<LINE>
-//japonaise, Tsubasa Ozora!<END>
+//I can't wait to see him play<LINE>
+//against the captain of the Japanese team, Tsubasa Ozora!<END>
 
-//Hé, le nº 10 japonais!<END>
+//Hey, Japanese number 10!<END>
 
-//Je suis impatient de me mesurer<LINE>
-//à ton style de jeu à la Roberto Hongo.<END>
+//I'm eager to measure myself<LINE>
+//against your playing style, like Roberto Hongo.<END>
 
-//Ro-Roberto... Tu le connais?<END>
+//Ro-Roberto... Do you know him?<END>
 
-//Tu connais Roberto?<END>
+//Do you know Roberto?<END>
 
-//Roberto est un ami de notre entraîneur<LINE>
+//Roberto is a friend of our coach<LINE>
 //Barbas.<END>
 
-//Il est même venu nous voir aujourd'hui<LINE>
-//dans les vestiaires.<END>
+//He even came to see us today<LINE>
+//in the locker room.<END>
 
-//Il est... là?<END>
+//He is... here?<END>
 
-//Bon, le match va commencer.<END>
+//Well, the match is about to start.<END>
 
-//Qu'est-ce qu'il y a, Tsubasa?<END>
+//What's wrong, Tsubasa?<END>
 
 //Roberto...<END>
 
-//Roberto est quelque part dans le stade...<END>
+//Roberto is somewhere in the stadium...<END>
 

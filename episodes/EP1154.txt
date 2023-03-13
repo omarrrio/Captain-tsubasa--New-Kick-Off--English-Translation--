@@ -1,40 +1,39 @@
 // FILE: EP1154.str containing 14 strings
 
-//Le ballon est pour Hyuga,<LINE>
-//l'avant-centre et capitaine<LINE>
-//des All Japan!<END>
+//The ball is for Hyuga,<LINE>
+//the center-forward and captain<LINE>
+//of All Japan!<END>
 
-//Vas-y, Hyuga!<END>
+//Go for it, Hyuga!<END>
 
 //(Tsubasa...)<END>
 
-//Montre-moi de quoi tu es capable, Hyuga!<END>
+//Show me what you can do, Hyuga!<END>
 
-//Il ne reste pas beaucoup de temps!<LINE>
-//Est-ce que les All Japan vont réussir<LINE>
-//au moins à marquer un but?<END>
+//There's not much time left!<LINE>
+//Will All Japan be able to<LINE>
+//at least score a goal?<END>
 
-//Wakabayashi, j'arrive!<END>
+//Wakabayashi, here I come!<END>
 
-//Oh! Hyuga fonce droit vers le but!<END>
+//Oh! Hyuga is charging straight to the goal!<END>
 
-//Il a effacé tous les défenseurs<LINE>
-//de FC Allemagne et se retrouve seul<LINE>
-//face au gardien!<LINE>
-//C'est une occasion en or!<END>
+//He's evaded all the defenders<LINE>
+//of FC Germany and finds himself alone<LINE>
+//with the goalkeeper!<LINE>
+//This is a golden opportunity!<END>
 
-//Prends ça, Wakabayashi!<END>
+//Take that, Wakabayashi!<END>
 
-//Hyuga tire de toutes ses forces<LINE>
-//à bout portant!<END>
+//Hyuga shoots with all his might<LINE>
+//at close range!<END>
 
-//Buuuuuuuuuuuuuuut! Wakabayashi est resté<LINE>
-//planté sur place! Les All Japan sauvent<LINE>
-//l'honneur en marquant un but!<END>
+//Goooooal! Wakabayashi didn't move!<LINE>
+//All Japan saves face by scoring a goal!<END>
 
-//Super tir, Hyuga!<END>
+//Great shot, Hyuga!<END>
 
 //Wakabayashi...<END>
 
-//…<END>
+//...<END>
 

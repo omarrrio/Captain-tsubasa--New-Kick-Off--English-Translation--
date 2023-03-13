@@ -1,120 +1,104 @@
 // FILE: EP1000.str containing 38 strings
 
-//Après le championnat national, les joueurs<LINE>
-//sélectionnés se sont entrainés en vue<LINE>
-//de la tournée européenne.<END>
+//After the national championship, the selected players<LINE>
+//trained in preparation for the European tour.<END>
 
-//Tsubasa Ozora, capitaine de Nankatsu<LINE>
-//Junior High et vainqueur du championnat<LINE>
-//national, a dû se résigner à<LINE>
-//ne pas participer à la tournée européenne<LINE>
-//à cause de la blessure contractée pendant<LINE>
-//le championnat.<END>
+//Tsubasa Ozora, the captain of Nankatsu<LINE>
+//Junior High and the winner of the national championship,<LINE>
+//had to resign himself to not participating in the European tour<LINE>
+//due to the injury he sustained during the championship.<END>
 
-//Hé, c'est Tsubasa!<END>
+//Hey, it's Tsubasa!<END>
 
-//Salut Ishizaki, salut tout le monde.<END>
+//Hi Ishizaki, hi everyone.<END>
 
-//Ta blessure, ça va?<END>
+//How's your injury doing?<END>
 
-//Oui, c'est presque guéri.<LINE>
-//Mais le médecin ne m'autorise toujours<LINE>
-//pas à m'entraîner.<END>
+//It's almost healed.<LINE>
+//But the doctor still won't let me train.<END>
 
-//Je vois...<END>
+//I see...<END>
 
-//Comme je n'en pouvais plus de me tenir<LINE>
-//éloigné des terrains, je suis venu <LINE>
-//assisté à l'entraînement en tant<LINE>
-//que spectateur.<END>
+//As I couldn't stand being away from the field<LINE>
+//anymore, I came to watch the training as a spectator.<END>
 
-//Tu es évidemment le bienvenu, mais<LINE>
-//ne penses-tu pas que nous regarder <LINE>
-//va te donner encore plus envie <LINE>
-//de jouer?<END>
+//You're obviously welcome, but<LINE>
+//don't you think that watching us will just make you<LINE>
+//want to play even more?<END>
 
-//Hmm... Je n'avais pas pensé à ça!<END>
+//Hmm... I hadn't thought about that!<END>
 
-//Tu ne changeras jamais!<END>
+//You'll never change!<END>
 
 //Ha ha ha ha!<END>
 
-//Bon, puisque Tsubasa est là...<LINE>
-//Misugi, pourquoi tu ne lui donnerais pas<LINE>
-//ce dont nous avons parlé tout à l'heure?<END>
+//Well, since Tsubasa is here...<LINE>
+//Misugi, why don't you give him<LINE>
+//what we talked about earlier?<END>
 
-//Ah oui!<END>
+//Oh, yeah!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Voici le maillot des All Japan Jr. Youth...<END>
+//Here's the All Japan Jr. Youth Team jersey...<END>
 
-//On était libres de prendre le numéro<LINE>
-//qu'on voulait, mais personne n'a voulu<LINE>
-//du nº 10.<END>
+//We were free to choose any number,<LINE>
+//but no one wanted number 10.<END>
 
-//Mais... Je ne vais même pas participer<LINE>
-//au stage d'entraînement.<END>
+//But... I'm not even going to participate<LINE>
+//in the training camp.<END>
 
-//En plus, Hyuga et Matsuyama portent<LINE>
-//le nº 10 d'habitude... <END>
+//Plus, Hyuga and Matsuyama usually wear<LINE>
+//number 10...<END>
 
-//Ne t'en fais pas. Le nº 10 des All Japan<LINE>
-//te revient.<END>
+//Don't worry. The number 10 of All Japan<LINE>
+//is yours.<END>
 
-//Oui.<END>
+//Yes.<END>
 
 //Hyuga...<END>
 
-//Tsubasa, tu es le seul qui mérite de porter<LINE>
-//ce numéro.<END>
+//Tsubasa, you're the only one who deserves to wear<LINE>
+//this number.<END>
 
-//Vous... vous tous...<END>
+//You... all of you...<END>
 
 //Ah...<END>
 
 //Tsubasa?<END>
 
-//Qu'est-ce que j'ai envie d'aller<LINE>
-//à la tournée européenne!<END>
+//I really want to go to the European tour!<END>
 
-//Même si tu n'as pas l'occasion de porter<LINE>
-//ce maillot cette fois-ci, tu le porteras<LINE>
-//sûrement une prochaine fois...<END>
+//Even if you don't have the opportunity to wear<LINE>
+//this jersey this time, you'll surely wear it<LINE>
+//next time...<END>
 
-//Aujourd'hui s'achève le stage<LINE>
-//d'entraînement.<LINE>
-//Je vais maintenant dévoiler la liste<LINE>
-//des 17 joueurs sélectionnés pour la tournée<LINE>
-//européenne!<END>
+//Today marks the end of the training camp.<LINE>
+//I will now announce the list of 17 players selected for the<LINE>
+//European tour!<END>
 
 //!!!<END>
 
 //...<END>
 
-//Rien n'est facile dans le foot...<END>
+//Nothing is easy in football...<END>
 
-//Sur les 24 joueurs sélectionnés en équipe<LINE>
-//nationale, il ne reste à présent que 17<LINE>
-//titulaires. Et au final, seulement 11 de<LINE>
-//ces 17 joueurs seront sur le terrain.<END>
+//Out of the 24 players selected for the national team,<LINE>
+//only 17 remain as starters. And in the end, only 11 of<LINE>
+//these 17 players will be on the field.<END>
 
-//Le football est vraiment un sport très dur.<END>
+//Football is really a very tough sport.<END>
 
-//Tsubasa, j'ai un message de la part de<LINE>
-//Katagiri pour toi. Il attend de te voir<LINE>
-//complètement rétabli et en bonne forme<LINE>
-//pour le 1st Annual French International<LINE>
-//Jr. Youth Tournament.<END>
+//Tsubasa, I have a message from Katagiri for you. He's waiting to<LINE>
+//see you completely recovered and in good shape for the 1st Annual<LINE>
+//French International Jr. Youth Tournament.<END>
 
-//La All Japan Jr. Youth Team ne peut pas<LINE>
-//se passer de la paire en or<LINE>
-//formée par Tsubasa Ozora et Taro Misaki.<END>
+//The All Japan Jr. Youth Team cannot do without the golden<LINE>
+//pair formed by Tsubasa Ozora and Taro Misaki.<END>
 
-//Hein! Misaki a été sélectionné?<END>
+//What! Misaki was selected?<END>
 
-//Deux jours plus tard,<LINE>
-//les All Japan Jr. Youth Team décollèrent<LINE>
-//pour l'Allemagne, la première étape<LINE>
-//de la tournée européenne!<END>
+//Two days later,<LINE>
+//the All Japan Jr. Youth Team took off<LINE>
+//for Germany, the first stop on the European tour!<END>
 

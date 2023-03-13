@@ -1,83 +1,80 @@
 // FILE: EP1151.str containing 29 strings
 
-//Ne te crois pas invincible, Wakabayashi!<LINE>
-//Mon Tiger shot va transpercer tes filets!<END>
+//Don't think you're invincible, Wakabayashi! <LINE>
+//My Tiger shot will pierce your net! <END>
 
-//C'est ce qu'on va voir, Hyuga!<END>
+//That's what we'll see, Hyuga! <END>
 
-//!!!<END>
+//!!! <END>
 
-//Aahhh...<END>
+//Aahhh... <END>
 
-//Je n'arrive pas à le croire!<LINE>
-//Hyuga a été projeté dans les airs!<END>
+//I can't believe it! <LINE>
+//Hyuga was thrown into the air! <END>
 
-//Schneider...<END>
+//Schneider... <END>
 
-//Mais que vient-il de se passer?<LINE>
-//Ah, voilà Karl Heinz Schneider,<LINE>
-//le Kaizer!<END>
+//But what just happened? <LINE>
+//Ah, there's Karl Heinz Schneider, <LINE>
+//the Kaizer! <END>
 
-//Quelle feinte!<END>
+//What a feint! <END>
 
-//Quelle vitesse!<END>
+//What speed! <END>
 
-//Schneider vient d'effacer Nitta et<LINE>
-//Tachibana en un clin d'œil!<END>
+//Schneider just erased Nitta and <LINE>
+//Tachibana in the blink of an eye! <END>
 
-//Cette sensation...<END>
+//This feeling... <END>
 
-//Je ressens la même chose <LINE>
-//que face à Tsubasa!<END>
+//I feel the same thing <LINE>
+//as when facing Tsubasa! <END>
 
-//Schneider fonce droit<LINE>
-//vers les buts japonais!<END>
+//Schneider charges straight <LINE>
+//towards the Japanese goal! <END>
 
-//Mais Sawada et Matsuyama se dressent<LINE>
-//en travers de son chemin!<END>
+//But Sawada and Matsuyama stand <LINE>
+//in his way! <END>
 
-//Waah!<END>
+//Waah! <END>
 
-//Argh...<END>
+//Argh... <END>
 
-//Pas de feinte cette fois-ci, il passe<LINE>
-//en plein milieu et les deux défenseurs<LINE>
-//se voient foudroyés au passage!<END>
+//No feint this time, he passes <LINE>
+//right through the middle and the two defenders <LINE>
+//are struck down in his wake! <END>
 
-//M-mais, c'est le Dribble en ligne droite<LINE>
-//de Hyuga!<END>
+//B-but, it's Hyuga's Straight Dribble! <END>
 
-//Schneider fonce à grande vitesse<LINE>
-//vers les buts adverses et se déjoue<LINE>
-//de ses adversaires à l'aide de dribbles<LINE>
-//foudroyants!<END>
+//Schneider speeds towards <LINE>
+//the opposing goal and outmaneuvers <LINE>
+//his opponents with lightning-fast dribbling! <END>
 
-//On doit l'arrêter!<END>
+//We have to stop him! <END>
 
-//Takasugi et Jito, les deux défenseurs<LINE>
-//géants du Japon, se replacent<LINE>
-//pour l'arrêter!<END>
+//Takasugi and Jito, the two giant defenders <LINE>
+//of Japan, position themselves <LINE>
+//to stop him! <END>
 
-//Oh! Il passe la balle en retrait et<LINE>
-//contourne le duo défensif par la gauche!<END>
+//Oh! He passes the ball back <LINE>
+//and circumvents the defensive duo on the left! <END>
 
-//Kaltz, qui le suivait, va-t-il tirer?<END>
+//Kaltz, who was following him, is he going to shoot? <END>
 
-//Schneider!<END>
+//Schneider! <END>
 
-//Non! Il ne tire pas et repasse le ballon<LINE>
-//à Schneider!<END>
+//No! He doesn't shoot and passes the ball back <LINE>
+//to Schneider! <END>
 
-//Schneider reprend la passe de Kaltz<LINE>
-//dans les airs et y décrochent<LINE>
-//un Jumping high volley shoot!<END>
+//Schneider takes Kaltz's pass <LINE>
+//in the air and executes a Jumping High Volley Shoot! <END>
 
-//Buuuuuuuuuuuuuuuuuuut!<END>
+//Gooooaaaal! <END>
 
-//Wakashimazu, la vision bloquée<LINE>
-//par les gigantesques Jito et Takasugi,<LINE>
-//n'a pas pu anticiper l'action de Schneider<LINE>
-//et est resté impuissant face à son tir!<END>
+//Wakashimazu, with his vision blocked <LINE>
+//by the gigantic Jito and Takasugi, <LINE>
+//was unable to anticipate Schneider's move <LINE>
+//and was helpless against his shot! <END>
 
-//!!!<END>
+//!!! <END>
 

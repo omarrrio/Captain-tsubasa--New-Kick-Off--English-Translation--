@@ -1,24 +1,23 @@
 // FILE: EP1101.str containing 7 strings
 
-//Son Fire shot...<LINE>
-//C'est vrai que c'est un tir impressionnant,<LINE>
-//mais...<END>
+//His Fire Shot...<LINE>
+//It's true that it's an impressive shot,<LINE>
+//but...<END>
 
-//Je ne vais pas les laisser marquer<LINE>
-//un seul but de plus!<END>
+//I'm not going to let them score<LINE>
+//even one more goal!<END>
 
 //Wakashimazu...<END>
 
-//Il faut marquer un but.<END>
+//We need to score a goal.<END>
 
-//Si on arrive à marquer en premier<LINE>
-//dans la deuxième mi-temps,<LINE>
-//on pourra revenir dans le match!<END>
+//If we can score first<LINE>
+//in the second half,<LINE>
+//we can get back in the game!<END>
 
-//S'ils marquent encore un but,<LINE>
-//c'est la défaite assurée.<LINE>
-//Il faut qu'on marque!<LINE>
-//FC Allemagne, vous allez voir!<END>
+//If they score another goal,<LINE>
+//it's a guaranteed defeat.<LINE>
+//We have to score!<LINE>
+//FC Germany, you'll see!<END>
 
-//C'est parti, Wakabayashi!<END>
-
+//Let's go, Wakabayashi!<END>

@@ -1,50 +1,49 @@
 // FILE: EP1357.str containing 16 strings
 
-//Diaz, je ne suis peut-être pas aussi doué<LINE>
-//que toi, mais avec de l'entraînement j'ai<LINE>
-//pu tenir face au meilleur joueur japonais,<LINE>
+//Diaz, I may not be as skilled<LINE>
+//as you, but with training I was able<LINE>
+//to hold my own against the best Japanese player,<LINE>
 //Tsubasa Ozora!<END>
 
-//Je ne me laisserai pas faire<LINE>
-//aussi facilement!<END>
+//I won't let myself be beaten<LINE>
+//so easily!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Oh! Matsuyama protège le ballon<LINE>
-//en se mettant à genoux!<END>
+//Oh! Matsuyama protects the ball<LINE>
+//by getting down on his knees!<END>
 
-//Tsubasa, à toi de jouer!<LINE>
-//Je compte sur toi pour marquer!<END>
+//Tsubasa, it's your turn to play!<LINE>
+//I'm counting on you to score!<END>
 
-//Il passe la balle à Tsubasa!<LINE>
-//C'est une passe Eagle shot de Matsuyama!<END>
+//He passes the ball to Tsubasa!<LINE>
+//It's an Eagle shot pass from Matsuyama!<END>
 
-//Merci, Matsuyama!<LINE>
-//Tu peux compter sur moi!<END>
+//Thanks, Matsuyama!<LINE>
+//You can count on me!<END>
 
-//À toi, Hyuga!<END>
+//Your turn, Hyuga!<END>
 
-//Tsubasa réussit à centrer<LINE>
-//malgré le marquage de deux défenseurs!<END>
+//Tsubasa successfully crosses the ball<LINE>
+//despite being marked by two defenders!<END>
 
-//C'est une passe pour Hyuga<LINE>
-//qui fonce droit au but!<END>
+//It's a pass to Hyuga<LINE>
+//who's charging straight towards the goal!<END>
 
-//Si je ne marque pas, je ne pourrai jamais<LINE>
-//prétendre être le buteur vedette<LINE>
-//des All Japan!<END>
+//If I don't score, I'll never be able<LINE>
+//to claim the title of All Japan's top scorer!<END>
 
-//Hyuga est serré de prêt<LINE>
-//par deux défenseurs!<END>
+//Hyuga is tightly marked<LINE>
+//by two defenders!<END>
 
-//Mais par sa vitesse fulgurante,<LINE>
-//Hyuga se démarque de ces derniers!<END>
+//But with his blazing speed,<LINE>
+//Hyuga breaks free from them!<END>
 
-//Je vais mettre ce ballon<LINE>
-//au fond des filets!<END>
+//I'm going to put this ball<LINE>
+//into the back of the net!<END>
 
 //Tiger Diving Header!<END>
 
-//Buuuuuuuuuuuuuut! Les compteurs sont<LINE>
-//de nouveau remis à zéro!<END>
+//Goooooooal! The score is<LINE>
+//tied once again!<END>
 

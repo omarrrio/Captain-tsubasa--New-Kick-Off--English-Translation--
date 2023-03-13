@@ -1,95 +1,89 @@
 // FILE: EP1252.str containing 34 strings
 
-//C'est une passe vers les deux stars<LINE>
-//de la All Japan Team, Tsubasa et Hyuga,<LINE>
-//qui sont complètement démarquées!<END>
+//This is a pass to the two stars<LINE>
+//of the All Japan Team, Tsubasa and Hyuga,<LINE>
+//who are completely unmarked!<END>
 
-//Qu'est-ce qui se passe?<LINE>
-//Ils ne défendent même pas!<END>
+//What's going on?<LINE>
+//They're not even defending!<END>
 
-//Seul Hernandez reste sur le passage!<LINE>
-//C'est une occasion en or<LINE>
-//pour la All Japan Team!<END>
+//Only Hernandez remains in the way!<LINE>
+//It's a golden opportunity<LINE>
+//for the All Japan Team!<END>
 
-//Notre plan se déroule à merveille!<LINE>
-//On compte sur toi, Gino!<END>
+//Our plan is working perfectly!<LINE>
+//We're counting on you, Gino!<END>
 
-//C'est maintenant ou jamais!<END>
+//It's now or never!<END>
 
-//Hernandez sort sans hésiter!<END>
+//Hernandez comes out without hesitation!<END>
 
-//Tsubasa, je m'en occupe!<LINE>
-//Tiens-toi prêt à reprendre le ballon!<END>
+//Tsubasa, I'll take care of him!<LINE>
+//Be ready to take the ball!<END>
 
-//D'accord!<END>
+//Okay!<END>
 
-//Hyuga saute pour reprendre le ballon!<END>
+//Hyuga jumps to take the ball!<END>
 
-//Hernandez saute aussi à la limite<LINE>
-//de la surface de réparation!<END>
+//Hernandez jumps too, at the edge<LINE>
+//of the penalty area!<END>
 
-//Mon Dieu!<END>
+//Oh my god!<END>
 
-//Hyuga a sauté le plus haut,<LINE>
-//mais Hernandez a été capable de s'emparer<LINE>
-//du ballon d'une main!<END>
+//Hyuga jumped the highest,<LINE>
+//but Hernandez was able to grab<LINE>
+//the ball with one hand!<END>
 
-//Oh! Hernandez relâche le ballon!<END>
+//Oh! Hernandez drops the ball!<END>
 
-//À moi de jouer!<END>
+//It's my turn now!<END>
 
-//Tsubasa fonce vers le ballon!<END>
+//Tsubasa rushes towards the ball!<END>
 
-//Je ne te laisserai pas faire!<END>
+//I won't let you do that!<END>
 
-//Oh! Hernandez a frappé dans le ballon<LINE>
-//avant que Tsubasa n'ait eu l'occasion<LINE>
-//de tirer! Quel jeu aérien de la part<LINE>
-//de Hernandez!<END>
+//Oh! Hernandez hits the ball<LINE>
+//before Tsubasa had a chance to shoot! What aerial play<LINE>
+//from Hernandez!<END>
 
 //Ah!<END>
 
-//Hernandez a arrêté une autre occasion<LINE>
-//de but de All Japan Team! <END>
+//Hernandez stopped another scoring<LINE>
+//chance for the All Japan Team!<END>
 
-//Hernandez dégage le ballon loin devant!<END>
+//Hernandez clears the ball far ahead!<END>
 
-//Oh non!<END>
+//Oh no!<END>
 
-//L'Italie mène la contre-attaque!<END>
+//Italy starts a counterattack!<END>
 
-//C'est à croire qu'ils s'attendaient tous<LINE>
-//à ce que le ballon soit dégagé<LINE>
-//loin devant!<END>
+//It's as if they were all expecting<LINE>
+//the ball to be cleared far ahead!<END>
 
-//Ils prévoyaient ça depuis le début!<END>
+//They planned this from the start!<END>
 
-//La All Japan Team a attaqué trop haut<LINE>
-//et ils se retrouvent maintenant<LINE>
-//avec une défense décimée!<END>
-
-//Le jeu de passe italien est fulgurant!<LINE>
-//Wakashimazu sort de ses cages!<END>
+//The Italian passing game is lightning fast!<LINE>
+//Wakashimazu comes out of his goal!<END>
 
 //Raah!<END>
 
-//Mais, les Italiens sont en surnombre!<LINE>
-//Conti se retrouve seul devant le but<LINE>
-//et tire!<END>
+//But the Italians have a numerical advantage!<LINE>
+//Conti finds himself alone in front of the goal<LINE>
+//and shoots!<END>
 
-//Je l'ai!<END>
+//I've got it!<END>
 
 //Aaah!<END>
 
-//Buuuuuut!<END>
+//Goooal!<END>
 
-//La Italy Jr. Youth Team ouvre le score<LINE>
-//sur une contre-attaque déclenchée<LINE>
-//par leur gardien Hernandez!<END>
+//The Italy Jr. Youth Team scores<LINE>
+//on a counterattack triggered<LINE>
+//by their goalkeeper Hernandez!<END>
 
-//Notre plan marche comme sur des roulettes.<END>
+//Our plan is working perfectly.<END>
 
-//Ce but fait mal aux All Japan…<LINE>
-//On va voir comment leur capitaine<LINE>
-//Tsubasa Ozora va réagir!<END>
+//This goal hurts the All Japan...<LINE>
+//We'll see how their captain<LINE>
+//Tsubasa Ozora will react!<END>
 

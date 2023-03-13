@@ -1,54 +1,54 @@
 // FILE: EP1301.str containing 16 strings
 
-//Qu'est-ce qu'il vous arrive?<LINE>
-//Vous comptez trop sur Diaz!<END>
+//What's wrong with you guys?<LINE>
+//You rely too much on Diaz!<END>
 
-//Vous faites tous partie<LINE>
-//de la sélection argentine!<LINE>
-//Vous devez avoir plus confiance en vous!<LINE>
-//Ne vous reposez pas uniquement sur Diaz!<END>
+//You're all part of<LINE>
+//the Argentine team!<LINE>
+//You need to have more confidence in yourselves!<LINE>
+//Don't just rely on Diaz!<END>
 
-//Ce n'est pas de leur faute.<END>
+//It's not their fault.<END>
 
-//J'endosse l'entière responsabilité<LINE>
-//de ce qui se passe sur le terrain.<LINE>
-//C'est pour ça que je porte<LINE>
-//le brassard de capitaine.<END>
+//I take full responsibility<LINE>
+//for what happens on the field.<LINE>
+//That's why I wear<LINE>
+//the captain's armband.<END>
 
-//Et puis... Je pense que le nº 10 n'a pas<LINE>
-//encore montré de quoi il était vraiment<LINE>
-//capable.<END>
+//And besides... I don't think the number 10<LINE>
+//has shown what he's really<LINE>
+//capable of yet.<END>
 
-//Désolé, Diaz...<END>
+//Sorry, Diaz...<END>
 
-//On nous appelle la paire en or,<LINE>
-//mais je n'arrive pas<LINE>
-//à te suivre en vitesse.<END>
+//They call us the golden pair,<LINE>
+//but I can't keep up with<LINE>
+//your speed.<END>
 
-//Ne t'en fais pas, Pascual.<LINE>
-//Ce n'est pas un problème.<END>
+//Don't worry, Pascual.<LINE>
+//It's not a problem.<END>
 
-//Après tout, on ne voit des génies comme moi<LINE>
-//que tous les dix ans...<END>
+//After all, geniuses like me only come along<LINE>
+//once every ten years...<END>
 
-//Tant que je serai sur les terrains,<LINE>
-//l'Argentine ne perdra pas!<LINE>
-//On peut jouer sans s'inquiéter!<END>
+//As long as I'm on the field,<LINE>
+//Argentina won't lose!<LINE>
+//We can play without worrying!<END>
 
-//Tsubasa et Diaz,<LINE>
-//le match repose en partie<LINE>
-//sur vous deux.<END>
+//Tsubasa and Diaz,<LINE>
+//the match depends partly<LINE>
+//on you two.<END>
 
-//Je sais.<END>
+//I know.<END>
 
-//Tu es un génie du ballon rond…<LINE>
-//Et ne pense pas que Diaz<LINE>
-//soit meilleur que toi.<LINE>
-//Aie plus confiance en toi.<END>
+//You're a genius on the soccer field...<LINE>
+//And don't think that Diaz<LINE>
+//is better than you.<LINE>
+//Have more confidence in yourself.<END>
 
-//D'accord.<END>
+//Okay.<END>
 
-//Allez, les gars. On y va!<END>
+//Come on, guys. Let's go!<END>
 
-//Oui!<END>
+//Yes!<END>
 

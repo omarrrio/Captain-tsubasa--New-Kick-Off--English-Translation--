@@ -1,66 +1,65 @@
 // FILE: EP1353.str containing 20 strings
 
-//Tsubasa se prépare à tirer!<END>
+//Tsubasa is preparing to shoot!<END>
 
-//Il va frapper un Drive shoot!<LINE>
-//Tiens-toi à ce qu'on a dit, Garban!<END>
+//He's going to do a Drive Shot!<LINE>
+//Remember what we said, Garban!<END>
 
-//Entendu!<END>
+//Got it!<END>
 
-//C'est parti!<END>
+//Here we go!<END>
 
-//Tsubasa tire sans attendre!<LINE>
-//C'est un Drive shoot!<END>
+//Tsubasa shoots without hesitation!<LINE>
+//It's a Drive Shot!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Mais le ballon ne se dirige pas<LINE>
-//vers les buts!<LINE>
-//A-t-il raté sa frappe?<END>
+//But the ball isn't heading<LINE>
+//towards the goal!<LINE>
+//Did he miss the shot?<END>
 
-//Non... Le Drive shoot…<LINE>
-//Hyuga court dans sa direction!<END>
+//No... The Drive Shot...<LINE>
+//Hyuga is running towards it!<END>
 
-//À toi de jouer, Hyuga!<END>
+//Your turn, Hyuga!<END>
 
-//Ce n'était pas un Drive Shot,<LINE>
-//mais une Drive pass pour Hyuga!<END>
+//It wasn't a Drive Shot,<LINE>
+//but a Drive Pass for Hyuga!<END>
 
-//Tsubasa me fait confiance!<LINE>
-//C'est pour ça qu'il a fait une Drive pass<LINE>
-//au lieu de tirer au but!<END>
+//Tsubasa trusts me!<LINE>
+//That's why he made a Drive Pass<LINE>
+//instead of shooting at the goal!<END>
 
-//C'est bon! Le ballon va piquer<LINE>
-//vers le bas. Je dois me fier à son souffle<LINE>
-//pour le reprendre au bon moment!<END>
+//Alright! The ball will drop<LINE>
+//downward. I have to rely on its momentum<LINE>
+//to take it at the right moment!<END>
 
-//Hyuga semble vouloir tirer<LINE>
-//sans faire de contrôle!<LINE>
-//Avec un ballon à cette vitesse,<LINE>
-//ça va être difficile d'ajuster son tir!<END>
+//Hyuga seems to want to shoot<LINE>
+//without controlling the ball!<LINE>
+//With a ball at this speed,<LINE>
+//it's going to be hard to adjust his shot!<END>
 
-//Maintenant!<END>
+//Now!<END>
 
-//Si j'arrive à marquer,<LINE>
-//je pourrai finalement prétendre<LINE>
-//à la place de buteur vedette<LINE>
-//des All Japan!<END>
+//If I score on this play,<LINE>
+//I can finally claim the position<LINE>
+//of star scorer for the All Japan Team!<END>
 
-//Si Hyuga marque sur cette action,<LINE>
-//ce sera une des meilleures combinaisons<LINE>
-//jamais vues de ces deux stars<LINE>
-//du football collégien japonais!<END>
+//If Hyuga scores on this play,<LINE>
+//it will be one of the best combinations<LINE>
+//ever seen from these two<LINE>
+//college football stars!<END>
 
-//Buuuuuuuuuuuuuuuuut!<LINE>
-//C'est la première fois qu'on voit un tir<LINE>
-//qui combine le Drive shoot au Tiger shot!<END>
+//Gooooooal!<LINE>
+//This is the first time we've seen a shot<LINE>
+//that combines the Drive Shot and the Tiger Shot!<END>
 
-//Le ballon a transpercé les filets!<LINE>
-//C'est un but d'une grande importance<LINE>
-//pour la All Japan Team,<LINE>
-//qui ramène l'espoir dans leur camp!<END>
+//The ball has pierced the nets!<LINE>
+//It's a goal of great importance<LINE>
+//for the All Japan Team,<LINE>
+//who have brought hope back to their side!<END>
 
-//Super tir, Hyuga!<END>
+//Great shot, Hyuga!<END>
 
-//Belle passe, Tsubasa!<END>
+//Nice pass, Tsubasa!<END>
 

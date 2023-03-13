@@ -1,33 +1,33 @@
 // FILE: EP1153.str containing 13 strings
 
-//Quelle force! Quelle technique!<LINE>
-//Schneider a remonté le terrain<LINE>
-//et se retrouve maintenant<LINE>
-//en face des buts!<END>
+//What power! What technique!<LINE>
+//Schneider has advanced up the field<LINE>
+//and is now standing<LINE>
+//in front of the goal!<END>
 
 //Urgh!<END>
 
 //Argh!<END>
 
-//Quoi!<END>
+//What!<END>
 
-//Personne des All Japan n'a pu l'arrêter!<END>
+//None of the All Japan players could stop him!<END>
 
-//Le voici face au gardien!<END>
+//He's facing the goalkeeper now!<END>
 
-//Wakashimazu s'élance sur lui!<END>
+//Wakashimazu rushes towards him!<END>
 
 //Raah!<END>
 
-//Schneider tire sans s'en préoccuper!<END>
+//Schneider shoots without any hesitation!<END>
 
 //Waaa!<END>
 
-//Wakashimazu essaie de bloquer<LINE>
-//le tir de la main droite!<END>
+//Wakashimazu tries to block<LINE>
+//the shot with his right hand!<END>
 
-//Ohhh, c'est le but!<END>
+//Ohhh, it's a goal!<END>
 
-//Schneider, avec ce 3e but, vient de<LINE>
-//réaliser un véritable tour de magie!<END>
+//With this third goal, Schneider has<LINE>
+//performed a true magic trick!<END>
 

@@ -1,60 +1,59 @@
 // FILE: EP1358.str containing 22 strings
 
-//Misugi va-t-il tirer?<END>
+//Will Misugi shoot?<END>
 
-//Le défenseur argentin, Garban,<LINE>
-//fonce pour l'empêcher de tirer!<END>
+//The Argentinian defender, Garban,<LINE>
+//rushes to prevent him from shooting!<END>
 
-//Je ne vais pas te laisser tirer!<END>
+//I won't let you shoot!<END>
 
-//Oh! Misugi décide finalement de faire<LINE>
-//une passe!<END>
+//Oh! Misugi decides to make<LINE>
+//a pass instead!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Tsubasa est à la réception!<END>
+//Tsubasa is there to receive it!<END>
 
-//Belle passe, Misugi!<END>
+//Nice pass, Misugi!<END>
 
-//Tsubasa s'est jusqu'à maintenant<LINE>
-//concentré sur les passes,<LINE>
-//mais le voilà qui s'apprête à tirer!<END>
+//Tsubasa has so far focused on<LINE>
+//making passes, but now he's<LINE>
+//getting ready to shoot!<END>
 
-//Je ne vais pas te laisser faire!<END>
+//I won't let you do it!<END>
 
-//Waouh! Diaz contre le tir de Tsubasa<LINE>
-//par un salto avant!<END>
+//Wow! Diaz blocks Tsubasa's shot<LINE>
+//with a front somersault!<END>
 
-//Le Japon ne prendra pas l'avantage!<END>
+//Japan won't take the lead!<END>
 
 //Ah!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Oh la! Misugi surgit de nulle part!<LINE>
-//Il semblait avoir anticipé le contre<LINE>
-//de Diaz et il est déjà sur le ballon!<END>
+//Oh my! Misugi appears out of nowhere!<LINE>
+//He seemed to have anticipated Diaz's block<LINE>
+//and he's already on the ball!<END>
 
-//Je dois marquer pour la victoire!<END>
+//I have to score for the win!<END>
 
-//Pour l'entraîneur, pour mes partenaires<LINE>
-//qui ont gagné jusqu'à maintenant,<LINE>
-//et pour moi-même!<END>
+//For the coach, for my teammates<LINE>
+//who have been winning until now,<LINE>
+//and for myself!<END>
 
-//Allez!<END>
+//Let's go!<END>
 
-//Misugi exécute une merveilleuse<LINE>
-//Bicyclette retournée!<END>
+//Misugi executes a wonderful<LINE>
+//Bicycle kick!<END>
 
-//Il n'y a que lui et Tsubasa<LINE>
-//qui sont capables d'exécuter<LINE>
-//une telle action technique au Japon!<END>
+//Only he and Tsubasa are capable<LINE>
+//of such a technical move in Japan!<END>
 
-//Et c'est le buuuuuuuuuuuuuuuuuuut!<LINE>
-//La bicyclette se retrouve<LINE>
-//au fond des filets argentins!<END>
+//And it's a goooooaaaal!<LINE>
+//The bicycle kick finds the<LINE>
+//back of the Argentine net!<END>
 
 //Misugi!<END>
 
-//On a réussi!<END>
+//We did it!<END>
 

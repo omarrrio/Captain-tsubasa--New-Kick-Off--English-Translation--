@@ -1,27 +1,27 @@
 // FILE: EP1352.str containing 10 strings
 
-//Misaki s'est fait subtiliser le ballon!<END>
+//Misaki has been robbed of the ball!<END>
 
-//Fan Diaz est vraiment partout!<END>
+//Fan Diaz is really everywhere!<END>
 
-//Nº 10, à nous deux!<END>
+//No. 10, it's you and me!<END>
 
 //Misaki... Fan Diaz...<END>
 
-//D-Diaz vient d'effacer Tsubasa!<END>
+//D-Diaz just eliminated Tsubasa!<END>
 
-//Pfff... C'est tout ce dont<LINE>
-//vous êtes capables, All Japan?<END>
+//Pfff... Is that all<LINE>
+//you can do, All Japan?<END>
 
-//Diaz frappe très fort dans le ballon!<END>
+//Diaz strikes the ball really hard!<END>
 
-//Allez!<END>
+//Go!<END>
 
-//A-attendez! C'est un Drive shoot!<END>
+//W-Wait! It's a Drive Shot!<END>
 
-//Buuuuut! Diaz a marqué un but splendide<LINE>
-//en utilisant la spécialité de Tsubasa :<LINE>
-//le Drive shoot! C'est tout simplement<LINE>
-//incroyable! Je ne trouve pas de mot<LINE>
-//pour décrire le talent de ce jeune homme!<END>
+//Gooooal! Diaz scored a splendid goal<LINE>
+//using Tsubasa's specialty:<LINE>
+//the Drive Shot! It's simply<LINE>
+//incredible! I can't find any word<LINE>
+//to describe this young man's talent!<END>
 

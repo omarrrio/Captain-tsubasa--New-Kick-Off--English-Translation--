@@ -1,60 +1,59 @@
 // FILE: EP1354.str containing 24 strings
 
-//Tsubasa, fais-nous une passe devant le but.<END>
+//Tsubasa, give us a pass in front of the goal.<END>
 
-//À vous de jouer les gars.<END>
+//It's up to you guys now.<END>
 
-//Tsubasa envoie le ballon haut dans les airs<LINE>
-//devant le but argentin.<END>
+//Tsubasa sends the ball high in the air<LINE>
+//in front of the Argentinean goal.<END>
 
-//Malheureusement, il n'y a personne<LINE>
-//des All Japan à la réception!<END>
+//Unfortunately, no one from All Japan is there<LINE>
+//to receive it!<END>
 
-//On y va, Jito!<END>
+//Let's go, Jito!<END>
 
-//D'accord!<END>
+//Okay!<END>
 
-//Ohhh! Les frères Tachibana prennent appui<LINE>
-//sur les pieds de Jito...<END>
+//Ohhh! The Tachibana brothers use Jito's<LINE>
+//feet as a platform...<END>
 
-//Prêts!<END>
+//Ready!<END>
 
-//C'est parti!<END>
+//Let's do it!<END>
 
-//Vas-y!<END>
+//Go for it!<END>
 
 //Double...<END>
 
 //Skylab hurricane!<END>
 
-//Les deux frères s'envolent en même temps<LINE>
-//dans les airs!<END>
+//The two brothers jump up<LINE>
+//into the air at the same time!<END>
 
-//C'est quoi ça?<END>
+//What's this?<END>
 
-//Ils se dirigent tous les deux<LINE>
-//vers le ballon et s'apprêtent à tirer<LINE>
-//ensemble!<END>
+//They both head towards the ball and<LINE>
+//get ready to shoot together!<END>
 
-//Prends ça!<END>
+//Take this!<END>
 
-//Allez!<END>
+//Let's go!<END>
 
-//Twin shoot!<END>
+//Twin shot!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Buuuuuuuuuuuuuut!<LINE>
-//Quelle attaque de la part<LINE>
-//des frères Tachibana assistés par Jito!<END>
+//Goooooooooal!<LINE>
+//What an attack by the Tachibana brothers<LINE>
+//assisted by Jito!<END>
 
-//On a réussi!<END>
+//We did it!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Super!<END>
+//Great!<END>
 
-//Le Skylab twin shoot des frères Tachibana<LINE>
-//envoyés dans les airs par Jito a filé<LINE>
-//tout droit dans les filets argentins!<END>
+//The Skylab twin shot by the Tachibana brothers,<LINE>
+//propelled into the air by Jito, flew<LINE>
+//straight into the Argentinean goal!<END>
 
