@@ -5,7 +5,7 @@
 
 //Le capitaine a dit qu'il y remédierait,<LINE>
 //mais rien n'y fait...<LINE>
-<END>
+//<END>
 
 //Quoi de plus logique quand on est battus<LINE>
 //avant de commencer un match?<LINE>

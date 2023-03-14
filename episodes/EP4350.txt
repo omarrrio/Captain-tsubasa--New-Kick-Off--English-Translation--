@@ -14,7 +14,7 @@
 //Misugi, le joueur de génie, le Prince<LINE>
 //du terrain, quel spectacle<LINE>
 //va-t-il nous offrir?<LINE>
-<END>
+//<END>
 
 //C'est maintenant que le match commence!<LINE>
 //Montrons-leur le football de Musashi!<END>

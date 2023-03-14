@@ -12,6 +12,5 @@
 //permission. adiPURE is a trade<LINE>
 //mark of the adidas Group,<LINE>
 //used with permission.<LINE>
-//<LINE>
-<END>
+//<END>
 

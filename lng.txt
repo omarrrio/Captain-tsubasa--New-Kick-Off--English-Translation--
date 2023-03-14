@@ -2,9 +2,9 @@
 
 //Choose a language.<LINE>
 //<LINE>
-//Bitte wähle eine Sprache aus.<LINE>
+//English Translation by YuseiFD<LINE>
+//BETA 0.1<LINE>
 //<LINE>
-//Scegli una lingua.<LINE>
-//<LINE>
-//Elige idioma.<END>
+//Undub Repack by Gott666<LINE>
+//v1.8 09/26/2022<END>
 

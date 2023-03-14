@@ -115,19 +115,19 @@
 //It's the same friend<LINE>
 //code as yours.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Wrong friend code.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Could not<LINE>
 //find someone<LINE>
@@ -166,7 +166,7 @@
 //or vist the website<LINE>
 //support.nintendo.com.<END>
 
-<END>
+//<END>
 
 //Either Nintendo Wi-Fi Connection<LINE>
 //is having an important trafic,<LINE>
@@ -175,11 +175,11 @@
 //For all support, visit<LINE>
 //the website: support.nintendo.com<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Nintendo Wi-Fi Connection<LINE>
 //ID was deleted<LINE>
@@ -188,13 +188,13 @@
 //For all support, visit<LINE>
 //the website: support.nintendo.com<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Nintendo Wi-Fi Connection<LINE>
 //for this software has been<LINE>
@@ -204,11 +204,11 @@
 //compatible with the Nintendo<LINE>
 //Wi-Fi Connection.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //No access point<LINE>
 //found nearby.<LINE>
@@ -217,22 +217,9 @@
 //For all support, visit<LINE>
 //the website: support.nintendo.com<END>
 
-<END>
+//<END>
 
-<END>
-
-//No compatible access point<LINE>
-//found nearby.<LINE>
-//Please verify your connection<LINE>
-//settings and retry.<LINE>
-//For all support, visit<LINE>
-//the website: support.nintendo.com<END>
-
-<END>
-
-<END>
-
-<END>
+//<END>
 
 //No compatible access point<LINE>
 //found nearby.<LINE>
@@ -241,13 +228,26 @@
 //For all support, visit<LINE>
 //the website: support.nintendo.com<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//No compatible access point<LINE>
+//found nearby.<LINE>
+//Please verify your connection<LINE>
+//settings and retry.<LINE>
+//For all support, visit<LINE>
+//the website: support.nintendo.com<END>
+
+//<END>
+
+//<END>
+
+//<END>
+
+//<END>
 
 //The access point isn't<LINE>
 //available. You cannot<LINE>
@@ -256,9 +256,9 @@
 //For all support, visit<LINE>
 //the website: support.nintendo.com<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Could not connect to the<LINE>
 //Nintendo Wi-Fi Connection.<LINE>
@@ -267,22 +267,22 @@
 //all support, visit the<LINE>
 //website: support.nintendo.com<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //No response. The player<LINE>
 //is not connected to the<LINE>
 //Nintendo Wi-Fi Connection or<LINE>
 //you're not in his friend list.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Communication error.<LINE>
 //For all support, visit the<LINE>
@@ -293,11 +293,11 @@
 //Wi-Fi Connection. Please turn<LINE>
 //off the console and try again.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Your user information of<LINE>
 //Nintendo Wi-Fi Connection<LINE>
@@ -305,11 +305,11 @@
 //Verify your Nintendo<LINE>
 //Wi-Fi Connection settigs.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Connect to Nintendo<LINE>
 //Wi-Fi Connection?<END>
@@ -323,13 +323,13 @@
 //Nintendo Wi-Fi Connection of this<LINE>
 //console on this DS Cartridge?<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //The user informations of the<LINE>
 //Nintendo Wi-Fi Connection of this<LINE>
@@ -339,11 +339,11 @@
 //to connect to the Nintendo<LINE>
 //Wi-Fi Connection.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //The user informations of the<LINE>
 //Nintendo Wi-Fi Connection of this<LINE>
@@ -352,9 +352,9 @@
 //connect to the NIntendo<LINE>
 //Wi-Fi Connection.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Update user informations<LINE>
 //of Nintendo Wi-Fi<LINE>
@@ -364,48 +364,48 @@
 //used to connect to the<LINE>
 //Nintendo Wi-Fi Connection.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Connect to the Nintendo<LINE>
 //Wi-Fi Connection to<LINE>
 //update user informations<LINE>
 //of Nintendo Wi-Fi Connection?<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Accessing Nintendo<LINE>
 //Wi-Fi Connection…<LINE>
 //Please wait…<END>
 
-<END>
+//<END>
 
 //Could not access the<LINE>
 //Nintendo Wi-Fi Connection<LINE>
 //with this ID.<LINE>
 //Please change your ID.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //No response.<LINE>
 //Disconnection and returning <LINE>
 //to Nintendo Wi-Fi<LINE>
 //Connection menu.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //0<END>
 
@@ -432,11 +432,11 @@
 //Nintendo Wi-Fi<LINE>
 //Connection menu.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Objects exchange<LINE>
 //canceled.<LINE>
@@ -444,41 +444,41 @@
 //Nintendo Wi-Fi<LINE>
 //Connection.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Objects exchanged.<LINE>
 //Returning to<LINE>
 //Exchange menu.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Objects exchange<LINE>
 //canceled.<LINE>
 //Returning to<LINE>
 //Exchange menu.<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
-<END>
+//<END>
 
 //Could not<LINE>
 //register.<LINE>
 //Verify your<LINE>
 //Friend list.<END>
 
-<END>
+//<END>
 

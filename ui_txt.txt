@@ -2259,329 +2259,304 @@
 //like a shooting star.<LINE>
 //Grants usage of the<LINE>
 //the "Shooting star" ability.<END>
--------------------------------------------------> im here, if you edit, put this bookmark where you stop
-//Permet de tirer aussi vite<LINE>
-//qu'un tigre fond sur<LINE>
-//sa proie, et l'utilisation<LINE>
-//de "Tiger pass".<END>
 
-//Permet de courir aussi vite<LINE>
-//qu'un tigre féroce,<LINE>
-//et l'utilisation de<LINE>
-//"Straight line dribble".<END>
+//Allows you to shoot as fast<LINE>
+//as a tiger pouncing on<LINE>
+//its prey, and use the<LINE>
+//"Tiger Pass".<END>
 
-//Permet de tirer<LINE>
-//avec la fureur d'un tigre,<LINE>
-//et l'utilisation<LINE>
-//de "Tiger shot".<END>
+//Allows you to run as fast<LINE>
+//as a fierce tiger,<LINE>
+//and use "Straight Line Dribble".<END>
 
-//Permet de tirer avec la<LINE>
-//fureur d'un tigre vorace,<LINE>
-//et l'utilisation<LINE>
-//de "Neo tiger shot".<END>
+//Allows you to shoot<LINE>
+//with the fury of a tiger,<LINE>
+//and use "Tiger Shot".<END>
 
-//Confère la puissance<LINE>
-//de l'esprit du tigre.<LINE>
-//Permet d'utiliser<LINE>
-//"Sliding tiger".<END>
+//Allows you to shoot with<LINE>
+//the ferocity of a ravenous tiger,<LINE>
+//and use "Neo Tiger Shot".<END>
 
-//Rend plus petit.<LINE>
-//Permet d'utiliser<LINE>
-//"Little technician".<END>
+//Gives the power of<LINE>
+//the tiger spirit.<LINE>
+//Allows you to use<LINE>
+//"Sliding Tiger".<END>
 
-//Protège-tibias d'un milieu<LINE>
-//de terrain de génie.<LINE>
-//Permet d'utiliser<LINE>
-//"Midfielder cut".<END>
+//Makes you smaller.<LINE>
+//Allows you to use<LINE>
+//"Little Technician".<END>
 
-//Enflamme l'esprit.<LINE>
-//Permet d'utiliser<LINE>
-//"Fire shot".<END>
+//Shin guards of a midfield<LINE>
+//genius.<LINE>
+//Allows you to use<LINE>
+//"Midfielder Cut".<END>
 
-//La casquette du SGGK<LINE>
-//Wakabayashi.<LINE>
-//Permet d'utiliser<LINE>
+//Ignites the spirit.<LINE>
+//Allows you to use<LINE>
+//"Fire Shot".<END>
+
+//Wakabayashi's SGGK cap.<LINE>
+//Allows you to use<LINE>
 //"SGGK".<END>
 
-//Gants qui dégagent<LINE>
-//un halo lumineux.<LINE>
-//Permet d'utiliser<LINE>
-//"Golden hand".<END>
+//Gloves that emit a<LINE>
+//luminous halo.<LINE>
+//Allows you to use<LINE>
+//"Golden Hand".<END>
 
-//Tirer une balle éclair.<LINE>
-//Permet d'utiliser<LINE>
-//"Thunder shoot".<END>
+//Shoot a lightning ball.<LINE>
+//Allows you to use<LINE>
+//"Thunder Shoot".<END>
 
-//Bracelet pour génie<LINE>
-//du ballon rond.<LINE>
-//Permet d'utiliser<LINE>
+//Bracelet for a soccer<LINE>
+//genius.<LINE>
+//Allows you to use<LINE>
 //"Evidence of Geniality".<END>
 
-//Tirer avec un effet courbé.<LINE>
-//Permet d'utiliser<LINE>
-//"Banana shoot".<END>
+//Allows you to shoot with a curve.<LINE>
+//Allows you to use<LINE>
+//"Banana Shoot".<END>
 
-//Permet de se mouvoir<LINE>
-//tel un acrobate,<LINE>
-//et l'utilisation<LINE>
-//de "Acrobat shoot".<END>
+//Allows you to move<LINE>
+//like an acrobat,<LINE>
+//and use "Acrobat Shoot".<END>
 
-//Porte-bonheur d'acrobate.<LINE>
-//Permet d'utiliser<LINE>
-//"Acrobat block".<END>
+//Acrobat's lucky charm.<LINE>
+//Allows you to use<LINE>
+//"Acrobat Block".<END>
 
-//Permet une plus grande<LINE>
-//aisance à attraper avec<LINE>
-//les pieds, et l'utilisation<LINE>
-//de "Scissors tackle".<END>
+//Allows for greater ease in<LINE>
+//catching with your feet, and use<LINE>
+//"Scissors Tackle".<END>
 
-//Rend plus grand.<LINE>
-//Permet d'utiliser<LINE>
-//"Giant dribble".<END>
+//Makes you bigger.<LINE>
+//Allows you to use<LINE>
+//"Giant Dribble".<END>
 
-//Fait paraître<LINE>
-//comme un mur de pierre.<LINE>
-//Permet d'utiliser<LINE>
-//"Wall blocking".<END>
+//Makes you seem like<LINE>
+//a stone wall.<LINE>
+//Allows you to use<LINE>
+//"Wall Blocking".<END>
 
-//Permet de dégager le ballon<LINE>
-//en l'air,<LINE>
-//et l'utilisation<LINE>
-//de "Upper kick".<END>
+//Allows you to kick the ball<LINE>
+//high in the air,<LINE>
+//and use "Upper Kick".<END>
 
-//Permet de tirer avec<LINE>
-//la puissance d'un canon,<LINE>
-//et l'utilisation<LINE>
-//de "Cannon shoot".<END>
+//Allows you to shoot with<LINE>
+//the power of a cannon,<LINE>
+//and use "Cannon Shot".<END>
 
-//Permet des déplacements<LINE>
-//plus élégants,<LINE>
-//et l'utilisation<LINE>
-//de "Elegant dribble".<END>
+//Allows for more elegant<LINE>
+//movements,<LINE>
+//and use "Elegant Dribble".<END>
 
-//Permet un bel effet<LINE>
-//dans la frappe,<LINE>
-//et l'utilisation<LINE>
-//de "Slider shoot".<END>
+//Allows for a beautiful<LINE>
+//effect in the shot,<LINE>
+//and use "Slider Shot".<END>
 
-//Permet de voler le ballon<LINE>
-//et peut-être des cœurs.<LINE>
-//Permet d'utiliser<LINE>
-//"Elegant tackle".<END>
+//Allows you to steal the ball<LINE>
+//and maybe some hearts.<LINE>
+//Allows you to use<LINE>
+//"Elegant Tackle".<END>
 
-//Permet d'effectuer<LINE>
-//de meilleures têtes,<LINE>
-//et l'utilisation<LINE>
-//de "Napalm header".<END>
+//Allows you to perform<LINE>
+//better headers,<LINE>
+//and use "Napalm Header".<END>
 
-//Donnent la puissance d'une<LINE>
-//bombe incendiaire à un tir.<LINE>
-//Permet d'utiliser<LINE>
-//"Napalm shot".<END>
+//Gives a shot the power of a<LINE>
+//firebomb.<LINE>
+//Allows you to use<LINE>
+//"Napalm Shot".<END>
 
-//Permet de contrôler<LINE>
-//librement le ballon,<LINE>
-//et l'utilisation<LINE>
-//de "Phantasmagoric dribble".<END>
+//Allows you to control<LINE>
+//the ball freely,<LINE>
+//and use "Phantasmagoric dribble".<END>
 
-//Transforme son tir en une<LINE>
-//flamme bleue silencieuse.<LINE>
-//Permet d'utiliser<LINE>
+//Transforms your shot into a<LINE>
+//silent blue flame.<LINE>
+//Allows you to use<LINE>
 //"Non-fire shot".<END>
 
-//Collier de Schneider.<LINE>
-//Permet d'utiliser<LINE>
+//Schneider's collar.<LINE>
+//Allows you to use<LINE>
 //"Kaiser block".<END>
 
-//Porte-bonheur qui proclame<LINE>
-//empereur.<LINE>
-//Permet d'utiliser<LINE>
+//Lucky charm that proclaims<LINE>
+//emperor.<LINE>
+//Allows you to use<LINE>
 //"Kaiser tackle".<END>
 
-//Crampons qui donnent envie<LINE>
-//de tourner sur soi-même.<LINE>
-//Permet d'utiliser<LINE>
+//Cleats that make you want<LINE>
+//to spin on yourself.<LINE>
+//Allows you to use<LINE>
 //"Rolling pass".<END>
 
-//Bracelet qui donne<LINE>
-//l'élégance d'un prince.<LINE>
-//Permet d'utiliser<LINE>
+//Bracelet that gives you<LINE>
+//the elegance of a prince.<LINE>
+//Allows you to use<LINE>
 //"Prince Slide".<END>
 
-//Permet d'être aussi rapide<LINE>
-//qu'une flèche.<LINE>
-//Permet d'utiliser<LINE>
+//Allows you to be as fast<LINE>
+//as an arrow.<LINE>
+//Allows you to use<LINE>
 //"Arrow tackle".<END>
 
-//Bracelet qui éloigne<LINE>
-//les autres.<LINE>
-//Permet d'utiliser<LINE>
+//Bracelet that repels<LINE>
+//others.<LINE>
+//Allows you to use<LINE>
 //"Hedgehog dribble".<END>
 
-//Permet de trouver les<LINE>
-//failles dans le jeu adverse.<LINE>
-//Permet d'utiliser<LINE>
+//Allows you to find<LINE>
+//weaknesses in the opposing team's game.<LINE>
+//Allows you to use<LINE>
 //"Lobbing shoot".<END>
 
-//Permet d'ériger une défense<LINE>
-//telle un mur de fer,<LINE>
-//et l'utilisation<LINE>
-//de "Steel giant".<END>
+//Allows you to erect a defense<LINE>
+//like a wall of iron,<LINE>
+//and use "Steel giant".<END>
 
-//Gants pour attraper<LINE>
-//même un fantôme.<LINE>
-//Permet d'utiliser<LINE>
+//Gloves to catch<LINE>
+//even a ghost.<LINE>
+//Allows you to use<LINE>
 //"Over throw catch".<END>
 
-//Permet de se sentir très<LINE>
-//rapide dans ses mouvements,<LINE>
-//et l'utilisation<LINE>
-//de "Lightning block".<END>
+//Allows you to feel very<LINE>
+//fast in your movements,<LINE>
+//and use "Lightning block".<END>
 
-//Permet une passe <LINE>
-//à la vitesse de la lumière,<LINE>
-//et l'utilisation<LINE>
-//de "Laser pass".<END>
+//Allows you to make a pass<LINE>
+//at the speed of light,<LINE>
+//and use "Laser pass".<END>
 
-//Change le rythme rapidement,<LINE>
-//désoriantant l'adversaire.<LINE>
-//Permet d'utiliser<LINE>
+//Changes the rhythm quickly,<LINE>
+//disorienting the opponent.<LINE>
+//Allows you to use<LINE>
 //"Lightning switch".<END>
 
-//Permet de tirer<LINE>
-//comme jamais vu.<LINE>
-//Permet d'utiliser<LINE>
+//Allows you to shoot<LINE>
+//like never before.<LINE>
+//Allows you to use<LINE>
 //"Laser shoot".<END>
 
-//Aiguise les sens.<LINE>
-//Permet d'utiliser<LINE>
+//Sharpens the senses.<LINE>
+//Allows you to use<LINE>
 //"Super reaction".<END>
 
-//Fait bouillir le sang.<LINE>
-//Permet d'utiliser<LINE>
+//Boils the blood.<LINE>
+//Allows you to use<LINE>
 //"Open fire".<END>
 
-//Donne des ordres précis<LINE>
-//depuis la ligne de fond<LINE>
-//pour augmenter "Mental"<LINE>
-//et stabiliser l'équipe.<END>
+//Gives precise orders<LINE>
+//from the back line<LINE>
+//to increase "Mental"<LINE>
+//and stabilize the team.<END>
 
-//Marque individuellement<LINE>
-//le joueur clé pour<LINE>
-//diminuer les paramètres<LINE>
-//des joueurs adversaires.<END>
+//Marks the key player<LINE>
+//individually to<LINE>
+//reduce the parameters<LINE>
+//of opposing players.<END>
 
-//Augmente fortement<LINE>
-//tous les paramètres<LINE>
-//des joueurs lorsqu'ils sont<LINE>
-//dans le camp adverse.<END>
+//Greatly increases<LINE>
+//all parameters<LINE>
+//of players when they are<LINE>
+//in the opposing team's field.<END>
 
-//Augmente<LINE>
-//tous les paramètres lors<LINE>
-//d'une confrontation avec<LINE>
-//un adversaire plus fort.<END>
+//Increases<LINE>
+//all parameters during<LINE>
+//a confrontation with<LINE>
+//a stronger opponent.<END>
 
-//Augmente "Attaque"<LINE>
-//et "Défense" pour faciliter<LINE>
-//les contre-attaques.<END>
+//Increases "Attack"<LINE>
+//and "Defense" to facilitate<LINE>
+//counterattacks.<END>
 
-//Augmente la vitesse<LINE>
-//des équipiers et motive<LINE>
-//l'équipe pour courir<LINE>
-//comme une panthère.<END>
+//Increases the speed<LINE>
+//of teammates and motivates<LINE>
+//the team to run<LINE>
+//like a panther.<END>
 
-//Augmente<LINE>
-//tous les paramètres<LINE>
-//des joueurs<LINE>
-//grâce à ton charisme.<END>
+//Increases<LINE>
+//all parameters<LINE>
+//of players<LINE>
+//through your charisma.<END>
 
-//Réduit par deux<LINE>
-//la consommation de la jauge<LINE>
-//d'équilibre par un jeu<LINE>
-//efficace et élégant.<END>
+//Reduces by half<LINE>
+//the balance gauge consumption<LINE>
+//through effective and elegant<LINE>
+//gameplay.<END>
 
-//Augmente "Attaque",<LINE>
-//"Vitesse" et "Physique"<LINE>
-//en attaquant<LINE>
-//avec toute l'équipe.<END>
+//Increases "Attack",<LINE>
+//"Speed", and "Physical"<LINE>
+//by attacking<LINE>
+//with the entire team.<END>
 
-//Augmente "Attaque"<LINE>
-//des équipiers, mais diminue<LINE>
-//"Défense" par une stratégie<LINE>
-//d'attaque.<END>
+//Increases "Attack"<LINE>
+//of teammates, but decreases<LINE>
+//"Defense" through an offensive<LINE>
+//strategy.<END>
 
-//Augmente<LINE>
-//tous les paramètres<LINE>
-//des joueurs par un contrôle<LINE>
-//parfait du jeu.<END>
+//Increases<LINE>
+//all parameters<LINE>
+//of players through perfect<LINE>
+//control of the game.<END>
 
-//Augmente sensiblement<LINE>
-//tous les paramètres<LINE>
-//des équipiers<LINE>
-//en les encourageant.<END>
+//Significantly increases<LINE>
+//all parameters<LINE>
+//of teammates<LINE>
+//by encouraging them.<END>
 
-//Permet de gagner plus<LINE>
-//facilement les Command<LINE>
-//Battles par un contrôle<LINE>
-//calme du jeu.<END>
+//Allows for easier victory in<LINE>
+//Command Battles through calm<LINE>
+//game control.<END>
 
-//Augmente<LINE>
-//tous les paramètres<LINE>
-//des joueurs dans leur camp<LINE>
-//avec un gardien sûr.<END>
+//Increases<LINE>
+//all parameters<LINE>
+//of players in their own<LINE>
+//half with a dependable goalkeeper.<END>
 
-//Augmente "Défense",<LINE>
-//mais diminue "Attaque"<LINE>
-//par une stratégie<LINE>
-//de défense.<END>
+//Increases "Defense",<LINE>
+//but decreases "Attack"<LINE>
+//through a defensive<LINE>
+//strategy.<END>
 
-//Crée un mur devant ton but<LINE>
-//et augmente les paramètres<LINE>
-//de tes équipiers dans<LINE>
-//ta surface de réparation.<END>
+//Creates a wall in front of your goal<LINE>
+//and increases the parameters<LINE>
+//of your teammates in<LINE>
+//your penalty area.<END>
 
-//Améliore l'attaque<LINE>
-//de l'équipe en la motivant<LINE>
-//avec la fureur du tigre.<END>
+//Improves team's attack by motivating<LINE>
+//them with the ferocity of a tiger.<END>
 
-//Augmente les effets<LINE>
-//des coups spéciaux des<LINE>
-//équipiers par les conseils<LINE>
-//d'un génie du football.<END>
+//Increases the effectiveness of<LINE>
+//teammates' special moves through<LINE>
+//advice from a football genius.<END>
 
-//Les coups spéciaux sont<LINE>
-//plus efficaces lorsqu'ils<LINE>
-//sont utilisés en attaque<LINE>
-//par l'équipe entière.<END>
+//Special moves are more effective<LINE>
+//when used in an attack<LINE>
+//by the entire team.<END>
 
-//Augmente les paramètres et<LINE>
-//le taux de réussite de<LINE>
-//"Passe" et "Interception"<LINE>
-//lors d'un combat complet.<END>
+//Increases the parameters and<LINE>
+//success rate of "Pass" and<LINE>
+//"Interception" in a complete battle.<END>
 
-//Augmente "Défense",<LINE>
-//"Vitesse" et "Passe"<LINE>
-//grâce à une formation<LINE>
-//d'attaque rapide.<END>
+//Increases "Defense",<LINE>
+//"Speed", and "Pass"<LINE>
+//through a quick attack formation.<END>
 
-//L'équipe joue un jeu<LINE>
-//plus technique<LINE>
-//avec le joueur clé<LINE>
-//le plus artistique.<END>
+//The team plays a more technical<LINE>
+//game with the most artistic<LINE>
+//key player.<END>
 
-//Augmente "Défense" de<LINE>
-//l'équipe par une stratégie<LINE>
-//utilisant toute<LINE>
-//la puissance du corps.<END>
+//Increases team's "Defense"<LINE>
+//through a strategy utilizing<LINE>
+//the full power of the body.<END>
 
-//Augmente "Tir"<LINE>
-//des équipiers par un jeu<LINE>
-//plus violent.<END>
+//Increases teammates' "Shot"<LINE>
+//through a more aggressive game.<END>
 
-//Augmente "Défense"<LINE>
-//de l'équipe en dirigeant<LINE>
-//efficacement la défense<LINE>
-//depuis la ligne de but.<END>
+//Increases team's "Defense"<LINE>
+//by effectively directing<LINE>
+//the defense from the goal line.<END>
 
 //???<END>
 
@@ -2725,587 +2700,582 @@
 
 //DUMMY_F<END>
 
-//Capitaine d'Otomo Jr. High<LINE>
-//et pierre angulaire<LINE>
-//du Quartet d'Otomo.<END>
-
-//Milieu de terrain d'Otomo<LINE>
-//Jr. High et membre<LINE>
-//du Quartet d'Otomo.<END>
-
-//Défenseur d'Otomo Jr. High.<LINE>
-//Membre du Quartet d'Otomo.<LINE>
-//Il défend avec Nakayama.<END>
-
-//Défenseur d'Otomo Jr. High.<LINE>
-//Membre du Quartet d'Otomo.<LINE>
-//Il s'occupe de la défense.<END>
-
-//Avant-centre d'Otomo Jr.<LINE>
-//High spécialisé dans<LINE>
-//le redoutable Tir du faucon.<END>
-
-//Capitaine et défenseur<LINE>
-//d'Azumaichi, craint<LINE>
-//comme le "Rasoir".<END>
-
-//Gardien géant de Naniwa.<LINE>
-//Il a affronté autrefois<LINE>
-//Tsubasa et Nankatsu SC.<END>
-
-//Membre de Hanawa Junior<LINE>
-//High. Son jeu aérien avec<LINE>
-//Kazuo est impressionnant.<END>
-
-//Membre de Hanawa Junior<LINE>
-//High et parfaite combinaison<LINE>
-//avec son frère jumeau Masao.<END>
-
-//Défenseur coriace de Hirado<LINE>
-//Junior High, il mène aussi<LINE>
-//de puissantes attaques.<END>
-
-//Technicien de Hirado Junior<LINE>
-//High qui combine<LINE>
-//ses attaques avec Jito.<END>
-
-//Capitaine de Furano Junior<LINE>
-//High à la force de caractère<LINE>
-//inébranlable.<END>
-
-//Avant-centre de Furano<LINE>
-//Junior High dont il est l'un<LINE>
-//des buteurs avec Matsuyama.<END>
-
-//Gardien de Furano Junior<LINE>
-//High dont il protège<LINE>
-//les buts avec sang-froid.<END>
+//Captain of Otomo Jr. High<LINE>
+//and cornerstone<LINE>
+//of the Otomo Quartet.<END>
+
+//Midfielder of Otomo<LINE>
+//Jr. High and member<LINE>
+//of the Otomo Quartet.<END>
+
+//Defender of Otomo Jr. High.<LINE>
+//Member of the Otomo Quartet.<LINE>
+//He defends with Nakayama.<END>
+
+//Defender of Otomo Jr. High.<LINE>
+//Member of the Otomo Quartet.<LINE>
+//He takes care of the defense.<END>
+
+//Forward of Otomo Jr.<LINE>
+//High specialized in<LINE>
+//the formidable Falcon Shot.<END>
+
+//Captain and defender<LINE>
+//of Azumaichi, feared<LINE>
+//as the "Razor".<END>
+
+//Giant goalkeeper of Naniwa.<LINE>
+//He once faced<LINE>
+//Tsubasa and Nankatsu SC.<END>
+
+//Member of Hanawa Junior<LINE>
+//High. His aerial play with<LINE>
+//Kazuo is impressive.<END>
+
+//Member of Hanawa Junior<LINE>
+//High and perfect combination<LINE>
+//with his twin brother Masao.<END>
+
+//Tough defender of Hirado<LINE>
+//Junior High, he also leads<LINE>
+//powerful attacks.<END>
+
+//Technician of Hirado Junior<LINE>
+//High who combines<LINE>
+//his attacks with Jito.<END>
+
+//Captain of Furano Junior<LINE>
+//High with unshakable<LINE>
+//character.<END>
+
+//Forward of Furano<LINE>
+//Junior High, of which he is one<LINE>
+//of the scorers with Matsuyama.<END>
+
+//Goalkeeper of Furano Junior<LINE>
+//High, protecting<LINE>
+//the goal with composure.<END>
 
-//Avant-centre de Toho<LINE>
-//Gakuen, le "Tigre" est<LINE>
-//le grand rival de Tsubasa.<END>
+//Forward of Toho<LINE>
+//Gakuen, the "Tiger" is<LINE>
+//Tsubasa's great rival.<END>
 
-//Avant-centre de Toho<LINE>
-//Gakuen où son talent est<LINE>
-//reconnu par ses pairs.<END>
+//Forward of Toho<LINE>
+//Gakuen where his talent is<LINE>
+//recognized by his peers.<END>
 
-//Milieu de terrain de Toho<LINE>
-//Gakuen, il forme un bon duo<LINE>
-//avec Hyuga.<END>
+//Midfielder of Toho<LINE>
+//Gakuen, he forms a good duo<LINE>
+//with Hyuga.<END>
 
-//Milieu de terrain de Toho<LINE>
-//Gakuen où il assiste les<LINE>
-//attaques de Hyuga et Sawada.<END>
+//Midfielder of Toho<LINE>
+//Gakuen where he assists<LINE>
+//Hyuga and Sawada's attacks.<END>
 
-//Le gardien karatéka<LINE>
-//de Toho Gakuen. Il combine<LINE>
-//le karaté au football.<END>
+//The karate goalkeeper<LINE>
+//of Toho Gakuen. He combines<LINE>
+//karate with football.<END>
 
-//L'artiste du terrain Misaki<LINE>
-//est le meilleur partenaire<LINE>
-//de Tsubasa. <END>
+//The artist of the field Misaki<LINE>
+//is Tsubasa's best partner.<LINE>
+//<END>
 
-//"SGGK" du Japon.<LINE>
-//Il est allé en Allemagne<LINE>
-//après l'école primaire.<END>
+//"SGGK" of Japan.<LINE>
+//He went to Germany<LINE>
+//after elementary school.<END>
 
-//Capitaine de Musashi Jr.<LINE>
-//High où il est surnommé<LINE>
-//le Prince du terrain.<END>
+//Captain of Musashi Jr.<LINE>
+//High where he is nicknamed<LINE>
+//the Prince of the field.<END>
 
-//Gardien d'Italie. Son "Bras-<LINE>
-//droit en or" fait de lui<LINE>
-//un gardien parfait.<END>
+//Goalkeeper of Italy. His "Golden<LINE>
+//Right Arm" makes him<LINE>
+//a perfect goalkeeper.<END>
 
-//Capitaine de l'Argentine<LINE>
-//où il est considéré<LINE>
-//comme un génie du ballon.<END>
+//Captain of Argentina<LINE>
+//where he is considered<LINE>
+//a genius of the ball.<END>
 
-//Avant-centre de l'Argentine<LINE>
-//qui joue aux côtés de Diaz<LINE>
-//depuis tout jeune.<END>
+//Forward of Argentina<LINE>
+//who has played alongside Diaz<LINE>
+//since childhood.<END>
 
-//Immense défenseur argentin.<LINE>
-//Non seulement puissant, il<LINE>
-//surprend aussi ses adversaires.<END>
+//Immense Argentine defender.<LINE>
+//Not only powerful, he also<LINE>
+//surprises his opponents.<END>
 
-//Capitaine français, Pierre<LINE>
-//est au centre de la célèbre<LINE>
-//attaque de son équipe.<END>
+//French captain, Pierre<LINE>
+//is at the center of the famous<LINE>
+//attack of his team.<END>
 
-//Avant-centre français connu<LINE>
-//pour son jeu avec Pierre<LINE>
-//et son Canon shoot.<END>
+//French center-forward known<LINE>
+//for his play with Pierre<LINE>
+//and his Cannon shoot.<END>
 
-//Avant-centre de l'Allemagne.<LINE>
-//Il est grand et utilise<LINE>
-//un efficace jeu de tête.<END>
+//German center-forward.<LINE>
+//He is tall and uses<LINE>
+//an effective heading game.<END>
 
-//Le champion allemand du<LINE>
-//milieu de terrain attaque<LINE>
-//aussi bien qu'il défend.<END>
+//The German champion of<LINE>
+//the midfield attacks<LINE>
+//as well as he defends.<END>
 
-//Le "King", le buteur vedette<LINE>
-//de l'Allemagne. Il est<LINE>
-//rapide, puissant, technique.<END>
+//The "King", the star striker<LINE>
+//of Germany. He is<LINE>
+//fast, powerful, and technical.<END>
 
-//Milieu de terrain de<LINE>
-//l'Allemagne qui débloque<LINE>
-//rapidement les situations.<END>
+//Midfielder for<LINE>
+//Germany who quickly unblocks<LINE>
+//situations.<END>
 
-//Le mystérieux Géant de fer<LINE>
-//qui protège<LINE>
-//les buts allemands.<END>
+//The mysterious Iron Giant<LINE>
+//who protects<LINE>
+//the German goals.<END>
 
-//Avant-centre<LINE>
-//de Meiwa-Higashi, il vient<LINE>
-//du Meiwa FC comme Hyuga.<END>
+//Center-forward<LINE>
+//for Meiwa-Higashi, he comes<LINE>
+//from Meiwa FC like Hyuga.<END>
 
-//Capitaine de Minamiuwa,<LINE>
-//il a une bonne vision du jeu<LINE>
-//et est très technique.<END>
+//Captain of Minamiuwa,<LINE>
+//he has a good vision of the game<LINE>
+//and is very technical.<END>
 
-//Avant-centre de Minamiuwa,<LINE>
-//il peut jouer agressivement<LINE>
-//grâce à sa grande taille.<END>
+//Center-forward for Minamiuwa,<LINE>
+//he can play aggressively<LINE>
+//thanks to his height.<END>
 
-//Avant-centre de l'Angleterre,<LINE>
-//il possède un excellent <LINE>
-//jeu de tête.<END>
+//Center-forward for England,<LINE>
+//he has an excellent<LINE>
+//heading game.<END>
 
-//Avant-centre de l'Angleterre<LINE>
-//connu pour être un véritable<LINE>
-//renard des surfaces.<END>
+//Center-forward for England<LINE>
+//known to be a true<LINE>
+//fox in the box.<END>
 
-//Capitaine de l'Angleterre,<LINE>
-//essentiellement défensif.<END>
+//Captain of England,<LINE>
+//mainly defensive.<END>
 
-//Avant-centre de l'Uruguay,<LINE>
-//la "Panthère sud-américaine"<LINE>
-//marque beaucoup de buts.<END>
+//Center-forward for Uruguay,<LINE>
+//the "South American Panther"<LINE>
+//scores a lot of goals.<END>
 
-//Milieu de terrain de<LINE>
-//l'Uruguay très habile<LINE>
-//en interceptions et passes.<END>
+//Midfielder for<LINE>
+//Uruguay, very skilled<LINE>
+//in interceptions and passes.<END>
 
-//Défenseur de l'Uruguay,<LINE>
-//il crée des ouvertures<LINE>
-//en attaque.<END>
+//Defender for Uruguay,<LINE>
+//he creates openings<LINE>
+//in attack.<END>
 
-//Fan de Tsubasa Ozora<LINE>
-//à l'excellente endurance.<END>
+//Fan of Tsubasa Ozora<LINE>
+//with excellent endurance.<END>
 
-//L'ex nº 10 du Brésil.<LINE>
-//Il a entraîné Tsubasa qui<LINE>
-//lui voue un profond respect.<END>
+//The former number 10 of Brazil.<LINE>
+//He trained Tsubasa who<LINE>
+//holds him in deep respect.<END>
 
-//Non<END>
+//No<END>
 
-//Arrêt/180 SP : permet de<LINE>
-//surmonter la peur du ballon<LINE>
-//et de plonger sur la balle.<END>
+//Arrêt/180 SP: Allows you to<LINE>
+//overcome the fear of the ball<LINE>
+//and dive for the ball.<END>
 
-//Parade/200 SP : permet de<LINE>
-//se jeter sur la balle comme<LINE>
-//Morisaki contre Hanawa.<END>
+//Parade/200 SP: Allows you to<LINE>
+//dive for the ball like<LINE>
+//Morisaki against Hanawa.<END>
 
-//Blocage/120 SP : permet de<LINE>
-//bloquer une attaque grâce à<LINE>
-//un corps plus puissant.<END>
+//Block/120 SP: Allows you to<LINE>
+//block an attack with a<LINE>
+//stronger body.<END>
 
-//Tacle/80 SP : permet de<LINE>
-//pousser son adversaire<LINE>
-//pour lui prendre le ballon.<END>
+//Tackle/80 SP: Allows you to<LINE>
+//push your opponent<LINE>
+//to take the ball from them.<END>
 
-//Dribble/80 SP : permet de<LINE>
-//déborder par les ailes<LINE>
-//comme Taki.<END>
+//Dribble/80 SP: Allows you to<LINE>
+//dribble past opponents<LINE>
+//like Taki on the wings.<END>
 
-//Tir/80 SP : permet de faire<LINE>
-//de longues têtes<LINE>
-//plongeantes comme Izawa.<END>
+//Shot/80 SP: Allows you to<LINE>
+//do long diving headers<LINE>
+//like Izawa.<END>
 
-//Interception/80 SP : permet<LINE>
-//de sauter très haut<LINE>
-//pour intercepter une passe.<END>
+//Interception/80 SP: Allows you<LINE>
+//to jump very high<LINE>
+//to intercept a pass.<END>
 
-//Tir/80 SP : permet de tirer<LINE>
-//comme un excellent buteur<LINE>
-//de Nankatsu.<END>
+//Shot/80 SP: Allows you to shoot<LINE>
+//like an excellent scorer<LINE>
+//from Nankatsu.<END>
 
-//Passe/100 SP : permet<LINE>
-//des passes<LINE>
-//comme le Trio de Shutetsu.<END>
+//Pass/100 SP: Allows you<LINE>
+//to make passes<LINE>
+//like the Trio from Shutetsu.<END>
 
-//Passe/80 SP : permet<LINE>
-//des passes depuis un Drive<LINE>
-//shoot, dures à intercepter.<END>
+//Pass/80 SP: Allows you to make<LINE>
+//passes from a Drive<LINE>
+//shot that are hard to intercept.<END>
 
-//Feinte/60 SP : permet de<LINE>
-//dribbler la balle au-dessus<LINE>
-//de l'adversaire.<END>
+//Feint/60 SP: Allows you to<LINE>
+//dribble the ball over<LINE>
+//the opponent's head.<END>
 
-//Feinte/60 SP : permet<LINE>
-//un style de dribble<LINE>
-//brésilien.<END>
+//Feint/60 SP: Allows you to<LINE>
+//use a Brazilian style<LINE>
+//dribble.<END>
 
-//Tir/120 SP : permet<LINE>
-//un retourné acrobatique<LINE>
-//dans les airs.<END>
+//Shot/120 SP: Allows you to do<LINE>
+//an acrobatic overhead kick<LINE>
+//in the air.<END>
 
-//Tir/180 SP : permet<LINE>
-//un tir brossé qui fait<LINE>
-//plonger la balle.<END>
+//Shot/180 SP: Allows you to do<LINE>
+//a curved shot that makes<LINE>
+//the ball dive.<END>
 
-//Tir/200 SP : Bicyclette<LINE>
-//retournée de Tsubasa lors<LINE>
-//du match contre l'Allemagne.<END>
+//Shot/200 SP: Bicycle<LINE>
+//kick by Tsubasa during the<LINE>
+//match against Germany.<END>
 
-//Feinte/60 SP : permet de<LINE>
-//passer l'adversaire<LINE>
-//de manière artistique.<END>
+//Feint/60 SP: allows you to<LINE>
+//pass the opponent<LINE>
+//in an artistic manner.<END>
 
-//Interception/80 SP : permet<LINE>
-//d'intercepter le ballon<LINE>
-//de façon imprévue.<END>
+//Interception/80 SP: allows you to<LINE>
+//intercept the ball<LINE>
+//unexpectedly.<END>
 
-//Blocage/120 SP : permet<LINE>
-//d'intercepter un tir<LINE>
-//comme Ishizaki.<END>
+//Block/120 SP: allows you to<LINE>
+//intercept a shot<LINE>
+//like Ishizaki.<END>
 
-//Tacle/60 SP : subtilise le<LINE>
-//ballon grâce au travail<LINE>
-//d'équipe du Quartet d'Otomo.<END>
+//Tackle/60 SP: steals the<LINE>
+//ball thanks to the teamwork<LINE>
+//of Otomo Quartet.<END>
 
-//Tir/100 SP : un tir rapide<LINE>
-//exécuté grâce à l'agilité<LINE>
-//de Nitta.<END>
+//Shot/100 SP: a quick shot<LINE>
+//executed thanks to the agility<LINE>
+//of Nitta.<END>
 
-//Feinte/60 SP : permet de<LINE>
-//dribbler si rapidement que<LINE>
-//l'adversaire ne peut réagir.<END>
+//Feint/60 SP: allows you to<LINE>
+//dribble so quickly that<LINE>
+//the opponent can't react.<END>
 
-//Passe/60 SP : faire une<LINE>
-//passe millimétrée qui peut<LINE>
-//inverser le cours du jeu.<END>
+//Pass/60 SP: make a<LINE>
+//precise pass that can<LINE>
+//reverse the game's course.<END>
 
-//Passe/60 SP : passe rapide<LINE>
-//que l'adversaire ne peut pas<LINE>
-//intercepter.<END>
+//Pass/60 SP: a fast pass<LINE>
+//that the opponent cannot<LINE>
+//intercept.<END>
 
-//Feinte/70 SP : dribbler<LINE>
-//avec habileté et finesse<LINE>
-//comme Misugi.<END>
+//Feint/70 SP: dribble<LINE>
+//with skill and finesse<LINE>
+//like Misugi.<END>
 
-//Tir/200 SP : un tir<LINE>
-//miraculeux de Misugi<LINE>
-//qui disparaît.<END>
+//Shot/200 SP: a<LINE>
+//miraculous shot from Misugi<LINE>
+//that disappears.<END>
 
-//Interception/80 SP :<LINE>
-//récupère le ballon<LINE>
-//avec vitesse et agilité.<END>
+//Interception/80 SP:<LINE>
+//recovers the ball<LINE>
+//with speed and agility.<END>
 
-//Tir/120 SP : faire une tête<LINE>
-//de toutes ses forces.<END>
+//Shot/120 SP: make a<LINE>
+//powerful header.<END>
 
-//Dribble/80 SP : permet de<LINE>
-//forcer le passage à travers<LINE>
-//ses adversaires.<END>
+//Dribble/80 SP: allows you to<LINE>
+//force your way through<LINE>
+//your opponents.<END>
 
-//Feinte/60 SP : dribbler<LINE>
-//avec finesse.<END>
+//Feint/60 SP: dribble<LINE>
+//with finesse.<END>
 
-//Tir/100 SP : permet de<LINE>
-//marquer avec tout le monde<LINE>
-//qui glisse.<END>
+//Shot/100 SP: allows you to<LINE>
+//score with everyone<LINE>
+//sliding in.<END>
 
-//Tacle/80 SP : prendre<LINE>
-//la balle en faisant<LINE>
-//tacle sur tacle.<END>
+//Tackle/80 SP: take<LINE>
+//the ball with a<LINE>
+//tackle after tackle.<END>
 
-//Passe/60 SP : une passe<LINE>
-//avec effet du Tir en rasoir<LINE>
-//difficile à intercepter.<END>
+//Pass/60 SP: a pass<LINE>
+//with a razor-sharp effect<LINE>
+//difficult to intercept.<END>
 
-//Tir/120 SP : tir brossé<LINE>
-//de Souda.<END>
+//Shot/120 SP: a brushed shot<LINE>
+//from Souda.<END>
 
-//Blocage/80 SP : bloquer<LINE>
-//l'adversaire en le marquant<LINE>
-//de très près.<END>
+//Block/80 SP: block<LINE>
+//the opponent by marking<LINE>
+//them very closely.<END>
 
-//Tacle/100 SP : un tacle<LINE>
-//imprévisible<LINE>
-//pour l'adversaire.<END>
+//Tackle/100 SP: an<LINE>
+//unpredictable tackle<LINE>
+//for the opponent.<END>
 
-//Tir/120 SP : tir acrobatique<LINE>
-//des frères Tachibana<LINE>
-//dévoilé à Nankatsu.<END>
+//Shot/120 SP: an acrobatic shot<LINE>
+//from the Tachibana brothers<LINE>
+//revealed in Nankatsu.<END>
 
-//Interception/120 SP :<LINE>
-//intercepter les passes<LINE>
-//avec Skylab Hurricane.<END>
+//Interception/120 SP: allows you to<LINE>
+//intercept passes<LINE>
+//with Skylab Hurricane.<END>
 
-//Tir/140 SP : utiliser<LINE>
-//les poteaux pour sauter<LINE>
-//dans les airs et tirer.<END>
+//Shot/140 SP: use<LINE>
+//the posts to jump<LINE>
+//in the air and shoot.<END>
 
-//Tir/200 SP : Twin shoot<LINE>
-//aérien des frères Tachibana<LINE>
-//projetés par Jito.<END>
+//Shot/200 SP: Twin Shoot<LINE>
+//in the air from the Tachibana brothers<LINE>
+//propelled by Jito.<END>
 
-//Passe/70 SP : prendre<LINE>
-//la défense par surprise<LINE>
-//avec une passe brossée.<END>
+//Pass/70 SP: catch<LINE>
+//the defense off guard<LINE>
+//with a brushed pass.<END>
 
-//Tir/120 SP : frapper<LINE>
-//de toutes ses forces.<END>
+//Shot/120 SP: hit<LINE>
+//with all your might.<END>
 
-//Feinte/80 SP : dribbler<LINE>
-//tout simplement.<END>
+//Feinte/80 SP: simply dribble.<END>
 
-//Dribble/80 SP : passer<LINE>
-//ses adversaires avec<LINE>
-//les dribbles agiles de Sano.<END>
+//Dribble/80 SP: pass opponents<LINE>
+//with Sano's agile dribbling.<END>
 
-//Tir/100 SP : déstabiliser<LINE>
-//l'adversaire en changeant<LINE>
-//soudainement de direction.<END>
+//Tir/100 SP: destabilize<LINE>
+//the opponent by suddenly changing<LINE>
+//direction.<END>
 
-//Interception/80 SP : trouver<LINE>
-//une brèche dans la défense<LINE>
-//pour prendre le ballon.<END>
+//Interception/80 SP: find<LINE>
+//a gap in the defense<LINE>
+//to take the ball.<END>
 
-//Tir/80 SP : tir nourri<LINE>
-//de l'esprit<LINE>
-//des terres enneigées.<END>
+//Tir/80 SP: a nourished shot<LINE>
+//from the spirit<LINE>
+//of the snowy lands.<END>
 
-//Passe/80 SP : une passe<LINE>
-//variante du Eagle shot<LINE>
-//difficile à intercepter.<END>
+//Passe/80 SP: a variant pass<LINE>
+//of the Eagle shot<LINE>
+//difficult to intercept.<END>
 
-//Feinte/60 SP : tenir<LINE>
-//au ballon avec obstination.<END>
+//Feinte/60 SP: hold<LINE>
+//the ball obstinately.<END>
 
-//Tir/140 SP : un tir<LINE>
-//qui rase le sol.<END>
+//Tir/140 SP: a shot<LINE>
+//that skims the ground.<END>
 
-//Tir/200 SP : un tir capable<LINE>
-//de transpercer une tempête<LINE>
-//de neige.<END>
+//Tir/200 SP: a shot capable<LINE>
+//of piercing through a snowstorm.<END>
 
-//Interception/100 SP : une<LINE>
-//interception rapide faite<LINE>
-//à la force des jambes.<END>
+//Interception/100 SP: a<LINE>
+//quick interception made<LINE>
+//with the strength of the legs.<END>
 
-//Tacle/80 SP : subtiliser<LINE>
-//le ballon après voir feinté<LINE>
-//un tacle.<END>
+//Tacle/80 SP: steal<LINE>
+//the ball after feinting<LINE>
+//a tackle.<END>
 
-//Arrêt/120 SP : attraper<LINE>
-//le ballon avec sang-froid.<END>
+//Stop/120 SP: catch<LINE>
+//the ball with composure.<END>
 
-//Arrêt/140 SP : attraper<LINE>
-//le ballon en se servant<LINE>
-//du poteau.<END>
+//Stop/140 SP: catch<LINE>
+//the ball using<LINE>
+//the post.<END>
 
-//Parade/120 SP : dégager<LINE>
-//un ballon normalement<LINE>
-//imparable.<END>
+//Save/120 SP: clear<LINE>
+//an unstoppable<LINE>
+//ball.<END>
 
-//Parade/140 SP : repousser<LINE>
-//un puissant ballon<LINE>
-//grâce à une prise de karaté.<END>
+//Save/140 SP: repel<LINE>
+//a powerful ball<LINE>
+//with a karate hold.<END>
 
-//Tir/140 SP : une variante<LINE>
-//du tir de karatéka<LINE>
-//de Wakashimazu.<END>
+//Shot/140 SP: a variation<LINE>
+//of Wakashimazu's<LINE>
+//karate shot.<END>
 
-//Tir/100 SP : une puissante<LINE>
-//reprise de volée<LINE>
-//depuis les airs.<END>
+//Shot/100 SP: a powerful<LINE>
+//volley shot<LINE>
+//from mid-air.<END>
 
-//Passe/80 SP : puissante<LINE>
-//passe variante<LINE>
-//du Tiger shot.<END>
+//Pass/80 SP: powerful<LINE>
+//variant pass<LINE>
+//of the Tiger Shot.<END>
 
-//Feinte/80 SP : foncer<LINE>
-//tout droit en éjectant<LINE>
-//ses adversaires.<END>
+//Feint/80 SP: charge<LINE>
+//straight ahead, ejecting<LINE>
+//opponents.<END>
 
-//Tir/120 SP : un tir puissant<LINE>
-//créé par Hyuga à Okinawa,<LINE>
-//qui transperce les vagues.<END>
+//Shot/120 SP: a powerful shot<LINE>
+//created by Hyuga in Okinawa,<LINE>
+//which pierces through waves.<END>
 
-//Tir/200 SP : une version<LINE>
-//améliorée du Tiger shot.<END>
+//Shot/200 SP: an improved<LINE>
+//version of the Tiger Shot.<END>
 
-//Tacle/80 SP : tacler avec<LINE>
-//la force d'un Tiger shot.<END>
+//Tackle/80 SP: tackle with<LINE>
+//the force of a Tiger Shot.<END>
 
-//Passe/100 SP : une-deux<LINE>
-//du Duo de Toho formé<LINE>
-//par Hyuga et Sawada.<END>
+//Pass/100 SP: a one-two<LINE>
+//by the Toho Duo formed<LINE>
+//by Hyuga and Sawada.<END>
 
-//Feinte/80 SP : feinter<LINE>
-//avec l'adresse relative<LINE>
-//à un corps de petite taille.<END>
+//Feint/80 SP: feint<LINE>
+//with the skill relative<LINE>
+//to a small body.<END>
 
-//Interception/80 SP : prendre<LINE>
-//la balle en utilisant son<LINE>
-//instinct de milieu.<END>
+//Interception/80 SP: take<LINE>
+//the ball using instinct<LINE>
+//as a midfielder.<END>
 
-//Tir/140 SP : frapper<LINE>
-//comme Schneider et délivrer<LINE>
-//une boule de feu.<END>
+//Shot/140 SP: strike<LINE>
+//like Schneider and deliver<LINE>
+//a fireball.<END>
 
-//Arrêt/180 SP : aborder tous<LINE>
-//les tirs avec une analyse<LINE>
-//rapide et de super réflexes.<END>
+//Stop/180 SP: approach all<LINE>
+//shots with quick analysis<LINE>
+//and super reflexes.<END>
 
-//Arrêt/180 SP : attraper<LINE>
-//le ballon d'une main comme<LINE>
-//l'excellent gardien Gino.<END>
+//Stop/180 SP: catch<LINE>
+//the ball with one hand like<LINE>
+//the excellent goalkeeper Gino.<END>
 
-//Tir/140 SP : faire un tir<LINE>
-//aussi rapide que l'éclair.<END>
+//Shot/140 SP: make a shot<LINE>
+//as fast as lightning.<END>
 
-//Feinte/80 SP : dribbler<LINE>
-//ses adversaires<LINE>
-//comme le prodige Diaz.<END>
+//Feint/80 SP: dribble<LINE>
+//opponents<LINE>
+//like the prodigy Diaz.<END>
 
-//Tir/120 SP : frapper<LINE>
-//avec un effet courbé.<END>
+//Shot/120 SP: strike<LINE>
+//with a curve effect.<END>
 
-//Tir/140 SP : faire une roue<LINE>
-//et un salto arrière, puis<LINE>
-//une Bicyclette retournée.<END>
+//Shot/140 SP: do a wheelie<LINE>
+//and a backflip, then<LINE>
+//a Bicycle Kick.<END>
 
-//Blocage/120 SP : arrêter<LINE>
-//le tir avec le genou<LINE>
-//après un saut acrobatique.<END>
+//Block/120 SP: stop<LINE>
+//the ball with the knee<LINE>
+//after an acrobatic jump.<END>
 
-//Tacle/80 SP : subtiliser<LINE>
-//le ballon des deux pieds.<END>
+//Tackle/80 SP: steal<LINE>
+//the ball with both feet.<END>
 
-//Feinte/80 SP : repousser<LINE>
-//l'adversaire avec un corps<LINE>
-//de grande taille.<END>
+//Feint/80 SP: push away<LINE>
+//the opponent with a tall body.<END>
 
-//Blocage/80 SP : arrêter<LINE>
-//un tir en créant un mur<LINE>
-//en face de l'adversaire.<END>
+//Block/80 SP: stop<LINE>
+//a shot by creating a wall<LINE>
+//in front of the opponent.<END>
 
-//Tacle/80 SP : subtiliser<LINE>
-//le ballon quand l'adversaire<LINE>
-//saute au-dessus d'un tacle.<END>
+//Tackle/80 SP: steal<LINE>
+//the ball when the opponent<LINE>
+//jumps over a tackle.<END>
 
-//Tir/140 SP : frapper avec la<LINE>
-//force d'un boulet de canon.<END>
+//Shoot/140 SP: hit with the<LINE>
+//force of a cannonball.<END>
 
-//Feinte/80 SP : passer<LINE>
-//son adversaire<LINE>
-//avec un dribble élégant.<END>
+//Feint/80 SP: pass<LINE>
+//the opponent with an elegant dribble.<END>
 
-//Tir/140 SP : frapper comme<LINE>
-//Pierre pour faire descendre<LINE>
-//instantanément le ballon.<END>
+//Shoot/140 SP: hit like<LINE>
+//Pierre to make the ball descend<LINE>
+//instantly.<END>
 
-//Tacle/80 SP : subtiliser<LINE>
-//le ballon<LINE>
-//avec un élégant tacle.<END>
+//Tackle/80 SP: steal<LINE>
+//the ball<LINE>
+//with an elegant tackle.<END>
 
-//Passe/80 SP : faire un jeu<LINE>
-//de passe calqué sur la forme<LINE>
-//de la Tour Eiffel.<END>
+//Pass/80 SP: make a play<LINE>
+//of passes modeled after the shape<LINE>
+//of the Eiffel Tower.<END>
 
-//Tir/120 SP : faire une tête<LINE>
-//puissante dans les airs.<END>
+//Shoot/120 SP: make a powerful<LINE>
+//header in the air.<END>
 
-//Tir/120 SP : frapper<LINE>
-//comme Margas.<END>
+//Shoot/120 SP: hit<LINE>
+//like Margas.<END>
 
-//Dribble/80 SP : esquiver<LINE>
-//n'importe quel tacle.<END>
+//Dribble/80 SP: dodge<LINE>
+//any tackle.<END>
 
-//Tir/140 SP : feinter<LINE>
-//le Fire shot.<END>
+//Shoot/140 SP: feint<LINE>
+//the Fire shot.<END>
 
-//Blocage/80 SP : tirer et<LINE>
-//projeter l'adversaire dans<LINE>
-//les airs en un mouvement.<END>
+//Block/80 SP: shoot and<LINE>
+//send the opponent flying<LINE>
+//in one motion.<END>
 
-//Tacle/80 SP : prendre<LINE>
-//instantanément le ballon<LINE>
-//comme Schneider.<END>
+//Tackle/80 SP: instantly take<LINE>
+//the ball<LINE>
+//like Schneider.<END>
 
-//Passe/80 SP : faire<LINE>
-//une passe acrobatique<LINE>
-//à travers la défense.<END>
+//Pass/80 SP: make<LINE>
+//an acrobatic pass<LINE>
+//through the defense.<END>
 
-//Dribble/80 SP : utiliser le<LINE>
-//point faible de l'adversaire<LINE>
-//pour le dribbler.<END>
+//Dribble/80 SP: use the<LINE>
+//opponent's weakness<LINE>
+//to dribble past them.<END>
 
-//Tacle/80 SP : subtiliser<LINE>
-//le ballon par un tacle<LINE>
-//précis.<END>
+//Tackle/80 SP: steal<LINE>
+//the ball with a precise<LINE>
+//tackle.<END>
 
-//Feinte/80 SP : dribbler<LINE>
-//comme Karltz en abaissant<LINE>
-//son centre de gravité.<END>
+//Feint/80 SP: dribble<LINE>
+//like Karlz by lowering<LINE>
+//his center of gravity.<END>
 
-//Tir/120 SP : lober<LINE>
-//le gardien.<END>
+//Shoot/120 SP: lob<LINE>
+//the goalkeeper.<END>
 
-//Arrêt/140 SP : arrêter<LINE>
-//n'importe quel tir<LINE>
-//sans trembler.<END>
+//Save/140 SP: stop<LINE>
+//any shot<LINE>
+//without trembling.<END>
 
-//Arrêt/180 SP : attraper<LINE>
-//le ballon<LINE>
-//comme s'il était lancé.<END>
+//Save/180 SP: catch<LINE>
+//the ball<LINE>
+//as if it was thrown.<END>
 
-//Parade/120 SP : dégager<LINE>
-//le ballon avec le coude.<END>
+//Parry/120 SP: clear<LINE>
+//the ball with the elbow.<END>
 
-//Passe/80 SP : faire<LINE>
-//une passe avec<LINE>
-//grande précision.<END>
+//Pass/80 SP: make<LINE>
+//a pass with<LINE>
+//great accuracy.<END>
 
-//Feinte/80 SP : vite bouger<LINE>
-//de gauche à droite<LINE>
-//pour dribbler l'adversaire.<END>
+//Feint/80 SP: quickly move<LINE>
+//from left to right<LINE>
+//to dribble past the opponent.<END>
 
-//Tir/120 SP : tirer<LINE>
-//avec une grande précision.<END>
+//Shoot/120 SP: shoot<LINE>
+//with great accuracy.<END>
 
-//Interception/80 SP : se<LINE>
-//concentrer pour intercepter<LINE>
-//les passes dangereuses.<END>
+//Interception/80 SP: concentrate<LINE>
+//to intercept<LINE>
+//dangerous passes.<END>
 
-//Tacle/80 SP : prendre<LINE>
-//le ballon de l'adversaire<LINE>
-//par le côté.<END>
+//Tackle/80 SP: take<LINE>
+//the ball from the opponent<LINE>
+//from the side.<END>
 
-//Tir/140 SP : Twin shoot<LINE>
-//de Tsubasa et Misaki qui<LINE>
-//vrille de gauche à droite.<END>
+//Shoot/140 SP: Tsubasa and Misaki's<LINE>
+//Twin Shot that spirals<LINE>
+//from left to right.<END>
 
 //DUMMY_F<END>
 
-//Tir/140 SP : Twin shoot<LINE>
-//des frères Tachibana qui<LINE>
-//vrille de gauche à droite.<END>
+//Shot/140 SP: Twin shoot<LINE>
+//by the Tachibana brothers that<LINE>
+//curves from left to right.<END>
 
 //DUMMY_F<END>
 
-//Tir/140 SP : puissant<LINE>
-//retourné avec effet<LINE>
-//de Hyuga et Sawada.<END>
+//Shot/140 SP: powerful<LINE>
+//overhead kick with spin<LINE>
+//by Hyuga and Sawada.<END>
 
-//Passe/60 SP :<LINE>
-//une-deux ultime.<END>
+//Pass/60 SP: ultimate<LINE>
+//one-two pass.<END>
 
 //DUMMY_F<END>
 
@@ -3313,55 +3283,55 @@
 
 //DUMMY_F<END>
 
-//Le représentant d'Osaka où<LINE>
-//Makoto Souda joue autant<LINE>
-//en défense qu'en attaque.<END>
+//The representative from Osaka where<LINE>
+//Makoto Souda plays equally<LINE>
+//in defense and offense.<END>
 
 //DUMMY_F<END>
 
-//Le représentant d'Akita qui<LINE>
-//exploite le jeu acrobatique<LINE>
-//des frères Tachibana.<END>
+//The representative from Akita<LINE>
+//who exploits the acrobatic<LINE>
+//play of the Tachibana brothers.<END>
 
-//Le représentant de Nagasaki<LINE>
-//dont la combinaison de Jito<LINE>
-//et Sano est terrifiante.<END>
+//The representative from Nagasaki<LINE>
+//whose combination of Jito<LINE>
+//and Sano is terrifying.<END>
 
-//Le représentant de Hokkaido<LINE>
-//au jeu d'équipe centré sur<LINE>
-//le célèbre Matsuyama.<END>
+//The representative from Hokkaido<LINE>
+//whose team play is centered<LINE>
+//around the famous Matsuyama.<END>
 
-//Le représentant de Tokyo qui<LINE>
-//rassemble des talents comme<LINE>
-//Hyuga, Sawada, Wakashimazu.<END>
+//The representative from Tokyo<LINE>
+//who gathers talents like<LINE>
+//Hyuga, Sawada, and Wakashimazu.<END>
 
-//Une équipe talentueuse qui<LINE>
-//accueille le génie du ballon<LINE>
+//A talented team that<LINE>
+//welcomes the football genius<LINE>
 //Misugi.<END>
 
-//Le représentant de Nara<LINE>
-//qui a déjà affronté<LINE>
+//The representative from Nara<LINE>
+//who has already faced<LINE>
 //Toho Gakuen.<END>
 
-//Le représentant d'Ibaraki<LINE>
-//qui a déjà affronté<LINE>
+//The representative from Ibaraki<LINE>
+//who has already faced<LINE>
 //Toho Gakuen.<END>
 
-//Le représentant de Saitama<LINE>
-//qui regroupe de nombreux<LINE>
-//joueurs de Meiwa FC.<END>
+//The representative from Saitama<LINE>
+//who gathers many players<LINE>
+//from Meiwa FC.<END>
 
-//L'équipe qui a affronté<LINE>
-//Furano Junior High en finale<LINE>
-//du Hokkaido Regional.<END>
+//The team that faced<LINE>
+//Furano Junior High in the final<LINE>
+//of the Hokkaido Regional.<END>
 
-//Le représentant de Mie<LINE>
-//qui a déjà affronté<LINE>
+//The representative from Mie<LINE>
+//who has already faced<LINE>
 //Furano Junior High.<END>
 
-//Le représentant d'Ehime<LINE>
-//avec le capitaine Ishida<LINE>
-//et l'avant-centre Takéi.<END>
+//The representative from Ehime<LINE>
+//with the captain Ishida<LINE>
+//and the forward Takéi.<END>
 
 //DUMMY_F<END>
 
@@ -3369,43 +3339,41 @@
 
 //DUMMY_F<END>
 
-//L'équipe qui a affronté<LINE>
-//Nankatsu SC et qui dispose<LINE>
-//du gardien géant Nakanishi.<END>
+//The team that faced<LINE>
+//Nankatsu SC and had<LINE>
+//the giant goalkeeper Nakanishi.<END>
 
-//L'équipe de Aoi qui a joué<LINE>
-//contre Nankatsu Junior High<LINE>
-//au Tokaido Regional Event.<END>
+//Aoi's team that played<LINE>
+//against Nankatsu Junior High<LINE>
+//at the Tokaido Regional Event.<END>
 
-//Une équipe allemande qui a<LINE>
-//Schneider en attaque<LINE>
-//et Wakabayashi en défense.<END>
+//A German team that has<LINE>
+//Schneider in attack<LINE>
+//and Wakabayashi in defense.<END>
 
-//Équipe du International Jr.<LINE>
-//Youth Tournament qui attaque<LINE>
-//surtout par les ailes.<END>
+//Team from the International Jr.<LINE>
+//Youth Tournament that mainly<LINE>
+//attacks through the wings.<END>
 
-//Équipe du International Jr.<LINE>
-//Youth Tournament centrée<LINE>
-//sur le célèbre Victorino.<END>
+//Team from the International Jr.<LINE>
+//Youth Tournament focused on<LINE>
+//the famous Victorino.<END>
 
-//Équipe du International Jr.<LINE>
-//Youth Tournament centrée sur<LINE>
-//l'excellent gardien Gino.<END>
+//Team from the International Jr.<LINE>
+//Youth Tournament centered on<LINE>
+//the excellent goalkeeper Gino.<END>
 
-//Équipe du International Jr.<LINE>
-//Youth Tournament centrée<LINE>
-//sur le talentueux Diaz.<END>
+//Team from the International Jr.<LINE>
+//Youth Tournament centered on<LINE>
+//the talented Diaz.<END>
 
-//Équipe du International Jr.<LINE>
-//Youth Tournament centrée<LINE>
-//sur Pierre et Napoléon.<END>
+//Team from the International Jr.<LINE>
+//Youth Tournament focused on<LINE>
+//Pierre and Napoleon.<END>
 
-//Équipe du International Jr.<LINE>
-//Youth Tournament à l'attaque<LINE>
-//et la défense parfaites.<END>
-
-//DUMMY_F<END>
+//Team from the International Jr.<LINE>
+//Youth Tournament with perfect<LINE>
+//attack and defense.<END>
 
 //DUMMY_F<END>
 
@@ -3415,55 +3383,57 @@
 
 //DUMMY_F<END>
 
-//Les meilleurs joueurs du<LINE>
+//DUMMY_F<END>
+
+//The best players of the<LINE>
 //Junior High School<LINE>
 //Tournament.<END>
 
-//L'équipe composée par Yoichi<LINE>
-//Takahashi, le créateur de<LINE>
+//The team composed by Yoichi<LINE>
+//Takahashi, the creator of<LINE>
 //"Captain Tsubasa".<END>
 
-//HISTOIRE "JR. YOUTH"<END>
+//"JR. YOUTH" STORY<END>
 
-//HISTOIRE "TOHO"<END>
+//"TOHO" STORY<END>
 
-//HISTOIRE "FURANO"<END>
+//"FURANO" STORY<END>
 
-//HISTOIRE "MUSASHI"<END>
+//"MUSASHI" STORY<END>
 
-//HISTOIRE "JE SUIS CAPITAINE"<END>
+//"JE SUIS CAPITAINE" STORY<END>
 
-//L'épopée de la conquête<LINE>
-//du monde des All Japan<LINE>
-//Junior Youth!<END>
+//The epic conquest<LINE>
+//of the All Japan<LINE>
+//Junior Youth world!<END>
 
-//La conquête de la première<LINE>
-//coupe de Toho Gakuen<LINE>
-//menée par Hyuga Kojiro.<END>
+//The conquest of the first<LINE>
+//Toho Gakuen cup<LINE>
+//led by Hyuga Kojiro.<END>
 
-//L'histoire de l'équipe<LINE>
-//de Furano Junior High menée<LINE>
-//par Matsuyama.<END>
+//The story of the team<LINE>
+//from Furano Junior High<LINE>
+//led by Matsuyama.<END>
 
-//Après 2 ans d'absence,<LINE>
-//Misugi reprend les rênes<LINE>
-//de Musashi Junior High!<END>
+//After 2 years of absence,<LINE>
+//Misugi takes back the reins<LINE>
+//of Musashi Junior High!<END>
 
-//Mode qui te permet<LINE>
-//d'être le capitaine<LINE>
-//de ta propre équipe!<END>
+//Mode that allows you<LINE>
+//to be the captain<LINE>
+//of your own team!<END>
 
-//L'adversaire<LINE>
-//sélectionne<LINE>
-//son tireur.<END>
+//The opponent<LINE>
+//selects<LINE>
+//their shooter.<END>
 
-//Trop d'objets.<LINE>
-//Échanger cet objet<LINE>
-//avec un autre?<END>
+//Too many items.<LINE>
+//Exchange this item<LINE>
+//with another?<END>
 
-//Supprimer<LINE>
-//cet objet?<END>
+//Delete<LINE>
+//this item?<END>
 
-//Désirez-vous vous <LINE>
-//débarrasser de l'objet?<END>
+//Do you want to<LINE>
+//get rid of the item?<END>
 

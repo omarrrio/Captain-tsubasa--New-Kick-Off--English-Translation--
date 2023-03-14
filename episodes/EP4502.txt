@@ -8,7 +8,7 @@
 
 //Nous... Nous avons gagné!<LINE>
 //Nous avons gagné un titre national!<LINE>
-<END>
+//<END>
 
 //Capitaine!<END>
 

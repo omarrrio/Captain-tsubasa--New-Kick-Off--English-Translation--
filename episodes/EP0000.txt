@@ -1,12 +1,11 @@
 // FILE: EP0000.str containing 20 strings
 
 //The big moment has finally arrived!<LINE>
-//The tournament brings together 104 teams<LINE>
+//The tournament bringing together 104 teams<LINE>
 //from schools in Shizuoka prefecture<LINE>
 //will begin!<LINE>
 //Which school will come out haloed of<LINE>
-//glory this year?<LINE>
-<END>
+//glory this year?<END>
 
 //At the top of the favourites' list,<LINE>
 //we find the defending champions,<LINE>

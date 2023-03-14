@@ -109,7 +109,7 @@
 //The ball goes towards the goal!<END>
 
 //He has put everything he got<LINE>
-on this one!<END>
+//on this one!<END>
 
 //It's a front shock!<END>
 

@@ -30,7 +30,7 @@
 //Pour la protection de balle,<LINE>
 //personne dans ce championnat<LINE>
 //n'atteint le niveau de Matsuyama.<LINE>
-<END>
+//<END>
 
 //?<END>
 

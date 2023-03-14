@@ -9,7 +9,7 @@
 //Une passe de Yumamuro!<LINE>
 //La tactique préférée de Furano consiste<LINE>
 //à exécuter des passes successives!<LINE>
-<END>
+//<END>
 
 //Je ne te laisserai pas faire ça!<END>
 

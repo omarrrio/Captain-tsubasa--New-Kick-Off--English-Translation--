@@ -21,7 +21,7 @@
 //Il est impossible de savoir<LINE>
 //si j'aurais pu te battre ou non,<LINE>
 //si je n'avais pas été blessé.<LINE>
-<END>
+//<END>
 
 //Quoi qu'il en soit, nous irons en finale. <LINE>
 //Nous remporterons le trophée national,<LINE>
