@@ -5,7 +5,7 @@
 //the Shizuoka prefecture!<END>
 
 //This is an opportunity to speak with Tsubasa,<LINE>
-//their captain.END>
+//their captain.<END>
 
 //You will soon be participating<LINE>
 //in the national tournament.<LINE>

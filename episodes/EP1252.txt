@@ -4,31 +4,31 @@
 //of the All Japan Team, Tsubasa and Hyuga,<LINE>
 //who are completely unmarked!<END>
 
-//What's going on?<LINE>
+//What's happening?<LINE>
 //They're not even defending!<END>
 
-//Only Hernandez remains in the way!<LINE>
-//It's a golden opportunity<LINE>
+//Only Hernandez remains in their path!<LINE>
+//This is a golden opportunity<LINE>
 //for the All Japan Team!<END>
 
-//Our plan is working perfectly!<LINE>
+//Our plan is going perfectly!<LINE>
 //We're counting on you, Gino!<END>
 
 //It's now or never!<END>
 
 //Hernandez comes out without hesitation!<END>
 
-//Tsubasa, I'll take care of him!<LINE>
+//Tsubasa, I've got this!<LINE>
 //Be ready to take the ball!<END>
 
-//Okay!<END>
+//Got it!<END>
 
-//Hyuga jumps to take the ball!<END>
+//Hyuga jumps to get the ball!<END>
 
-//Hernandez jumps too, at the edge<LINE>
+//Hernandez jumps too, on the edge<LINE>
 //of the penalty area!<END>
 
-//Oh my god!<END>
+//My god!<END>
 
 //Hyuga jumped the highest,<LINE>
 //but Hernandez was able to grab<LINE>
@@ -36,39 +36,45 @@
 
 //Oh! Hernandez drops the ball!<END>
 
-//It's my turn now!<END>
+//My turn to play!<END>
 
-//Tsubasa rushes towards the ball!<END>
+//Tsubasa charges towards the ball!<END>
 
 //I won't let you do that!<END>
 
-//Oh! Hernandez hits the ball<LINE>
-//before Tsubasa had a chance to shoot! What aerial play<LINE>
-//from Hernandez!<END>
+//Oh! Hernandez kicked the ball<LINE>
+//before Tsubasa had a chance<LINE>
+//to shoot! What an aerial play<LINE>
+//by Hernandez!<END>
 
 //Ah!<END>
 
-//Hernandez stopped another scoring<LINE>
-//chance for the All Japan Team!<END>
+//Hernandez stops another scoring chance<LINE>
+//by the All Japan Team!<END>
 
 //Hernandez clears the ball far ahead!<END>
 
 //Oh no!<END>
 
-//Italy starts a counterattack!<END>
+//Italy is launching a counter-attack!<END>
 
-//It's as if they were all expecting<LINE>
-//the ball to be cleared far ahead!<END>
+//It's like they all knew<LINE>
+//the ball would be cleared<LINE>
+//far ahead!<END>
 
-//They planned this from the start!<END>
+//They planned for this from the beginning!<END>
+
+//The All Japan Team attacked too high<LINE>
+//and now they find themselves<LINE>
+//with a decimated defense!<END>
 
 //The Italian passing game is lightning fast!<LINE>
-//Wakashimazu comes out of his goal!<END>
+//Wakashimazu is out of his goal!<END>
 
 //Raah!<END>
 
-//But the Italians have a numerical advantage!<LINE>
-//Conti finds himself alone in front of the goal<LINE>
+//But the Italians are in numbers!<LINE>
+//Conti is alone in front of the goal<LINE>
 //and shoots!<END>
 
 //I've got it!<END>
@@ -77,8 +83,8 @@
 
 //Goooal!<END>
 
-//The Italy Jr. Youth Team scores<LINE>
-//on a counterattack triggered<LINE>
+//The Italy Jr. Youth Team scores first<LINE>
+//on a counter-attack triggered<LINE>
 //by their goalkeeper Hernandez!<END>
 
 //Our plan is working perfectly.<END>
@@ -86,4 +92,3 @@
 //This goal hurts the All Japan...<LINE>
 //We'll see how their captain<LINE>
 //Tsubasa Ozora will react!<END>
-

@@ -1,40 +1,44 @@
 // FILE: EP0601.str containing 13 strings
 
 //Nankatsu against Furano.<LINE>
-//The two very evenly matched teams<LINE>
-//have earned their place in the semi-finals.<END>
+//The two evenly matched teams<LINE>
+//have earned their place in the semifinals.<END>
 
-//OK, great work, guys.<LINE>
-//Wipe your sweat and keep fighting<LINE>
+//OK, that's good work, guys.<LINE>
+//Wipe off your sweat and keep fighting<LINE>
 //in the second half!<LINE>
-//One last push!<END>
+//One last push! <END>
 
-//Yeah!<END>
+//Yeah! <END>
 
-//Tsubasa, can you continue?<END>
+//Tsubasa, can you keep going? <END>
 
-//Yes, no problem.<END>
+//Yes, no problem. <END>
 
-//I'm not going to lose!<LINE>
-//I refuse to lose in Japan!<END>
+//I won't lose!<LINE>
+//I refuse to lose in Japan! <END>
 
 //OK, keep it up in the second half.<LINE>
-//Hold on and victory is assured!<END>
+//Hang in there and the victory is assured! <END>
 
-//Yes!<END>
+//Yes! <END>
 
-//Nankatsu is strong…<LINE>
+//Nankatsu is strong...<LINE>
 //And their defense is really tight.<LINE>
-//But by combining all of our strengths,<LINE>
-//we should be able to break them!<END>
+//But by combining all our strength,<LINE>
+//we should be able to break through! <END>
 
 //Here comes the second half at last.<LINE>
-//The final thirty minutes<LINE>
-//of an intense battle!<END>
+//The last thirty minutes<LINE>
+//of a fierce battle! <END>
 
 //And here comes the second half<LINE>
-//of the match!<END>
+//of the match! <END>
 
-//I'll show myself worthy of the trust<LINE>
-//of my teammat
+//I will prove myself worthy<LINE>
+//of my teammates' trust, and seal<LINE>
+//the course of the match with my mastery of the Drive Shoot! <END>
+
+//And at the critical moment,<LINE>
+//I will score a goal! <END>
 

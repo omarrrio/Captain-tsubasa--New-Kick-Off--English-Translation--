@@ -4,38 +4,42 @@
 
 //What! What did you just say?<END>
 
-//I thought you wanted to score<LINE>
-//from outside the penalty area.<END>
+//I thought you wanted to shoot<LINE>
+//outside of the penalty area.<END>
 
-//You knew you had no chance of winning,<LINE>
-//but you just wanted to score.<LINE>
-//Isn't that right, Hyuga?<END>
+//You knew you had no chance<LINE>
+//of winning, but you just wanted<LINE>
+//to score a goal.<LINE>
+//Right, Hyuga?<END>
 
 //What?!<END>
 
-//Anyway... consider this goal<LINE>
-//as a gift. We don't want you<LINE>
-//to have come all the way from Japan for nothing.<END>
+//It doesn't matter... Consider this goal<LINE>
+//a gift. You didn't come all the way<LINE>
+//from Japan for nothing.<END>
 
 //Hyuga, captain of the All Japan Jr. Youth<LINE>
 //Team...<END>
 
-//With such a pathetic captain and<LINE>
-//a team that's not worth much more...<END>
+//With such a pathetic captain<LINE>
+//and a team that's no better...<END>
 
 //I don't think you'll win<LINE>
-//a single match on this tour!<END>
+//a single match<LINE>
+//during this tour!<END>
 
 //You...!<END>
 
 //You've gone too far!<END>
 
 //I see. You can't beat me<LINE>
-//fair and square, so you want to resort<LINE>
-//to fighting? As you wish,<LINE>
-//I'm ready!<END>
+//fairly, so you want to resort<LINE>
+//to fists? As you wish,<LINE>
+//I'm at your disposal!<END>
 
-//You idiot!<END>
+//You...!<END>
+
+//You fool!<END>
 
 //Hyuga!<LINE>
 //Wakabayashi!<END>
@@ -51,5 +55,6 @@
 
 //Is this what you wanted, Mr. Mikami?<END>
 
-//How will the team handle all of this?<END>
+//How will the team handle<LINE>
+//all of this?<END>
 

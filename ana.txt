@@ -9,18 +9,18 @@
 //reach it!<END>
 
 //The ball passed<LINE>
-//through his legs!<END>
+//between his legs!<END>
 
-//But he can't get<LINE>
-//close to the ball!<END>
+//He can't<LINE>
+//get close to the ball!<END>
 
-//He didn't succeed<LINE>
+//He failed<LINE>
 //to intercept the ball!<END>
 
-//He diverted the ball!<END>
+//He deflected the ball!<END>
 
-//He is trying to<LINE>
-//reach the ball!<END>
+//He extended his leg<LINE>
+//towards the ball!<END>
 
 //But he didn't get it!<END>
 
@@ -28,40 +28,40 @@
 
 //<NAME> didn't get it!<END>
 
-//Nobody can stop it!<END>
+//No one can stop it!<END>
 
 //<NAME> saw it coming!<END>
 
-//He dove on the<LINE>
-//ball's trajectory!<END>
+//He dove for the trajectory<LINE>
+//of the ball!<END>
 
-//He managed to stop it!<END>
+//He stopped it!<END>
 
-//<NAME> jammed it!<END>
+//<NAME> blocked it!<END>
 
-//<NAME> has good defended!<END>
+//<NAME> defended well!<END>
 
 //<NAME> intercepted<LINE>
 //the ball!<END>
 
-//Nobody has the ball!<END>
+//No one has the ball!<END>
 
-//The ball will elude them!<END>
+//The ball will escape them!<END>
 
-//Le ballon leur a échappé!<END>
+//The ball has escaped them!<END>
 
-//GOAAAAAL!<END>
+//GOOOOAL!<END>
 
-//The ball is in the nets!<END>
+//The ball is in the back of the net!<END>
 
-//Goal! GOAL! GOAAAAAL!<END>
+//Goal! GOAL! GOOOOAL!<END>
 
 //He passed the ball!<END>
 
-//<NAME> will pass<LINE>
+//<NAME> is going to pass<LINE>
 //the ball!<END>
 
-//<NAME> pass<LINE>
+//<NAME> passes<LINE>
 //the ball!<END>
 
 //And it's a pass!<END>
@@ -69,34 +69,34 @@
 //He decided to pass<LINE>
 //the ball!<END>
 
-//A pass so close!<END>
+//A pinpoint pass!<END>
 
-//<NAME> pass the ball.<END>
+//<NAME> passes the ball.<END>
 
-//He is going for a long pass.<END>
+//He made a long pass.<END>
 
 //It's a long pass.<END>
 
-//<NAME> make<LINE>
+//<NAME> makes<LINE>
 //a long pass!<END>
 
-//He's gonna shoot!<END>
+//He's going to shoot!<END>
 
-//And it's the shoot!<END>
+//And it's the shot!<END>
 
-//Will <NAME> be<LINE>
-//able to shoot?<END>
+//Will <NAME><LINE>
+//be able to shoot?<END>
 
 //Will he be able to shoot?<END>
 
-//He's prepearing to shoot<LINE>
-//with all his strength!<END>
+//He's preparing to shoot<LINE>
+//with all his might!<END>
 
-//<NAME> aim for the goal!<END>
+//<NAME> aims for the goal!<END>
 
-//It's the occasion to shoot!<END>
+//It's a shooting opportunity!<END>
 
-//<NAME> tries his luck!<END>
+//<NAME> is trying his luck!<END>
 
 //Will it go in?<END>
 
@@ -104,171 +104,174 @@
 
 //He shoots!<END>
 
-//A shot so close!<END>
+//A perfectly aimed shot!<END>
 
-//The ball goes towards the goal!<END>
+//The ball is heading towards the goal!<END>
 
-//He has put everything he got<LINE>
-//on this one!<END>
+//He put everything into that shot!<END>
 
-//It's a front shock!<END>
+//It's a frontal collision!<END>
 
-//And it's a shock!<END>
+//And it's the collision!<END>
 
-//They bumped into each!<END>
+//They collided!<END>
 
-//The duel becomes physical!<END>
+//The duel is becoming physical!<END>
 
-//These two battle<LINE>
+//These two are fighting<LINE>
 //for the ball!<END>
 
-//It's the strength against the strength!<END>
+//It's strength against strength!<END>
 
-//They are battling with their heads!<END>
+//They're using their heads!<END>
 
-//They look like in an equal level!<END>
+//They seem evenly matched!<END>
 
-//Neither yields the field!<END>
+//Neither is giving up any ground!<END>
 
-//This si turning into a power duel!<END>
+//It's turning into a power duel!<END>
 
-//But he got thrown away!<END>
+//But he was ejected!<END>
 
-//<NAME> is thrown away!<END>
+//<NAME> is ejected!<END>
 
-//WOW! What a power!<END>
+//Wow! What power!<END>
 
-//It's a velocity match<LINE>
-//and they go in with strength!<END>
+//It's a match of speed<LINE>
+//and he's powering through!<END>
 
 //<NAME> dribbles<LINE>
 //with skill.<END>
 
-//<NAME> pass in defense!<END>
+//<NAME> passes the defense!<END>
 
-//<NAME> can't move<LINE>
+//<NAME> can't<LINE>
+//move!<END>
 
-//He couldn't move a centimeter!<END>
+//He couldn't move<LINE>
+//an inch!<END>
 
 //He can't react!<END>
 
-//<NAME> Can't catch him!<END>
+//<NAME> can't<LINE>
+//catch it!<END>
 
-//He lost the duel!<END>
+//He lost the contest!<END>
 
-//He couldn't take the ball.<END>
+//He couldn't get the ball.<END>
 
-//<NAME> has taken the balle!<END>
+//<NAME> got the ball!<END>
 
 //A magnificent control<LINE>
 //of the ball!<END>
 
-//<NAME> trap the ball!<END>
+//<NAME> traps the ball!<END>
 
-//They both jump up to<LINE>
-//the ball!<END>
-
-//Neither of them<LINE>
-//arrived to have it.<END>
+//They both fly towards the ball<LINE>
+//! <END>
 
 //Neither of them<LINE>
-//surpassed the other!<END>
+//can get it.<END>
 
-//The goalkick go<LINE>
-//out for the ball!<END>
+//Neither of them<LINE>
+//has surpassed the other!<END>
 
-//<NAME> challenges him!<END>
+//The goalkeeper<LINE>
+//comes out! <END>
 
-//He bravely go out!<END>
+//<NAME> comes out<LINE>
+//to challenge him! <END>
 
-//<NAME> was knocked down!<END>
+//He comes out courageously!<END>
 
-//<NAME> was thrown away!<END>
+//<NAME> has been tackled!<END>
 
-//He was badly thrown away!<END>
+//<NAME> has been ejected!<END>
 
-//He pushes the ball<LINE>
-//with his fist!<END>
+//He was violently ejected!<END>
 
-//He is going to hit<LINE>
-//the ball with his fist!<END>
+//He pushes the ball away<LINE>
+//with a punch! <END>
 
-//<NAME>, with his fist!<END>
+//He's going to punch the ball<LINE>
+//! <END>
+
+//<NAME>, with the fist!<END>
 
 //He's going to secure the ball!<END>
 
-//<NAME> will catch it!<END>
+//<NAME> is going to catch it!<END>
 
-//The ball goes directly<LINE>
-//towards the goalkick!<END>
+//The ball is heading straight<LINE>
+//for the goalkeeper! <END>
 
 //Will he be able to stop it?<END>
 
-//Will <NAME> reach<LINE>
-//it in time?<END>
+//Will <NAME><LINE>
+//get to it in time? <END>
 
-//He dives in!<END>
+//He dives!<END>
 
-//He got strewed!<END>
+//He's been left behind!<END>
 
-//He trespassed him!<END>
+//He's surpassed him!<END>
 
 //I can't believe it!<END>
 
-//The goalkick made a nice catch!<END>
+//The goalkeeper made a great save!<END>
 
-//Nice reaction from teh goalkick!<END>
+//A great reaction from the goalkeeper!<END>
 
-//<NAME> Stopped it!<END>
+//<NAME> stopped it!<END>
 
-//He got thrown away!<END>
+//He was ejected!<END>
 
 //He's trying to stop it by force!<END>
 
 //He gave a lot<LINE>
-//for this action!<END>
+//on this action!<END>
 
-//He made a fault!<END>
+//He committed a foul!<END>
 
-//It's a fault!<END>
+//It's a foul!<END>
 
-//It's an offside!<END>
+//There's an offside!<END>
 
 //They are offside!<END>
 
 //The match will resume<LINE>
-//with a free kick.<END>
+//with a free-kick.<END>
 
-//It's a side throw.<END>
+//It's a throw-in.<END>
 
 //The match will resume<LINE>
-//with a corner kick.<END>
+//with a corner. <END>
 
-//The match resumes<LINE>
-//with a penalty kick.<END>
+//The match continues<LINE>
+//with a penalty. <END>
 
-//The match resumes!<END>
+//The match has resumed!<END>
 
-//And it's the kick-off!<END>
+//And it's kick-off!<END>
 
 //Beginning of the second half.<END>
 
-//The second half has began.<END>
+//The second half has begun.<END>
 
-//Kick-Off<LINE>
-//of the second half.<END>
+//Kick-off<LINE>
+//of the second half. <END>
 
-//We begin the over time!<END>
+//The extra time is starting!<END>
 
-//Kick-Off<LINE>
-//for the over time!<END>
+//Kick off<LINE>
+//for the extra time!<END>
 
 //The match resumes!<END>
 
-//They resume<LINE>
-//an pass to attack!<END>
+//They're picking up the pace<LINE>
+//and going on the attack!<END>
 
-//They found a good rhythm!<END>
+//They've found their rhythm!<END>
 
 //End of the first half.<END>
 
@@ -276,100 +279,95 @@
 //is over!<END>
 
 //The match will continue<LINE>
-//in the over time!<END>
+//into extra time!<END>
 
 //There will be<LINE>
-//over time!<END>
+//extra time!<END>
 
 //The match is over!<END>
 
-//The referee blows<LINE>
-//the final whistle!<END>
+//The referee blows the whistle<LINE>
+//to signal the end of the match!<END>
 
-//It's an overwhelming<LINE>
-//victory!<END>
+//It's a crushing victory!<END>
 
-//They won the match!<END>
+//They've won the match!<END>
 
-//They won!<END>
+//They've won!<END>
 
 //There will be no winner,<LINE>
 //it's a draw.<END>
 
-//Sadly the victory slipped<LINE>
-//trough their fingers!<END>
+//Unfortunately, victory<LINE>
+//has slipped away from them!<END>
 
-//It's an absolute defeat!<END>
+//It's a total defeat!<END>
 
 //How will they build<LINE>
 //their attack?<END>
 
-//Which offensive strategy<LINE>
+//What offensive strategy<LINE>
 //will they apply?<END>
 
-//Can they take the ball<LINE>
+//Can they move the ball<LINE>
 //forward?<END>
 
-//What will they<LINE>
-//do with ball?<END>
+//What will they do<LINE>
+//with this ball?<END>
 
-//5 minutes passed already.<END>
-
-//End of the first 15 minutes<LINE>
-//in the first half.<END>
+//Already 5 minutes have passed.<END>
 
 //End of the first 15 minutes<LINE>
-//in the second half.<END>
+//of the first half.<END>
 
-//Only 5 minutes left<LINE>
-//on the clock.<END>
+//End of the first 15 minutes<LINE>
+//of the second half.<END>
 
-//They are taking the ball<LINE>
-//by the wing.<END>
+// Only 5 minutes left.<END>
 
-//They are attacking<LINE>
-//by the wing.<END>
+// They bring the ball up<LINE>
+// on the wing.<END>
 
-//What a crushing<LINE>
-//power demonstration!<END>
+// They attack through the wing.<END>
 
-//Will they continue<LINE>
-//widening the gap?<END>
+// What a demonstration<LINE>
+// of overwhelming power!<END>
 
-//The match ended up<LINE>
-//in a tie!<END>
+// Will they continue<LINE>
+// to widen the gap?<END>
 
-//Will they go back up?<END>
+// Both teams are evenly matched!<END>
 
-//The game time is<LINE>
-//almost over!<END>
+// Will they be able to make a comeback?<END>
 
-//It's almost over.<LINE>
-//Is this the final attack?<END>
+// There is almost no<LINE>
+// more playing time left!<END>
+
+//These are the added minutes.<LINE>
+//Is this the last attack?<END>
 
 //The ball changes sides.<END>
 
-//The match resumes with a<LINE>
-//goalkick throw.<END>
+//The match resumes with a throw-in<LINE>
+//by the goalkeeper.<END>
 
-//He's going in alone!<END>
+//He goes for it alone!<END>
 
-//The goal is at a<LINE>
-//shooting distance!<END>
+//The goals are<LINE>
+//within shooting range!<END>
 
-//He takes the ball,<LINE>
-//the tables are turned!<END>
+//He steals the ball from him,<LINE>
+//the roles are reversed!<END>
 
-//Can they reverse<LINE>
-//the trend?<END>
+//Can they turn<LINE>
+//the tide?<END>
 
 //He has the ball!<END>
 
-//He's going up the<LINE>
-//firld alone!<END>
+//He's going up the field<LINE>
+//all alone!<END>
 
-//He remains undeterred<LINE>
-//and continue dribbling.<END>
+//He remains imperturbable<LINE>
+//and continues to dribble.<END>
 
-//He goes in alone!<END>
-
+//He's going for it alone!<END>
