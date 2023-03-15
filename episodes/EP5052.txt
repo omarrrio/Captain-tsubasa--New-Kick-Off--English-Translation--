@@ -5,7 +5,7 @@
 
 //Remplacement du nº 12!<END>
 
-//Hein?<END>
+//Huh?<END>
 
 //Comment...<LINE>
 //Je peux encore jouer...<END>
@@ -22,7 +22,7 @@
 //Entraîneur, Shingo s'est blessé<LINE>
 //à la jambe…<END>
 
-//Hein?<END>
+//Huh?<END>
 
 //*coup de sifflet*<END>
 

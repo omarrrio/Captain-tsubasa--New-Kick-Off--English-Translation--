@@ -21,7 +21,7 @@
 //Oh, mais Kaltz vient par-derrière<LINE>
 //et s'empare de la balle!<END>
 
-//Hein?<END>
+//Huh?<END>
 
 //Mais il en perd le contrôle<LINE>
 //à cause de son effet!<END>

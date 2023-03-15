@@ -49,7 +49,7 @@
 
 //What do you say of this?<END>
 
-//Hein, what?<END>
+//Huh, what?<END>
 
 //!!!<END>
 

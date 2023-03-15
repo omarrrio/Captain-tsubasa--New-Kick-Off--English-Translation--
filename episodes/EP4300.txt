@@ -36,7 +36,7 @@
 //Contre une équipe incapable d'attaquer,<LINE>
 //ce match va être un jeu d'enfant!<END>
 
-//Tu crois ça, hein?<END>
+//Tu crois ça, Huh?<END>
 
 //Et c'est bientôt l'heure du coup d'envoi<LINE>
 //du match d'aujourd'hui, Musashi Junior<LINE>

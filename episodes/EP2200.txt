@@ -1,6 +1,6 @@
 // FILE: EP2200.str containing 14 strings
 
-//Hein?<END>
+//Huh?<END>
 
 //Ah, ca-capitaine!<END>
 

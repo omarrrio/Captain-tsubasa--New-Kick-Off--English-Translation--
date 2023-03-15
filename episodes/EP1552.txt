@@ -84,7 +84,7 @@
 
 //Il tire en plein sur le gardien!<END>
 
-//Hein?<END>
+//Huh?<END>
 
 //C'est rentré?<END>
 

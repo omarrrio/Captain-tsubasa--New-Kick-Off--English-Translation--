@@ -15,7 +15,7 @@
 //Le ballon a fini dans les filets<LINE>
 //de Matsukami!<END>
 
-//Qu'est-ce que vous pensez de ça, hein?<LINE>
+//Qu'est-ce que vous pensez de ça, Huh?<LINE>
 //Si vous vous imaginiez que<LINE>
 //nous n'étions pas dangereux sans Misugi,<LINE>
 //vous allez le regretter!<END>
