@@ -1,139 +1,135 @@
 // FILE: EP1500.str containing 47 strings
 
-//Entraîneur, avant le briefing, j'ai<LINE>
-//quelque chose à donner à tout le monde.<END>
+//Coach, before the briefing, I have<LINE>
+//something to give to everyone.<END>
 
-//Jetez-y tous un œil.<END>
+//Take a look at it.<END>
 
-//Ce sont des informations sur l'Allemagne,<LINE>
-//notre adversaire du jour!<END>
+//It's information about Germany,<LINE>
+//our opponent today!<END>
 
-//Il y a tout! Leurs points forts,<LINE>
-//leurs points faibles, leur manière<LINE>
-//de jouer!<END>
+//It's all there! Their strengths,<LINE>
+//their weaknesses, their style of play!<END>
 
 //Wakabayashi...<END>
 
-//Ça fait un moment que je collecte<LINE>
-//ces informations, et j'ai fini<LINE>
-//par tout réunir hier.<END>
+//I've been collecting this information<LINE>
+//for a while now, and I finally put it all together yesterday.<END>
 
-//J'ai déjà joué avec Schneider et Kaltz,<LINE>
-//et contre Schester et Margas. Tout ce<LINE>
-//qu'il y a là devrait être très précis.<END>
+//I've already played with Schneider and Kaltz,<LINE>
+//and against Schester and Margas. Everything<LINE>
+//there should be very accurate.<END>
 
-//Inutile de mémoriser les données de chacun.<LINE>
-//Seules celles du joueur que vous allez<LINE>
-//marquer devraient suffire.<END>
+//There's no need to memorize everyone's data.<LINE>
+//Only the data of the player you'll<LINE>
+//be marking should be enough.<END>
 
-//Merci, Wakabayashi!<END>
+//Thanks, Wakabayashi!<END>
 
-//Genzo, je n'arrive pas à croire<LINE>
-//que tu aies réuni tout ça...<END>
+//Genzo, I can't believe<LINE>
+//you put all this together...<END>
 
-//Vous pouvez commencer le briefing.<END>
+//You can start the briefing.<END>
 
-//Hmmm, oui.<END>
+//Hmmm, yes.<END>
 
-//Eh bien, je n'ai rien à ajouter<LINE>
-//par rapport à ce que je vous ai déjà dit.<LINE>
-//Donnez tout ce que vous avez sur le terrain<LINE>
-//comme vous l'avez fait jusqu'à aujourd'hui.<LINE>
-//C'est tout!<END>
+//Well, I have nothing to add<LINE>
+//to what I've already told you.<LINE>
+//Give everything you have on the field<LINE>
+//as you have done until today.<LINE>
+//That's all!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Sinon, en ce qui concerne<LINE>
-//le poste de gardien...<END>
+//Otherwise, regarding<LINE>
+//the goalkeeper position...<END>
 
 //Genzo Wakabayashi!<LINE>
-//Je compte sur toi aujourd'hui!<END>
+//I'm counting on you today!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Mais... Je ne devais pas jouer<LINE>
-//dans ce tournoi...<END>
+//But... I wasn't supposed to play<LINE>
+//in this tournament...<END>
 
-//En plus, je ne me suis pas entraîné<LINE>
-//avec les défenseurs... et je...<END>
+//Besides, I haven't trained<LINE>
+//with the defenders... and I...<END>
 
-//Il n'y a que toi, Wakayabashi.<END>
+//It's only you, Wakabayashi.<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Si Wakashimazu ne peut pas jouer,<LINE>
-//tu es le seul qui puisse le remplacer.<END>
+//If Wakashimazu can't play,<LINE>
+//you're the only one who can replace him.<END>
 
 //Morisaki...<END>
 
-//Il a raison. Tu es le seul qui puisse<LINE>
-//garder nos cages maintenant.<END>
+//He's right. You're the only one who can<LINE>
+//guard our goal now.<END>
 
 //Hyuga...<END>
 
-//Tant que tu donnes tout ce que tu as<LINE>
-//et que tu n'essaies pas de donner<LINE>
-//l'avantage à l'autre équipe, personne<LINE>
-//ne s'opposera à ce que tu gardes nos cages.<END>
+//As long as you give everything you have<LINE>
+//and don't try to give<LINE>
+//the other team an advantage, no one<LINE>
+//will object to you guarding our goal.<END>
 
-//Notre esprit d'équipe sera indestructible<LINE>
-//tant que nous aurons tous le même<LINE>
-//et seul objectif : la victoire!<END>
+//Our team spirit will be indestructible<LINE>
+//as long as we all have the same<LINE>
+//and only goal: victory!<END>
 
-//Avant je détestais Tsubasa par-dessus tout.<LINE>
-//Mais depuis qu'on joue dans la même équipe,<LINE>
-//je compte beaucoup sur lui.<END>
+//Before, I hated Tsubasa more than anything.<LINE>
+//But since we've been on the same team,<LINE>
+//I count on him a lot.<END>
 
-//Ça ne me dérange pas le moins du monde<LINE>
-//de passer la balle à Tsubasa<LINE>
-//si la victoire est au bout.<END>
+//I don't mind passing the ball to Tsubasa<LINE>
+//if victory is at stake.<END>
 
-//C'est ça le foot, Wakabayashi.<END>
+//That's what soccer is, Wakabayashi.<END>
 
 //Hyuga...<END>
 
-//Et puis, je vous ai entendus parler<LINE>
-//Tsubasa et toi après le premier match<LINE>
-//de la tournée.<END>
+//And then, I heard you and Tsubasa<LINE>
+//talking after the first match<LINE>
+//of the tour.<END>
 
-//Tout ce que tu avais fait était<LINE>
-//pour nous rendre plus forts,<LINE>
-//pas vrai?<END>
+//Everything you did was<LINE>
+//to make us stronger, right?<END>
 
-//Tu sais que t'es un mauvais acteur, hein?<END>
+//You know you're a bad actor, right?<END>
 
-//Mais bon, grâce à toi, on s'est renforcés<LINE>
-//en très peu de temps.<END>
+//But thanks to you, we've become stronger<LINE>
+//in a very short time.<END>
 
-//Alors, qu'est-ce que tu comptes faire,<LINE>
-//Wakabayashi? Tu n'as toujours <LINE>
-//pas l'intention de jouer? <LINE>
-//Tu voulais simplement être là <LINE>
-//pour nous relayer les informations <LINE>
-//sur l'équipe d'Allemagne?<END>
+//So, what are you going to do,<LINE>
+//Wakabayashi? You still don't<LINE>
+//intend to play?<LINE>
+//You just wanted to be there<LINE>
+//to relay information about<LINE>
+//the German team to us?<END>
 
-//Les gars...<END>
+//Guys...<END>
 
-//Je... je...<END>
+//I... I...<END>
 
-//Dans les cages du Japon, nous retrouverons<LINE>
-//Genzo Wakabayashi aujourd'hui!<END>
+//In the Japanese goal, we will see<LINE>
+//Genzo Wakabayashi today!<END>
 
-//Je compte sur toi, Wakabayashi.<END>
+//I'm counting on you, Wakabayashi.<END>
 
-//C'est la première titularisation<LINE>
-//de Wakabayashi dans ce tournoi.<END>
+//This is Wakabayashi's first start<LINE>
+//in this tournament.<END>
 
 //Wa-Wakabayashi?<END>
 
-//Wakabayashi va jouer?<END>
+//Wakabayashi is going to play?<END>
 
-//Alors tu vas vraiment jouer, hein?<END>
+//So you're really going to play, huh?<END>
 
-//Mieux vaut tard que jamais...<END>
+//Better late than never...<END>
 
-//On dirait qu'on va avoir l'occasion<LINE>
-//de s'affronter aujourd'hui, Wakabayashi!<END>
+//It looks like we'll have the chance<LINE>
+//to face each other today, Wakabayashi!<END>
 
-//Schneider, je ne perdrai pas.<END>
+//Schneider, I won't lose.<END>
 

@@ -2876,7 +2876,7 @@
 
 //No<END>
 
-//Arrêt/180 SP: Allows you to<LINE>
+//Stop/180 SP: Allows you to<LINE>
 //overcome the fear of the ball<LINE>
 //and dive for the ball.<END>
 
