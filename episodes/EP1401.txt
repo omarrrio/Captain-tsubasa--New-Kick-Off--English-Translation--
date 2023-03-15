@@ -1,30 +1,30 @@
 // FILE: EP1401.str containing 9 strings
 
-//Co-comment... se passe le match?<END>
+//H-how... how's the game going?<END>
 
-//Même réduits à dix, on tient plus ou moins<LINE>
-//le coup pour l'instant.<END>
+//Even with ten players, we're more or less holding<LINE>
+//our own for the moment.<END>
 
 //Ah...<END>
 
-//Je suis désolé... C'est de ma faute...<LINE>
-//Si je n'avais pas été expulsé...<END>
+//I'm sorry... It's my fault...<LINE>
+//If I hadn't been sent off...<END>
 
-//Ce carton rouge n'était pas juste,<LINE>
-//mais on doit faire avec.<LINE>
-//On va tout donner<LINE>
-//pour compenser ton expulsion.<END>
+//That red card wasn't fair,<LINE>
+//but we have to deal with it.<LINE>
+//We're going to give it our all<LINE>
+//to make up for your expulsion.<END>
 
-//On ne doit pas sous-estimer le Japon,<LINE>
-//surtout leur nº 10...<END>
+//We can't underestimate Japan,<LINE>
+//especially their number 10...<END>
 
-//On doit rester sur nos gardes<LINE>
-//en seconde mi-temps.<END>
+//We have to stay on our toes<LINE>
+//in the second half.<END>
 
-//Oui.<END>
+//Yes.<END>
 
-//Eh bien, on dirait que la pluie est<LINE>
-//au rendez-vous pour la deuxième mi-temps.<LINE>
-//Il va être intéressant de voir<LINE>
-//comment les équipes vont réagir...<END>
+//Well, it looks like the rain has arrived<LINE>
+//for the second half.<LINE>
+//It's going to be interesting to see<LINE>
+//how the teams react...<END>
 

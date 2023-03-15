@@ -1,100 +1,99 @@
 // FILE: EP1451.str containing 34 strings
 
-//Ha! Personne ne peut m'arrêter!<END>
+//Ha! Nobody can stop me!<END>
 
-//La passe, Napoléon!<END>
+//The pass, Napoleon!<END>
 
 //Pierre!<END>
 
-//Où est-ce que tu regardes? Prends ça!<LINE>
-//Tacle en rasoir!<END>
+//Where are you looking? Take this!<LINE>
+//Razor tackle!<END>
 
-//C'est un tacle très appuyé<LINE>
-//de la part de Souda!<LINE>
-//Napoléon parvient néanmoins à passer<LINE>
-//le ballon!<END>
+//That was a very hard tackle<LINE>
+//from Souda!<LINE>
+//Nevertheless, Napoleon manages to pass<LINE>
+//the ball!<END>
 
-//Mais Souda emporté par son élan,<LINE>
-//fauche Napoléon!<END>
+//But Souda, carried away by his momentum,<LINE>
+//takes out Napoleon!<END>
 
-//C'est pas possible!<END>
+//This can't be!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Pierre a le ballon, l'arbitre décide<LINE>
-//de laisser jouer l'avantage!<END>
+//Pierre has the ball, the referee decides<LINE>
+//to let the advantage play!<END>
 
-//On y va!<END>
+//Let's go!<END>
 
-//Misaki se lance immédiatement<LINE>
-//à ses trousses!<END>
+//Misaki immediately goes after him!<END>
 
-//Je ne vais pas te laisser faire<LINE>
-//aussi facilement!<END>
+//I'm not going to let you do it<LINE>
+//so easily!<END>
 
-//Je vais l'arrêter!<END>
+//I'll stop him!<END>
 
-//Ishizaki vient au secours de Misaki.<END>
+//Ishizaki comes to Misaki's aid.<END>
 
-//Je n'y crois pas!<LINE>
-//Pierre fonce volontairement sur Ishizaki!<END>
+//I can't believe it!<LINE>
+//Pierre deliberately charges at Ishizaki!<END>
 
-//Mais à quoi il pense?<LINE>
-//Je vais récupérer le ballon!<END>
+//What is he thinking?<LINE>
+//I'll get the ball back!<END>
 
-//Hein! Il a disparu?<END>
+//Huh! He disappeared?<END>
 
-//Oh, mais quel saut!<LINE>
-//Pierre reste en suspension<LINE>
-//tel un papillon dans le ciel!<END>
+//Oh, what a jump!<LINE>
+//Pierre remains suspended<LINE>
+//like a butterfly in the sky!<END>
 
-//Hé hé…<LINE>
-//Vous allez voir de quoi je suis capable.<LINE>
-//Je vais vous dévoiler mon...<END>
+//Hehe...<LINE>
+//You're going to see what I'm capable of.<LINE>
+//I'll reveal my...<END>
 
 //Slider shoot!<END>
 
-//Pierre tire de loin!<END>
+//Pierre shoots from afar!<END>
 
-//Un tir de loin?<LINE>
-//Est-ce une frappe enroulée<LINE>
-//comme Tsubasa et Diaz,<LINE>
-//ou bien un tir puissant<LINE>
-//comme Hyuga ou Schneider? <END>
+//A shot from afar?<LINE>
+//Is it a curled shot<LINE>
+//like Tsubasa and Diaz,<LINE>
+//or a powerful shot<LINE>
+//like Hyuga or Schneider?<END>
 
-//Il ne semble pas y avoir d'effet dans<LINE>
-//la balle, et il n'est pas aussi puissant<LINE>
-//que les Tiger et Fire shots!<LINE>
-//Je vais l'arrêter sans problème!<END>
+//There doesn't seem to be any spin on<LINE>
+//the ball, and it's not as powerful<LINE>
+//as Tiger and Fire shots!<LINE>
+//I'll stop it without any problem!<END>
 
-//Wakashimazu plonge!<END>
+//Wakashimazu dives!<END>
 
-//Qu-quoi?<END>
+//Wh-what?<END>
 
-//Ohhh, c'est le buuuuuuuuuuut!<LINE>
-//Wakashimazu était sur le point d'attraper<LINE>
-//le ballon, mais celui-ci est instantanément<LINE>
-//tombé et a rebondi dans le but!<END>
+//Ohhh, it's a gooooooooooal!<LINE>
+//Wakashimazu was about to catch<LINE>
+//the ball, but it instantly fell<LINE>
+//and bounced into the goal!<END>
 
-//M-mais c'était quoi comme tir, ça?<END>
+//W-wait, what kind of shot was that?<END>
 
-//Pierre nous régale d'un tir inédit!<END>
+//Pierre treats us to a new shot!<END>
 
-//Vous avez vu ça? C'est le Slider shoot!<END>
+//Did you see that? It's the Slider shoot!<END>
 
-//Oh! Mais qu'est-ce qui se passe<LINE>
-//de l'autre côté du terrain?<LINE>
-//Ça chauffe entre Napoléon et Souda!<END>
+//Oh! But what's happening<LINE>
+//on the other side of the field?<LINE>
+//Things are heating up between Napoleon and Souda!<END>
 
-//*coup de sifflet*<END>
+//whistle blow<END>
 
-//Les joueurs des deux équipes accourent<LINE>
-//pour les séparer.<END>
+//Players from both teams rush<LINE>
+//to separate them.<END>
 
-//Il semble que Napoléon s'est plaint<LINE>
-//auprès de Souda de son tacle,<LINE>
-//et qu'ils en sont venus aux mains.<END>
+//It seems that Napoleon complained<LINE>
+//to Souda about his tackle,<LINE>
+//and they came to blows.<END>
 
-//Carton jaune pour les deux joueurs!<LINE>
-//La tension monte d'un cran!<END>
+//Yellow card for both players!<LINE>
+//The tension is rising!<END>
 

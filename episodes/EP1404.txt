@@ -4,33 +4,33 @@
 
 //Misaki.<END>
 
-//J'espère qu'on aura l'occasion<LINE>
-//de s'affronter à nouveau dans le futur.<END>
+//I hope we'll have the opportunity<LINE>
+//to face each other again in the future.<END>
 
-//Moi aussi.<END>
+//Me too.<END>
 
-//Roberto, le Japon ayant gagné,<LINE>
-//remettons notre discussion au sujet<LINE>
-//du recrutement de Tsubasa Ozora<LINE>
-//à la fin du match de demain...<END>
+//Roberto, with Japan winning,<LINE>
+//let's resume our discussion about<LINE>
+//recruiting Tsubasa Ozora at the end<LINE>
+//of tomorrow's match...<END>
 
-//Entraîneur Barbas, qui va l'emporter<LINE>
-//demain?<END>
+//Coach Barbas, who do you think will<LINE>
+//win tomorrow?<END>
 
-//J'ai bien peur que ce soit l'Allemagne.<LINE>
-//Même si le Japon possède Tsubasa Ozora,<LINE>
-//je ne pense pas qu'ils aient les moyens<LINE>
-//de l'emporter sur l'Allemagne.<END>
+//I'm afraid it'll be Germany.<LINE>
+//Even though Japan has Tsubasa Ozora,<LINE>
+//I don't think they have what it takes<LINE>
+//to beat Germany.<END>
 
-//Dans ce cas…<LINE>
-//Si le Japon remporte le match de demain,<LINE>
-//tu devras abandonner l'idée de recruter<LINE>
-//Tsubasa. D'accord?<END>
+//In that case...<LINE>
+//If Japan wins tomorrow's match,<LINE>
+//you'll have to give up on recruiting<LINE>
+//Tsubasa. Agreed?<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Je suis désolé, mais je compte recruter<LINE>
-//Tsubasa pour mon équipe brésilienne.<END>
+//I'm sorry, but I intend to recruit<LINE>
+//Tsubasa for my Brazilian team.<END>
 
 //Roberto!<END>
 

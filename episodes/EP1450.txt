@@ -1,51 +1,49 @@
 // FILE: EP1450.str containing 14 strings
 
-//On ne va pas abandonner<LINE>
-//tant qu'on n’aura pas pris<LINE>
-//notre revanche sur l'Allemagne!<END>
+//We won't give up<LINE>
+//until we have our revenge on Germany!<END>
 
-//Va-t-on avoir le droit à un Tiger shot<LINE>
-//de la part de Hyuga?<END>
+//Will we see a Tiger shot<LINE>
+//from Hyuga?<END>
 
-//Je compte sur toi, Tsubasa!<END>
+//I'm counting on you, Tsubasa!<END>
 
-//Non! Ce n'est pas un tir, mais une passe!<LINE>
-//Tsubasa se rue vers les buts<LINE>
-//et s'attend à un tir!<END>
+//No! It's not a shot, it's a pass!<LINE>
+//Tsubasa rushes towards the goal<LINE>
+//and expects a shot!<END>
 
-//Le meilleur conseil que Roberto ait pu<LINE>
-//me donner quand j'étais avant-centre<LINE>
-//à l'école primaire, était d'être un milieu<LINE>
-//de terrain qui sait construire le jeu.<END>
+//The best advice Roberto ever gave me<LINE>
+//when I was a forward in primary school,<LINE>
+//was to be a midfielder who can build the play.<END>
 
-//Est-ce que Tsubasa atteindra le ballon<LINE>
-//avant les défenseurs français?<LINE>
-//Il n'aura pas le temps de le contrôler!<LINE>
-//Comment va-t-il s'y prendre?<END>
+//Will Tsubasa reach the ball<LINE>
+//before the French defenders?<LINE>
+//He won't have time to control it!<LINE>
+//How will he do it?<END>
 
-//J'ai beau être milieu de terrain,<LINE>
-//je peux toujours marquer.<LINE>
-//Je peux construire le jeu<LINE>
-//et marquer en même temps.<END>
+//Even though I'm a midfielder,<LINE>
+//I can still score.<LINE>
+//I can build the play<LINE>
+//and score at the same time.<END>
 
-//C'était comme ça que Roberto me voyait...<END>
+//That's how Roberto saw me...<END>
 
-//Et c'est le genre de joueur<LINE>
-//que je veux devenir!<LINE>
-//Je dois mériter de porter le nº 10!<END>
+//And that's the kind of player<LINE>
+//I want to become!<LINE>
+//I have to earn the right to wear the number 10!<END>
 
-//Tsubasa reprend le ballon de volée!<END>
+//Tsubasa volleys the ball!<END>
 
-//Buuuuuuuuuuut! Et quel but!<LINE>
-//La passe de Hyuga n'était pas facile<LINE>
-//à reprendre, mais Tsubasa a su réaliser<LINE>
-//un geste technique d'une rare finesse!<END>
+//Goooooal! And what a goal!<LINE>
+//Hyuga's pass wasn't easy to take,<LINE>
+//but Tsubasa executed a rare and<LINE>
+//exquisite technical skill!<END>
 
-//Beau tir, Tsubasa!<END>
+//Great shot, Tsubasa!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Le prince du foot, Tsubasa Ozora,<LINE>
-//le capitaine de All Japan Jr. Youth,<LINE>
-//est parmi nous!<END>
+//The Prince of Football, Tsubasa Ozora,<LINE>
+//the captain of All Japan Jr. Youth,<LINE>
+//is among us!<END>
 

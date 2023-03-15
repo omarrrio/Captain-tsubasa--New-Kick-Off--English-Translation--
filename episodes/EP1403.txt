@@ -1,16 +1,16 @@
 // FILE: EP1403.str containing 6 strings
 
-//Nous n'avons pas réussi à gagner...<END>
+//We didn't manage to win...<END>
 
-//C'est fini...<END>
+//It's over...<END>
 
-//On a tenu le coup...<END>
+//We held out...<END>
 
-//Bien joué, les gars.<END>
+//Well played, guys.<END>
 
-//On s'est bien battus jusqu'à maintenant!<END>
+//We fought well until now!<END>
 
-//Place aux tirs au but maintenant.<LINE>
-//Il ne faut pas qu'on se relâche,<LINE>
-//c'est la dernière ligne droite!<END>
+//Now it's time for penalties.<LINE>
+//We can't let up,<LINE>
+//it's the final stretch!<END>
 
