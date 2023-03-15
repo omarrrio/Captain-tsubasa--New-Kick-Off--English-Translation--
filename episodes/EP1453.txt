@@ -1,86 +1,86 @@
 // FILE: EP1453.str containing 29 strings
 
-//C'est pour moi!<END>
+//It's for me!<END>
 
-//C'est le buuuuuuuuuuuuuuut!<LINE>
-//Le Tiger shot de Hyuga s'écrase<LINE>
-//au fond des filets!<END>
+//That's the gooooooooooal!<LINE>
+//Hyuga's Tiger Shot crashes<LINE>
+//into the back of the net!<END>
 
-//Super tir, Hyuga!<END>
+//Great shot, Hyuga!<END>
 
-//Quoi?<END>
+//What? <END>
 
-//At-attendez! Le but est refusé!<LINE>
-//Hyuga était en position de hors-jeu<LINE>
-//au début de l'action!<END>
+//Wait! The goal is disallowed!<LINE>
+//Hyuga was in an offside position<LINE>
+//at the start of the play!<END>
 
-//Quoi?<END>
+//What? <END>
 
-//Mais ce n'est pas possible!<LINE>
-//La défense est remontée après la passe!<LINE>
-//Ce n'est pas un hors-jeu!<END>
+//But that's not possible!<LINE>
+//The defense moved up after the pass!<LINE>
+//It's not offside!<END>
 
-//Hyuga conteste ardemment<LINE>
-//la décision de l'arbitre!<END>
+//Hyuga strongly disputes<LINE>
+//the referee's decision!<END>
 
-//Mais la France a déjà effectué<LINE>
-//la remise en jeu!<END>
+//But France has already<LINE>
+//taken the throw-in!<END>
 
-//Hein?<END>
+//Huh? <END>
 
-//Revenez tous en défense!<END>
+//Everyone, get back on defense!<END>
 
-//Toute l'équipe du Japon se replie<LINE>
-//maintenant en défense, mais l'offensive<LINE>
-//française est trop rapide.<END>
+//The entire Japanese team is now<LINE>
+//falling back on defense, but the<LINE>
+//French offense is too fast.<END>
 
-//Ils sont déjà devant les buts japonais!<LINE>
-//C'est une action dangereuse pour le Japon!<END>
+//They're already in front of the Japanese<LINE>
+//goal! It's a dangerous play for Japan!<END>
 
-//Pierre fait une passe millimétrée<LINE>
-//pour Napoléon qui est en position de tir!<END>
+//Pierre makes a pinpoint pass<LINE>
+//to Napoleon who's in a shooting position!<END>
 
-//Le but est à moi!<END>
+//The goal is mine!<END>
 
-//Ne le laissez pas tirer!<END>
+//Don't let him shoot!<END>
 
-//Napoléon, laisse passer!<END>
+//Napoleon, let it go!<END>
 
-//Hein?<END>
+//Huh? <END>
 
-//Napoléon ne tire pas! Il laisse filer<LINE>
-//le ballon entre ses jambes!<END>
+//Napoleon doesn't shoot! He lets the ball<LINE>
+//go through his legs!<END>
 
-//Bossis, l'autre attaquant français,<LINE>
-//est sur la balle! L'expulsion de Souda<LINE>
-//a laissé un vide dans la défense!<END>
+//Bossis, the other French forward,<LINE>
+//is on the ball! Souda's expulsion<LINE>
+//left a gap in the defense!<END>
 
-//Bien!<END>
+//Good!<END>
 
-//Bossis tire à portée des buts!<END>
+//Bossis shoots within range of the goal!<END>
 
-//Mais Wakashimazu repousse le ballon!<LINE>
-//Quel arrêt réflexe de la part du gardien!<END>
+//But Wakashimazu saves it!<LINE>
+//What a reflex stop by the goalkeeper!<END>
 
-//Bien joué, Wakashimazu!<END>
+//Well played, Wakashimazu!<END>
 
-//Attendez, ce n'est pas fini!<LINE>
-//Le ballon est toujours en jeu<LINE>
-//et revient droit dans les pieds<LINE>
-//de Napoléon!<END>
+//Wait, it's not over!<LINE>
+//The ball is still in play<LINE>
+//and comes right back to Napoleon's<LINE>
+//feet!<END>
 
-//Je vais marquer pour de bon!<END>
+//I'm going to score for real!<END>
 
-//Napoléon tire!<END>
+//Napoleon shoots!<END>
 
-//Buuuuuuuuuuuuuuuuuuut!<LINE>
-//Le gardien était sur la frappe,<LINE>
-//mais il n'a pas pu arrêter<LINE>
-//le tir de Napoléon d'une seule main!<END>
+//Gooooooooooooal!<LINE>
+//The goalkeeper got a hand on the shot,<LINE>
+//but couldn't keep out Napoleon's<LINE>
+//strike with just one hand!<END>
 
-//L'équipe du Japon réduite à 10<LINE>
-//a finalement cédé!<LINE>
-//Leurs chances d'avancer en finale<LINE>
-//se voient de plus en plus réduites!<LINE>
-//Vont-ils pouvoir se reprendre?<END>
+//The Japanese team reduced to 10<LINE>
+//has finally caved in!<LINE>
+//Their chances of making it to the final<LINE>
+//are getting slimmer and slimmer!<LINE>
+//Can they recover from this?<END>
 

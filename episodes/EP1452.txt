@@ -1,98 +1,98 @@
 // FILE: EP1452.str containing 35 strings
 
-//À moi le but!<END>
+//This goal is mine!<END>
 
-//Pas si vite!<END>
+//Not so fast!<END>
 
-//Les deux joueurs plongent pour la tête!<END>
+//Both players dive for the header!<END>
 
-//Napoléon n'a pas pu bien frapper la balle!<LINE>
-//Wakashimazu s'en empare facilement!<END>
+//Napoleon couldn't hit the ball well!<LINE>
+//Wakashimazu easily takes possession!<END>
 
-//*coup de sifflet*<END>
+//*Whistle blows*<END>
 
-//Ohhhhh! Faute de Souda!<LINE>
-//Penalty pour la France!<END>
+//Ohhhhh! Souda committed a foul!<LINE>
+//Penalty for France!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//*coup de sifflet*<END>
+//whistle blows<END>
 
-//Carton jaune!<END>
+//Yellow card!<END>
 
-//C'est pas vrai!<END>
+//This can't be true!<END>
 
-//Souda écope d'un 2e carton jaune,<LINE>
-//synonyme d'expulsion !<END>
+//Souda gets a second yellow card,<LINE>
+//meaning he is expelled!<END>
 
-//Napoléon a reçu un coup de coude<LINE>
-//de la part de Souda<LINE>
-//pendant leur duel aérien.<END>
+//Napoleon received an elbow blow<LINE>
+//from Souda<LINE>
+//during their aerial duel.<END>
 
-//Mais ça me semblait involontaire…<LINE>
-//C'est une décision bien sévère<LINE>
-//de la part de l'arbitre.<END>
+//But it seemed unintentional to me...<LINE>
+//This is a very severe decision<LINE>
+//from the referee.<END>
 
-//Mais non! Ce n'était pas volontaire!<LINE>
-//Cette expulsion n'est pas juste!<END>
+//No way! It wasn't intentional!<LINE>
+//This expulsion is unfair!<END>
 
-//La All Japan Team conteste cette décision,<LINE>
-//mais la décision de l'arbitre est<LINE>
-//irréversible. Ils vont devoir continuer<LINE>
-//ce match à 10.<END>
+//The All Japan Team is contesting this decision,<LINE>
+//but the referee's decision is<LINE>
+//irreversible. They will have to continue<LINE>
+//this match with 10 players.<END>
 
-//Et pour aggraver la chose, un penalty<LINE>
-//a été sifflé en faveur de la France.<LINE>
-//Un coup dur pour la All Japan Team!<END>
+//To make matters worse, a penalty<LINE>
+//has been awarded to France.<LINE>
+//A tough break for the All Japan Team!<END>
 
-//Je ne mérite pas d'être expulsé!<END>
+//I don't deserve to be expelled!<END>
 
-//Souda n'a pas l'intention<LINE>
-//de quitter le terrain!<END>
+//Souda has no intention<LINE>
+//of leaving the field!<END>
 
-//M. l'arbitre, en tant que capitaine<LINE>
-//des All Japan, je conteste cette décision.<END>
+//Mr. Referee, as captain<LINE>
+//of the All Japan, I contest this decision.<END>
 
-//Je ne conteste pas la faute en elle-même…<END>
+//I'm not contesting the foul itself...<END>
 
-//Je ne reviendrai pas sur ma décision!<LINE>
-//Compris?<END>
+//I won't change my decision!<LINE>
+//Understood?<END>
 
-//Mais, c'est injuste!<END>
+//But, it's unfair!<END>
 
-//*coup de sifflet*<END>
+//whistle blows<END>
 
-//Oh! Un autre carton jaune!<END>
+//Oh! Another yellow card!<END>
 
-//Le capitaine des All Japan, Tsubasa,<LINE>
-//reçoit un carton jaune!<END>
+//The captain of the All Japan, Tsubasa,<LINE>
+//receives a yellow card!<END>
 
-//C'est une décision sévère de la part de<LINE>
-//l'arbitre! Mais celle-ci semble être<LINE>
-//accueillie par le public français.<END>
+//This is a severe decision from the<LINE>
+//referee! But it seems to be<LINE>
+//welcomed by the French audience.<END>
 
-//Tsubasa... Si tu te fais expulser aussi,<LINE>
-//nous n'aurons plus aucune chance.<END>
+//Tsubasa... If you also get expelled,<LINE>
+//we will have no chance.<END>
 
-//Souda se rétracte et quitte le terrain.<LINE>
-//C'est un coup dur pour le Japon!<END>
+//Souda retracts and leaves the field.<LINE>
+//It's a tough blow for Japan!<END>
 
-//Elle Cid Pierre, le capitaine français,<LINE>
-//se positionne pour tirer le penalty.<END>
+//Elle Cid Pierre, the French captain,<LINE>
+//positions himself to take the penalty.<END>
 
-//Je dois l'arrêter pour Souda!<END>
+//I have to stop it for Souda!<END>
 
-//Pierre s'élance!<END>
+//Pierre runs up!<END>
 
-//C'est entre lui et Wakashimazu!<END>
+//It's between him and Wakashimazu!<END>
 
 //Urgh!<END>
 
-//Buuuuuuuuuuuuuuuuuuut!<LINE>
-//Wakashimazu n'a pas pu réagir à temps<LINE>
-//et Pierre concrétise le penalty !<END>
+//Gooooooal!<LINE>
+//Wakashimazu couldn't react in time<LINE>
+//and Pierre converts the penalty!<END>
 
-//… mais elle était involontaire!<LINE>
-//Veuillez revenir sur votre décision<LINE>
-//d'expulsion!<END>
+//... but it was unintentional!<LINE>
+//Please reconsider your decision<LINE>
+//to expel Souda!<END>
 

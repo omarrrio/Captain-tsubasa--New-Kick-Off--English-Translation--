@@ -1,125 +1,125 @@
 // FILE: EP1456.str containing 44 strings
 
-//Misaki fait une passe en direction de Hyuga<LINE>
-//devant le but!<END>
+//Misaki makes a pass towards Hyuga<LINE>
+//in front of the goal!<END>
 
 //Kojiro!<END>
 
-//N-non!<END>
+//N-no!<END>
 
-//C'est bon! Je vais marquer le but<LINE>
-//de la victoire!<END>
+//It's good! I'm going to score the<LINE>
+//winning goal!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Oh non! Le ballon est stoppé<LINE>
-//par une flaque d'eau!<LINE>
-//Hyuga ne va pas pouvoir tirer!<END>
+//Oh no! The ball is stopped<LINE>
+//by a puddle of water!<LINE>
+//Hyuga won't be able to shoot!<END>
 
-//Quelle chance pour la France!<END>
+//What luck for France!<END>
 
-//Ouf, on l'a échappé belle.<END>
+//Phew, we dodged a bullet.<END>
 
-//Napoléon récupère le ballon.<END>
+//Napoleon recovers the ball.<END>
 
-//Pierre, à nous de jouer!<LINE>
-//Les dieux du football sont avec nous!<END>
+//Pierre, it's our turn!<LINE>
+//The football gods are with us!<END>
 
-//Napoléon!<END>
+//Napoleon!<END>
 
-//C'est parti pour l'Attaque Eiffel!<END>
+//Here comes the Eiffel Attack!<END>
 
-//L'Attaque Eiffel? C'est une sorte<LINE>
-//de technique aérienne comme la nôtre?<END>
+//The Eiffel Attack? Is that some sort<LINE>
+//of aerial technique like ours?<END>
 
-//Non, on dirait pas!<END>
+//No, it doesn't seem like it!<END>
 
-//La France fonce vers les buts japonais<LINE>
-//avec un jeu de passes impressionnant!<END>
+//France charges towards the Japanese goal<LINE>
+//with an impressive passing game!<END>
 
-//Ce sont des enchaînements d’une-deux<LINE>
-//entre Napoléon et Pierre!<END>
+//It's a series of one-two passes<LINE>
+//between Napoleon and Pierre!<END>
 
-//Ce jeu de passes est bâti sur le modèle<LINE>
-//architectural de la Tour Eiffel,<LINE>
-//ce qui lui a valu le nom d'Attaque Eiffel.<END>
+//This passing game is built on the<LINE>
+//architectural model of the Eiffel Tower,<LINE>
+//which is why it's called the Eiffel Attack.<END>
 
-//Il faut se mettre en travers!<END>
+//We need to get in their way!<END>
 
-//Il faut intercepter la passe!<END>
+//We need to intercept the pass!<END>
 
-//Impressionnant!<LINE>
-//Pierre fait une passe en hauteur<LINE>
-//qui passe par-dessus la tête du défenseur!<LINE>
-//On voit bien là qu'il ne suffit pas<LINE>
-//de se mettre entre eux!<END>
+//Impressive!<LINE>
+//Pierre makes a high pass<LINE>
+//that goes over the defender's head!<LINE>
+//It's clear that just getting in their way<LINE>
+//isn't enough!<END>
 
-//La distance entre leurs passes se resserre.<END>
+//The distance between their passes is getting closer.<END>
 
-//Je dois les arrêter!<END>
+//I have to stop them!<END>
 
-//Là!<END>
+//There!<END>
 
-//Misaki effectue un tacle au moment où<LINE>
-//Pierre reçoit le ballon de Napoléon.<END>
+//Misaki makes a tackle just as<LINE>
+//Pierre receives the ball from Napoleon.<END>
 
-//Oh! Pierre reprend le ballon du gauche<LINE>
-//et non du droit!<LINE>
-//Misaki rate son tacle!<END>
+//Oh! Pierre takes the ball with his left<LINE>
+//foot instead of his right!<LINE>
+//Misaki misses his tackle!<END>
 
-//Le jeu de passes atteint maintenant<LINE>
-//le sommet de cette tour imaginaire!<LINE>
-//On assiste à un jeu de passes courtes<LINE>
-//entre les deux joueurs!<END>
+//The passing game has now reached<LINE>
+//the top of this imaginary tower!<LINE>
+//We are witnessing a game of short passes<LINE>
+//between the two players!<END>
 
-//Il ne reste plus que Misugi en défense!<END>
+//Only Misugi remains in defense!<END>
 
-//J'ai dit à Tsubasa que je m'occupais<LINE>
-//de la défense! Je dois les arrêter!<END>
+//I told Tsubasa that I would take care<LINE>
+//of the defense! I have to stop them!<END>
 
-//Misugi fonce sur Pierre!<END>
+//Misugi charges at Pierre!<END>
 
-//Les deux joueurs touchent le ballon<LINE>
-//en même temps!<LINE>
-//La balle est projetée dans les airs!<END>
+//Both players touch the ball<LINE>
+//at the same time!<LINE>
+//The ball is thrown up into the air!<END>
 
-//Pierre retourne le ballon vers Napoléon<LINE>
-//à l'aide d'une superbe tête!<END>
+//Pierre returns the ball to Napoleon<LINE>
+//with a superb header!<END>
 
 //Rhaaa!<END>
 
-//Un contre un!<LINE>
-//Wakashimazu sort des cages sans hésiter!<END>
+//One-on-one!<LINE>
+//Wakashimazu comes out of the goal without hesitation!<END>
 
-//Napoléon, tire!<END>
+//Napoleon, shoot!<END>
 
-//D'accord!<END>
+//Okay!<END>
 
-//Napoléon s'apprête à tirer,<LINE>
-//mais Wakashimazu plonge sur le ballon.<END>
+//Napoleon is about to shoot,<LINE>
+//but Wakashimazu dives onto the ball.<END>
 
 //Tégatana defense!<END>
 
 //Arghhhhhh!<END>
 
-//Napoléon frappe un puissant Canon shoot!<LINE>
-//Le ballon est dévié par Wakashimazu,<LINE>
-//mais pas assez et fonce droit<LINE>
-//vers les buts japonais!<END>
+//Napoleon strikes a powerful Cannon Shoot!<LINE>
+//The ball is deflected by Wakashimazu,<LINE>
+//but not enough and heads straight<LINE>
+//toward the Japanese goal!<END>
 
-//Ohhhhhhhh! Wakashimazu a réussi à dévier<LINE>
-//la balle sur la barre transversale!<END>
+//Ohhhhhhhh! Wakashimazu managed to deflect<LINE>
+//the ball onto the crossbar!<END>
 
-//Je vais marquer!<LINE>
-//L'Attaque Eiffel est imparable!<END>
+//I'm going to score!<LINE>
+//The Eiffel Attack is unstoppable!<END>
 
-//Oh! La balle est toujours en jeu<LINE>
-//et Pierre la reprend d'une magnifique<LINE>
-//reprise de volée aérienne!<END>
+//Oh! The ball is still in play<LINE>
+//and Pierre takes it back with a magnificent<LINE>
+//airborne volley!<END>
 
-//Buuuuuuuuuuuuuut!<LINE>
-//La défense japonaise n'a pas su venir<LINE>
-//à bout de l'Attaque Eiffel!<END>
+//Gooooooal!<LINE>
+//The Japanese defense couldn't withstand<LINE>
+//the Eiffel Attack!<END>
 
-//Oui!<END>
+//Yes!<END>
 

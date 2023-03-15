@@ -1,155 +1,153 @@
 // FILE: EP1457.str containing 49 strings
 
-//Nous allons maintenant assister<LINE>
-//à la séance de tirs au but.<END>
+//We are now about to witness<LINE>
+//the penalty shootout.<END>
 
-//Les tirs au but vont décider de laquelle<LINE>
-//des deux équipes ira en finale.<END>
+//The penalty shootout will decide which<LINE>
+//of the two teams will go to the final.<END>
 
-//C'est Pierre, le capitaine de la France,<LINE>
-//qui va tirer en premier!<END>
+//It's Pierre, the captain of France,<LINE>
+//who will take the first penalty kick!<END>
 
-//Voilà le gardien du Japon, Wakashimazu.<END>
+//Here comes Japan's goalkeeper, Wakashimazu.<END>
 
-//Wakashimazu est un spécialiste<LINE>
-//des tirs au but. On peut se demander<LINE>
-//si ses réflexes seront toujours aussi vifs<LINE>
-//avec la fatigue et sa blessure<LINE>
-//à la main droite...<END>
+//Wakashimazu is a specialist<LINE>
+//in penalty shootouts. One might wonder<LINE>
+//if his reflexes will still be as sharp<LINE>
+//with fatigue and his injury<LINE>
+//to his right hand...<END>
 
-//Buuuuuuuuuuut!<LINE>
-//C'était un tir puissant!<LINE>
-//Wakashimazu n'avait aucune chance<LINE>
-//de l'arrêter!<END>
+//Gooooooooal!<LINE>
+//It was a powerful shot!<LINE>
+//Wakashimazu had no chance<LINE>
+//to stop it!<END>
 
-//La France entame bien les tirs au but.<LINE>
-//Qui va tirer pour le Japon maintenant?<END>
+//France has started the penalty shootout well.<LINE>
+//Who will take the next penalty kick for Japan?<END>
 
-//Oh! Ça va être Hyuga!<END>
+//Oh! It's going to be Hyuga!<END>
 
-//L'attaquant vedette du Japon, Hyuga,<LINE>
-//endosse la responsabilité de tirer<LINE>
-//en premier.<END>
+//Japan's star striker, Hyuga,<LINE>
+//is taking the responsibility of taking<LINE>
+//the first penalty kick.<END>
 
-//Tous les spectateurs sont derrière<LINE>
-//le gardien français, Amoro.<END>
+//All the spectators are behind<LINE>
+//the French goalkeeper, Amoro.<END>
 
-//Ils espèrent vraiment voir la France<LINE>
-//en finale.<END>
+//They really hope to see France<LINE>
+//in the final.<END>
 
-//Hyuga, ne te laisse pas déconcentrer<LINE>
-//par la foule. Fais ce que tu as à faire!<END>
+//Hyuga, don't let the crowd distract you.<LINE>
+//Do what you have to do!<END>
 
-//Je sais.<END>
+//I know.<END>
 
-//Merci, Tsubasa.<LINE>
-//Tu as toujours les mots qu'il faut.<END>
+//Thanks, Tsubasa.<LINE>
+//You always know the right words to say.<END>
 
-//Hyuga marque sans sourciller!<LINE>
-//Il démontre encore une fois que le Japon<LINE>
-//est déterminé à gagner ce match.<END>
+//Hyuga scores without hesitation!<LINE>
+//He once again demonstrates that Japan<LINE>
+//is determined to win this match.<END>
 
-//La France et le Japon ont chacun marqué<LINE>
-//un but.<END>
+//France and Japan have both scored<LINE>
+//one goal each.<END>
 
-//C'est au tour des deuxièmes tireurs.<END>
+//It's now the turn of the second penalty takers.<END>
 
-//Le Français Bossis et le Japonais<LINE>
-//Matsuyama marquent tous les deux!<END>
+//Both Frenchman Bossis and Japan's<LINE>
+//Matsuyama score!<END>
 
-//Ferreri et Misaki font également leur part<LINE>
-//du boulot!<END>
+//Ferreri and Misaki also do their job<LINE>
+//with ease!<END>
 
-//Pareil pour Rust et Misugi<LINE>
-//qui marquent sans problème!<END>
+//Same for Rust and Misugi<LINE>
+//who score without any trouble!<END>
 
-//Et maintenant place aux cinquièmes tireurs…<LINE>
-//C'est Napoléon qui va tirer pour la France<LINE>
-//et très probablement Tsubasa pour le Japon.<END>
+//And now it's time for the fifth penalty takers…<LINE>
+//It's Napoléon who will take the penalty kick for France<LINE>
+//and most likely Tsubasa for Japan.<END>
 
-//Si les deux équipes ne se départagent pas,<LINE>
-//on entrera dans la phase de mort subite.<END>
+//If both teams don't separate,<LINE>
+//we will enter into sudden death.<END>
 
-//Place au buteur vedette de la France,<LINE>
+//Here comes France's star striker,<LINE>
 //Louis Napoléon.<END>
 
-//Hé, le gardien! Tu as beau m'avoir empêché<LINE>
-//de réaliser mon troisième coup du chapeau<LINE>
-//en trois matchs d'affilée...<END>
+//Hey, goalkeeper! You may have prevented me<LINE>
+//from scoring my third hat trick<LINE>
+//in three consecutive matches...<END>
 
-//Mais, tu ne m'empêcheras pas de devenir<LINE>
-//le meilleur buteur de la compétition!<LINE>
-//J'ai deux buts de retard sur Schneider,<LINE>
-//mais je les rattraperai sans problème<LINE>
-//pendant la finale de demain!<END>
+//But you won't stop me from becoming<LINE>
+//the top scorer of the competition!<LINE>
+//I'm two goals behind Schneider,<LINE>
+//but I'll catch up easily<LINE>
+//during tomorrow's final!<END>
 
-//Tout ce qui m'importe maintenant, c'est<LINE>
-//de remporter ce match, remporter le tournoi<LINE>
-//demain, et puis obtenir le titre<LINE>
-//de meilleur buteur de la compétition!<END>
+//All that matters to me now is<LINE>
+//to win this match, win the tournament<LINE>
+//tomorrow, and then get the title<LINE>
+//of the competition's top scorer!<END>
 
-//Je t'en veux pour le coup du chapeau, mais<LINE>
-//je vais me venger en marquant ce penalty.<END>
+//I'm mad at you for the hat trick, but<LINE>
+//I'll take revenge by scoring this penalty.<END>
 
-//J'ai une chance sur deux.<LINE>
-//Je vais à nouveau plonger à droite,<LINE>
-//peu importe ma blessure!<LINE>
-//Misugi, lui, a mis sa vie en jeu,<LINE>
-//ma blessure n'est rien comparé à ça!<END>
+//I have a 50-50 chance.<LINE>
+//I'll dive to the right again,<LINE>
+//regardless of my injury!<LINE>
+//Misugi put his life on the line,<LINE>
+//my injury is nothing compared to that!<END>
 
-//Je vais réduire cette main droite<LINE>
-//en miettes!<END>
+//I'll smash this right hand<LINE>
+//to pieces!<END>
 
-//Prends ça! Canon shoot!<END>
+//Take that! Cannon shoot!<END>
 
-//On va voir ça!<END>
+//We'll see about that!<END>
 
 //Shoken defense!<END>
 
-//Oh! Il a arrêté le penalty!<END>
+//Oh! He stopped the penalty!<END>
 
-//Wakashimazu a arrêté le Canon shoot<LINE>
-//de Napoléon grâce à son coup de poing!<END>
+//Wakashimazu stopped the Canon shot<LINE>
+//from Napoleon with his fist!<END>
 
-//Qu-quoi?<END>
+//W-what?<END>
 
-//Vous avez vu? Je l'ai arrêté!<END>
+//Did you see? I stopped it!<END>
 
-//Super arrêt, Wakashimazu!<END>
+//Great save, Wakashimazu!<END>
 
-//Bien joué, Wakashimazu!<END>
+//Well played, Wakashimazu!<END>
 
-//Le gardien karatéka, Ken Wakashimazu,<LINE>
-//a sans doute été l'homme du match!<END>
+//The karate goalkeeper, Ken Wakashimazu,<LINE>
+//was probably the man of the match!<END>
 
-//Mon poignet droit est fini…<LINE>
-//Je compte sur toi, Tsubasa!<END>
+//My right wrist is finished...<LINE>
+//I'm counting on you, Tsubasa!<END>
 
-//Le 5e tireur des All Japan n'est autre<LINE>
-//que leur capitaine, Tsubasa Ozora.<END>
+//The 5th shooter for All Japan is none other<LINE>
+//than their captain, Tsubasa Ozora.<END>
 
-//Bien joué, Wakashimazu.<LINE>
-//Ton sacrifice ne sera pas inutile.<LINE>
-//Je réalise bien que tu ne récupéreras pas<LINE>
-//aussi rapidement de ta blessure.<END>
+//Well played, Wakashimazu.<LINE>
+//Your sacrifice won't be in vain.<LINE>
+//I realize that you won't recover<LINE>
+//from your injury as quickly.<END>
 
-//Si Tsubasa marque, le Japon se retrouvera<LINE>
-//en finale demain!<END>
+//If Tsubasa scores, Japan will<LINE>
+//reach the final tomorrow!<END>
 
-//Toute la France prie pour que Tsubasa<LINE>
-//rate son penalty...<END>
+//All of France is praying for Tsubasa<LINE>
+//to miss his penalty...<END>
 
-//Tsubasa s'élance...<END>
+//Tsubasa is running up to the ball...<END>
 
-//Buuuuuuuuuuut!<LINE>
-//Tsubasa a marqué le but de la victoire!<END>
+//Goooooooooal!<LINE>
+//Tsubasa has scored the winning goal!<END>
 
-//C'est aux tirs au but que<LINE>
-//le Japon remporte sa place<LINE>
-//pour la finale!<END>
+//Japan wins their spot in the<LINE>
+//finals through a penalty shootout!<END>
 
 //Tsubasa!<END>
 
-//On a gagné! Wakashimazu, on a gagné<LINE>
-//grâce à toi!<END>
-
+//We won! Wakashimazu, we won<LINE>
+//thanks to you!<END>
