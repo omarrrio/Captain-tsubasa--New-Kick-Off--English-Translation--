@@ -80,7 +80,7 @@
 
 //Hum...<END>
 
-//Hein?<END>
+//Huh?<END>
 
 //Capitaine, qu'est-ce que tu fais?<LINE>
 //Dépêche-toi!<END>

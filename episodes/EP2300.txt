@@ -22,7 +22,7 @@
 //et ce jusqu'à la fin du tournoi,<LINE>
 //je te nomme capitaine de l'équipe.<END>
 
-//Hein?<END>
+//Huh?<END>
 
 //Compris?<END>
 
@@ -49,7 +49,7 @@
 
 //Et Hyuga, entraîneur?<END>
 
-//Hein?<END>
+//Huh?<END>
 
 //Ça va aller.<LINE>
 //J'ai vu les gars de l'autre équipe<LINE>
