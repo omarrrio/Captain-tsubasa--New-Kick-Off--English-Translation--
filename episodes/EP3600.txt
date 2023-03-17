@@ -1,6 +1,6 @@
 // FILE: EP3600.str containing 44 strings
 
-//Ce bandeau que Fujisawa a confectionné <LINE>
+//Ce bandeau que Fujisawa a confectionné<LINE>
 //m'a permis de continuer à jouer<LINE>
 //sur le terrain malgré la fatigue.<END>
 
@@ -10,7 +10,7 @@
 
 //En caractères si petits qu'on peine<LINE>
 //à les voir...<LINE>
-//"I love you" brodé en blanc <LINE>
+//"I love you" brodé en blanc<LINE>
 //sur une étoffe blanche!<END>
 
 //Qu'est-ce que c'est, capitaine?<END>
@@ -68,7 +68,7 @@
 //Félicitations pour ta victoire, Matsuyama.<END>
 
 //Oh, merci.<LINE>
-//On a pu gagner grâce aux bandeaux <LINE>
+//On a pu gagner grâce aux bandeaux<LINE>
 //que tu nous as confectionnés.<END>
 
 //Désolée d'être partie sans rien dire.<END>
@@ -81,14 +81,14 @@
 
 //Matsuyama, tu joues toujours<LINE>
 //si dangereusement.<LINE>
-//Personne ne se blesse autant que toi... <END>
+//Personne ne se blesse autant que toi...<END>
 
 //Héhéhé…<LINE>
 //Tu devrais plutôt dire que je joue<LINE>
 //avec dynamisme!<END>
 
 //Maintiens la pression là,<LINE>
-//pendant un moment... <END>
+//pendant un moment...<END>
 
 //Merci, Fujisawa.<END>
 

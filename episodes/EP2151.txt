@@ -1,50 +1,50 @@
 // FILE: EP2151.str containing 12 strings
 
-//Hyuga marque son troisième but<LINE>
-//de la journée, faisant ainsi<LINE>
-//un coup du chapeau!<END>
+//Hyuga scores his third goal<LINE>
+//of the day, completing a<LINE>
+//hat-trick!<END>
 
-//Hyuga Kojiro n'est pas l'un des meilleurs<LINE>
-//buteurs du pays pour rien.<LINE>
-//C'est un élément essentiel<LINE>
-//de Toho Gakuen!<END>
+//Hyuga Kojiro is one of the best<LINE>
+//scorers in the country for a reason.<LINE>
+//He is an essential player<LINE>
+//for Toho Gakuen!<END>
 
-//Beau tir, Hyuga!<END>
+//Nice shot, Hyuga!<END>
 
-//De son côté, Musashi est en mauvaise<LINE>
-//posture après avoir encaissé<LINE>
-//un troisième but malgré une stratégie<LINE>
-//misant tout sur la défense!<END>
+//On the other side, Musashi is in a<LINE>
+//bad position after conceding<LINE>
+//a third goal despite a strategy<LINE>
+//that relied solely on defense!<END>
 
-//Faites-moi jouer, entraîneur!<END>
+//Let me play, coach!<END>
 
-//Non, Misugi, tu entres<LINE>
-//en deuxième mi-temps.<END>
+//No, Misugi, you'll come in<LINE>
+//in the second half.<END>
 
-//S'ils continuent à marquer des points,<LINE>
-//nous allons finir par perdre.<LINE>
-//Donnez-moi 30 minutes.<LINE>
-//Je vous en prie, faites-moi entrer<LINE>
-//sur le terrain, entraîneur!<END>
+//If they keep scoring,<LINE>
+//we're going to end up losing.<LINE>
+//Give me 30 minutes.<LINE>
+//Please, put me in the game,<LINE>
+//coach!<END>
 
-//Musashi remplace un joueur!<LINE>
-//Le numéro 14, Misugi, entre<LINE>
-//sur le terrain!<END>
+//Musashi substitutes a player!<LINE>
+//Number 14, Misugi, comes<LINE>
+//onto the field!<END>
 
 //!!<END>
 
-//Musashi, qui est menée de 3 points,<LINE>
-//se réveille en envoyant l'artillerie lourde<LINE>
-//avec Misugi. Il était pourtant prévu<LINE>
-//qu'il n'entre qu'à la deuxième mi-temps.<END>
+//Musashi, who is trailing by 3 points,<LINE>
+//wakes up by sending in heavy artillery<LINE>
+//with Misugi. It was planned<LINE>
+//for him to only come in during the second half.<END>
 
-//Ils ne comptent pas laisser<LINE>
-//à Toho Gakuen une autre chance<LINE>
-//de marquer des points!<LINE>
-//Musashi fait preuve d'audace en changeant<LINE>
-//de stratégie!<END>
+//They're not going to give<LINE>
+//Toho Gakuen another chance<LINE>
+//to score points!<LINE>
+//Musashi shows audacity by changing<LINE>
+//their strategy!<END>
 
-//Tu arrives trop tard, Misugi.<LINE>
-//Ton équipe ne peut pas nous battre.<LINE>
-//Et ta présence n'y changera rien.<END>
+//You're too late, Misugi.<LINE>
+//Your team can't beat us.<LINE>
+//And your presence won't change that.<END>
 

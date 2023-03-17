@@ -14,10 +14,10 @@
 //Oh! Il a exploité une faille<LINE>
 //dans la défense du gardien Kato!<LINE>
 //Celui-ci n'a rien pu faire<LINE>
-//pour arrêter le tir! <END>
+//pour arrêter le tir!<END>
 
 //But!<LINE>
-//Le tir agressif de Hyuga a donné un but <LINE>
+//Le tir agressif de Hyuga a donné un but<LINE>
 //à Toho Gakuen!<END>
 
 //Mince. Ce n'est pas possible,<LINE>

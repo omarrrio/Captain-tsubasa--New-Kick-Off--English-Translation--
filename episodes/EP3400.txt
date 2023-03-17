@@ -8,7 +8,7 @@
 
 //Mais... pour ce qui est du jeu collectif,<LINE>
 //aucune équipe n'arrive à la cheville<LINE>
-//de Furano! <END>
+//de Furano!<END>
 
 //Il faut que Matsuyama et Furano<LINE>
 //gagnent ce match.<END>
@@ -26,7 +26,7 @@
 
 //Nankatsu est un adversaire coriace…<LINE>
 //Et même si Tsubasa Ozora est blessé,<LINE>
-//il reste un joueur clé.  <END>
+//il reste un joueur clé. <END>
 
 //Si vous pouvez arrêter Tsubasa,<LINE>
 //tout ira bien pour nous.<LINE>
@@ -37,7 +37,7 @@
 
 //Bien!<LINE>
 //N'oubliez pas votre boisson énergétique,<LINE>
-//et au travail! <END>
+//et au travail!<END>
 
 //Oui, entraîneur!<END>
 

@@ -1,68 +1,68 @@
 // FILE: EP2103.str containing 22 strings
 
-//Oh! L'arbitre vient de siffler<LINE>
-//la fin du match. Toho Gakuen se qualifie<LINE>
-//pour le championnat national<LINE>
-//pour la troisième année consécutive!<END>
+//Oh! The referee just blew<LINE>
+//the end of the match. Toho Gakuen qualifies<LINE>
+//for the national championship<LINE>
+//for the third consecutive year!<END>
 
-//Nous avons gagné!<END>
+//We won!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//Le championnat national.<LINE>
-//On s'y verra, Tsubasa!<END>
+//The national championship.<LINE>
+//We'll see each other there, Tsubasa!<END>
 
-//On y était presque, Misugi.<END>
+//We were close, Misugi.<END>
 
-//Oui...<END>
+//Yes...<END>
 
-//En trois ans, je n'ai pas affronté<LINE>
-//Tsubasa une seule fois.<END>
+//In three years, I haven't faced<LINE>
+//Tsubasa even once.<END>
 
-//Très bien!<END>
+//All right!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Entraîneur Kira!<END>
+//Coach Kira!<END>
 
-//Kojiro, tu t'es ramolli<LINE>
-//depuis la dernière fois que je t'ai vu!<END>
+//Kojiro, you've gone soft<LINE>
+//since the last time I saw you!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//On dirait un tigre en cage!<END>
+//You look like a caged tiger!<END>
 
-//Un tigre en cage?<END>
+//A caged tiger?<END>
 
-//Oui. Toute ton attention était tournée<LINE>
-//vers Misugi, même lorsque<LINE>
-//tu étais sur le terrain.<END>
+//Yes. All your attention was focused<LINE>
+//on Misugi, even when<LINE>
+//you were on the field.<END>
 
-//Je ne me souviens pas t'avoir appris<LINE>
-//à jouer comme ça.<END>
+//I don't remember teaching you<LINE>
+//to play like that.<END>
 
-//Kojiro! Avant d'entrer sur le terrain,<LINE>
-//tu dois laisser tes sentiments<LINE>
-//aux vestiaires. Tu dois garder<LINE>
-//la tête froide!<END>
+//Kojiro! Before you step onto the field,<LINE>
+//you have to leave your emotions<LINE>
+//in the locker room. You have to keep<LINE>
+//a cool head!<END>
 
-//Si tu ne changes pas d'attitude,<LINE>
-//Takeshi, Wakashimazu et les autres<LINE>
-//qui te vénèrent et t'ont suivi à Toho,<LINE>
-//te laisseront tomber.<END>
+//If you don't change your attitude,<LINE>
+//Takeshi, Wakashimazu and the others<LINE>
+//who worship and followed you to Toho,<LINE>
+//will abandon you.<END>
 
-//Tsubasa Ozora s'entraîne<LINE>
-//sans relâche pour réaliser son rêve.<LINE>
-//Tu risques de passer à côté <LINE>
-//de la chance de ta vie.<END>
+//Tsubasa Ozora trains tirelessly<LINE>
+//to realize his dream.<LINE>
+//You risk missing out<LINE>
+//on the chance of a lifetime.<END>
 
-//Je travaille comme entraîneur<LINE>
-//dans une école de football d'Okinawa.<END>
+//I work as a coach<LINE>
+//at a football school in Okinawa.<END>
 
-//Si tu ne veux pas passer une troisième<LINE>
-//année, voire une quatrième si tu comptes<LINE>
-//l'école primaire, à perdre du terrain<LINE>
-//face à Tsubasa, viens me voir.<END>
+//If you don't want to spend a third<LINE>
+//year, or even a fourth if you count<LINE>
+//elementary school, losing ground<LINE>
+//to Tsubasa, come see me.<END>
 
 //...<END>
 

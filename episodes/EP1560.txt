@@ -1,97 +1,97 @@
 // FILE: EP1560.str containing 35 strings
 
-//Le ballon sera toujours mon ami.<END>
+//The ball will always be my friend.<END>
 
-//Je dois envoyer cet ami à mon partenaire,<LINE>
-//Tsubasa, qui a confiance en moi, et qui<LINE>
-//court seul vers les buts allemands.<LINE>
-//C'est pour ça qu'on forme la paire en or.<END>
+//I have to send this friend to my partner,<LINE>
+//Tsubasa, who trusts me, and who<LINE>
+//runs alone towards the German goal.<LINE>
+//That's why we make the golden pair.<END>
 
-//C'est un tacle appuyé des Allemands!<LINE>
-//Ils essaient de l'empêcher de centrer!<END>
+//It's a strong tackle from the Germans!<LINE>
+//They're trying to prevent him from crossing!<END>
 
-//À toi de jouer!<END>
+//It's your turn to play!<END>
 
-//Misaki est touché par le tacle<LINE>
-//mais arrive quand même à centrer!<END>
+//Misaki is hit by the tackle<LINE>
+//but still manages to cross!<END>
 
-//Le buteur vedette des All Japan Jr. Youth,<LINE>
-//Kojiro Hyuga, court à la réception!<END>
+//The star striker of All Japan Jr. Youth,<LINE>
+//Kojiro Hyuga, is running to receive it!<END>
 
-//Bien!<END>
+//Good!<END>
 
-//Je vais l'arrêter!<END>
+//I'll stop him!<END>
 
-//Oh! Il laisse passer le ballon!<END>
+//Oh! He lets the ball go through!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Hyuga a feinté la réception!<LINE>
-//Mais à qui est destinée la passe?<END>
+//Hyuga faked the reception!<LINE>
+//But who is the pass intended for?<END>
 
-//Nous nous sommes promis de devenir<LINE>
-//les meilleurs au monde…<LINE>
-//Tout repose sur toi maintenant,<LINE>
-//Capitaine Tsubasa!<END>
+//We promised each other to become<LINE>
+//the best in the world...<LINE>
+//It all depends on you now,<LINE>
+//Captain Tsubasa!<END>
 
-//Tsubasa saute pour reprendre<LINE>
-//le centre de Misaki!<LINE>
-//Il n'est pas marqué et s'apprête<LINE>
-//à faire une reprise de volée aérienne!<END>
+//Tsubasa jumps to take<LINE>
+//Misaki's cross!<LINE>
+//He's unmarked and about to<LINE>
+//do an aerial volley!<END>
 
-//Oh! Mais voilà que Schneider revient!<END>
+//Oh! But here comes Schneider!<END>
 
-//Il bloque lui-même Tsubasa<LINE>
-//par une reprise de volée!<END>
+//He blocks Tsubasa himself<LINE>
+//with an aerial volley!<END>
 
-//Je ne vais pas renoncer!<END>
+//I won't give up!<END>
 
-//Le tir a été bloqué,<LINE>
-//mais le danger n'est pas écarté!<END>
+//The shot has been blocked,<LINE>
+//but the danger is not over!<END>
 
-//Le ballon est toujours en jeu!<END>
+//The ball is still in play!<END>
 
-//Les deux capitaines bondissent<LINE>
-//pour s'emparer du ballon qui retombe!<END>
+//The two captains jump<LINE>
+//to seize the falling ball!<END>
 
 //Aaah!<END>
 
-//Waouh! Tsubasa remporte le duel!<END>
+//Wow! Tsubasa wins the duel!<END>
 
-//Il tire avant que Schneider<LINE>
-//ait eu l'occasion de le bloquer!<END>
+//He shoots before Schneider<LINE>
+//has a chance to block it!<END>
 
-//Mueller plonge sur le ballon,<LINE>
-//mais il n'arrive pas à s'en emparer!<LINE>
-//La balle s'envole dans le ciel!<END>
+//Mueller dives on the ball,<LINE>
+//but he can't catch it!<LINE>
+//The ball flies into the sky!<END>
 
-//Qu-quoi?<END>
+//What?<END>
 
 //Drive shoot!<END>
 
-//Tsubasa a réussi à mettre de l'effet dans<LINE>
-//son tir!<END>
+//Tsubasa managed to put spin<LINE>
+//on his shot!<END>
 
-//Ce jeune homme est un génie du ballon<LINE>
-//rond! C'est le Jumping drive shoot<LINE>
-//de Tsubasa Ozora!<END>
+//This young man is a genius of the round<LINE>
+//ball! It's Tsubasa Ozora's Jumping<LINE>
+//Drive Shoot!<END>
 
-//Oh non! Son tir percute<LINE>
-//la barre transversale!<END>
+//Oh no! His shot hits<LINE>
+//the crossbar!<END>
 
-//Mais attendez! Tsubasa reprend le ballon!<END>
+//But wait! Tsubasa gets the ball back!<END>
 
-//Son tir rase le sol! C'est le Super low<LINE>
-//overhead shot de Tsubasa!<END>
+//His shot stays low! It's Tsubasa's Super<LINE>
+//Low Overhead Shot!<END>
 
-//C'est ma frappe ultime!<END>
+//This is my ultimate shot!<END>
 
-//Muller réagit à temps<LINE>
-//et plonge sur le ballon!<END>
+//Muller reacts in time<LINE>
+//and dives on the ball!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Mais la balle rebondit!<END>
+//But the ball bounces!<END>
 
-//Buuuuuuuuuut!<END>
+//Gooooooal!<END>
 

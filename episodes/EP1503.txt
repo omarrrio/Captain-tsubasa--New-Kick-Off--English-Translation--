@@ -1,23 +1,23 @@
 // FILE: EP1503.str containing 9 strings
 
-//Dans les cages du Japon, nous retrouverons<LINE>
-//aujourd'hui Genzo Wakabayashi!<END>
+//In the nets of Japan, we will find<LINE>
+//today Genzo Wakabayashi!<END>
 
-//Je compte sur toi, Wakabayashi.<END>
+//I'm counting on you, Wakabayashi.<END>
 
-//C'est la première titularisation<LINE>
-//de Wakabayashi dans ce tournoi.<END>
+//This is Wakabayashi's first start<LINE>
+//in this tournament.<END>
 
 //Wa-Wakabayashi?<END>
 
-//Wakabayashi va jouer?<END>
+//Wakabayashi is going to play?<END>
 
-//Alors tu vas vraiment jouer, hein?<END>
+//So you're really going to play, huh?<END>
 
-//Mieux vaut tard que jamais...<END>
+//Better late than never...<END>
 
-//On dirait qu'on aura l'occasion<LINE>
-//de s'affronter aujourd'hui, Wakabayashi!<END>
+//It looks like we'll have the opportunity<LINE>
+//to face each other today, Wakabayashi!<END>
 
-//Schneider, la victoire sera mienne.<END>
+//Schneider, victory will be mine.<END>
 

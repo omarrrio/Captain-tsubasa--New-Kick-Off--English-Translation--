@@ -1,57 +1,56 @@
 // FILE: EP1559.str containing 18 strings
 
-//Je l'arrêterai à tout prix!<END>
+//I will stop him at all costs!<END>
 
-//Schneider lève le ballon dans les airs!<END>
+//Schneider sends the ball soaring into the air!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Le ballon passe au-dessus de la défense<LINE>
-//japonaise! Schneider se défait de tous<LINE>
-//les défenseurs avec sang-froid!<END>
+//The ball passes over the Japanese defense!<LINE>
+//Schneider calmly eludes all of the<LINE>
+//defenders!<END>
 
-//Le voilà face au gardien!<LINE>
-//Wakabayashi est sous pression<LINE>
-//et ne peut pas se permettre de sortir<LINE>
-//de ses cages maintenant!<END>
+//Now he's facing the goalkeeper!<LINE>
+//Wakabayashi is under pressure<LINE>
+//and can't leave his goal now!<END>
 
-//Il n'y a pas d'autre moyen!<END>
+//There's no other way!<END>
 
-//Trop tôt, Wakabayashi!<LINE>
-//De cette position, le gardien doit choisir<LINE>
-//un côté pour tenter d'arrêter le tir,<LINE>
-//mais j'ai déjà deviné que tu plongerais<LINE>
-//à gauche!<END>
+//Too soon, Wakabayashi!<LINE>
+//From this position, the goalkeeper has to choose<LINE>
+//a side to try to stop the shot,<LINE>
+//but I've already guessed that you'll dive<LINE>
+//to the left!<END>
 
-//Je vais marquer le but! Fire!<END>
+//I'm going to score! Fire!<END>
 
-//Oh! Wakabayashi a recourt<LINE>
-//au Triangle Defense de Wakashimazu!<END>
+//Oh! Wakabayashi resorts<LINE>
+//to Wakashimazu's Triangle Defense!<END>
 
-//Wakabayashi plonge sur la gauche,<LINE>
-//et à l'aide du poteau il se propulse<LINE>
-//à droite!<END>
+//Wakabayashi dives to the left,<LINE>
+//then uses the post to propel himself<LINE>
+//to the right!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Il est sur la trajectoire du ballon,<LINE>
-//mais le tir est frappé à ras du sol!<END>
+//He's on the trajectory of the ball,<LINE>
+//but the shot is low to the ground!<END>
 
-//Wakabayashi s'appuie sur la barre<LINE>
-//transversale pour piquer sur le ballon!<END>
+//Wakabayashi uses the crossbar<LINE>
+//to rebound off of and make the save!<END>
 
-//Quel arrêt! Il a repoussé le tir!<END>
+//What a save! He's stopped the shot!<END>
 
-//C'est impossible!<END>
+//It's impossible!<END>
 
-//Mais il n'a pas réussi à s'emparer<LINE>
-//du ballon et Margas a flairé le coup!<END>
+//But he didn't catch<LINE>
+//the ball, and Margas smelled an opportunity!<END>
 
-//Je ne te laisserai pas marquer!<END>
+//I won't let you score!<END>
 
-//Incroyable! Wakabayashi a sauvé ses buts<LINE>
-//en reprenant le ballon et en le protégeant<LINE>
-//de son corps! Quel gardien! Quel arrêt!<LINE>
-//Genzo Wakabayashi a vraiment tout donné<LINE>
-//pour défendre les buts japonais!<END>
+//Incredible! Wakabayashi saved his goal<LINE>
+//by recovering the ball and protecting it<LINE>
+//with his body! What a goalkeeper! What a save!<LINE>
+//Genzo Wakabayashi truly gave everything<LINE>
+//to defend the Japanese goal!<END>
 

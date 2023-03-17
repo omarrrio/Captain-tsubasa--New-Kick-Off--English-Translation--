@@ -59,7 +59,7 @@
 //Sawada envoie le ballon sur le côté<LINE>
 //du terrain!<END>
 
-//C'est Sorimachi <LINE>
+//C'est Sorimachi<LINE>
 //qui le réceptionne!<END>
 
 //Parfait!<END>

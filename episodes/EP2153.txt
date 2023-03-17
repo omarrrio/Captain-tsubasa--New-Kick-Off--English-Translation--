@@ -1,77 +1,77 @@
 // FILE: EP2153.str containing 26 strings
 
-//Oh non!<END>
+//Oh no!<END>
 
-//Très bien!<END>
+//Very good!<END>
 
-//Misugi fait une passe courte<LINE>
-//vers la cage de but.<LINE>
-//Allons-nous assister à un une-deux<LINE>
-//des attaquants?<END>
+//Misugi makes a short pass<LINE>
+//towards the goal.<LINE>
+//Will we witness a one-two<LINE>
+//by the attackers?<END>
 
-//C'est parti!<END>
+//Here we go!<END>
 
-//Non! Honma opte pour une passe longue!<END>
+//No! Honma opts for a long pass!<END>
 
-//Le ballon passe juste derrière<LINE>
-//Wakashimazu! Le grand Sanada<LINE>
-//se précipite dessus!<END>
+//The ball passes just behind<LINE>
+//Wakashimazu! The tall Sanada<LINE>
+//rushes towards it!<END>
 
-//Tu es fichu!<END>
+//You're done for!<END>
 
-//Pas encore!<END>
+//Not yet!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Oh, c'est raté!<LINE>
-//Wakashimazu se dépêche de revenir<LINE>
-//et éloigne le ballon!<END>
+//Oh, it's missed!<LINE>
+//Wakashimazu hurries back<LINE>
+//and clears the ball!<END>
 
-//Ça va le faire!<END>
+//It's going to happen!<END>
 
-//Et Misugi court après le ballon<LINE>
-//renvoyé par Wakashimazu!<END>
+//And Misugi runs after the ball<LINE>
+//sent back by Wakashimazu!<END>
 
-//Quoi!<END>
+//What?!<END>
 
-//Je dois tenter ma chance<LINE>
-//avec une reprise de volée<LINE>
-//avant que Sawada ne l'attrape!<LINE>
-//Je n'ai pas le choix...<END>
+//I have to take my chance<LINE>
+//with a volley<LINE>
+//before Sawada catches it!<LINE>
+//I have no choice...<END>
 
-//Je dois y arriver!<END>
+//I have to make it!<END>
 
-//Ouah! Misugi lifte le ballon<LINE>
-//en milieu de course et s'apprête<LINE>
-//à faire un retourné acrobatique!<END>
+//Wow! Misugi lifts the ball<LINE>
+//in the middle of the run and prepares<LINE>
+//to make an acrobatic overhead kick!<END>
 
-//Le gardien de but, Wakashimazu,<LINE>
-//n'a toujours pas repris son poste!<LINE>
-//Il vient d'être pris à contre-pied!<END>
+//The goalkeeper, Wakashimazu,<LINE>
+//has still not returned to his position!<LINE>
+//He has just been caught off guard!<END>
 
-//Tu crois vraiment que je vais te laisser<LINE>
-//marquer un autre but?<END>
+//Do you really think I'm going to let you<LINE>
+//score another goal?<END>
 
-//Sérieusement?<END>
+//Seriously?<END>
 
-//Allez, en plein dans le mille!<END>
+//Come on, right in the goal!<END>
 
-//Wakashimazu plonge comme à son habitude<LINE>
-//en dehors de la cage de but!<LINE>
-//Va-t-il y arriver?<END>
+//Wakashimazu dives out of the goal<LINE>
+//as usual!<LINE>
+//Will he make it?<END>
 
-//Il échoue! Un autre but pour Musashi!<LINE>
-//Wakashimazu vient de laisser passer<LINE>
-//deux buts!<END>
+//He fails! Another goal for Musashi!<LINE>
+//Wakashimazu has just let<LINE>
+//two goals in!<END>
 
 //Grrr!<END>
 
-//Deux buts...<END>
+//Two goals...<END>
 
-//Quelle fantastique Bicyclette retournée<LINE>
-//de Misugi, et quel superbe amorti<LINE>
-//pour envoyer le ballon<LINE>
-//dans la lucarne droite du but!<END>
+//What a fantastic bicycle kick<LINE>
+//by Misugi, and what a superb control<LINE>
+//to send the ball<LINE>
+//into the top right corner of the goal!<END>
 
-//Voilà le travail!<END>
+//That's the job done!<END>
 

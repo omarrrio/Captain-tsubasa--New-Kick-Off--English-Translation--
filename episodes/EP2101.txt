@@ -1,26 +1,25 @@
 // FILE: EP2101.str containing 4 strings
 
-//Les équipes prennent possession du terrain<LINE>
-//à l'occasion du National<LINE>
-//Junior High School Tournament.<LINE>
-//L'équipe gagnante représentera<LINE>
-//le secteur de Tokyo!<END>
+//The teams take possession of the field<LINE>
+//for the National Junior High School Tournament.<LINE>
+//The winning team will represent<LINE>
+//the Tokyo area!<END>
 
-//L'équipe Toho Gakuen se qualifiera<LINE>
-//pour une troisième année de championnat<LINE>
-//si elle gagne ce match.<LINE>
-//Kojiro Hyuga, l'atout de l'équipe,<LINE>
-//est resté sur la touche jusqu'à présent,<LINE>
-//mais sa présence sur le terrain est<LINE>
-//indispensable aujourd'hui.<END>
+//Toho Gakuen will qualify<LINE>
+//for a third year of championship<LINE>
+//if they win this match.<LINE>
+//Kojiro Hyuga, the team's asset,<LINE>
+//has been on the sidelines until now,<LINE>
+//but his presence on the field is<LINE>
+//indispensable today.<END>
 
-//Musashi Junior High suit sa stratégie<LINE>
-//habituelle, en gardant Misugi<LINE>
-//en réserve jusqu'à la deuxième mi-temps,<LINE>
-//et en jouant en défense durant<LINE>
-//la première mi-temps.<END>
+//Musashi Junior High is following their usual strategy<LINE>
+//by keeping Misugi<LINE>
+//reserved until the second half,<LINE>
+//and playing defensively during<LINE>
+//the first half.<END>
 
-//Les deux équipes sont prêtes<LINE>
-//à tout donner pour obtenir le privilège<LINE>
-//de représenter Tokyo.<END>
+//Both teams are ready<LINE>
+//to give it their all to obtain the privilege<LINE>
+//of representing Tokyo.<END>
 

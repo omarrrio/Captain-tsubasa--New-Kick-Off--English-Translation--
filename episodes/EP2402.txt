@@ -26,8 +26,8 @@
 //Hyuga a été d'un grand soutien<LINE>
 //pour son équipe aujourd'hui.<END>
 
-//Si Hyuga n'avait pas encouragé <LINE>
-//son équipe si fort, nous aurions <LINE>
+//Si Hyuga n'avait pas encouragé<LINE>
+//son équipe si fort, nous aurions<LINE>
 //peut-être eu une chance de gagner.<END>
 
 //Hyuga est vraiment le meneur de jeu<LINE>

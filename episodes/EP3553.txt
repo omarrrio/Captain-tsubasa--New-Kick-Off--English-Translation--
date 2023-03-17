@@ -5,7 +5,7 @@
 //Je ne le laisserai pas passer!<END>
 
 //Matsuyama est engagé dans un duel<LINE>
-//avec Sawada! <END>
+//avec Sawada!<END>
 
 //Avec Matsuyama dans cette position,<LINE>
 //Huyga ne peut pas évoluer librement<LINE>

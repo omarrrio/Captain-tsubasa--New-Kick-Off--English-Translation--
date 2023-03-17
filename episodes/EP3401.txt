@@ -34,7 +34,7 @@
 //mais en s'y mettant tous,<LINE>
 //on devrait pouvoir en venir à bout!<END>
 
-//Le moment venu, <LINE>
+//Le moment venu,<LINE>
 //j'inscrirai un but!<END>
 
 //La seconde mi-temps va débuter<LINE>

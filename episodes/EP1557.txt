@@ -1,106 +1,105 @@
 // FILE: EP1557.str containing 39 strings
 
-//Tsubasa s'apprête à tirer!<END>
+//Tsubasa is about to shoot!<END>
 
-//Mais l'avant-centre Schneider<LINE>
-//est déjà revenu!<END>
+//But the striker Schneider<LINE>
+//has already returned!<END>
 
-//Il a dû réaliser ce qui se passait<LINE>
-//et est revenu en défense!<END>
+//He must have realized what was happening<LINE>
+//and has come back to defend!<END>
 
-//Tsubasa va pour la frappe!<LINE>
-//C'est un duel entre les deux capitaines!<END>
+//Tsubasa is going for the shot!<LINE>
+//It's a duel between the two captains!<END>
 
-//Aucun des deux joueurs ne semble vouloir<LINE>
-//lâcher prise!<END>
+//Neither player seems willing<LINE>
+//to give up!<END>
 
-//On peut réaliser l'intensité du choc<LINE>
-//entre ces deux joueurs quand on voit<LINE>
-//à quelle vitesse tourne le ballon!<END>
+//We can see the intensity of the collision<LINE>
+//between these two players when we see<LINE>
+//how fast the ball is spinning!<END>
 
-//Oh, mais Kaltz vient par-derrière<LINE>
-//et s'empare de la balle!<END>
+//Oh, but Kaltz comes from behind<LINE>
+//and takes the ball!<END>
 
-//Hein?<END>
+//What?<END>
 
-//Mais il en perd le contrôle<LINE>
-//à cause de son effet!<END>
+//But he loses control of it<LINE>
+//because of its spin!<END>
 
-//Le ballon est mon ami!<END>
+//The ball is my friend!<END>
 
-//Tsubasa récupère le ballon.<LINE>
-//Celui-ci lui colle littéralement au pied!<END>
+//Tsubasa recovers the ball.<LINE>
+//It's literally glued to his foot!<END>
 
-//Regarde, Roberto! Je vais marquer!<END>
+//Look, Roberto! I'm going to score!<END>
 
-//Non!<END>
+//No!<END>
 
-//Tsubasa s'apprête à tirer!<END>
+//Tsubasa is about to shoot!<END>
 
 //Aaah!<END>
 
-//Quoi qu'il arrive <LINE>
-//je ne te laisserai pas marquer!<END>
+//Whatever happens<LINE>
+//I won't let you score!<END>
 
-//Argh! Mon pied... Je me suis sans doute<LINE>
-//blessé pendant le choc avec Schneider<LINE>
-//tout à l'heure!<END>
+//Argh! My foot... I must have injured it<LINE>
+//during the collision with Schneider<LINE>
+//earlier!<END>
 
-//Mon tir risque de ne pas être<LINE>
-//assez puissant...<END>
+//My shot might not be<LINE>
+//powerful enough...<END>
 
-//Muller sort de ses cages! Mais pourquoi<LINE>
-//Tsubasa ne tire pas?<END>
+//Muller comes out of his goal! But why<LINE>
+//isn't Tsubasa shooting?<END>
 
-//Oh! Tsubasa va finalement tirer!<END>
+//Oh! Tsubasa is finally shooting!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Attendez, ce n'est pas un tir!<END>
+//Wait, that's not a shot!<END>
 
-//Le ballon est comme collé au pied.<LINE>
-//Il fait une rotation arrière,<LINE>
-//puis passe la balle en retrait!<LINE>
-//C'est impressionnant!<END>
+//The ball is like glued to his foot.<LINE>
+//It rotates backwards,<LINE>
+//then he passes the ball backwards!<LINE>
+//It's impressive!<END>
 
-//À toi de jouer, Hyuga!<END>
+//Your turn, Hyuga!<END>
 
-//L'avant-centre vedette du Japon,<LINE>
-//Kojiro Hyuga, est à la réception!<END>
+//Japan's star striker, Kojiro Hyuga, is receiving it!<END>
 
-//Vous allez voir!<END>
+//You'll see!<END>
 
-//Je ne peux pas gâcher cette occasion!<LINE>
-//Je vais frapper un Neo tiger shot!<END>
+//I can't waste this opportunity!<LINE>
+//I'm going to shoot a Neo Tiger Shot!<END>
 
-//Je vais tirer de toutes mes forces!<END>
+//I'm going to shoot with all my might!<END>
 
-//Je ne vais pas te laisser marquer!<END>
+//I won't let you score!<END>
 
-//Schneider, tu ferais mieux<LINE>
-//de ne pas te mettre sur mon passage,<LINE>
-//sinon tu vas te faire mal!<END>
+//Schneider, you'd better<LINE>
+//not get in my way,<LINE>
+//or you're going to get hurt!<END>
 
-//Ah... mon pied...<END>
+//Ah... my foot...<END>
 
-//Neo tiger shot!<END>
+//Neo Tiger Shot!<END>
 
-//La frappe de Hyuga passe à travers<LINE>
-//la défense de Schneider!<END>
+//Hyuga's shot goes through<LINE>
+//Schneider's defense!<END>
 
 //Aaaah!<END>
 
-//Buuuuuuuuuuuuuut!<END>
+//Goooooal!<END>
 
-//Mueller était sur le point d'arrêter<LINE>
-//le ballon, mais il n'a pas pu le retenir<LINE>
-//très longtemps! Le Neo tiger shot de Hyuga<LINE>
-//va droit dans le but!<END>
+//Mueller was about to stop<LINE>
+//the ball, but he couldn't hold it<LINE>
+//for very long! Hyuga's Neo Tiger Shot<LINE>
+//goes straight into the goal!<END>
 
-//Super tir, Hyuga!<END>
+//Great shot, Hyuga!<END>
 
-//J'ai réussi!<END>
+//I did it!<END>
 
-//C'est pour des moments comme ceux-là<LINE>
-//que je suis sur le terrain!<END>
+//It's for moments like these<LINE>
+//that I'm on the field!<END>
 

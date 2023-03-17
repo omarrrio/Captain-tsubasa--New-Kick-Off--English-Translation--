@@ -23,8 +23,8 @@
 //Izawa, profitant de son élan, a fait<LINE>
 //un plongeon de 5 mètres!<END>
 
-//Matsuyama était au coude à coude <LINE>
-//avec Tsubasa mais n'a pas réussi à <LINE>
+//Matsuyama était au coude à coude<LINE>
+//avec Tsubasa mais n'a pas réussi à<LINE>
 //lui reprendre le ballon.<LINE>
 //C'était une très belle passe pour Izawa,<LINE>
 //qui est allé au devant du ballon!<END>

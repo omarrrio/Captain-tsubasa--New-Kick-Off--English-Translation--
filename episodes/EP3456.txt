@@ -52,7 +52,7 @@
 //Je compte sur vous!<END>
 
 //Morisaki, le gardien de Nankatsu, plonge<LINE>
-//sur le ballon! <END>
+//sur le ballon!<END>
 
 //Allez!<END>
 

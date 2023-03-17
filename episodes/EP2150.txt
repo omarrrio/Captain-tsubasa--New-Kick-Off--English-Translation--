@@ -1,22 +1,22 @@
 // FILE: EP2150.str containing 7 strings
 
-//Vous avez vu ça?<LINE>
-//La solide défense de Musashi vient d'être<LINE>
-//réduite à néant par un seul homme, Sawada.<END>
+//Did you see that?<LINE>
+//Musashi's solid defense was just<LINE>
+//brought down by one man, Sawada.<END>
 
 //Hyuga!<END>
 
-//Et Sawada fait une passe!<END>
+//And Sawada makes a pass!<END>
 
 //Ragh!<END>
 
-//Hyuga plonge!<LINE>
-//Ces deux-là sont parfaitement synchronisés.<END>
+//Hyuga dives!<LINE>
+//These two are perfectly synchronized.<END>
 
-//But!<LINE>
-//Toho marque grâce à un jeu d'équipe<LINE>
-//mené à la perfection.<END>
+//Goal!<LINE>
+//Toho scores thanks to a team play<LINE>
+//executed to perfection.<END>
 
-//Ça se passe comme ça chez Toho!<LINE>
-//N'espérez pas gagner sans Misugi!<END>
+//That's how it goes at Toho!<LINE>
+//Don't hope to win without Misugi!<END>
 

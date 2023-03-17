@@ -1,46 +1,45 @@
 // FILE: EP1553.str containing 14 strings
 
-//Tête de Margas, mais celle-ci est bloquée<LINE>
-//par Jito!<END>
+//Margas heads the ball, but Jito blocks it!<END>
 
-//Les deux joueurs font jeu égal!<END>
+//Both players are evenly matched!<END>
 
-//Schneider se place comme s'il savait<LINE>
-//ce qui allait se passer!<END>
+//Schneider positions himself as if he knows<LINE>
+//what's going to happen!<END>
 
-//Sur la trajectoire du ballon<LINE>
-//et complètement démarqué,<LINE>
-//il s'apprête à faire<LINE>
-//une Bicyclette retournée!<END>
+//On the ball's trajectory<LINE>
+//and completely unmarked,<LINE>
+//he's about to perform<LINE>
+//a Bicycle Kick!<END>
 
-//Je vais l'arrêter!<LINE>
-//Je ne te laisserai pas marquer<LINE>
-//par une des spécialités de Tsubasa!<END>
+//I'll stop it!<LINE>
+//I won't let you score<LINE>
+//with one of Tsubasa's specialties!<END>
 
-//Mais attendez! Schneider ne tire pas!<END>
+//But wait! Schneider doesn't shoot!<END>
 
-//Quoi!<END>
+//What!<END>
 
-//Il a feinté le tir et retombe à terre<LINE>
-//ballon au pied!<END>
+//He faked the shot and falls to the ground<LINE>
+//with the ball still at his feet!<END>
 
-//Non! Je ne vois pas Schneider!<LINE>
-//Jito et Margas me cachent la vue!<LINE>
-//C'est donc ça qu'il prévoyait!<END>
+//No! I can't see Schneider!<LINE>
+//Jito and Margas are blocking my view!<LINE>
+//So that's what he had planned!<END>
 
-//Je vais marquer, Wakabayashi!<END>
+//I'll score, Wakabayashi!<END>
 
 //Fireeeeeeeeee!<END>
 
-//Schneider tire en pivot au moment<LINE>
-//où il revient au sol!<LINE>
-//Wakabayashi est trop lent à réagir,<LINE>
-//sans doute parce que sa vue était bloquée<LINE>
-//par Jito et Margas!<END>
+//Schneider shoots as he pivots<LINE>
+//at the moment he returns to the ground!<LINE>
+//Wakabayashi is too slow to react,<LINE>
+//likely because his view was blocked<LINE>
+//by Jito and Margas!<END>
 
 //Raah!<END>
 
-//Buuuuuuuuuuuuut!<LINE>
-//Le Fire shot de Schneider s'écrase<LINE>
-//au fond des filets japonais!<END>
+//Goooooooal!<LINE>
+//Schneider's Fire Shot crashes<LINE>
+//into the back of the Japanese net!<END>
 

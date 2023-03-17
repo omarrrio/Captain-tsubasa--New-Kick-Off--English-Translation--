@@ -1,25 +1,24 @@
 // FILE: EP1550.str containing 7 strings
 
-//Personne ne peut me subtiliser<LINE>
-//le ballon!<END>
+//No one can steal the ball from me!<END>
 
-//On va voir si les informations rassemblées<LINE>
-//par Wakabayashi sont utiles.<END>
+//Let's see if the information gathered<LINE>
+//by Wakabayashi is useful.<END>
 
-//Schester dribble gracieusement Misaki!<END>
+//Schester gracefully dribbles past Misaki!<END>
 
-//Quand le nº 10, Schester, dribble<LINE>
-//un joueur, il a tendance à le faire à 80 %<LINE>
-//par la gauche, et envoie par la suite<LINE>
-//un peu le ballon en avant!<END>
+//When the number 10, Schester, dribbles<LINE>
+//past a player, he tends to do it 80%<LINE>
+//to the left, and then sends<LINE>
+//the ball a little forward!<END>
 
-//Oh, c'est exactement comme décrit<LINE>
-//par Wakabayashi!<END>
+//Oh, it's exactly as described<LINE>
+//by Wakabayashi!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Tsubasa coupe la trajectoire de Schester<LINE>
-//après que celui-ci ait effacé Misaki!<LINE>
-//C'est comme s'il savait ce qu'il allait<LINE>
-//faire!<END>
+//Tsubasa cuts Schester's trajectory<LINE>
+//after he cleared Misaki!<LINE>
+//It's as if he knew what Schester was<LINE>
+//going to do!<END>
 

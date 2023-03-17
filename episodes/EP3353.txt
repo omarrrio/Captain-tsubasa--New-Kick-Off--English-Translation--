@@ -18,19 +18,19 @@
 //Le gardien est là pour arrêter le tir!<LINE>
 //Bien joué!<END>
 
-//Le gardien Kato a plongé! <LINE>
+//Le gardien Kato a plongé!<LINE>
 //Même sous la pression de ses adversaires,<LINE>
 //Furano ne concède aucun but!<END>
 
 //Hé, Kato! On ne va pas se laisser faire!<LINE>
 //Pas question que Furano perde<LINE>
-//contre un adversaire pareil! <END>
+//contre un adversaire pareil!<END>
 
 //Oui, capitaine!<END>
 
 //Le gardien Kato, qui vient de signer<LINE>
 //un bel arrêt, passe le ballon<LINE>
-//au capitaine Matsuyama! <END>
+//au capitaine Matsuyama!<END>
 
 //On suit le capitaine!<LINE>
 //Il a raison, on ne doit pas se laisser<LINE>

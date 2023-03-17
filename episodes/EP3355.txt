@@ -10,7 +10,7 @@
 //pour marquer!<LINE>
 //Il passe le ballon à son avant-centre Oda!<END>
 
-//Oda, à toi de marquer! <LINE>
+//Oda, à toi de marquer!<LINE>
 //Tu es l'avant-centre de Furano!<END>
 
 //C'est vrai! Allez, Oda! Tire!<LINE>
@@ -22,7 +22,7 @@
 //vous m'offrez une nouvelle chance...<END>
 
 //Si je ne marque pas de but,<LINE>
-//je n'aurai plus de fierté! <END>
+//je n'aurai plus de fierté!<END>
 
 //J'y vais!<END>
 

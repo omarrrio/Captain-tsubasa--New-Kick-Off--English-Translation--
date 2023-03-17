@@ -5,11 +5,11 @@
 //Quoi?<END>
 
 //Matsuyama gagne la bataille!<LINE>
-//Le ballon est en jeu! <END>
+//Le ballon est en jeu!<END>
 
 //Malheureusement pour Furano,<LINE>
 //le ballon est arrivé aux pieds<LINE>
-//de l'as de Nankatsu, Tsubasa! <END>
+//de l'as de Nankatsu, Tsubasa!<END>
 
 //Oui!<END>
 
@@ -20,7 +20,7 @@
 
 //Drive shoot!<END>
 
-//Tsubasa démarqué a tenté <LINE>
+//Tsubasa démarqué a tenté<LINE>
 //son Drive shoot!<END>
 
 //Argh!<END>

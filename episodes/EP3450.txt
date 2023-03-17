@@ -23,7 +23,7 @@
 //Cette fois-ci, c'est le vrai!<END>
 
 //Son premier tacle est aussitôt suivi<LINE>
-//d'un second, Matsuyama ayant pivoté! <END>
+//d'un second, Matsuyama ayant pivoté!<END>
 
 //Matsuyama reprend possession du ballon!<END>
 

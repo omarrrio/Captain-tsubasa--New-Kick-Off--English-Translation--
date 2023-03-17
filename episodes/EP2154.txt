@@ -1,112 +1,112 @@
 // FILE: EP2154.str containing 36 strings
 
-//Amène-toi, Hyuga.<LINE>
-//Si je parviens à t'arrêter,<LINE>
-//j'égalise le score.<END>
+//Come on, Hyuga.<LINE>
+//If I manage to stop you,<LINE>
+//I'll tie the score.<END>
 
-//Oui! C'est exactement ce que j'espérais.<LINE>
-//Tiens-toi prêt, Misugi!<END>
+//Yes! That's exactly what<LINE>
+//I hoped for.<LINE>
+//Get ready, Misugi!<END>
 
-//Misugi tente de bloquer le dribble<LINE>
-//de Hyuga! Hyuga cherche à conserver<LINE>
-//le ballon! Ces deux-là mènent une lutte<LINE>
-//acharnée!<END>
+//Misugi attempts to block Hyuga's<LINE>
+//dribble! Hyuga seeks to keep the ball!<LINE>
+//These two are in a fierce struggle!<END>
 
-//Hyuga parviendra-t-il à se frayer<LINE>
-//un chemin jusqu'aux buts, ou se fera-t-il<LINE>
-//voler le ballon par Misugi?<END>
+//Will Hyuga be able to make<LINE>
+//his way to the goal, or will<LINE>
+//Misugi steal the ball from him?<END>
 
-//Hyuga ne semble vraiment pas vouloir<LINE>
-//passer le ballon à un coéquipier!<END>
+//Hyuga really doesn't seem<LINE>
+//to want to pass the ball<LINE>
+//to a teammate!<END>
 
-//Je dois y arriver!<END>
+//I have to make it!<END>
 
-//Je dois...<END>
+//I have to...<END>
 
-//... l'arrêter!<END>
+//...stop him!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Que s'est-il passé? Misugi est tombé,<LINE>
-//donnant ainsi l'occasion à Hyuga<LINE>
-//de prendre le ballon!<END>
+//What happened? Misugi fell,<LINE>
+//giving Hyuga the opportunity<LINE>
+//to take the ball!<END>
 
-//Les gars!<END>
+//Hey guys!<END>
 
-//Que se passe-t-il?<END>
+//What's going on?<END>
 
-//Holà! Misugi a envoyé le ballon<LINE>
-//loin de Hyuga alors qu'il tombait!<END>
+//Hey! Misugi sent the ball<LINE>
+//far away from Hyuga as he fell!<END>
 
-//Musashi récupère le ballon perdu!<END>
+//Musashi recovers the lost ball!<END>
 
 //...<END>
 
-//Musashi passe rapidement à l'attaque,<LINE>
-//mais Misugi est toujours à terre!<END>
+//Musashi quickly launches an attack,<LINE>
+//but Misugi is still on the ground!<END>
 
-//Faites ce que dit Misugi!<LINE>
-//Nous devons agir rapidement!<END>
+//Do what Misugi says!<LINE>
+//We have to act quickly!<END>
 
-//Toho s'active en vue de bloquer<LINE>
-//l'attaque de Musashi!<END>
+//Toho is moving to block Musashi's attack!<END>
 
-//Amenez-vous, les enfants!<LINE>
-//Misugi est le seul à pouvoir marquer<LINE>
-//dans mes buts!<END>
+//Come on, kids!<LINE>
+//Misugi is the only one who can score<LINE>
+//in my goal!<END>
 
-//L'équipe de Musashi parviendra-t-elle<LINE>
-//à égaliser, ou se heurtera-t-elle<LINE>
-//à la défense de Toho?<LINE>
-//Nous allons peut-être assister<LINE>
-//à un tournant du match!<END>
+//Will Musashi's team manage<LINE>
+//to tie the game, or will they<LINE>
+//run into Toho's defense?<LINE>
+//We may be witnessing a turning<LINE>
+//point in the match!<END>
 
-//Regardez ça!<LINE>
-//Musashi fait une série<LINE>
-//de passes étourdissante!<END>
+//Look at this!<LINE>
+//Musashi makes a stunning<LINE>
+//series of passes!<END>
 
-//Chaque joueur effectue une passe<LINE>
-//par déviation!<END>
+//Each player makes a<LINE>
+//pass by deviation!<END>
 
-//Le gardien de but est Wakashimazu!<LINE>
-//Inutile de tirer de loin, ça ne passera<LINE>
-//jamais!<END>
+//The goalkeeper is Wakashimazu!<LINE>
+//There's no point in shooting<LINE>
+//from far away, it'll never make it!<END>
 
-//Approchez-vous le plus possible<LINE>
-//de la cage de but et tirez au plus près.<LINE>
-//C'est la seule façon d'y arriver!<END>
+//Get as close to the goal as<LINE>
+//possible and shoot from there.<LINE>
+//That's the only way to do it!<END>
 
-//On dirait que la ténacité de Misugi<LINE>
-//a influencé Musashi!<END>
+//It looks like Misugi's tenacity<LINE>
+//has influenced Musashi!<END>
 
-//Nous avons une ouverture!<LINE>
-//À toi de jouer, Honma!<END>
+//We have an opening!<LINE>
+//It's up to you, Honma!<END>
 
-//Ouah! Et voilà, la passe finale<LINE>
-//de Musashi!<END>
+//Wow! And there it is,<LINE>
+//Musashi's final pass!<END>
 
-//Moi, Ken Wakashimazu, je jure d'abandonner<LINE>
-//définitivement le football si je vous<LINE>
-//laisse marquer un troisième but!<END>
+//I, Ken Wakashimazu,<LINE>
+//swear to give up football forever<LINE>
+//if I let you score a third goal!<END>
 
-//Wakashimazu fonce hors de la cage,<LINE>
-//mais Honma est déjà en position de tir!<END>
+//Wakashimazu charges out of the goal,<LINE>
+//but Honma is already in shooting position!<END>
 
-//Personne ne m'empêchera de marquer ce but!<END>
+//"No one will stop me from scoring this goal!"<END>
 
-//Ouah!<END>
+//"Wow!"<END>
 
-//Quoi!<END>
+//"What!"<END>
 
-//Ouf!<END>
+//"Phew!"<END>
 
-//Wakashimazu l'a... arrêté!<END>
+//"Wakashimazu...stopped it!"<END>
 
-//Il a vu qu'une main ne suffirait pas,<LINE>
-//aussi a-t-il joint ses deux mains<LINE>
-//et sauté au bon moment<LINE>
-//pour bloquer le tir!<END>
+//"He saw that one hand wouldn't be enough,<LINE>
+//so he joined his two hands<LINE>
+//and jumped at the right moment<LINE>
+//to block the shot!"<END>
 
-//Les défenseurs de Toho n'arrivent pas<LINE>
-//à approcher du ballon!<END>
+//"The Toho defenders can't even<LINE>
+//get close to the ball!"<END>
 

@@ -4,7 +4,7 @@
 //pour lui prendre la balle!<END>
 
 //Matsuyama est difficile à battre<LINE>
-//aujourd'hui, mais cela ne veut pas dire <LINE>
+//aujourd'hui, mais cela ne veut pas dire<LINE>
 //que je dois le laisser avec le ballon!<LINE>
 //Je dois faire une passe à Hyuga!<END>
 
@@ -44,7 +44,7 @@
 //Furano se rue vers Toho!<LINE>
 //Toho peut-il bloquer cette attaque?<END>
 
-//C'est une passe rapide! <LINE>
+//C'est une passe rapide!<LINE>
 //Bloquez le ballon!<END>
 
 //Les joueurs de Toho se déploient<LINE>
@@ -55,7 +55,7 @@
 //nous avoir vus effectuer notre Avalanche!<END>
 
 //Matsuyama ne fera pas de passe!<LINE>
-//Il arme son tir!  <END>
+//Il arme son tir! <END>
 
 //Prêt, Toho?<LINE>
 //Prenez-ça!<END>

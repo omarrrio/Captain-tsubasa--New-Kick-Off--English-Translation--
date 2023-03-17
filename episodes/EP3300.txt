@@ -106,8 +106,8 @@
 
 //Mais ce n'est pas grave...<END>
 
-//Parce qu'a l'heure actuelle Matsuyama <LINE>
-//ne pense à rien d'autre qu'à gagner <LINE>
+//Parce qu'a l'heure actuelle Matsuyama<LINE>
+//ne pense à rien d'autre qu'à gagner<LINE>
 //le match.<END>
 
 //Allez, Furano!<LINE>

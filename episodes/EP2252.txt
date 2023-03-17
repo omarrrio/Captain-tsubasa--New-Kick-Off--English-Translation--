@@ -6,8 +6,8 @@
 //Matsukami parviendra-t-il à trouver<LINE>
 //une faille?<END>
 
-//Non... Inutile d'espérer briser <LINE>
-//la défense de ce gardien de but <LINE>
+//Non... Inutile d'espérer briser<LINE>
+//la défense de ce gardien de but<LINE>
 //avec un simple tir!<LINE>
 //Peut-être que...<END>
 
@@ -39,7 +39,7 @@
 
 //Hein!<END>
 
-//Ouah! Wakashimazu vient de sortir <LINE>
+//Ouah! Wakashimazu vient de sortir<LINE>
 //de la cage et a plongé sur le côté!<END>
 
 //Il a intercepté le tir<LINE>

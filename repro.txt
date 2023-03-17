@@ -430,7 +430,7 @@
 //The tale of the encounter of<LINE>
 //Shingo Aoi, young player of<LINE>
 //an unknown school who lifts on his shoulders<LINE>
-//the future of the japanese soccer, <LINE>
+//the future of the japanese soccer,<LINE>
 //and Tsubasa Ozora.<END>
 
 //The European tour begins,<LINE>

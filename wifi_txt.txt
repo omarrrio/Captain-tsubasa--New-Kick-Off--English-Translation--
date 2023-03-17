@@ -399,7 +399,7 @@
 //<END>
 
 //No response.<LINE>
-//Disconnection and returning <LINE>
+//Disconnection and returning<LINE>
 //to Nintendo Wi-Fi<LINE>
 //Connection menu.<END>
 

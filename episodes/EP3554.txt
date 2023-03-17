@@ -2,12 +2,12 @@
 
 //Furano souhaite définitivement<LINE>
 //marquer plusieurs buts!<LINE>
-//Leur objectif principal est de faire <LINE>
+//Leur objectif principal est de faire<LINE>
 //parvenir le ballon à Matsuyama.<END>
 
 //Mince! L'avant est marqué.<LINE>
 //Même si j'arrive à éviter Hyuga,<LINE>
-//il reste leur gardien Wakashimazu! <END>
+//il reste leur gardien Wakashimazu!<END>
 
 //Si je n'arrive pas à me positionner,<LINE>
 //je n'arriverai pas à marquer!<END>
@@ -52,7 +52,7 @@
 
 //Furano et Matsuyama ont marqué<LINE>
 //en donnant de l'effet au ballon<LINE>
-//grâce à une technique surprenante! <END>
+//grâce à une technique surprenante!<END>
 
 //Nous avons réussi!<END>
 

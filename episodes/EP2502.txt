@@ -21,7 +21,7 @@
 
 //La participation de Hyuga était<LINE>
 //incertaine, et c'est grâce à Sorimachi,<LINE>
-//Sawada et Wakashimazu, l'équipe a pu <LINE>
+//Sawada et Wakashimazu, l'équipe a pu<LINE>
 //accéder à la finale.<END>
 
 //Mais l'arrivée de leur atout, Hyuga,<LINE>
@@ -54,7 +54,7 @@
 //Quoi?<END>
 
 //Je ne devrais peut-être pas te dire ça,<LINE>
-//puisque je viens de ruiner <LINE>
+//puisque je viens de ruiner<LINE>
 //ton tableau d'honneur…<LINE>
 //Mais comme je te l'ai déjà dit, tu n'es pas<LINE>
 //le genre de joueurs à passer<LINE>

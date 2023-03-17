@@ -9,7 +9,7 @@
 
 //C'était un beau match, Tsubasa.<END>
 
-//Quel dommage que tu n'aies pas pu jouer <LINE>
+//Quel dommage que tu n'aies pas pu jouer<LINE>
 //au meilleur de ta forme.<LINE>
 //Certains diront que notre victoire<LINE>
 //était le fruit du hasard,<LINE>
@@ -23,7 +23,7 @@
 //si je n'avais pas été blessé.<LINE>
 //<END>
 
-//Quoi qu'il en soit, nous irons en finale. <LINE>
+//Quoi qu'il en soit, nous irons en finale.<LINE>
 //Nous remporterons le trophée national,<LINE>
 //et nous serons l'équipe qui aura empêché<LINE>
 //Nankatsu de décrocher<LINE>

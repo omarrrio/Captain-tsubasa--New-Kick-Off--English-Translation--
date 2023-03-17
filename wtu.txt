@@ -18,7 +18,7 @@
 
 //Chose the save to use.<END>
 
-//Please pick <LINE>
+//Please pick<LINE>
 //your team.<END>
 
 //Please define the rules.<END>

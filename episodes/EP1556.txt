@@ -1,28 +1,26 @@
 // FILE: EP1556.str containing 8 strings
 
-//Wakabayashi fait un long dégagement!<END>
+//Wakabayashi makes a long clearance!<END>
 
-//C'est pour Tsubasa!<END>
+//It's for Tsubasa!<END>
 
-//L'offensive japonaise commence<LINE>
-//habituellement par son capitaine,<LINE>
-//Tsubasa Ozora!<END>
+//The Japanese offensive usually starts<LINE>
+//with their captain, Tsubasa Ozora!<END>
 
-//Roberto, j'ai enfin compris<LINE>
-//ce que tu as écrit à la page 52!<END>
+//Roberto, I finally understand<LINE>
+//what you wrote on page 52!<END>
 
-//M. Katagiri avait déjà jeté un œil<LINE>
-//au manuel de Roberto, mais je ne pense pas<LINE>
-//qu'il se rappelle exactement du contenu<LINE>
-//des pages...<END>
+//Mr. Katagiri had already taken a look<LINE>
+//at Roberto's manual, but I don't think<LINE>
+//he remembers exactly what was on the pages...<END>
 
-//Roberto doit être dans le stade!<LINE>
-//Au lieu de retourner au Brésil,<LINE>
-//il est resté ici pour me voir jouer!<LINE>
-//J'en suis sûr!<END>
+//Roberto must be in the stadium!<LINE>
+//Instead of going back to Brazil,<LINE>
+//he stayed here to watch me play!<LINE>
+//I'm sure of it!<END>
 
-//La page 52 du manuel de Roberto... C'était<LINE>
-//à propos de la joie de jouer au foot!<END>
+//Page 52 of Roberto's manual... It was<LINE>
+//about the joy of playing football!<END>
 
-//Yahou! Roberto!<END>
+//Yahoo! Roberto!<END>
 

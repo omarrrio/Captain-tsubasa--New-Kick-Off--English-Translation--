@@ -9,7 +9,7 @@
 //Le gardien a réussi à arrêter le ballon!<LINE>
 //Quelle réaction fantastique!<END>
 
-//Il est hors de question de perdre <LINE>
+//Il est hors de question de perdre<LINE>
 //contre Musashi, surtout sans Misugi!<END>
 
 //Comment a-t-il réussi à l'arrêter?<END>

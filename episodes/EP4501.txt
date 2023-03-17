@@ -34,10 +34,10 @@
 //Merci beaucoup, entraîneur!<END>
 
 //Vous avez fait jusqu'à présent<LINE>
-//un match parfait. Votre défense <LINE>
-//face a Nankatsu a été impeccable. <LINE>
+//un match parfait. Votre défense<LINE>
+//face a Nankatsu a été impeccable.<LINE>
 //En seconde mi-temps, comme d'habitude,<LINE>
-//vous attaquerez en passant <LINE>
+//vous attaquerez en passant<LINE>
 //la balle à Misugi.<END>
 
 //Comme Misugi et Tsubasa sont tous les deux<LINE>

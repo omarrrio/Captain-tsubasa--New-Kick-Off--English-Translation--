@@ -1,110 +1,107 @@
 // FILE: EP1552.str containing 40 strings
 
-//Quoi?!<END>
+//What?!<END>
 
 //Ah!<END>
 
-//Il a effacé Kaltz et Schester!<END>
+//He's taken out Kaltz and Schester!<END>
 
-//Deux de moins!<END>
+//Two down!<END>
 
-//Oh, c'est une faute sur Tsubasa de la part<LINE>
-//de l'Allemagne! Ce tacle ne visait<LINE>
-//aucunement le ballon et a fauché Tsubasa!<END>
+//Oh, it's a foul on Tsubasa by Germany!<LINE>
+//That tackle wasn't even aimed at the ball and<LINE>
+//took down Tsubasa!<END>
 
-//Ça va, Tsubasa?<END>
+//You okay, Tsubasa?<END>
 
-//Ça va... Je me suis habitué à ce genre<LINE>
-//de jeu maintenant.<LINE>
-//Je ne vais pas me laisser faire!<END>
+//Yeah... I'm used to this kind of play now.<LINE>
+//I'm not going to let them get the better of me!<END>
 
-//C'est un coup franc pour le Japon.<END>
+//It's a free kick for Japan.<END>
 
-//L'Allemagne place son mur…<LINE>
-//Hein? Muller fait enlever le mur!<END>
+//Germany is setting up their wall…<LINE>
+//Huh? Muller is having the wall taken down!<END>
 
-//Je n'ai pas besoin de mur, ça ne fait que<LINE>
-//bloquer ma vision.<END>
+//I don't need a wall, it just blocks my view.<END>
 
-//Raaaah... Il se moque de nous!<END>
+//Ugh... He's mocking us!<END>
 
-//Mais on n’a aucune chance de marquer d'ici<LINE>
-//face à un tel gardien... Il n'a pas de<LINE>
-//point faible. Qu'est-ce qu'on peut faire...<END>
+//But we don't stand a chance of scoring from<LINE>
+//here against a goalkeeper like him... He<LINE>
+//doesn't have any weaknesses. What can we do...<END>
 
-//Tsubasa! Il nous a gentiment débarrassés<LINE>
-//du mur... Tout ce qu'il te reste à faire<LINE>
-//est de tirer de toutes tes forces!<END>
+//Tsubasa! He just kindly removed the wall<LINE>
+//for us... All you have to do is shoot with<LINE>
+//all your might!<END>
 
-//Tu as raison, Hyuga...<END>
+//You're right, Hyuga...<END>
 
-//Attends!<END>
+//Wait!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Oh! On dirait que Tsubasa murmure<LINE>
-//quelque chose à l'oreille de Hyuga.<END>
+//Oh! It looks like Tsubasa whispered<LINE>
+//something to Hyuga.<END>
 
-//D'accord.<END>
+//Okay.<END>
 
-//Bien.<END>
+//Good.<END>
 
-//Qui va tirer le coup franc? Tsubasa ou<LINE>
-//Hyuga? Ou bien vont-ils feinter pour faire<LINE>
-//une passe?<END>
+//Who will take the free kick? Tsubasa or<LINE>
+//Hyuga? Or will they fake a pass?<END>
 
-//Prêt?<END>
+//Ready?<END>
 
-//C'est parti!<END>
+//Here we go!<END>
 
-//Les deux joueurs s'avancent en même temps!<LINE>
-//Est-ce pour surprendre le gardien?<LINE>
-//Va-t-on voir un Tiger shot<LINE>
-//ou un Drive shoot?<END>
+//Both players move forward at the same time!<LINE>
+//Is it to surprise the goalkeeper?<LINE>
+//Will we see a Tiger shot<LINE>
+//or a Drive shot?<END>
 
-//Ça ne marchera pas avec moi!<LINE>
-//J'arrêterai n'importe quel tir!<END>
+//That won't work on me!<LINE>
+//I'll stop any shot!<END>
 
-//Allez!<END>
+//Go!<END>
 
-//Ah! Tsubasa tacle le ballon<LINE>
-//et l'envoie devant!<END>
+//Ah! Tsubasa tackles the ball<LINE>
+//and sends it forward!<END>
 
-//On dirait bien que le Japon est décidé<LINE>
-//à tirer de plus près!<END>
+//It looks like Japan is determined<LINE>
+//to shoot from closer!<END>
 
-//C'est toujours trop loin…<LINE>
-//Où est-ce que je devrais viser<LINE>
-//pour marquer contre ce gardien?<END>
+//It's still too far away…<LINE>
+//Where should I aim<LINE>
+//to score against this goalkeeper?<END>
 
-//Je dois faire confiance<LINE>
-//à mon instinct de buteur!<END>
+//I have to trust<LINE>
+//my instincts as a scorer!<END>
 
-//Là!<END>
+//There!<END>
 
-//Il tire en plein sur le gardien!<END>
+//He shoots it right at the goalkeeper!<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//C'est rentré?<END>
+//Did it go in?<END>
 
-//Muller est surpris par ce ballon <LINE>
-//qui file droit sur lui, va-t-il réussir <LINE>
-//à le stopper. Ah! Il y parvient <LINE>
-//en s'agenouillant!<END>
+//Muller is surprised by this ball<LINE>
+//flying straight at him. Will he be able<LINE>
+//to stop it? Ah! He manages to stop it<LINE>
+//by kneeling down!<END>
 
 //Impossible...<END>
 
-//Ce n'est pas un but, mais...<END>
+//It's not a goal, but...<END>
 
-//Le Neo tiger shot de Hyuga a vraiment mis<LINE>
-//Muller à l'épreuve!<END>
+//Hyuga's Neo Tiger Shot really put<LINE>
+//Muller to the test!<END>
 
-//Tsubasa, ce n'est qu'une impression,<LINE>
-//mais peut-être que si on tire<LINE>
-//entre ses jambes, ça pourrait marcher...<END>
+//Tsubasa, it's just a hunch,<LINE>
+//but maybe if we shoot<LINE>
+//between his legs, it might work...<END>
 
 //!!!<END>
 
-//*coup de sifflet*<END>
+//*whistle blows*<END>
 

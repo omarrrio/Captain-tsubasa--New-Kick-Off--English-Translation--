@@ -11,7 +11,7 @@
 
 //Ah...<END>
 
-//C'est dur à avaler! <LINE>
+//C'est dur à avaler!<LINE>
 //C'est la deuxième fois<LINE>
 //qu'Oda manque son tir!<END>
 

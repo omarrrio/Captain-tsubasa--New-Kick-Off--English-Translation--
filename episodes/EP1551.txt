@@ -1,31 +1,31 @@
 // FILE: EP1551.str containing 12 strings
 
-//Je vais tirer!<END>
+//I'm going to shoot!<END>
 
 //!!!<END>
 
-//Oh! Nitta ne tire pas, il passe la balle<LINE>
-//sur le côté!<END>
+//Oh! Nitta doesn't shoot, he passes the ball<LINE>
+//to the side!<END>
 
 //Nitta!<END>
 
-//Il fait la passe à Hyuga!<END>
+//He passes it to Hyuga!<END>
 
-//À moi de jouer!<END>
+//It's my turn!<END>
 
-//Et voilà le Tiger shot!<END>
+//And here comes the Tiger shot!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Le gardien allemand, Dieter Muller,<LINE>
-//effectue un arrêt impeccable!<END>
+//The German goalkeeper, Dieter Muller,<LINE>
+//makes an impeccable save!<END>
 
-//Il a arrêté le puissant Tiger shot de Hyuga<LINE>
-//sans sourciller!<END>
+//He stopped Hyuga's powerful Tiger shot<LINE>
+//without flinching!<END>
 
-//Comment est-ce...<END>
+//How did he...<END>
 
-//J'en attendais pas moins de Muller,<LINE>
-//mais ce n'est qu'en persévérant ainsi<LINE>
-//qu'on finira par gagner!<END>
+//I expected nothing less from Muller,<LINE>
+//but it's only by persevering like this<LINE>
+//that we'll eventually win!<END>
 

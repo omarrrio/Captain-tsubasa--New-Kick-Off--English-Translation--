@@ -168,7 +168,7 @@
 //<NAME> traps the ball!<END>
 
 //They both fly towards the ball<LINE>
-//! <END>
+//!<END>
 
 //Neither of them<LINE>
 //can get it.<END>
@@ -177,10 +177,10 @@
 //has surpassed the other!<END>
 
 //The goalkeeper<LINE>
-//comes out! <END>
+//comes out!<END>
 
 //<NAME> comes out<LINE>
-//to challenge him! <END>
+//to challenge him!<END>
 
 //He comes out courageously!<END>
 
@@ -191,10 +191,10 @@
 //He was violently ejected!<END>
 
 //He pushes the ball away<LINE>
-//with a punch! <END>
+//with a punch!<END>
 
 //He's going to punch the ball<LINE>
-//! <END>
+//!<END>
 
 //<NAME>, with the fist!<END>
 
@@ -203,12 +203,12 @@
 //<NAME> is going to catch it!<END>
 
 //The ball is heading straight<LINE>
-//for the goalkeeper! <END>
+//for the goalkeeper!<END>
 
 //Will he be able to stop it?<END>
 
 //Will <NAME><LINE>
-//get to it in time? <END>
+//get to it in time?<END>
 
 //He dives!<END>
 
@@ -245,10 +245,10 @@
 //It's a throw-in.<END>
 
 //The match will resume<LINE>
-//with a corner. <END>
+//with a corner.<END>
 
 //The match continues<LINE>
-//with a penalty. <END>
+//with a penalty.<END>
 
 //The match has resumed!<END>
 
@@ -259,7 +259,7 @@
 //The second half has begun.<END>
 
 //Kick-off<LINE>
-//of the second half. <END>
+//of the second half.<END>
 
 //The extra time is starting!<END>
 
@@ -323,25 +323,25 @@
 //End of the first 15 minutes<LINE>
 //of the second half.<END>
 
-// Only 5 minutes left.<END>
+//Only 5 minutes left.<END>
 
-// They bring the ball up<LINE>
-// on the wing.<END>
+//They bring the ball up<LINE>
+//on the wing.<END>
 
-// They attack through the wing.<END>
+//They attack through the wing.<END>
 
-// What a demonstration<LINE>
-// of overwhelming power!<END>
+//What a demonstration<LINE>
+//of overwhelming power!<END>
 
-// Will they continue<LINE>
-// to widen the gap?<END>
+//Will they continue<LINE>
+//to widen the gap?<END>
 
-// Both teams are evenly matched!<END>
+//Both teams are evenly matched!<END>
 
-// Will they be able to make a comeback?<END>
+//Will they be able to make a comeback?<END>
 
-// There is almost no<LINE>
-// more playing time left!<END>
+//There is almost no<LINE>
+//more playing time left!<END>
 
 //These are the added minutes.<LINE>
 //Is this the last attack?<END>

@@ -1,73 +1,67 @@
 // FILE: EP1600.str containing 37 strings
 
-//Tsubasa se voit remettre la coupe<LINE>
-//par le directeur du tournoi.<END>
+//Tsubasa is given the cup<LINE>
+//by the tournament director.<END>
 
-//Hourra!<END>
+//Hurray!<END>
 
-//La All Japan Team se retrouve maintenant<LINE>
-//au sommet des moins de 16 ans!<LINE>
-//Cette victoire est le fruit<LINE>
-//d'un formidable jeu d'équipe!<END>
+//The All Japan Team is now at<LINE>
+//the top of the under-16s!<LINE>
+//This victory is the result<LINE>
+//of a tremendous team effort!<END>
 
-//Retrouvons maintenant Tsubasa Ozora<LINE>
-//pour nous commenter leur victoire.<END>
+//Let's now join Tsubasa Ozora<LINE>
+//for his comments on their victory.<END>
 
-//Hein? Quoi? Un discours?<END>
+//Huh? What? A speech?<END>
 
-//Ne t'inquiète pas, il y a un interprète.<END>
+//Don't worry, there's an interpreter.<END>
 
-//Ah, mais... euh...<END>
+//Ah, but... um...<END>
 
-//Le capitaine du Japon, Tsubasa, va<LINE>
-//maintenant nous livrer quelques mots<LINE>
-//sur la victoire de son équipe.<END>
+//The captain of Japan, Tsubasa, will<LINE>
+//now give us a few words<LINE>
+//about his team's victory.<END>
 
-//Alors, tout d'abord, je voudrais tous<LINE>
-//vous remercier pour vos encouragements.<END>
+//So, first of all, I want to thank all<LINE>
+//of you for your encouragement.<END>
 
-//Nous nous étions promis de donner<LINE>
-//le meilleur de nous-mêmes pour remporter<LINE>
-//cette compétition.<LINE>
-//Je suis content que nous ayons pu<LINE>
-//atteindre notre but.<END>
+//We promised ourselves to give<LINE>
+//our best to win this competition.<LINE>
+//I'm glad we were able to achieve our goal.<END>
 
-//Néanmoins, je ne pense pas encore<LINE>
-//qu'on soit les meilleurs.<END>
+//However, I don't think we're the best yet.<END>
 
-//Il y a beaucoup de nations qui n'ont pas<LINE>
-//participé au tournoi, comme le Brésil,<LINE>
-//considéré comme la nation reine du<LINE>
-//football.<END>
+//There are many nations that did not<LINE>
+//participate in the tournament, such as Brazil,<LINE>
+//considered the king of football.<END>
 
-//Notre véritable objectif est de remporter<LINE>
-//le tournoi international.<LINE>
-//C'est là que nous saurons réellement<LINE>
-//qui sont les meilleurs.<END>
+//Our real goal is to win the international tournament.<LINE>
+//That's when we'll truly know<LINE>
+//who the best are.<END>
 
-//Ce n'est sans doute qu'un rêve,<LINE>
-//mais nous sommes libres de tout mettre<LINE>
-//en œuvre pour que celui-ci se réalise.<LINE>
-//Nous y gagnerons beaucoup.<END>
+//It's probably just a dream,<LINE>
+//but we're free to do everything<LINE>
+//to make it come true.<LINE>
+//We'll gain a lot from it.<END>
 
-//Que le Japon soit la meilleure nation<LINE>
-//de foot au monde peut être un rêve…<LINE>
-//Mais nous... nous...<END>
+//Japan being the best football nation<LINE>
+//in the world may be a dream...<LINE>
+//But we... we...<END>
 
-//Nous ferons tout pour qu'il se réalise!<END>
+//We'll do everything to make it come true!<END>
 
-//Le Japon entame maintenant un tour<LINE>
-//d'honneur.<END>
+//Japan now begins a victory lap.<END>
 
-//Sous les applaudissements de la foule,<LINE>
-//ils font le tour du stade.<END>
+//Under the cheers of the crowd,<LINE>
+//they go around the stadium.<END>
 
-//La All Japan Jr. Youth Team est revenue<LINE>
-//devant son banc de touche.<END>
+//The All Japan Jr. Youth Team is back<LINE>
+//in front of their bench.<END>
 
-//Applaudissons-les une dernière fois<LINE>
-//pour leur performance exceptionnelle<LINE>
-//pendant le tournoi!<END>
+//Let's applaud them one last time<LINE>
+//for their outstanding performance<LINE>
+//during the tournament!<END>
 
 //!!!<END>
 
@@ -75,49 +69,48 @@
 
 //Tsubasa.<END>
 
-//Félicitations. Tu as été impressionnant.<END>
+//Congratulations. You were impressive.<END>
 
 //Roberto...<END>
 
-//Comment vont tes yeux?<END>
+//How are your eyes?<END>
 
-//Ça va...<END>
+//It's fine...<END>
 
-//Roberto, après le collège... Je…<LINE>
-//Je veux aller au Brésil!<END>
+//Roberto, after middle school... I...<LINE>
+//I want to go to Brazil!<END>
 
-//Je sais. J'ai vu ta vidéo<LINE>
-//que l'on m'a envoyée au Brésil,<LINE>
-//et je t'ai vu aujourd'hui jouer<LINE>
-//en personne.<END>
+//I know. I saw your video<LINE>
+//that was sent to me in Brazil,<LINE>
+//and I saw you play today<LINE>
+//in person.<END>
 
-//Ta capacité à créer des espaces<LINE>
-//et à organiser le jeu depuis le milieu<LINE>
-//de terrain est impressionnante.<LINE>
-//De plus, tu te comportes en vrai capitaine.<LINE>
-//Tu as beaucoup grandi, Tsubasa.<END>
+//Your ability to create spaces<LINE>
+//and organize play from midfield is impressive.<LINE>
+//In addition, you behave like a true captain.<LINE>
+//You've grown a lot, Tsubasa.<END>
 
 //Ro-Roberto...<END>
 
-//J'espère que tu vas accepter mon aide de<LINE>
-//faire de toi le meilleur joueur du monde.<END>
+//I hope you'll accept my help to make you<LINE>
+//the best player in the world.<END>
 
-//Bien sûr!<LINE>
-//Ça veut dire que tu vas m'entraîner<LINE>
-//de nouveau?<END>
+//Of course!<LINE>
+//Does that mean you're going to train me<LINE>
+//again?<END>
 
-//Et comment!<END>
+//You bet!<END>
 
-//Je savais que si je continuais à jouer<LINE>
-//au football et à m'améliorer,<LINE>
-//je pourrais te revoir un jour.<END>
+//I knew that if I kept playing<LINE>
+//football and improving,<LINE>
+//I would see you again one day.<END>
 
-//Le jour suivant, les All Japan Jr. Youth<LINE>
-//s'envolèrent pour leur pays en y ramenant<LINE>
-//la coupe du 1st Annual French International<LINE>
+//The next day, the All Japan Jr. Youth<LINE>
+//flew back to their country with<LINE>
+//the cup of the 1st Annual French International<LINE>
 //Jr. Youth Tournament.<END>
 
-//Pour Tsubasa commença un nouveau chapitre<LINE>
-//aux côtés de son entraîneur de toujours,<LINE>
+//For Tsubasa, a new chapter began<LINE>
+//alongside his lifelong coach,<LINE>
 //Roberto...<END>
 

@@ -39,7 +39,7 @@
 //Le match est terminé!<LINE>
 //Furano et Toho ont tous deux gagné!<LINE>
 //Un match nul qui fait champions<LINE>
-//les deux équipes! <END>
+//les deux équipes!<END>
 
 //Match nul...<END>
 

@@ -1,49 +1,48 @@
 // FILE: EP2152.str containing 13 strings
 
-//Chaque joueur doit marquer<LINE>
-//un joueur de l'équipe adverse.<LINE>
-//Ne les laissez pas s'approcher du but!<LINE>
-//Gardez un œil sur Ichinosé,<LINE>
-//Honma et Sanada!<END>
+//Each player must mark<LINE>
+//an opposing team player.<LINE>
+//Don't let them get close to the goal!<LINE>
+//Keep an eye on Ichinose,<LINE>
+//Honma, and Sanada!<END>
 
-//Wakashimazu, joueur clé de la défense<LINE>
-//de Toho Gakuen, mais aussi<LINE>
-//gardien titulaire de football junior,<LINE>
-//est en train de donner ses consignes!<END>
+//Wakashimazu, key player of Toho Gakuen's<LINE>
+//defense, but also junior football's<LINE>
+//starting goalkeeper, is giving his instructions!<END>
 
-//Le trio d'attaquants de Musashi<LINE>
-//fait équipe avec Misugi depuis <LINE>
-//l'école primaire. Si le ballon passe<LINE>
-//dans leurs pieds, l'équipe adverse <LINE>
-//n'a qu'à bien se tenir!<END>
+//Musashi's attacking trio<LINE>
+//has been playing with Misugi<LINE>
+//since elementary school. If the ball<LINE>
+//gets to their feet, the opposing team<LINE>
+//better watch out!<END>
 
-//Toho passe à l'attaque.<END>
+//Toho is on the attack.<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Mais Misugi s'empare du ballon!<END>
+//But Misugi takes the ball!<END>
 
-//Satané Misugi!<END>
+//Damn Misugi!<END>
 
-//Ouah! Qui l'aurait cru!<LINE>
-//Misugi se débarrasse du dernier défenseur<LINE>
-//et se dirige seul vers le but sans faire<LINE>
-//une seule passe!<END>
+//Wow! Who would have thought!<LINE>
+//Misugi gets past the last defender<LINE>
+//and heads towards the goal without passing<LINE>
+//once!<END>
 
-//Bon sang! Il nous a eus!<END>
+//Darn it! He got us!<END>
 
-//Le gardien, Wakashimazu, sort<LINE>
-//de la cage de but!<END>
+//The goalkeeper, Wakashimazu, comes out<LINE>
+//of the goal!<END>
 
-//Mais Misugi est un habitué<LINE>
-//des face-à-face!<END>
+//But Misugi is used to<LINE>
+//face-to-face situations!<END>
 
-//Il tire, complètement imperturbable<LINE>
-//face au gardien qui fonce sur lui!<END>
+//He shoots, completely unfazed<LINE>
+//by the charging goalkeeper!<END>
 
-//But!<LINE>
-//Misugi, qui vient à peine d'entrer<LINE>
-//sur le terrain, réussit à marquer un but<LINE>
-//pour Musashi sans avoir affronter<LINE>
-//un seul attaquant!<END>
+//Goal!<LINE>
+//Misugi, who just came onto the field,<LINE>
+//successfully scores a goal<LINE>
+//for Musashi without facing<LINE>
+//a single attacker!<END>
 

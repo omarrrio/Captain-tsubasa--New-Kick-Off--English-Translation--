@@ -8,7 +8,7 @@
 //Quoi?<END>
 
 //Quelle puissance dans ce tir<LINE>
-//au ras du sol! <LINE>
+//au ras du sol!<LINE>
 //Minamiuwa, qui s'attendait à ce qu'il fasse<LINE>
 //une passe, s'est bien fait avoir!<END>
 

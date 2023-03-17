@@ -1,55 +1,52 @@
 // FILE: EP2102.str containing 17 strings
 
-//Nous nous en sommes plutôt bien sortis<LINE>
-//lors de la première mi-temps.<LINE>
-//Ne vous en faites pas pour le score.<END>
+//We did pretty well in the first half.<LINE>
+//Don't worry about the score.<END>
 
-//Nous allons sûrement affronter Misugi<LINE>
-//lors de la deuxième mi-temps.<END>
+//We'll probably be facing Misugi<LINE>
+//in the second half.<END>
 
-//Sawada, garde un œil sur Misugi.<END>
+//Sawada, keep an eye on Misugi.<END>
 
-//Aucun problème.<END>
+//No problem.<END>
 
-//Attendez, entraîneur.<LINE>
-//C'est à moi de marquer Misugi!<END>
+//Wait, coach.<LINE>
+//It's my job to mark Misugi!<END>
 
-//Qu'est-ce qui te prend, Hyuga?<LINE>
-//Refroidis un peu tes ardeurs!<END>
+//What's gotten into you, Hyuga?<LINE>
+//Calm down a little!<END>
 
-//Le football est un sport d'équipe.<LINE>
-//Chaque joueur doit tenir le poste<LINE>
-//qui lui est attribué.<END>
+//Football is a team sport.<LINE>
+//Each player has to play the position<LINE>
+//assigned to them.<END>
 
-//Tu occuperas le poste d'avant-centre<LINE>
-//et tu resteras vers le haut du terrain,<LINE>
-//prêt à marquer en cas de contre-attaque.<END>
+//You'll play as a forward,<LINE>
+//staying up the field and ready to score<LINE>
+//on the counter-attack.<END>
 
-//Tu ne peux pas jouer correctement<LINE>
-//si tu ne vois pas plus loin<LINE>
-//que le bout de ton nez.<LINE>
-//Tu piges, Hyuga?<END>
+//You can't play properly<LINE>
+//if you can't see beyond your nose.<LINE>
+//You get it, Hyuga?<END>
 
-//Oui, entraîneur.<END>
+//Yes, coach.<END>
 
-//Hum... Il a raison.<LINE>
-//Le football est un sport d'équipe.<END>
+//Hmm... He's right.<LINE>
+//Football is a team sport.<END>
 
-//Pour autant, il faut aussi pouvoir<LINE>
-//prendre des initiatives seul.<LINE>
-//Un match où deux rivaux ne peuvent pas<LINE>
-//s'affronter pour obtenir la victoire<LINE>
-//n'a pas d'intérêt.<END>
+//However, you also need<LINE>
+//to be able to take initiative on your own.<LINE>
+//A match where two rivals can't<LINE>
+//compete for victory is pointless.<END>
 
-//Hé, Hyuga.<END>
+//Hey, Hyuga.<END>
 
-//Notre objectif est d'empêcher Nankatsu<LINE>
-//de remporter son troisième championnat.<END>
+//Our goal is to prevent Nankatsu<LINE>
+//from winning their third championship.<END>
 
-//Ça signifie que nous ne pouvons pas<LINE>
-//perdre ce match. Compris?<END>
+//That means we can't lose<LINE>
+//this match. Understood?<END>
 
-//Hum. Compris, Takeshi.<END>
+//Hmm. Understood, Takeshi.<END>
 
 //Hyuga...<END>
 

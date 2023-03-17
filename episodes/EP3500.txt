@@ -27,7 +27,7 @@
 //si Hyuga participera au match,<LINE>
 //mais même sans lui,<LINE>
 //ils sont capables de rivaliser<LINE>
-//ou même surpasser Nankatsu. <END>
+//ou même surpasser Nankatsu.<END>
 
 //Nous ne devons pas perdre de vue<LINE>
 //le joueur clé, Sawada!<LINE>
@@ -47,7 +47,7 @@
 
 //Oh... Rien.<END>
 
-//Vraiment? <END>
+//Vraiment?<END>
 
 //Gagne le match…<LINE>
 //Fais ce qu'il faut pour ça.<END>

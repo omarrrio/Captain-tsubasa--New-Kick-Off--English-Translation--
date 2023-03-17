@@ -1,45 +1,44 @@
 // FILE: EP1554.str containing 16 strings
 
-//À nous de jouer, Hyuga!<END>
+//It's our turn, Hyuga!<END>
 
-//Tsubasa…<LINE>
-//Tu penses à la même chose que moi?<LINE>
-//Le coup franc de tout à l'heure...<END>
+//Tsubasa...<LINE>
+//Are you thinking what I'm thinking?<LINE>
+//The free kick from earlier...<END>
 
-//J'ai pensé que peut-être<LINE>
-//si on tirait en même temps...<END>
+//I was thinking that maybe<LINE>
+//if we both shoot at the same time...<END>
 
-//Mais qu'est-ce qui se passe?<END>
+//What's going on?<END>
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
-//Tiger shot!<END>
+//Tiger Shot!<END>
 
-//Waouh! Tsubasa et Hyuga frappent<LINE>
-//en même temps! C'est un Tiger shot<LINE>
-//et Drive shoot combinés!<END>
+//Wow! Tsubasa and Hyuga shoot at the same time!<LINE>
+//It's a combination of Tiger Shot and Drive Shoot!<END>
 
-//Un... Drive tiger twin shoot!<END>
+//A... Drive Tiger Twin Shoot!<END>
 
-//Allez!<END>
+//Go for it!<END>
 
-//L'arme secrète du Japon est sans doute<LINE>
-//le tir ultime!<END>
+//Japan's secret weapon is probably<LINE>
+//the ultimate shot!<END>
 
-//Les Drive shoot et Tiger shot propulsent<LINE>
-//le ballon à une vitesse hallucinante<LINE>
-//vers le but!<END>
+//The Drive Shoot and Tiger Shot propel<LINE>
+//the ball at an incredible speed<LINE>
+//towards the goal!<END>
 
-//Je l'ai!<END>
+//I've got it!<END>
 
-//Qu-quoi?<END>
+//Wh-what?<END>
 
-//Aaaaah! C'est incroyable! Muller vient<LINE>
-//d'effectuer un superbe arrêt!<END>
+//Aaaaah! It's amazing! Muller just made<LINE>
+//an incredible save!<END>
 
 //Hmmm...<END>
 
-//Dieter Muller, le gardien allemand,<LINE>
-//a arrêté le Drive tiger twin shoot<LINE>
-//de Hyuga et Tsubasa!<END>
+//Dieter Muller, the German goalkeeper,<LINE>
+//has stopped Hyuga and Tsubasa's<LINE>
+//Drive Tiger Twin Shoot!<END>
 

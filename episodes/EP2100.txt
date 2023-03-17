@@ -1,25 +1,25 @@
 // FILE: EP2100.str containing 6 strings
 
-//Votre attention, les gars!<LINE>
-//Nos adversaires du jour ne sont pas<LINE>
-//des débutants! Ils font partie<LINE>
-//de l'équipe Musashi et pratiquent au niveau<LINE>
-//national. Qui plus est, aujourd'hui, ils<LINE>
-//compteront encore parmi eux, Misugi,<LINE>
-//un joueur d'exception!<END>
+//Attention, guys!<LINE>
+//Our opponents today are not<LINE>
+//beginners! They are part of the<LINE>
+//Musashi team and play at the national<LINE>
+//level. Moreover, today they will<LINE>
+//still have with them, Misugi,<LINE>
+//an exceptional player!<END>
 
-//Nous devons faire entrer<LINE>
-//nos meilleurs joueurs!<END>
+//We need to bring in<LINE>
+//our best players!<END>
 
-//D'accord!<END>
+//Agreed!<END>
 
-//Très bien. Mettons-leur la pression<LINE>
-//durant la première mi-temps!<END>
+//Very well. Let's put pressure on them<LINE>
+//during the first half!<END>
 
-//Marquons un maximum de buts<LINE>
-//durant la première mi-temps<LINE>
-//pendant que Misugi est sur le banc,<LINE>
-//afin de prendre l'avantage!<END>
+//Score as many goals as possible<LINE>
+//during the first half<LINE>
+//while Misugi is on the bench,<LINE>
+//in order to gain the advantage!<END>
 
-//C'est parti!<END>
+//Let's go!<END>
 

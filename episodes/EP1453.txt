@@ -8,13 +8,13 @@
 
 //Great shot, Hyuga!<END>
 
-//What? <END>
+//What?<END>
 
 //Wait! The goal is disallowed!<LINE>
 //Hyuga was in an offside position<LINE>
 //at the start of the play!<END>
 
-//What? <END>
+//What?<END>
 
 //But that's not possible!<LINE>
 //The defense moved up after the pass!<LINE>
@@ -26,7 +26,7 @@
 //But France has already<LINE>
 //taken the throw-in!<END>
 
-//Huh? <END>
+//Huh?<END>
 
 //Everyone, get back on defense!<END>
 
@@ -46,7 +46,7 @@
 
 //Napoleon, let it go!<END>
 
-//Huh? <END>
+//Huh?<END>
 
 //Napoleon doesn't shoot! He lets the ball<LINE>
 //go through his legs!<END>

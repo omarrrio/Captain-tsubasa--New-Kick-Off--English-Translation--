@@ -36,7 +36,7 @@
 
 //Yeah, it was obvious<LINE>
 //that you two were going to crash into each other.<LINE>
-//You didn't have to go <LINE>
+//You didn't have to go<LINE>
 //challenge him in the air.<END>
 
 //...<END>

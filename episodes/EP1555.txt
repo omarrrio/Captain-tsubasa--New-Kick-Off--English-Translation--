@@ -1,85 +1,85 @@
 // FILE: EP1555.str containing 33 strings
 
-//Schester tire!<END>
+//Schester shoots!<END>
 
-//Je vais marquer!<END>
+//I'm going to score!<END>
 
-//Wakabayashi plonge à temps!<END>
+//Wakabayashi dives just in time!<END>
 
-//Ohhhh! Wakabayashi n'arrête pas le ballon,<LINE>
-//mais le dégage directement!<END>
+//Ohhhh! Wakabayashi doesn't stop the ball,<LINE>
+//but clears it directly!<END>
 
-//Allez!<END>
+//Go!<END>
 
-//Hyuga, à toi de jouer!<END>
+//Hyuga, it's your turn!<END>
 
-//Compte sur moi!<END>
+//Count on me!<END>
 
-//Tsubasa court vers les buts<LINE>
-//et Sawada se replace à la position<LINE>
-//laissée vacante par Tsubasa!<END>
+//Tsubasa runs towards the goal<LINE>
+//and Sawada takes the position<LINE>
+//left vacant by Tsubasa!<END>
 
-//Tu sais ce que tu as à faire, Takeshi?<END>
+//Do you know what to do, Takeshi?<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Cette fois-ci, Hyuga et Sawada tirent<LINE>
-//en même temps dans le ballon arrivant<LINE>
-//par derrière!<END>
+//This time, Hyuga and Sawada both shoot<LINE>
+//at the same time towards the incoming ball<LINE>
+//from behind!<END>
 
-//C'est une reprise de volée<LINE>
-//couplée à un retourné!<END>
+//It's a volley<LINE>
+//combined with a bicycle kick!<END>
 
-//Ça ne marchera pas avec moi!<END>
+//It won't work with me!<END>
 
-//Le ballon vacille dans les airs!<END>
+//The ball wobbles in the air!<END>
 
-//Je vais arrêter ça facilement...<END>
+//I'll easily stop that...<END>
 
-//Hein?<END>
+//Huh?<END>
 
-//Quoi? Le ballon a dévié de sa course!<END>
+//What? The ball has deviated from its course!<END>
 
-//Comment?!<END>
+//How?!<END>
 
-//Ce n'était pas une frappe au but,<LINE>
-//mais une passe! Le ballon s'éloigne<LINE>
-//des buts!<END>
+//It wasn't a shot on goal,<LINE>
+//but a pass! The ball is moving away<LINE>
+//from the goal!<END>
 
-//C'est grâce à la différence entre<LINE>
-//la puissance de mon tir et celle de Hyuga<LINE>
-//que le ballon dévie ainsi!<END>
+//It's thanks to the difference<LINE>
+//in power between my shot and Hyuga's<LINE>
+//that the ball deviates like this!<END>
 
-//Misaki court au but! Cette passe lui était<LINE>
-//destinée!<END>
+//Misaki is running towards the goal! This pass was<LINE>
+//meant for him!<END>
 
-//À moi de jouer!<END>
+//It's my turn to play!<END>
 
-//Superbe tête plongeante de Misaki!<END>
+//Misaki's superb diving header!<END>
 
 //Aaah!<END>
 
-//Mais Muller a anticipé l'action<LINE>
-//et a tendu son bras pour l'arrêter!<END>
+//But Muller anticipated the move<LINE>
+//and stretched out his arm to stop it!<END>
 
-//Misaki, tiens bon! J'arrive!<END>
+//Misaki, hold on! I'm coming!<END>
 
 //Tsubasa!<END>
 
 //Misaki!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Ahhhh! Mais que…?<LINE>
-//Tsubasa a sauté les deux pieds en avant<LINE>
-//dans le dos de Misaki!<END>
+//Ahhhh! But what...?<LINE>
+//Tsubasa jumped with both feet in front<LINE>
+//of Misaki's back!<END>
 
-//Mueller est vaincu!<END>
+//Mueller is defeated!<END>
 
-//On a réussi!<END>
+//We did it!<END>
 
-//Le ballon a passé la ligne des buts<LINE>
-//avec Misaki!<LINE>
-//C'est la paire en or de Nankatsu!...<LINE>
-//Non, du Japon!<END>
+//The ball passed the goal line<LINE>
+//with Misaki!<LINE>
+//It's Nankatsu's golden pair!...<LINE>
+//No, it's Japan's!<END>
 
