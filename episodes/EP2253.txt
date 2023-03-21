@@ -1,74 +1,73 @@
 // FILE: EP2253.str containing 23 strings
 
-//Sorimachi est marqué...<LINE>
-//Ok, moi je peux passer par là!<END>
+//Sorimachi is marked...<LINE>
+//Ok, I can go through there!<END>
 
-//Oh! Sawada parvient à feinter rapidement<LINE>
-//son adversaire!<END>
+//Oh! Sawada manages to quickly feint<LINE>
+//his opponent!<END>
 
-//Hein!<END>
+//Huh!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Date n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Date doesn't have time to react!<END>
 
-//Sawada s'échappe!<LINE>
-//On dirait qu'il cherche à tirer,<LINE>
-//mais c'est sans compter<LINE>
-//la présence du gardien de but!<END>
+//Sawada escapes!<LINE>
+//Looks like he's trying to shoot,<LINE>
+//but he didn't count on<LINE>
+//the presence of the goalkeeper!<END>
 
-//Hyuga n'est pas sur le terrain<LINE>
-//et Sorimachi est marqué.<LINE>
-//Je suis le seul à pouvoir mettre un but!<END>
+//Hyuga is not on the field<LINE>
+//and Sorimachi is marked.<LINE>
+//I'm the only one who can score!<END>
 
-//C'est parti!<END>
+//Here we go!<END>
 
-//Sawada est connu pour sa puissance de tir,<LINE>
-//aussi nous nous attendions à un shoot<LINE>
-//en force, mais il a fait un lob<LINE>
-//qui passe au-dessus de la tête du gardien!<END>
+//Sawada is known for his shooting power,<LINE>
+//so we expected a strong shot, but he lobbed<LINE>
+//it over the goalkeeper's head!<END>
 
-//Oh, non!<END>
+//Oh, no!<END>
 
-//Le gardien est pris au dépourvu!<LINE>
-//Il ne peut pas l'atteindre!<LINE>
-//Le ballon s'engouffre dans le filet!<END>
+//The goalkeeper is caught off guard!<LINE>
+//He can't reach it!<LINE>
+//The ball goes into the net!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Sawada est un joueur technique<LINE>
-//et cette action vient de lui permettre<LINE>
-//de marquer un autre grand but!<END>
+//Sawada is a technical player<LINE>
+//and this action has allowed him<LINE>
+//to score another great goal!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Kawai n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Kawai doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Moriya n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Moriya doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Takeuchi n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Takeuchi doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Arita n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Arita doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Hamaguchi n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Hamaguchi doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Tanioka n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Tanioka doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Kakimoto n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Kakimoto doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Takida n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Takida doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Iino n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Iino doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Kan n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Kan doesn't have time to react!<END>
 
-//On dirait qu'il a fait ça toute sa vie!<LINE>
-//Takahashi n'a pas le temps de réagir!<END>
+//Looks like he's been doing this his whole life!<LINE>
+//Takahashi doesn't have time to react!<END>
 

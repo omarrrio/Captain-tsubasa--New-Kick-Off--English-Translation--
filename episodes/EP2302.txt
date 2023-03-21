@@ -1,24 +1,23 @@
 // FILE: EP2302.str containing 7 strings
 
-//Toho Gakuen remporte le match!<LINE>
-//L'équipe accède à la demi-finale!<END>
+//Toho Gakuen wins the match!<LINE>
+//The team advances to the semi-finals!<END>
 
-//Génial! Nous avons gagné!<END>
+//Great! We won!<END>
 
-//Vous avez vu ça?<LINE>
-//Le jeu de Toho est unique!<END>
+//Did you see that?<LINE>
+//Toho's style of play is unique!<END>
 
-//Nous ne pouvons pas perdre,<LINE>
-//même si notre capitaine<LINE>
-//ne joue pas avec nous!<END>
+//We can't lose,<LINE>
+//even if our captain<LINE>
+//isn't playing with us!<END>
 
-//Vu l'attitude de l'entraîneur aujourd'hui,<LINE>
-//il ne compte sûrement pas<LINE>
-//faire jouer Hyuga demain.<END>
+//Given the coach's attitude today,<LINE>
+//he certainly doesn't intend<LINE>
+//to play Hyuga tomorrow.<END>
 
-//Que ferons-nous si Hyuga est encore coincé<LINE>
-//sur le banc?<END>
+//What will we do if Hyuga is stuck on the bench again?<END>
 
-//Je dois faire confiance à l'équipe.<LINE>
-//Mais je compte bien jouer demain!<END>
+//I have to trust the team.<LINE>
+//But I'm definitely playing tomorrow!<END>
 

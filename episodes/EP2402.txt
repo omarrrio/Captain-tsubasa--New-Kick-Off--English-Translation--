@@ -1,51 +1,50 @@
 // FILE: EP2402.str containing 16 strings
 
-//L'arbitre siffle la fin du match!<END>
+//The referee blows the end of the match!<END>
 
-//Toho Gakuen est la première équipe<LINE>
-//qualifiée en finale!<END>
+//Toho Gakuen is the first team<LINE>
+//to qualify for the final!<END>
 
-//Les joueurs de Meiwa-Higashi ont beau avoir<LINE>
-//donné le meilleur d'eux-mêmes et bénéficié<LINE>
-//du soutien des supporters, ils n'ont pas su<LINE>
-//tenir la distance.<END>
+//Despite having given their best and<LINE>
+//benefiting from the support of their fans, the players of Meiwa-Higashi<LINE>
+//were unable to hold on until the end.<END>
 
-//C'est génial!<LINE>
-//Nous avons gagné, capitaine!<END>
+//This is great!<LINE>
+//We won, captain!<END>
 
 //Hyuga!<END>
 
-//Ouais! Bien joué!<LINE>
-//Vous avez vraiment été épatants, les gars!<END>
+//Yeah! Well done!<LINE>
+//You guys were really amazing!<END>
 
 //...<END>
 
-//J'étais pourtant sûr de gagner<LINE>
-//sans Hyuga sur le terrain.<END>
+//I was sure I was going to win<LINE>
+//without Hyuga on the field.<END>
 
-//Hyuga a été d'un grand soutien<LINE>
-//pour son équipe aujourd'hui.<END>
+//Hyuga was a great support<LINE>
+//for his team today.<END>
 
-//Si Hyuga n'avait pas encouragé<LINE>
-//son équipe si fort, nous aurions<LINE>
-//peut-être eu une chance de gagner.<END>
+//If Hyuga hadn't encouraged<LINE>
+//his team so much, we might<LINE>
+//have had a chance to win.<END>
 
-//Hyuga est vraiment le meneur de jeu<LINE>
-//de Toho.<END>
+//Hyuga is truly the playmaker<LINE>
+//of Toho.<END>
 
-//Takeshi! Je ne sais pas qui de Nankatsu<LINE>
-//ou Furano se qualifiera en finale,<LINE>
-//mais vous vous devez de gagner<LINE>
-//et de prendre la tête du championnat!<END>
+//Takeshi! I don't know whether it'll be<LINE>
+//Nankatsu or Furano who will qualify for the final,<LINE>
+//but you have to win and take the lead<LINE>
+//in the championship!<END>
 
-//Vous nous avez battus, aussi vous devez<LINE>
-//gagner cette finale pour nous!<END>
+//You beat us, so you<LINE>
+//have to win this final for us!<END>
 
-//Faites honneur à Meiwa!<END>
+//Do Meiwa proud!<END>
 
-//O-oui!<END>
+//Y-yes!<END>
 
-//Meiwa-Higashi... Cette équipe a su<LINE>
-//tirer profit des enseignements<LINE>
-//de l'entraîneur Kira.<END>
+//Meiwa-Higashi... This team has been able<LINE>
+//to benefit from the teachings<LINE>
+//of coach Kira.<END>
 

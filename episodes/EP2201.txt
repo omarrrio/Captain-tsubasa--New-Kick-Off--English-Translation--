@@ -1,18 +1,18 @@
 // FILE: EP2201.str containing 6 strings
 
-//Quel est le problème?<LINE>
-//Toho est une équipe offensive!<LINE>
-//Fonce sur le terrain et marque des buts!<END>
+//What is the problem?<LINE>
+//Toho is an offensive team!<LINE>
+//Charge onto the field and score goals!<END>
 
-//Oui, entraîneur!<END>
+//Yes, coach!<END>
 
 //...<END>
 
-//Capitaine...<END>
+//Captain...<END>
 
 //Hyuga...<END>
 
 //Hyuga...<LINE>
-//On dirait bien que nous allons<LINE>
-//finalement avoir besoin de lui.<END>
+//It looks like we're finally<LINE>
+//going to need him.<END>
 

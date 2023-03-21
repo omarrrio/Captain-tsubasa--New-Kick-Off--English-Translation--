@@ -1,43 +1,43 @@
 // FILE: EP2250.str containing 13 strings
 
-//Toho a toutes ses chances<LINE>
-//de remporter le championnat,<LINE>
-//mais Hyuga, leur joueur vedette,<LINE>
-//ne participera pas au match d'aujourd'hui!<END>
+//Toho has all its chances<LINE>
+//of winning the championship,<LINE>
+//but Hyuga, their star player,<LINE>
+//will not participate in today's match!<END>
 
-//Nous ne pouvons pas perdre face à Toho<LINE>
-//si Hyuga ne joue pas!<LINE>
-//Nous allons marquer un but et le pousser<LINE>
-//à quitter son banc!<END>
+//We can't lose to Toho<LINE>
+//if Hyuga doesn't play!<LINE>
+//We'll score a goal and push him<LINE>
+//to leave his seat!<END>
 
-//C'est parti!<END>
+//Let's do it!<END>
 
-//Eh bien, c'est le moment ou jamais<LINE>
-//pour Matsukami Junior High!<LINE>
-//Ils tentent leur chance!<END>
+//Well, it's now or never<LINE>
+//for Matsukami Junior High!<LINE>
+//They're taking their chance!<END>
 
-//Mais le gardien de but, Wakashimazu,<LINE>
-//attrape facilement le ballon!<END>
+//But the goalkeeper, Wakashimazu,<LINE>
+//easily catches the ball!<END>
 
-//Ici, Takeshi!<END>
+//Here, Takeshi!<END>
 
-//Compris!<END>
+//Got it!<END>
 
-//Bien joué de la part du gardien titulaire<LINE>
-//de football junior, Wakashimazu!<LINE>
-//Et il envoie évidemment<LINE>
-//le ballon à Sawada!<END>
+//Well played by the starting<LINE>
+//junior football goalkeeper, Wakashimazu!<LINE>
+//And he obviously passes<LINE>
+//the ball to Sawada!<END>
 
 //Sorimachi!<END>
 
-//Toho passe maintenant<LINE>
-//à l'attaque!<END>
+//Toho is now<LINE>
+//on the attack!<END>
 
-//C'est une passe magnifique à Sorimachi<LINE>
-//qui occupe le poste habituel d'avant-centre<LINE>
-//de Hyuga!<END>
+//It's a wonderful pass to Sorimachi<LINE>
+//who is playing in Hyuga's usual position<LINE>
+//as a center forward!<END>
 
-//Maintenant!<END>
+//Now!<END>
 
-//But! Toho Gakuen marque un but!<END>
+//Goal! Toho Gakuen scores a goal!<END>
 

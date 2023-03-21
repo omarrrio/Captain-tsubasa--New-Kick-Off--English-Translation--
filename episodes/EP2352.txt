@@ -1,21 +1,21 @@
 // FILE: EP2352.str containing 6 strings
 
-//Très bien. Je vais marquer un autre but!<END>
+//Very well. I'm going to score another goal!<END>
 
-//Ouah! Quel superbe tir de Sawada!<END>
+//Wow! What a superb shot by Sawada!<END>
 
-//Et le ballon fonce droit dans le filet!<LINE>
-//Le gardien de but n'a pas eu le temps<LINE>
-//de réagir...<END>
+//And the ball shoots straight into the net!<LINE>
+//The goalkeeper didn't have time<LINE>
+//to react...<END>
 
-//C'est une catastrophe…<LINE>
-//Nous ne pouvons pas vaincre<LINE>
-//une telle équipe.<END>
+//This is a catastrophe...<LINE>
+//We can't defeat<LINE>
+//such a team.<END>
 
-//Comment je m'en sors, Hyuga?<LINE>
-//Je remets en place tous ceux qui ont osé<LINE>
-//critiquer Toho!<END>
+//How am I doing, Hyuga?<LINE>
+//I'm putting in place all those who dared<LINE>
+//to criticize Toho!<END>
 
-//Tu t'en sors très bien, Takeshi!<LINE>
-//Le jeu de Toho est unique!<END>
+//You're doing very well, Takeshi!<LINE>
+//Toho's playstyle is unique!<END>
 

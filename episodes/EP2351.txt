@@ -1,22 +1,21 @@
 // FILE: EP2351.str containing 5 strings
 
-//Impressionnant! Encore un but!<LINE>
-//L'équipe adverse encaisse les buts<LINE>
-//de Toho les uns après les autres!<LINE>
-//On dirait que rien ne peut les arrêter!<END>
+//Impressive! Another goal!<LINE>
+//The opposing team is conceding<LINE>
+//one goal after another from Toho!<LINE>
+//It seems like nothing can stop them!<END>
 
-//Que dites-vous de ça?<LINE>
-//Je ne compte pas en rester là!<LINE>
-//Essayez de prendre le dessus après ça!<LINE>
-//Vous sembliez bien sûr de vous avant<LINE>
-//le match pourtant!<END>
+//What do you say about that?<LINE>
+//I'm not going to stop there!<LINE>
+//Try to take the lead after that!<LINE>
+//You seemed confident before the match though!<END>
 
-//Nous jouons pour gagner!<END>
+//We play to win!<END>
 
-//Nous écraserons toutes les équipes<LINE>
-//qui estiment pouvoir nous battre<LINE>
-//simplement parce que Hyuga n'est pas<LINE>
-//sur le terrain!<END>
+//We will crush all teams<LINE>
+//who think they can beat us<LINE>
+//just because Hyuga isn't<LINE>
+//on the field!<END>
 
-//Hum! Il est bien présomptueux...<END>
+//Hmm! That's very presumptuous...<END>
 

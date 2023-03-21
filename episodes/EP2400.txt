@@ -1,68 +1,66 @@
 // FILE: EP2400.str containing 16 strings
 
-//Nous allons affronter Meiwa-Higashi<LINE>
-//en demi-finale. Sawada et Wakashimazu<LINE>
-//connaissent bien cette équipe.<LINE>
-//Et cette dernière connaît notre façon<LINE>
-//de jouer.<END>
+//We're going to face Meiwa-Higashi<LINE>
+//in the semifinals. Sawada and Wakashimazu<LINE>
+//know this team well.<LINE>
+//And they know our playing style.<END>
 
-//Mais vous avez progressé!<LINE>
-//Si nous continuons à suivre le plan de jeu<LINE>
-//de Toho, nous sommes certains de gagner!<END>
+//But you've improved!<LINE>
+//If we keep following Toho's game plan,<LINE>
+//we're sure to win!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//Sorimachi, occupe-toi de marquer des buts!<END>
+//Sorimachi, focus on scoring goals!<END>
 
-//Oui, entraîneur!<END>
+//Yes, coach!<END>
 
-//Hors de question de perdre!<LINE>
-//Nous allons gagner, même sans Hyuga!<END>
+//No way we're going to lose!<LINE>
+//We'll win, even without Hyuga!<END>
 
-//Je ne sais pas ce qui se passe,<LINE>
-//mais on dirait que Hyuga ne va pas jouer.<END>
+//I don't know what's going on,<LINE>
+//but it looks like Hyuga won't be playing.<END>
 
-//Ouais. Nous affrontons Toho aujourd'hui.<LINE>
-//Il nous suffit de marquer Takeshi<LINE>
-//en permanence pour être tranquilles.<LINE>
-//Ensuite, il ne nous restera plus<LINE>
-//qu'à feinter Wakashimazu.<END>
+//Yeah. We're facing Toho today.<LINE>
+//All we have to do is mark Takeshi<LINE>
+//the whole time to be safe.<LINE>
+//Then, all we have to do is trick Wakashimazu.<END>
 
-//Ces deux-là sont des anciens coéquipiers.<LINE>
-//Nous avons donc l'avantage de connaître<LINE>
-//leurs personnalités, leurs styles de jeu,<LINE>
-//leurs points forts et leurs faiblesses.<END>
+//These two are former teammates.<LINE>
+//So we have the advantage of knowing<LINE>
+//their personalities, playing styles,<LINE>
+//strengths, and weaknesses.<END>
 
-//Mettez la pression sur Takeshi,<LINE>
-//et marquez dans les buts de Wakashimazu!<LINE>
-//Nous avons toutes nos chances de gagner<LINE>
-//puisque Kojiro Hyuga ne sera pas<LINE>
-//sur le terrain aujourd'hui!<END>
+//Put pressure on Takeshi,<LINE>
+//and score in Wakashimazu's goal!<LINE>
+//We have a great chance of winning<LINE>
+//since Kojiro Hyuga won't be<LINE>
+//on the field today!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//La demi-finale d'aujourd'hui oppose<LINE>
-//Toho Gakuen à Meiwa-Higashi!<LINE>
-//Plusieurs joueurs de Meiwa-Higashi jouent<LINE>
-//à Meiwa FC, une des grandes équipes<LINE>
-//de football junior!<END>
+//Today's semifinal features<LINE>
+//Toho Gakuen versus Meiwa-Higashi!<LINE>
+//Several Meiwa-Higashi players play<LINE>
+//for Meiwa FC, one of the top junior<LINE>
+//soccer teams!<END>
 
-//D'ailleurs, le joueur vedette de Toho,<LINE>
-//Hyuga, ainsi que Sawada et Wakashimazu,<LINE>
-//ont tous trois joué au Meiwa FC.<END>
+//In fact, Toho's star player,<LINE>
+//Hyuga, as well as Sawada and Wakashimazu,<LINE>
+//all played for Meiwa FC.<END>
 
-//Les joueurs de Meiwa vont affronter<LINE>
-//leurs anciens coéquipiers<LINE>
-//lors du match d'aujourd'hui!<END>
+//Meiwa's players will face off<LINE>
+//against their former teammates<LINE>
+//in today's match!<END>
 
-//Toho a cependant encore choisi<LINE>
-//de ne pas faire jouer Hyuga<LINE>
-//pour ce match.<END>
+//Toho has chosen once again<LINE>
+//not to play Hyuga<LINE>
+//for this match.<END>
 
-//Toho a certes réussi à gagner<LINE>
-//jusqu'à présent sans Hyuga, mais<LINE>
-//Meiwa-Higashi connaît très bien<LINE>
-//ses principaux adversaires!<LINE>
-//Ce match décisif s'annonce palpitant!<LINE>
-//Place au coup d'envoi!<END>
+//Toho has certainly managed to win<LINE>
+//so far without Hyuga, but<LINE>
+//Meiwa-Higashi knows their main opponents<LINE>
+//very well!<LINE>
+//This decisive match promises to be thrilling!<LINE>
+//Let the kickoff begin!<END>
 

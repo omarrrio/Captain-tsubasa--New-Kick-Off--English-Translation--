@@ -1,29 +1,29 @@
 // FILE: EP2251.str containing 11 strings
 
-//On remet ça, les gars!<END>
+//Let's do it again, guys!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//Sawada fait une autre passe à Sorimachi!<END>
+//Sawada makes another pass to Sorimachi!<END>
 
-//Sorimachi est bien placé pour marquer<LINE>
-//un autre but. Il réceptionne la passe,<LINE>
-//se met en position...<END>
-
-//...<END>
-
-//Il tire!<END>
+//Sorimachi is well positioned to score<LINE>
+//another goal. He receives the pass,<LINE>
+//gets into position...<END>
 
 //...<END>
 
-//But!<LINE>
-//Toho Gakuen marque un autre but<LINE>
-//en un temps record!<END>
+//He shoots!<END>
 
 //...<END>
 
-//Je retourne aux vestiaires<LINE>
-//pour me reposer.<END>
+//Goal!<LINE>
+//Toho Gakuen scores another goal<LINE>
+//in record time!<END>
+
+//...<END>
+
+//I'm going back to the locker room<LINE>
+//to rest.<END>
 
 //Hyuga...<END>
 

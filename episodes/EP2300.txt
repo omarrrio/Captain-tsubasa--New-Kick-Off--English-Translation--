@@ -1,85 +1,84 @@
 // FILE: EP2300.str containing 27 strings
 
-//Entraîneur, où est Hyuga?<END>
+//Coach, where is Hyuga?<END>
 
-//Hyuga ne viendra pas!<LINE>
-//Il n'a pas besoin de s'entraîner<LINE>
-//puisqu'il ne participera pas au tournoi.<LINE>
-//Aussi je lui ai dit de rentrer chez lui.<END>
+//Hyuga won't come!<LINE>
+//He doesn't need to train<LINE>
+//since he won't participate in the tournament.<LINE>
+//So I told him to go home.<END>
 
-//P-pourquoi?<END>
+//W-why?<END>
 
-//Entraîneur, nous ne pouvons pas gagner<LINE>
-//sans Hyuga!<END>
+//Coach, we can't win<LINE>
+//without Hyuga!<END>
 
-//C'est vrai, entraîneur!<END>
+//That's right, coach!<END>
 
-//Ça suffit!<LINE>
-//Vous n'allez pas vous y mettre!<LINE>
-//Vous n'avez pas à critiquer mes ordres!<END>
+//That's enough!<LINE>
+//You're not going to start this!<LINE>
+//You don't have to criticize my orders!<END>
 
-//Wakashimazu! À compter de maintenant,<LINE>
-//et ce jusqu'à la fin du tournoi,<LINE>
-//je te nomme capitaine de l'équipe.<END>
-
-//Huh?<END>
-
-//Compris?<END>
-
-//Entraîneur...<END>
-
-//L'entraîneur compte m'évincer du match<LINE>
-//une fois de plus.<END>
-
-//Je m'en fiche du moment que Toho gagne.<LINE>
-//Mais ils ne pourront pas gagner sans moi<LINE>
-//lors du match de championnat<LINE>
-//contre Nankatsu.<END>
-
-//Je vais jouer le match de championnat!<LINE>
-//Je vais aider mes coéquipiers<LINE>
-//à donner le meilleur d'eux-mêmes<LINE>
-//afin que Toho remporte le tournoi.<LINE>
-//Je sais ce qu'il me reste à faire.<END>
-
-//La composition de départ de l'équipe sera<LINE>
-//la même que celle d'hier.<END>
-
-//Compris?<END>
-
-//Et Hyuga, entraîneur?<END>
+//Wakashimazu! From now on,<LINE>
+//and until the end of the tournament,<LINE>
+//I appoint you captain of the team.<END>
 
 //Huh?<END>
 
-//Ça va aller.<LINE>
-//J'ai vu les gars de l'autre équipe<LINE>
-//s'entraîner.<LINE>
-//Vous allez vous en sortir sans problème.<END>
+//Understood?<END>
 
-//Et puis, au cas où ça se passerait mal,<LINE>
-//je me tiendrai prêt à entrer sur le terrain<LINE>
-//à tout moment!<END>
+//Coach...<END>
+
+//The coach is trying to remove me from the game<LINE>
+//once again.<END>
+
+//I don't care as long as Toho wins.<LINE>
+//But they can't win without me<LINE>
+//in the championship match<LINE>
+//against Nankatsu.<END>
+
+//I will play in the championship match!<LINE>
+//I will help my teammates<LINE>
+//to give their best<LINE>
+//so that Toho wins the tournament.<LINE>
+//I know what I have to do.<END>
+
+//The starting lineup of the team will be<LINE>
+//the same as yesterday.<END>
+
+//Understood?<END>
+
+//And Hyuga, coach?<END>
+
+//Huh?<END>
+
+//It will be fine.<LINE>
+//I saw the other team's guys training.<LINE>
+//You'll manage without any problem.<END>
+
+//And then, in case things go wrong,<LINE>
+//I'll be ready to enter the field<LINE>
+//at any moment!<END>
 
 //...<END>
 
 //Hyuga...<END>
 
-//Mais que se passe-t-il?<LINE>
-//Hyuga ne joue pas aujourd'hui non plus?<END>
+//What's going on?<LINE>
+//Hyuga's not playing today either?<END>
 
-//Nous somme sûrs de gagner sans Hyuga.<LINE>
-//Vous n'êtes pas de taille contre nous!<END>
+//We're sure to win without Hyuga.<LINE>
+//You're no match for us!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Répète ce que tu viens de dire, imbécile!<LINE>
-//Même sans son capitaine,<LINE>
-//Toho va vous écraser à plates coutures!<END>
+//Repeat what you just said, idiot!<LINE>
+//Even without their captain,<LINE>
+//Toho will crush you flat!<END>
 
-//Ah bon? Hyuga semble pourtant porter<LINE>
-//l'équipe à lui tout seul<LINE>
-//d'après ce que j'ai pu voir.<END>
+//Is that so? Hyuga seems to be carrying<LINE>
+//the team all by himself<LINE>
+//from what I've seen.<END>
 
-//Vous allez voir que nous pouvons gagner<LINE>
-//sans Hyuga!<END>
+//You'll see that we can win<LINE>
+//without Hyuga!<END>
 

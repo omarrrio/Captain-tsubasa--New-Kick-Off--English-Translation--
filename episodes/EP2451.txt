@@ -1,102 +1,126 @@
 // FILE: EP2451.str containing 33 strings
 
-//Et Meiwa-Higashi se met<LINE>
-//en position de tir!<END>
+//We're going to win this match!<LINE>
+//This will be the last one without Hyuga!<END>
 
-//Non!<END>
+//Stay strong, Takeshi!<LINE>
+//We won't lose to<LINE>
+//a bunch of kids!<END>
 
-//Oh! Mais Wakashimazu repousse la balle!<END>
+//Well, it seems like two players<LINE>
+//from Meiwa-Higashi are marking Sawada,<LINE>
+//Toho's playmaker!<END>
 
-//C'est incroyable!<LINE>
-//Wakashimazu a réagi à temps<LINE>
-//en bloquant le tir.<LINE>
-//Sans cela, l'équipe adverse<LINE>
-//aurait marqué un but!<END>
+//Here we go!<END>
 
-//Le ballon a été repoussé,<LINE>
-//mais il reste en jeu.<LINE>
-//L'action se déroule dans<LINE>
-//la surface de réparation!<END>
+//Sawada still manages to make<LINE>
+//a pass!<END>
 
-//Éloigne le ballon! Envoie-le loin!<END>
+//Oh, but it doesn't reach its target!<END>
 
-//Quel joueur parviendra à l'atteindre<LINE>
-//en premier?<END>
+//They were expecting a pass<LINE>
+//to Sorimachi!<END>
 
-//Celui de Toho?<LINE>
-//Ou celui de Meiwa-Higashi?<END>
+//Agh!<END>
 
-//Prends ça!<LINE>
-//Kamikaze sliding squad de Meiwa,<LINE>
-//nous voilà!<END>
+//Great! They're doing exactly<LINE>
+//what we planned!<END>
 
-//Quoi!<END>
+//And Meiwa-Higashi is<LINE>
+//positioning for a shot!<END>
 
-//Ouah! But! But!<LINE>
-//La ténacité de Meiwa a fini par payer!<END>
+//No!<END>
 
-//Hein...<END>
+//Oh! But Wakashimazu deflects the ball!<END>
 
-//Il semblerait que l'avant-centre Sawaki<LINE>
-//soit le dernier à avoir touché le ballon.<LINE>
-//Dans tous les cas, nous avons assisté<LINE>
-//à une tempête de tacles glissés<LINE>
-//de Meiwa-Higashi!<END>
+//It's amazing!<LINE>
+//Wakashimazu reacted in time<LINE>
+//to block the shot.<LINE>
+//Without that, the opposing team<LINE>
+//would have scored a goal!<END>
 
-//Tous ceux qui se trouvaient<LINE>
-//près du ballon repoussé par Wakashimazu<LINE>
-//ont misé sur des tirs glissés pour marquer<LINE>
-//le premier but!<END>
+//The ball has been deflected,<LINE>
+//but it's still in play.<LINE>
+//The action is taking place inside<LINE>
+//the penalty area!<END>
 
-//Très bien! Nous avons marqué un but!<LINE>
-//Nous dominons le match dorénavant!<END>
+//Clear the ball! Kick it far!<END>
+
+//Which player will reach it first?<END>
+
+//Toho's player?<LINE>
+//Or Meiwa-Higashi's?<END>
+
+//Take this!<LINE>
+//Meiwa's kamikaze sliding squad,<LINE>
+//here we come!<END>
+
+//What!<END>
+
+//Wow! Goal! Goal!<LINE>
+//Meiwa's tenacity has finally paid off!<END>
+
+//Huh...<END>
+
+//It seems that center-forward Sawaki<LINE>
+//was the last one to touch the ball.<LINE>
+//In any case, we witnessed<LINE>
+//a storm of sliding tackles<LINE>
+//by Meiwa-Higashi!<END>
+
+//Everyone near the ball deflected by Wakashimazu<LINE>
+//went for sliding shots to score<LINE>
+//the first goal!<END>
+
+//Alright! We scored a goal!<LINE>
+//We're dominating the match from now on!<END>
 
 //...<END>
 
-//Attends, Hyuga!<END>
+//Wait, Hyuga!<END>
 
-//Qu'est-ce que tu fais?<LINE>
-//Je n'ai aucune intention de te faire<LINE>
-//participer à ce match!<END>
+//What are you doing?<LINE>
+//I have no intention of letting you<LINE>
+//participate in this match!<END>
 
 //...<END>
 
-//Assieds-toi, Hyuga!<LINE>
-//C'est un ordre de ton entraîneur!<END>
+//Sit down, Hyuga!<LINE>
+//It's an order from your coach!<END>
 
-//Des ordres, des ordres,<LINE>
-//toujours des ordres...<END>
+//Orders, orders,<LINE>
+//always orders...<END>
 
-//Vous vous prenez pour le maître du monde?<LINE>
-//Vous avez toujours raison?<END>
+//Do you think you're the master of the world?<LINE>
+//Are you always right?<END>
 
-//Que dis-tu?<END>
+//What did you say?<END>
 
-//Pourquoi... pourquoi ne puis-je pas jouer?<END>
+//Why... why can't I play?<END>
 
-//Attends, Hyuga!<END>
+//Wait, Hyuga!<END>
 
-//Venez ici, les gars!<LINE>
-//Ce n'est qu'un but!<LINE>
-//Vous pouvez revenir, j'en suis sûr!<END>
+//Come here, guys!<LINE>
+//It's just one goal!<LINE>
+//You can come back, I'm sure of it!<END>
 
-//Gagnez ce match sans moi!<LINE>
-//Vous devez gagner, les gars!<END>
-
-//Hyuga...<END>
-
-//Capitaine...<END>
+//Win this match without me!<LINE>
+//You have to win, guys!<END>
 
 //Hyuga...<END>
 
-//Je jouerai la finale!<END>
+//Captain...<END>
 
-//Très bien…<LINE>
-//En place, les gars! Ce n'est qu'un but,<LINE>
-//tout comme le capitaine l'a dit!<LINE>
-//Nous allons le leur reprendre!<END>
+//Hyuga...<END>
 
-//Ouais! Nous sommes arrivés ici<LINE>
-//sans le capitaine! Nous allons leur<LINE>
-//montrer de quel bois Toho se chauffe!<END>
+//I'll play in the final!<END>
+
+//Alright...<LINE>
+//Get ready, guys! It's just one goal,<LINE>
+//like the captain said!<LINE>
+//We'll take it back from them!<END>
+
+////Yeah! We made it here without<LINE>
+//the captain! We'll show them<LINE>
+//what Toho is made of!<END>
 

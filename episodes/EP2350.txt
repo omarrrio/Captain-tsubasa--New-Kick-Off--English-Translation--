@@ -1,28 +1,27 @@
 // FILE: EP2350.str containing 8 strings
 
-//Grrr! Arrêtez-le!<LINE>
-//Ne le laissez pas marquer un autre but!<END>
+//Grrr! Stop him!<LINE>
+//Don't let him score another goal!<END>
 
-//Tu n'as pas dit que nous ne pourrions pas<LINE>
-//marquer de buts sans Hyuga?<END>
+//Didn't you say we couldn't<LINE>
+//score goals without Hyuga?<END>
 
-//Je joue en avant-centre pour Toho<LINE>
-//maintenant!<LINE>
-//Je compte marquer autant de buts<LINE>
-//qu'il sera nécessaire… pour que Toho<LINE>
-//remporte tous les matchs en attendant<LINE>
-//le retour de Hyuga!<END>
+//I'm playing as center forward<LINE>
+//for Toho now!<LINE>
+//I plan to score as many goals<LINE>
+//as necessary...so that Toho can win<LINE>
+//all the matches until Hyuga returns!<END>
 
-//En avant!<END>
+//Let's go!<END>
 
-//But! Sorimachi envoie le ballon<LINE>
-//en plein dans le filet!<END>
+//Goal! Sorimachi sends the<LINE>
+//ball straight into the net!<END>
 
-//Sorimachi nous a fait<LINE>
-//un joli coup du chapeau aujourd'hui!<END>
+//Sorimachi has completed a<LINE>
+//hat-trick today!<END>
 
-//Vous avez vu ça!<LINE>
-//Le jeu de Toho est unique!<END>
+//Did you see that?<LINE>
+//Toho's playstyle is unique!<END>
 
 //Sorimachi!<END>
 

@@ -92,21 +92,21 @@
 //Wakashimazu charges out of the goal,<LINE>
 //but Honma is already in shooting position!<END>
 
-//"No one will stop me from scoring this goal!"<END>
+//No one will stop me from scoring this goal!<END>
 
-//"Wow!"<END>
+//Wow!<END>
 
-//"What!"<END>
+//What!<END>
 
-//"Phew!"<END>
+//Phew!<END>
 
-//"Wakashimazu...stopped it!"<END>
+//Wakashimazu...stopped it!<END>
 
-//"He saw that one hand wouldn't be enough,<LINE>
+//He saw that one hand wouldn't be enough,<LINE>
 //so he joined his two hands<LINE>
 //and jumped at the right moment<LINE>
-//to block the shot!"<END>
+//to block the shot!<END>
 
-//"The Toho defenders can't even<LINE>
-//get close to the ball!"<END>
+//The Toho defenders can't even<LINE>
+//get close to the ball!<END>
 
