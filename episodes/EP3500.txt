@@ -1,8 +1,8 @@
 // FILE: EP3500.str containing 30 strings
 
-//Qu'ils gagnent ou qu'ils perdent,<LINE>
-//c'est aujourd'hui le dernier jour.<LINE>
-//Nous partirons après la fin du match.<END>
+//Whether they win or lose,<LINE>
+//today is the last day.<LINE>
+//We will leave after the end of the match.<END>
 
 //...<END>
 
@@ -10,71 +10,71 @@
 
 //?<END>
 
-//Ça va?<END>
+//How are you?<END>
 
-//Ça va, Yoshiko?<END>
+//Everything's alright, Yoshiko?<END>
 
-//Oui, ça va.<END>
+//Yeah, i am good.<END>
 
-//Bien, dans ce cas préparez-nous de<LINE>
-//la boisson énergétique s'il vous plaît?<END>
+//Okay, in that case, please prepare<LINE>
+//the energy drink for us, please?<END>
 
-//D'accord.<END>
+//Okay.<END>
 
-//Notre adversaire d'aujourd'hui<LINE>
-//est Toho Gakuen.<LINE>
-//Nous ne savons pas encore<LINE>
-//si Hyuga participera au match,<LINE>
-//mais même sans lui,<LINE>
-//ils sont capables de rivaliser<LINE>
-//ou même surpasser Nankatsu.<END>
+//Our opponent for today<LINE>
+//is Toho Gakuen.<LINE>
+//We do not know yet<LINE>
+//if Hyuga will participate in the match,<LINE>
+//but even without him,<LINE>
+//they are capable of competing<LINE>
+//or even surpassing Nankatsu.<END>
 
-//Nous ne devons pas perdre de vue<LINE>
-//le joueur clé, Sawada!<LINE>
-//Ne le laissez pas toucher le ballon!<END>
+//We must not lose sight of<LINE>
+//the key player, Sawada!<LINE>
+//Don't let him touch the ball!<END>
 
-//OK! Alors, bon courage!<END>
+//OK! Then, good luck!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Euh... Matsuyama...<END>
+//Uh... Matsuyama...<END>
 
 //Huh?<END>
 
-//Et bien... Euh...<END>
+//Well... Um...<END>
 
-//Qu'est-ce qui ne va pas?<END>
+//What's wrong?<END>
 
-//Oh... Rien.<END>
+//Oh... Nothing.<END>
 
-//Vraiment?<END>
+//Really?<END>
 
-//Gagne le match…<LINE>
-//Fais ce qu'il faut pour ça.<END>
+//Win the match...<LINE>
+//Do what it takes to win.<END>
 
-//Ne t'inquiète pas.<LINE>
-//Je ramènerai le trophée national.<END>
+//Don't worry.<LINE>
+//I will bring back the national trophy.<END>
 
 //?<END>
 
-//C'est lui... Hyuga!<END>
+//It's him... Hyuga!<END>
 
-//Ouais.<END>
+//Yeah.<END>
 
-//J'ai une dette envers toi, je m'en<LINE>
-//acquitterai avec ce match!<END>
+//I owe you, and I'll<LINE>
+//repay that debt with this match!<END>
 
-//Comme tu veux. Toho joue pour gagner.<END>
+//As you wish. Toho plays to win.<END>
 
-//Je ne comptais sur personne d'autre que<LINE>
-//Tsubasa pour me donner du fil à retordre!<END>
+//I didn't count on anyone other than<LINE>
+//Tsubasa to give me a hard time!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//J'ai promis à Tsubasa que je ramènerai<LINE>
-//le trophée du vainqueur en son nom<LINE>
-//et celui de Nankatsu!<END>
+//I promised Tsubasa that I would bring<LINE>
+//back the winner's trophy in his name<LINE>
+//and that of Nankatsu!<END>
 
-//C'est moi, au lieu de Tsubasa,<LINE>
-//qui te vaincrai .<END>
+//It's me, instead of Tsubasa,<LINE>
+//who will defeat you.<END>
 

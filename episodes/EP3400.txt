@@ -1,137 +1,137 @@
 // FILE: EP3400.str containing 46 strings
 
-//Nous allons finalement affronter Nankatsu.<END>
+//We're finally going to face Nankatsu.<END>
 
-//Non seulement Nankatsu bénéficie<LINE>
-//de la présence de Tsubasa, mais<LINE>
-//il a aussi un excellent jeu collectif.<END>
+//Not only does Nankatsu have<LINE>
+//Tsubasa on their team, but<LINE>
+//they also have an excellent team game.<END>
 
-//Mais... pour ce qui est du jeu collectif,<LINE>
-//aucune équipe n'arrive à la cheville<LINE>
-//de Furano!<END>
+//But when it comes to team play,<LINE>
+//no team can compare<LINE>
+//to Furano!<END>
 
-//Il faut que Matsuyama et Furano<LINE>
-//gagnent ce match.<END>
+//Matsuyama and Furano need to<LINE>
+//win this match.<END>
 
-//OK, les gars, venez tous ici!<END>
+//Alright, guys, come over here!<END>
 
-//Oui, entraîneur!<END>
+//Yes, coach!<END>
 
-//Le match d'aujourd'hui pourrait bien être<LINE>
-//le plus dur de tous pour vous.<LINE>
-//Ne pensez pas à demain,<LINE>
-//mais concentrez-vous sur ce match.<END>
+//Today's match could very well be<LINE>
+//the toughest one for you.<LINE>
+//Don't think about tomorrow,<LINE>
+//but focus on this match.<END>
 
-//Oui, entraîneur!<END>
+//Yes, coach!<END>
 
-//Nankatsu est un adversaire coriace…<LINE>
-//Et même si Tsubasa Ozora est blessé,<LINE>
-//il reste un joueur clé. <END>
+//Nankatsu is a tough opponent...<LINE>
+//And even if Tsubasa Ozora is injured,<LINE>
+//he is still a key player.<END>
 
-//Si vous pouvez arrêter Tsubasa,<LINE>
-//tout ira bien pour nous.<LINE>
-//Pour cela, je compte sur toi, Matsuyama,<LINE>
-//pour le marquer de très près.<END>
+//If you can stop Tsubasa,<LINE>
+//everything will be fine for us.<LINE>
+//For that, I'm counting on you, Matsuyama,<LINE>
+//to mark him very closely.<END>
 
-//Oui, comptez sur moi.<END>
+//Yes, count on me.<END>
 
-//Bien!<LINE>
-//N'oubliez pas votre boisson énergétique,<LINE>
-//et au travail!<END>
+//Good!<LINE>
+//Don't forget your energy drink,<LINE>
+//and let's get to work!<END>
 
-//Oui, entraîneur!<END>
+//Yes, coach!<END>
 
 //Manager?<END>
 
 //Yoshiko...<END>
 
-//Mais...<END>
+//But...<END>
 
-//Qu'est-ce qu'il y a, Manager?<END>
+//What is it, Manager?<END>
 
-//Yoshiko a confectionné des bandeaux<LINE>
-//pour l'équipe.<END>
+//Yoshiko made headbands<LINE>
+//for the team.<END>
 
-//Des bandeaux?<END>
+//Headbands?<END>
 
-//Mais, personne n'en porte<LINE>
-//dans les autres équipes...<END>
+//But, no one wears them<LINE>
+//on the other teams...<END>
 
-//Fais-voir ça.<END>
+//Let me see.<END>
 
 //Oh...<END>
 
-//Tu as dû travailler dur<LINE>
-//pour faire tout ça.<END>
+//You must have worked hard<LINE>
+//to make all this.<END>
 
-//Au fait, Fujisawa, tu pars toujours<LINE>
-//aux États-Unis au second semestre?<END>
+//By the way, Fujisawa, are you still going<LINE>
+//to the United States in the second semester?<END>
 
-//Oui.<END>
+//Yes.<END>
 
-//Ah, bon...?<END>
+//Oh, okay...?<END>
 
 //...<END>
 
-//Puisque Fujisawa s'est donné tant de mal<LINE>
-//pour confectionner ces bandeaux,<LINE>
-//on va tous les porter sur le terrain!<END>
+//Since Fujisawa went to so much trouble<LINE>
+//to make these headbands,<LINE>
+//we're all going to wear them on the field!<END>
 
-//D'accord!<END>
+//Okay!<END>
 
-//On nous reconnaîtra mieux comme ça,<LINE>
+//We'll be more recognizable this way,<LINE>
 //hahaha!<END>
 
 //Matsuyama...<END>
 
-//Yoshiko a brodé chacun de nos numéros.<END>
+//Yoshiko embroidered each of our numbers.<END>
 
-//C'est le mien?<END>
+//Is this mine?<END>
 
-//Oui, Matsuyama.<END>
+//Yes, Matsuyama.<END>
 
-//Oh, merci!<END>
+//Oh, thank you!<END>
 
-//Super!<END>
+//Great!<END>
 
-//S'il te plaît, Matsuyama,<LINE>
-//gagne le match...<END>
+//Please, Matsuyama,<LINE>
+//win the game...<END>
 
-//Et c'est sous les acclamations de la foule<LINE>
-//que les deux équipes pénètrent<LINE>
-//sur le terrain!<END>
+//And to the cheers of the crowd<LINE>
+//both teams step<LINE>
+//onto the field!<END>
 
-//On dirait que tous les joueurs de Furano<LINE>
-//portent un bandeau!<LINE>
-//Il leur faudra beaucoup d'acharnement<LINE>
-//pour battre Nankatsu aujourd'hui!<END>
+//It looks like all the Furano players<LINE>
+//are wearing headbands!<LINE>
+//They'll need a lot of determination<LINE>
+//to beat Nankatsu today!<END>
 
-//Bien que tu sois blessé,<LINE>
-//je ne te ferai pas de cadeau, Tsubasa!<END>
+//Even though you're injured,<LINE>
+//I won't go easy on you, Tsubasa!<END>
 
-//Encore deux matches!<LINE>
-//Nous allons gagner!<LINE>
-//Je ne dois pas perdre au Japon!<END>
+//Just two more games!<LINE>
+//We're going to win!<LINE>
+//I can't lose in Japan!<END>
 
-//Tsubasa, Furano a travaillé dur<LINE>
-//en attendant ce jour.<LINE>
-//Nous allons atteindre notre objectif<LINE>
-//et battre Nankatsu!<END>
+//Tsubasa, Furano has worked hard<LINE>
+//waiting for this day.<LINE>
+//We will achieve our goal<LINE>
+//and beat Nankatsu!<END>
 
-//Matsuyama, je ne perdrai pas ce match!<END>
+//Matsuyama, I won't lose this match!<END>
 
-//Deuxième demi-finale,<LINE>
-//Nankatsu contre Furano.<LINE>
-//Les deux capitaines se serrent la main<LINE>
-//avant de prendre leur poste<LINE>
-//sur le terrain.<END>
+//Second semifinal,<LINE>
+//Nankatsu vs. Furano.<LINE>
+//The two captains shake hands<LINE>
+//before taking their positions<LINE>
+//on the field.<END>
 
-//Quelle équipe jouera la finale?<LINE>
-//Furano, forte de son excellent travail<LINE>
-//collectif, ou Nankatsu au jeu parfaitement<LINE>
-//équilibré?<END>
+//Which team will play in the final?<LINE>
+//Furano, with their excellent teamwork,<LINE>
+//or Nankatsu with their perfectly balanced<LINE>
+//game?<END>
 
-//L'arbitre a sifflé<LINE>
-//le début de la rencontre!<LINE>
-//La demi-finale commence!<END>
+//The referee has blown the whistle<LINE>
+//and the match has begun!<LINE>
+//The semifinal has started!<END>
 

@@ -1,21 +1,19 @@
 // FILE: EP3354.str containing 6 strings
 
-//Ah! Je ne laisserai pas gagner des équipes<LINE>
-//qui jouent toute l'année sur une pelouse!<END>
+//Ah! I won't let teams that play on a grass field all year win!<END>
 
-//Oh! Un long shoot de Matsuyama!<END>
+//Oh! A long shot by Matsuyama!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Quelle puissance dans ce tir<LINE>
-//au ras du sol!<LINE>
-//Minamiuwa, qui s'attendait à ce qu'il fasse<LINE>
-//une passe, s'est bien fait avoir!<END>
+//What power in this low shot!<LINE>
+//Minamiuwa, who was expecting him to pass,<LINE>
+//has been fooled!<END>
 
-//But!<LINE>
-//Matsuyama a mis toute sa puissance<LINE>
-//dans ce long shoot et a marqué!<END>
+//Goal!<LINE>
+//Matsuyama put all his power<LINE>
+//into this long shot and scored!<END>
 
-//On va vous montrer ce que c'est,<LINE>
-//la ténacité des gens d'Hokkaido!<END>
+//We'll show you what<LINE>
+//Hokkaido people's tenacity is like!<END>
 

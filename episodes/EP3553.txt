@@ -1,48 +1,48 @@
 // FILE: EP3553.str containing 15 strings
 
-//Ce Sawada... Les combinaisons<LINE>
-//entre lui et Hyuga m'inquiètent…<LINE>
-//Je ne le laisserai pas passer!<END>
+//This Sawada... the combinations<LINE>
+//between him and Hyuga worry me...<LINE>
+//I won't let him pass!<END>
 
-//Matsuyama est engagé dans un duel<LINE>
-//avec Sawada!<END>
+//Matsuyama is engaged in a duel<LINE>
+//with Sawada!<END>
 
-//Avec Matsuyama dans cette position,<LINE>
-//Huyga ne peut pas évoluer librement<LINE>
-//à l'avant!<LINE>
-//Je ferai tout ce que je peux<LINE>
-//pour lui passer le ballon!<END>
+//With Matsuyama in that position,<LINE>
+//Hyuga can't evolve freely<LINE>
+//upfront!<LINE>
+//I'll do everything I can<LINE>
+//to pass him the ball!<END>
 
-//Quelle féroce mêlée!<LINE>
-//Ce combat entre les milieux de terrain<LINE>
-//pourrait bien être un moment décisif<LINE>
-//pour la suite du match.<END>
+//What a fierce melee!<LINE>
+//This battle between midfielders<LINE>
+//could be a decisive moment<LINE>
+//for the rest of the match.<END>
 
-//Incroyable, ce marquage!<LINE>
-//Je n'ai plus d'espace pour évoluer!<END>
+//Incredible marking!<LINE>
+//I don't have any space to move!<END>
 
-//Il faut absolument que je reprenne<LINE>
-//le ballon et fasse avancer les choses!<END>
+//I absolutely need to regain<LINE>
+//the ball and make things move forward!<END>
 
-//C'est tout ou rien!<END>
+//It's all or nothing!<END>
 
-//Oh! Sawada a essayé de forcer le blocus<LINE>
-//mais a perdu l'équilibre!<END>
+//Oh! Sawada tried to force his way through<LINE>
+//but lost balance!<END>
 
 //Takeshi!<END>
 
-//C'est le moment! Maintenant!<END>
+//This is the moment! Now!<END>
 
-//Ici, Hyuga!<END>
+//Here, Hyuga!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Toujours déséquilibré, Sawada a fait<LINE>
-//une passe à Hyuga!<END>
+//Still unbalanced, Sawada made<LINE>
+//a pass to Hyuga!<END>
 
-//Mais, il... utilise la même technique<LINE>
-//que Tsubasa...!<END>
+//But, he... is using the same technique<LINE>
+//as Tsubasa...!<END>
 
-//Bien joué, Takeshi!<LINE>
-//OK, on marque maintenant!<END>
+//Well played, Takeshi!<LINE>
+//OK, we'll be scoring now!<END>
 

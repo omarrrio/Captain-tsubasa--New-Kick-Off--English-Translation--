@@ -1,57 +1,57 @@
 // FILE: EP2555.str containing 17 strings
 
-//Hyuga devance Sawada!<END>
+//Hyuga is ahead of Sawada!<END>
 
-//Sawada et Hyuga n'ont pas eu l'occasion<LINE>
-//de jouer ensemble durant ce tournoi!<LINE>
-//Qui plus est, Hyuga semble plus rapide<LINE>
-//qu'auparavant!<END>
+//Sawada and Hyuga didn't have the chance<LINE>
+//to play together during this tournament!<LINE>
+//Furthermore, Hyuga seems faster<LINE>
+//than before!<END>
 
-//Sawada parviendra-t-il à tenir la distance<LINE>
-//face au nouveau Hyuga?<END>
+//Will Sawada be able to keep up<LINE>
+//with the new Hyuga?<END>
 
-//Tout comme les frères Tachibana de Hanawa,<LINE>
-//Masao et Kazuo, ou encore Tsubasa et Misaki<LINE>
-//de Nankatsu, Hyuga peut compter sur moi!<END>
+//Just like the Tachibana brothers from Hanawa,<LINE>
+//Masao and Kazuo, or Tsubasa and Misaki<LINE>
+//from Nankatsu, Hyuga can count on me!<END>
 
-//Nous formons le Toho's golden duo!<END>
+//We form the Toho's golden duo!<END>
 
-//Oh! Il réceptionne la passe en douceur!<END>
+//Oh! He receives the pass smoothly!<END>
 
-//Hyuga et Sawada font preuve<LINE>
-//d'une synchronisation spectaculaire!<LINE>
-//Ils sont en parfaite harmonie!<END>
+//Hyuga and Sawada demonstrate<LINE>
+//spectacular synchronization!<LINE>
+//They are in perfect harmony!<END>
 
-//Jolie passe, Takeshi! Merci!<END>
+//Nice pass, Takeshi! Thanks!<END>
 
-//Oh! Mais Tsubasa arrive sur le côté<LINE>
-//afin de bloquer le ballon!<END>
+//Oh! But Tsubasa arrives on the side<LINE>
+//to block the ball!<END>
 
-//Je ne compte pas perdre le ballon<LINE>
-//que vient de m'envoyer Takeshi!<END>
+//I won't lose the ball<LINE>
+//Takeshi just sent me!<END>
 
-//Hyuga tire malgré tout!<LINE>
-//C'est un Tiger shot!<LINE>
-//Tsubasa est littéralement mis hors course!<END>
+//Hyuga shoots anyway!<LINE>
+//It's a Tiger Shot!<LINE>
+//Tsubasa is literally knocked out of the game!<END>
 
-//Et but!<LINE>
-//L'action de Tsubasa a ralenti le ballon,<LINE>
-//mais le plongeon désespéré de Morisaki<LINE>
-//n'a pas suffi pour atteindre la balle!<END>
+//And goal!<LINE>
+//Tsubasa's action slowed the ball down,<LINE>
+//but Morisaki's desperate dive<LINE>
+//wasn't enough to reach the ball!<END>
 
-//Ouvre grand tes oreilles, Tsubasa!<LINE>
-//Je vais continuer à creuser l'écart<LINE>
-//entre nos deux équipes!<END>
+//Listen up, Tsubasa!<LINE>
+//I'm going to keep widening<LINE>
+//the gap between our two teams!<END>
 
 //...<END>
 
-//Il faudrait être aveugle pour ne pas voir<LINE>
-//que tu n'es pas au meilleur de ta forme!<END>
+//You'd have to be blind not to see<LINE>
+//that you're not in your best shape!<END>
 
-//Et afin de faire taire ceux qui pourraient<LINE>
-//attribuer notre victoire à ta blessure...<END>
+//And to silence those who might<LINE>
+//attribute our victory to your injury...<END>
 
-//Je vais marquer un maximum de buts!<LINE>
-//Tu m'entends?<LINE>
-//Je vais te battre et écraser Nankatsu!<END>
+//I'm going to score as many goals as possible!<LINE>
+//Do you hear me?<LINE>
+//I'm going to beat you and crush Nankatsu!<END>
 

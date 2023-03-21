@@ -1,35 +1,34 @@
 // FILE: EP2551.str containing 9 strings
 
-//Tiens!<END>
+//Here you go!<END>
 
-//Koïké envoie le ballon à droite!<END>
+//Koike passes the ball to the right!<END>
 
-//Hyuga remonte le terrain avec le ballon<LINE>
-//en direction des buts de Nankatsu!<LINE>
-//Sawada et Sorimachi l'y attendent<LINE>
-//de pied ferme!<END>
+//Hyuga moves up the field with the ball<LINE>
+//towards Nankatsu's goal!<LINE>
+//Sawada and Sorimachi are waiting for him<LINE>
+//with determination!<END>
 
-//Prends ça!<LINE>
-//Je peux effectuer un Tiger shot<LINE>
-//du moment que le but est dans mon champ<LINE>
-//de vision!<END>
+//Take this!<LINE>
+//I can perform a Tiger shot<LINE>
+//as long as the goal is within my<LINE>
+//field of vision!<END>
 
-//Incroyable!<LINE>
-//Hyuga ne comptait pas remonter le terrain!<LINE>
-//Il tire malgré une position qui lui laisse<LINE>
-//un faible champ de manœuvre!<END>
+//Incredible!<LINE>
+//Hyuga didn't plan on moving up the field!<LINE>
+//He shoots despite having a position that gives him<LINE>
+//little room to maneuver!<END>
 
-//C'est le deuxième Tiger shot<LINE>
-//de la journée!<END>
+//This is the second Tiger shot<LINE>
+//of the day!<END>
 
-//Et... But!<END>
+//And... Goal!<END>
 
-//Tous les joueurs près du but<LINE>
-//n'ont pas bougé d'un centimètre<LINE>
-//alors que le ballon fonçait droit<LINE>
-//dans la lucarne!<END>
+//All the players near the goal<LINE>
+//didn't move an inch<LINE>
+//as the ball went straight into the top corner!<END>
 
-//Du calme, les gars. Ils ont marqué<LINE>
-//un but, ce n'est pas un drame!<LINE>
-//Le match est loin d'être terminé!<END>
+//Stay calm, guys. They scored<LINE>
+//one goal, it's not a disaster!<LINE>
+//The match is far from over!<END>
 

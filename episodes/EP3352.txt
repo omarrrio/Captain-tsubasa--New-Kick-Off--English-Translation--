@@ -1,19 +1,19 @@
 // FILE: EP3352.str containing 7 strings
 
-//C'est un centre pour Oda, l'avant-centre!<END>
+//It's a cross for Oda, the center forward!<END>
 
-//Cette fois-ci, c'est la bonne!<END>
+//This time, it's good!<END>
 
-//Oda reprend le ballon de la tête,<LINE>
-//en visant les buts!<END>
+//Oda heads the ball,<LINE>
+//aiming for the goal!<END>
 
-//Mais le gardien bloque le ballon!<END>
+//But the goalkeeper blocks the ball!<END>
 
 //Ah...<END>
 
-//C'est dur à avaler!<LINE>
-//C'est la deuxième fois<LINE>
-//qu'Oda manque son tir!<END>
+//It's hard to swallow!<LINE>
+//It's the second time<LINE>
+//Oda misses his shot!<END>
 
 //Oda...<END>
 

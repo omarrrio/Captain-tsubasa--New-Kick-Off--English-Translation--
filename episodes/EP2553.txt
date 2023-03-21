@@ -1,42 +1,42 @@
 // FILE: EP2553.str containing 14 strings
 
-//Tu pensais vraiment que<LINE>
-//je te laisserais aller plus loin?<END>
+//Did you really think<LINE>
+//I would let you go any further?<END>
 
-//Oh! Et Tsubasa change rapidement<LINE>
-//de position pour faire une passe!<END>
+//Oh! And Tsubasa quickly changes<LINE>
+//position to make a pass!<END>
 
-//Et nous assistons à un ravissant une-deux!<END>
+//And we witness a beautiful one-two!<END>
 
-//Ici, Tsubasa!<END>
+//Here's Tsubasa!<END>
 
-//Ah! Il n'y a aucun joueur<LINE>
-//pour réceptionner la passe de Taki!<END>
+//Ah! There's no player<LINE>
+//to receive Taki's pass!<END>
 
-//Très bien!<END>
+//Very good!<END>
 
-//Très bien!<END>
+//Very good!<END>
 
-//Oh! Les deux joueurs se percutent<LINE>
-//de plein fouet dans les airs!<END>
+//Oh! The two players collide<LINE>
+//in mid-air with full force!<END>
 
-//Et ils retombent lourdement à terre!<END>
+//And they fall heavily to the ground!<END>
 
-//Sawada éloigne le ballon,<LINE>
-//sortant Toho d'une situation désespérée.<LINE>
-//C'est un corner, mais je m'inquiète<LINE>
-//pour Wakashimazu et Tsubasa<LINE>
-//après cette chute spectaculaire.<END>
+//Sawada clears the ball,<LINE>
+//taking Toho out of a desperate situation.<LINE>
+//It's a corner, but I'm worried<LINE>
+//about Wakashimazu and Tsubasa<LINE>
+//after this spectacular fall.<END>
 
-//Tu vas bien, Wakashimazu?<END>
+//Are you okay, Wakashimazu?<END>
 
-//Je comprends désormais ce que pourrait<LINE>
-//ressentir un ballon en fin de match.<LINE>
-//Tout va bien.<LINE>
-//Il y a eu plus de peur que de mal!<END>
+//Now I understand what it might feel like<LINE>
+//to be a ball at the end of a game.<LINE>
+//Everything's fine.<LINE>
+//There was more fright than harm!<END>
 
-//Ah... Mon épaule!<END>
+//Ah... My shoulder!<END>
 
-//Pourquoi faut-il que ma vieille blessure<LINE>
-//se réveille quatre ans après l'accident?<END>
+//Why does my old injury have to<LINE>
+//flare up four years after the accident?<END>
 

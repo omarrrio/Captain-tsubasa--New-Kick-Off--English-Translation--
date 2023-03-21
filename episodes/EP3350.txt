@@ -1,62 +1,61 @@
 // FILE: EP3350.str containing 20 strings
 
-//Ishida est connu pour sa technique!<LINE>
-//Il dribble et avance rapidement!<END>
+//Ishida is known for his technique!<LINE>
+//He dribbles and advances quickly!<END>
 
-//Allez-y, marquez-les!<END>
+//Go ahead, score against them!<END>
 
-//Les joueurs marquent leurs opposants<LINE>
-//en suivant les directives de Matsuyama.<END>
+//The players mark their opponents<LINE>
+//following Matsuyama's instructions.<END>
 
-//Mais Minamiuwa est sur la défensive<LINE>
-//alors qu'Ishida fait une passe...<END>
+//But Minamiuwa is on the defensive<LINE>
+//while Ishida makes a pass...<END>
 
-//Oh, Ishida n'a pas fait de passe!<LINE>
-//Il se dirige droit vers le centre!<LINE>
-//Il exploite un trou dans la défense<LINE>
-//de Furano qui s'est ouvert<LINE>
-//quand Ishida a feinté sa passe!<END>
+//Oh, Ishida didn't make a pass!<LINE>
+//He's heading straight to the center!<LINE>
+//He's exploiting a hole in Furano's defense<LINE>
+//that opened up when Ishida faked his pass!<END>
 
-//Mince, il faut vite revenir en défense!<END>
+//Darn, we need to quickly get back on defense!<END>
 
-//Matsuyama, le capitaine de Furano,<LINE>
-//fait un tacle glissé pour stopper<LINE>
-//l'attaque!<END>
+//Matsuyama, Furano's captain,<LINE>
+//makes a sliding tackle to stop<LINE>
+//the attack!<END>
 
-//Tiens!<END>
+//Hey!<END>
 
-//Mais Ishida a eu le temps de faire un lob<LINE>
-//en direction des buts!<END>
+//But Ishida had time to do a lob<LINE>
+//toward the goal!<END>
 
-//Oh, non! Était-ce juste une tactique<LINE>
-//désespérée pour échapper au tacle?<LINE>
-//Le lob n'a servi à rien<LINE>
-//car le ballon est trop haut.<END>
+//Oh no! Was it just a desperate tactic<LINE>
+//to escape the tackle?<LINE>
+//The lob was useless<LINE>
+//because the ball is too high.<END>
 
-//Gardien!<END>
+//Goalkeeper!<END>
 
 //OK!<END>
 
-//Le gardien Kato semble n'avoir<LINE>
-//aucune difficulté à protéger les buts.<END>
+//Goalkeeper Kato seems to have<LINE>
+//no difficulty protecting the goal.<END>
 
-//Mais, attendez!<LINE>
-//Un joueur sprinte avec rage vers la balle!<LINE>
-//C'est Takéi, l'avant-centre de Minamiuwa!<END>
+//But wait!<LINE>
+//A player is sprinting furiously toward the ball!<LINE>
+//It's Takei, Minamiuwa's center-forward!<END>
 
-//Attention!<END>
+//Watch out!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Takéi a sauté en pleine course!<END>
+//Takei has jumped while running!<END>
 
-//C'est un face-à-face aérien<LINE>
-//avec le gardien!<END>
+//It's an aerial showdown<LINE>
+//with the goalkeeper!<END>
 
-//Takéi a remporté ce duel!<LINE>
-//Il a fait usage de sa force<LINE>
-//pour passer au travers…<LINE>
-//But!<END>
+//Takei has won this duel!<LINE>
+//He used his strength<LINE>
+//to power through...<LINE>
+//Goal!<END>
 
-//Allez, on attaque!<END>
+//Let's go, attack!<END>
 

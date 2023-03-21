@@ -1,48 +1,48 @@
 // FILE: EP3453.str containing 18 strings
 
-//Tsubasa se met en position de tir!<LINE>
-//Est-ce que ce sera un Drive shoot?<END>
+//Tsubasa lines up for a shot!<LINE>
+//Will it be a Drive Shot?<END>
 
-//Je t'en empêcherai!<END>
+//I'll stop you!<END>
 
-//Matsuyama le contre!<END>
+//Matsuyama blocks it!<END>
 
-//Matsuyama fait preuve de ténacité.<LINE>
-//Il ne laissera jamais Tsubasa marquer!<LINE>
-//Le ballon s'élève dans les airs.<END>
+//Matsuyama shows tenacity.<LINE>
+//He will never let Tsubasa score!<LINE>
+//The ball rises into the air.<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Et voilà...une Bicyclette retournée!<END>
+//And there it is...a Bicycle Kick!<END>
 
-//Matsuyama ne peut rien faire non plus<LINE>
-//contre cette technique!<END>
+//Matsuyama can't do anything<LINE>
+//against this technique!<END>
 
 //Kato!<END>
 
-//Non!<END>
+//No!<END>
 
-//Kato a plongé mais il ne peut atteindre<LINE>
-//la balle!<END>
+//Kato dove, but he can't reach<LINE>
+//the ball!<END>
 
-//But!<LINE>
-//Tsubasa marque<LINE>
-//sur un superbe coup de pied retourné!<END>
+//Goal!<LINE>
+//Tsubasa scores<LINE>
+//with a superb overhead kick!<END>
 
-//Oh! Tsubasa retombe<LINE>
-//sur son épaule blessée!<END>
+//Oh! Tsubasa falls<LINE>
+//on his injured shoulder!<END>
 
 //Tsubasa!<END>
 
-//Ah! Matsuyama a plongé au sol<LINE>
-//pour amortir la chute de Tsubasa!<END>
+//Ah! Matsuyama dives to the ground<LINE>
+//to cushion Tsubasa's fall!<END>
 
 //Matsuyama!<END>
 
-//Ça va, Tsubasa?<END>
+//Are you okay, Tsubasa?<END>
 
-//Merci, Matsuyama.<END>
+//Thanks, Matsuyama.<END>
 
-//Pas de quoi!<LINE>
-//Je préfère t'affronter en forme!<END>
+//Don't mention it!<LINE>
+//I prefer to face you in top form!<END>
 

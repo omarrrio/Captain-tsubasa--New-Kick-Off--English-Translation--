@@ -1,60 +1,59 @@
 // FILE: EP3502.str containing 18 strings
 
-//Le match vient juste de s'achever!<LINE>
-//Furano, qui représente Hokkaido, a battu<LINE>
-//l'équipe formidable de Toho Gakuen,<LINE>
-//remportant ainsi son premier championnat!<END>
+//The game has just ended!<LINE>
+//Furano, representing Hokkaido, has beaten<LINE>
+//the formidable team of Toho Gakuen,<LINE>
+//winning its first championship!<END>
 
-//Le vainqueur du National Junior<LINE>
-//High School Championship cette année<LINE>
-//n'est ni Nankatsu, ni Toho,<LINE>
-//mais Furano, le champion<LINE>
-//des terres enneigées!<END>
+//The winner of the National Junior<LINE>
+//High School Championship this year<LINE>
+//is neither Nankatsu nor Toho,<LINE>
+//but Furano, the champion<LINE>
+//of the snowy lands!<END>
 
-//Nous avons réussi...<LINE>
-//Nous avons gagné...<END>
+//We did it...<LINE>
+//We won...<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//Nous avons réussi, capitaine!<END>
+//We did it, captain!<END>
 
-//Victoire!<LINE>
-//Nous sommes les champions!<END>
+//Victory!<LINE>
+//We are the champions!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Le trophée du vainqueur a été remis<LINE>
-//au capitaine de Furano, Matsuyama!<END>
+//The winner's trophy was presented<LINE>
+//to Furano's captain, Matsuyama!<END>
 
-//Furano a pris d'assaut le championnat,<LINE>
-//et a su créer la surprise cette année<LINE>
-//grâce à son excellent jeu collectif.<END>
+//Furano stormed the championship,<LINE>
+//and created a surprise this year<LINE>
+//thanks to its excellent team play.<END>
 
-//Matsuyama brandit le trophée du vainqueur!<END>
+//Matsuyama hoists the winner's trophy!<END>
 
-//Tsubasa, j'ai réussi!<LINE>
-//J'ai tenu ma promesse!<LINE>
-//J'ai gagné!<END>
+//Tsubasa, I did it!<LINE>
+//I kept my promise!<LINE>
+//I won!<END>
 
-//Le match est terminé!<LINE>
-//Furano et Toho ont tous deux gagné!<LINE>
-//Un match nul qui fait champions<LINE>
-//les deux équipes!<END>
+//The game is over!<LINE>
+//Furano and Toho both won!<LINE>
+//A draw that makes both teams champions!<END>
 
-//Match nul...<END>
+//Draw...<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//Capitaine, nous avons réussi!<END>
+//Captain, we did it!<END>
 
-//Oui…<LINE>
-//Bien que ce soit un match nul,<LINE>
-//une victoire est une victoire!<LINE>
-//Et la victoire est bien à nous!<END>
+//Yes...<LINE>
+//Although it's a draw,<LINE>
+//a victory is a victory!<LINE>
+//And the victory is ours!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Tsubasa, même si nous avons terminé<LINE>
-//sur un match nul, j'ai tenu ma promesse<LINE>
-//en remportant la victoire!<END>
+//Tsubasa, even though we finished<LINE>
+//with a draw, I kept my promise<LINE>
+//by winning the victory!<END>
 

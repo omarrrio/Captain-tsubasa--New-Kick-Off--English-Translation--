@@ -1,38 +1,37 @@
 // FILE: EP2559.str containing 11 strings
 
-//Oh! Tsubasa est démarqué!<END>
+//Oh! Tsubasa is open!<END>
 
-//Tsubasa parviendra-t-il à trouver<LINE>
-//suffisamment d'énergie en lui<LINE>
-//pour décrire la trajectoire de<LINE>
-//la victoire avec son Drive shoot?<END>
+//Will Tsubasa be able to summon enough<LINE>
+//energy within himself to describe the trajectory<LINE>
+//of victory with his Drive shot?<END>
 
-//Amène-toi, Tsubasa!<LINE>
-//Je vais arrêter ton tir d'une seule main!<END>
+//Come at me, Tsubasa!<LINE>
+//I'll stop your shot with one hand!<END>
 
 //Tiger shot!<END>
 
 //...<END>
 
-//Incroyable! Un véritable ouragan<LINE>
-//vient de l'attaquer de côté!<LINE>
-//Avant même d'avoir pu tirer,<LINE>
-//le ballon lui a été pris!<END>
+//Incredible! A true hurricane<LINE>
+//has just attacked him from the side!<LINE>
+//Before he could even shoot,<LINE>
+//the ball was taken away from him!<END>
 
-//Hyuga arrive avec une vitesse incroyable<LINE>
-//et effectue un jeu de jambes épatant!<END>
+//Hyuga arrives with incredible speed<LINE>
+//and performs an amazing footwork!<END>
 
-//Il plonge à côté de Tsubasa<LINE>
-//en effectuant un Tiger shot<LINE>
-//pour stopper un Drive shoot!<END>
+//He dives next to Tsubasa<LINE>
+//while performing a Tiger shot<LINE>
+//to stop a Drive shot!<END>
 
-//N'espère pas marquer un quatrième but!<END>
+//Don't expect to score a fourth goal!<END>
 
-//Le stade reste ébahi face à cette action<LINE>
-//spectaculaire de Hyuga!<END>
+//The stadium remains stunned by this<LINE>
+//spectacular action by Hyuga!<END>
 
-//Cette finale se présente désormais<LINE>
-//comme un combat entre deux héros!<LINE>
-//Quelle stratégie finira par payer?<LINE>
-//Quelle équipe remportera la victoire?<END>
+//This final now appears<LINE>
+//as a battle between two heroes!<LINE>
+//Which strategy will eventually pay off?<LINE>
+//Which team will emerge victorious?<END>
 

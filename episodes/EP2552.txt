@@ -1,111 +1,111 @@
 // FILE: EP2552.str containing 31 strings
 
-//Arrêtez-le! Formez un mur!<LINE>
-//Ne le laissez pas tirer!<END>
+//Stop him! Form a wall!<LINE>
+//Don't let him shoot!<END>
 
-//Toho essaie d'empêcher un but<LINE>
-//en formant un mur devant Tsubasa!<END>
+//Toho is trying to prevent a goal<LINE>
+//by forming a wall in front of Tsubasa!<END>
 
-//Amène-toi, Tsubasa!<LINE>
-//Fais-moi ton Drive shoot!<LINE>
-//J'ai trouvé un moyen de l'arrêter!<END>
+//Come on, Tsubasa!<LINE>
+//Show me your Drive Shot!<LINE>
+//I found a way to stop it!<END>
 
-//Pour un tir ordinaire, le gardien doit<LINE>
-//sortir pour réduire l'angle vers lequel<LINE>
-//le ballon devrait se diriger.<LINE>
-//Mais pour le Drive shoot,<LINE>
-//il faut faire l'inverse...<END>
+//For a regular shot, the goalkeeper<LINE>
+//must come out to reduce the angle towards<LINE>
+//which the ball should head.<LINE>
+//But for the Drive Shot,<LINE>
+//you have to do the opposite...<END>
 
-//Si je sors, le ballon me passera<LINE>
-//au-dessus de la tête.<LINE>
-//Même en réagissant rapidement,<LINE>
-//je ne pourrai pas l'atteindre!<END>
+//If I come out, the ball will pass<LINE>
+//over my head.<LINE>
+//Even if I react quickly,<LINE>
+//I won't be able to reach it!<END>
 
-//Pour arrêter un Drive shoot,<LINE>
-//je dois rester devant la cage de but<LINE>
-//et attraper le ballon<LINE>
-//au moment de sa descente!<END>
+//To stop a Drive Shot,<LINE>
+//I must stay in front of the goal<LINE>
+//and catch the ball<LINE>
+//as it descends!<END>
 
-//C'est le moment! Drive shoot!<LINE>
-//Il faut briser ce mur!<END>
+//This is it! Drive Shot!<LINE>
+//We have to break through that wall!<END>
 
-//Ça y est!<LINE>
-//Tsubasa nous fait son super tir,<LINE>
-//le Drive shoot!<END>
+//There it is!<LINE>
+//Tsubasa unleashes his ultimate shot,<LINE>
+//the Drive Shot!<END>
 
-//Moi, Ken Wakashimazu, jure d'arrêter<LINE>
-//ce Drive shoot!<END>
+//I, Ken Wakashimazu, swear that I will stop<LINE>
+//this Drive Shot!<END>
 
-//Tsubasa tire toujours vers la gauche<LINE>
-//ou vers la droite,<LINE>
-//d'un côté ou de l'autre.<END>
+//Tsubasa always shoots to the left<LINE>
+//or to the right,<LINE>
+//either one side or the other.<END>
 
-//Je vais d'abord me tenir<LINE>
-//devant la ligne de but,<LINE>
-//puis réagir rapidement<LINE>
-//en fonction de son angle de tir!<END>
+//I'll first stand<LINE>
+//in front of the goal line,<LINE>
+//then react quickly<LINE>
+//according to his angle of shot!<END>
 
-//Wakashimazu ne sort pas de la cage<LINE>
-//et choisit de rester<LINE>
-//devant la ligne de but!<END>
+//Wakashimazu doesn't come out of the goal<LINE>
+//and chooses to stay<LINE>
+//in front of the goal line!<END>
 
-//Tout ce qu'il me reste à faire,<LINE>
-//c'est de réagir rapidement<LINE>
-//quand il tirera!<END>
+//All I have to do now is<LINE>
+//react quickly<LINE>
+//when he shoots!<END>
 
 //Ragh!<END>
 
-//Wakashimazu saute pour atteindre la balle!<END>
+//Wakashimazu jumps to reach the ball!<END>
 
-//Il estime maintenant le temps qu'il dispose<LINE>
-//alors que le ballon descend!<LINE>
-//Il semble qu'il ait réfléchi à cette action<LINE>
-//après le premier Drive shoot!<END>
+//Now he's gauging the time<LINE>
+//as the ball descends!<LINE>
+//It seems he's thought this move over<LINE>
+//after the first Drive Shot!<END>
 
-//Oh! Il... il l'a arrêté!<END>
+//Oh! He... he stopped it!<END>
 
-//Le gardien de but, Wakashimazu,<LINE>
-//attrape le ballon d'une seule main<LINE>
-//devant la ligne de but!<LINE>
-//Le Drive shoot a été vaincu!<END>
+//The goalkeeper, Wakashimazu,<LINE>
+//catches the ball with one hand<LINE>
+//in front of the goal line!<LINE>
+//The Drive Shot has been defeated!<END>
 
-//Quoi!<END>
+//What!<END>
 
 //Wakashimazu!<END>
 
-//Non! Une... minute!<END>
+//No! Wait a... minute!<END>
 
-//Ce Drive shoot de Tsubasa<LINE>
-//n'a pas été arrêté,<LINE>
-//car le ballon continue de tourner,<LINE>
-//emporté par la puissance du tir!<END>
+//Tsubasa's Drive Shot<LINE>
+//wasn't stopped,<LINE>
+//as the ball keeps spinning,<LINE>
+//carried by the power of the shot!<END>
 
-//Le gardien de but, Wakashimazu,<LINE>
-//est emporté par la balle!<END>
+//The goalkeeper, Wakashimazu,<LINE>
+//is carried away by the ball!<END>
 
-//Zut! Je pensais l'avoir stoppé!<END>
+//Darn! I thought I had stopped it!<END>
 
-//Tu y étais presque, Wakashimazu.<LINE>
-//Ta tactique pour arrêter le Drive shoot<LINE>
-//est la bonne.<END>
+//You were close, Wakashimazu.<LINE>
+//Your tactics for stopping the Drive Shot<LINE>
+//are correct.<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//Tu es le premier à avoir su réagir<LINE>
-//face à ce tir et à avoir attrapé<LINE>
-//le ballon. Garde confiance en toi!<END>
+//You were the first to react<LINE>
+//to that shot and catch<LINE>
+//the ball. Have faith in yourself!<END>
 
-//D'accord!<END>
+//Okay!<END>
 
 //Tsubasa!<LINE>
-//Compte sur moi pour l'arrêter<LINE>
-//la prochaine fois!<END>
+//Count on me to stop it<LINE>
+//next time!<END>
 
-//Wakashimazu est peut-être capable<LINE>
-//d'arrêter le Drive shoot de Tsubasa.<END>
+//Wakashimazu may be capable<LINE>
+//of stopping Tsubasa's Drive Shot.<END>
 
-//Mais personne n'a jamais réussi<LINE>
-//à bloquer mon Tiger shot!<LINE>
-//Il me suffit de récupérer le ballon<LINE>
-//pour marquer!<END>
+//But nobody has ever succeeded<LINE>
+//in blocking my Tiger Shot!<LINE>
+//All I have to do is retrieve the ball<LINE>
+//and score!<END>
 

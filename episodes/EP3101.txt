@@ -1,15 +1,15 @@
 // FILE: EP3101.str containing 5 strings
 
-//Vous jouez bien, les gars!<LINE>
-//Marquons encore quelques buts!<END>
+//You guys are playing well!<LINE>
+//Let's score some more goals!<END>
 
-//Oda! Je te passerai la balle!<LINE>
-//Marque un maximum de buts!<END>
+//Oda! I'll pass you the ball!<LINE>
+//Score as many goals as possible!<END>
 
 //OK!<END>
 
-//La seconde mi-temps se rapproche.<LINE>
-//Gagnons ici et nous irons en national!<END>
+//The second half is approaching.<LINE>
+//Let's win here and go to the nationals!<END>
 
-//Oui!<END>
+//Yes!<END>
 

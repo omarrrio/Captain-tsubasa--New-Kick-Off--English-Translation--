@@ -1,41 +1,41 @@
 // FILE: EP3452.str containing 12 strings
 
-//Furano a retourné la situation<LINE>
-//grâce à sa technique spéciale!<LINE>
-//Les joueurs repartent à l'attaque<LINE>
-//avec une succession de passes rapides!<END>
+//Furano has turned the situation around<LINE>
+//thanks to their special technique!<LINE>
+//The players are attacking again<LINE>
+//with a succession of fast passes!<END>
 
-//Et Matsuyama récupère le ballon!<END>
+//And Matsuyama retrieves the ball!<END>
 
-//Je m'en charge!<END>
+//I'll take care of it!<END>
 
-//Matsuyama est démarqué<LINE>
-//et s'apprête à tirer.<END>
+//Matsuyama is unmarked<LINE>
+//and is about to shoot.<END>
 
-//C'est maintenant que je dois marquer!<END>
+//This is the moment when I have to score!<END>
 
-//Je n'ai pas le talent inné de Tsubasa<LINE>
-//ou Hyuga…<LINE>
-//C'est pourquoi je dois m'entraîner dur!<END>
+//I don't have the innate talent of Tsubasa<LINE>
+//or Hyuga...<LINE>
+//That's why I have to train hard!<END>
 
-//Matsuyama a mis toute sa force<LINE>
-//dans ce long tir!<END>
+//Matsuyama puts all his strength<LINE>
+//into this long shot!<END>
 
-//Le long tir très puissant de Matsuyama<LINE>
-//rase le sol!<END>
+//The very powerful long shot by Matsuyama<LINE>
+//skims the ground!<END>
 
-//BUT!<LINE>
-//Il a marqué!<LINE>
-//Le gardien Morisaki a réagi trop tard!<END>
+//GOAL!<LINE>
+//He scored!<LINE>
+//The goalkeeper Morisaki reacted too late!<END>
 
-//Un puissant tir que Matsuyama<LINE>
-//n'a pu réussir que<LINE>
-//grâce aux heures d'entraînement passées<LINE>
-//dans les conditions difficiles d'Hokkaido!<END>
+//A powerful shot that Matsuyama<LINE>
+//could only achieve<LINE>
+//thanks to the hours of training<LINE>
+//in the difficult conditions of Hokkaido!<END>
 
-//Furano a marqué sur ce long tir<LINE>
-//de Matsuyama,<LINE>
-//juste après l'Avalanche.<END>
+//Furano scored on this long shot<LINE>
+//by Matsuyama,<LINE>
+//just after the Avalanche.<END>
 
-//Nous avons marqué, les gars!<END>
+//We scored, guys!<END>
 

@@ -1,42 +1,40 @@
 // FILE: EP3353.str containing 14 strings
 
-//C'est maintenant Ishida qui reçoit<LINE>
-//le ballon!<END>
+//Now it's Ishida who receives the ball!<END>
 
-//Allez, les gars, reprenez le ballon!<END>
+//Come on, guys, let's get the ball back!<END>
 
-//Est-ce qu'Ishida va de nouveau tirer<LINE>
-//en direction des buts?<END>
+//Will Ishida shoot again towards the goal?<END>
 
-//Takéi est marqué.<END>
+//Takéi is marked.<END>
 
-//Dans ce cas, je dois tirer!<END>
+//In that case, I have to shoot!<END>
 
-//Oh... Ishida a feinté.<LINE>
-//C'était un Long shoot instantané!<END>
+//Oh... Ishida faked it.<LINE>
+//It was an Instant Long Shoot!<END>
 
-//Le gardien est là pour arrêter le tir!<LINE>
-//Bien joué!<END>
+//The goalkeeper is there to stop the shot!<LINE>
+//Well played!<END>
 
-//Le gardien Kato a plongé!<LINE>
-//Même sous la pression de ses adversaires,<LINE>
-//Furano ne concède aucun but!<END>
+//Goalkeeper Kato dived!<LINE>
+//Even under pressure from their opponents,<LINE>
+//Furano doesn't concede any goals!<END>
 
-//Hé, Kato! On ne va pas se laisser faire!<LINE>
-//Pas question que Furano perde<LINE>
-//contre un adversaire pareil!<END>
+//Hey, Kato! We're not gonna let this happen!<LINE>
+//No way Furano loses<LINE>
+//to such an opponent!<END>
 
-//Oui, capitaine!<END>
+//Yes, captain!<END>
 
-//Le gardien Kato, qui vient de signer<LINE>
-//un bel arrêt, passe le ballon<LINE>
-//au capitaine Matsuyama!<END>
+//Goalkeeper Kato, who just made<LINE>
+//a beautiful save, passes the ball<LINE>
+//to captain Matsuyama!<END>
 
-//On suit le capitaine!<LINE>
-//Il a raison, on ne doit pas se laisser<LINE>
-//battre par cette équipe!<END>
+//We follow the captain!<LINE>
+//He's right, we can't let ourselves<LINE>
+//be beaten by this team!<END>
 
-//C'est vrai! On refuse la défaite!<END>
+//That's right! We refuse to lose!<END>
 
-//Suivons-le!<END>
+//Let's follow him!<END>
 

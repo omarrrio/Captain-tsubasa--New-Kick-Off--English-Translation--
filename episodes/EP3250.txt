@@ -1,34 +1,34 @@
 // FILE: EP3250.str containing 12 strings
 
-//Et c'est Furano qui tire!<END>
+//And it's Furano shooting!<END>
 
-//Je peux attraper ça!<END>
+//I can catch this!<END>
 
-//Le gardien a plongé pour arrêter le tir!<END>
+//The goalkeeper dived to stop the shot!<END>
 
-//C'est le moment d'avancer<LINE>
-//vers les buts de l'adversaire!<END>
+//It's time to move forward<LINE>
+//towards the opponent's goal!<END>
 
-//Le gardien a dégagé loin devant!<LINE>
-//Ça a tout l'air d'être une contre-attaque!<END>
+//The goalkeeper cleared it far ahead!<LINE>
+//It looks like a counterattack!<END>
 
-//Oh, non! Revenez en défense!<END>
+//Oh no! Get back to defense!<END>
 
-//Furano se précipite vers son camp.<LINE>
-//Mais le tir de Suwa sera-t-il<LINE>
-//plus rapide que les joueurs?<END>
+//Furano is rushing back to their side.<LINE>
+//But will Suwa's shot be<LINE>
+//faster than the players?<END>
 
-//Ça y est! Préparons-nous!<END>
+//Here it comes! Let's get ready!<END>
 
-//C'est ça... Ah!<END>
+//That's it... Ah!<END>
 
-//Ouah! Il a arrêté le tir!<LINE>
-//Kato, le gardien de Furano a saisi<LINE>
-//le ballon. Comme on pouvait s'y attendre,<LINE>
-//il a réagi calmement!<END>
+//Wow! He stopped the shot!<LINE>
+//Kato, Furano's goalkeeper, caught<LINE>
+//the ball. As expected,<LINE>
+//he reacted calmly!<END>
 
-//Bien joué, Kato!<END>
+//Well done, Kato!<END>
 
-//Bon, ne perdons pas de temps!<LINE>
-//Allons-y, capitaine!<END>
+//Alright, let's not waste any time!<LINE>
+//Let's go, captain!<END>
 

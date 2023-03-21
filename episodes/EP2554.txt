@@ -1,54 +1,53 @@
 // FILE: EP2554.str containing 15 strings
 
-//Je ne vais pas perdre! Pas cette fois!<LINE>
-//Je ne vais pas perdre contre Tsubasa,<LINE>
-//ni contre personne d'autre!<END>
+//I'm not going to lose! Not this time!<LINE>
+//I'm not going to lose to Tsubasa,<LINE>
+//or anyone else!<END>
 
-//Prends ça, Hyuga!<END>
+//Take that, Hyuga!<END>
 
-//Et Kisugi attaque directement<LINE>
-//avec un tacle glissé de côté!<END>
+//And Kisugi goes directly on the attack<LINE>
+//with a sliding tackle to the side!<END>
 
-//Mon attitude vis-à-vis de l'entraîneur<LINE>
-//Kitazumé, l'inquiétude que j'ai causée<LINE>
-//à tout le monde, et ma formation auprès<LINE>
-//de l'entraîneur Kira à Okinawa...<END>
+//My attitude towards Coach Kitazume, the<LINE>
+//worry I caused everyone, and my training<LINE>
+//with Coach Kira in Okinawa...<END>
 
-//Tout ça n'aura servi à rien si je me plante<LINE>
-//et perds ce match!<END>
+//It will all have been for nothing if I mess up<LINE>
+//and lose this match!<END>
 
-//Oh! Hyuga encaisse le tacle<LINE>
-//sans broncher!<END>
+//Oh! Hyuga takes the tackle<LINE>
+//without flinching!<END>
 
-//Il est inébranlable!<END>
+//He's unshakeable!<END>
 
-//Hum! Si un seul homme ne suffit pas,<LINE>
-//alors allons-y tous ensemble!<END>
+//Hmph! If one man isn't enough,<LINE>
+//then let's all go together!<END>
 
-//Et une autre vague de joueurs de Nankatsu<LINE>
-//se rapproche!<END>
+//And another wave of Nankatsu players<LINE>
+//closes in!<END>
 
-//Si c'est ce que vous voulez,<LINE>
-//je vous attends de pied ferme!<LINE>
-//Arrêtez-moi si vous êtes capables!<LINE>
-//Venez par milliers, ça ne changera rien!<END>
+//If that's what you want,<LINE>
+//I'll stand my ground!<LINE>
+//Stop me if you can!<LINE>
+//Come by the thousands, it won't make a difference!<END>
 
-//Essayez d'arrêter mon Tiger shot!<END>
+//Try to stop my Tiger shot!<END>
 
-//Ouah! Hyuga défie le tsunami!<LINE>
-//Les joueurs de l'équipe adverse sont<LINE>
-//sous le choc!<END>
+//Wow! Hyuga challenges the tsunami!<LINE>
+//The players on the opposing team are<LINE>
+//in shock!<END>
 
-//Hyuga a brisé le mur avec son Tiger shot!<LINE>
-//Morisaki, le gardien de but, n'a pas eu<LINE>
-//le temps de réagir!<END>
+//Hyuga has broken through the wall with his Tiger shot!<LINE>
+//Morisaki, the goalkeeper, didn't have<LINE>
+//time to react!<END>
 
-//C'est incroyable! Le Tiger shot de Hyuga<LINE>
-//est un véritable raz-de-marée!<LINE>
-//Toho vient de marquer grâce<LINE>
-//au superbe tir de Hyuga, le Tiger shot!<END>
+//This is incredible! Hyuga's Tiger shot<LINE>
+//is a true tidal wave!<LINE>
+//Toho has just scored thanks to<LINE>
+//the superb shot by Hyuga, the Tiger shot!<END>
 
-//Vous avez vu ça, Nankatsu?<LINE>
-//Personne ne peut arrêter mon Tiger shot.<LINE>
-//Je suis invincible!<END>
+//Did you see that, Nankatsu?<LINE>
+//No one can stop my Tiger shot.<LINE>
+//I'm invincible!<END>
 

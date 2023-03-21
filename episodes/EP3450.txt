@@ -1,32 +1,31 @@
 // FILE: EP3450.str containing 11 strings
 
-//Prend garde, Tsubasa!<LINE>
-//Tes deux avants sont marqués!<END>
+//Be careful, Tsubasa!<LINE>
+//Your two forwards are marked!<END>
 
-//Si jamais tu fais une passe en retrait,<LINE>
-//toute notre équipe montera<LINE>
-//vers les buts de Nankatsu!<END>
+//If you make a back pass,<LINE>
+//our entire team will move up<LINE>
+//towards Nankatsu's goal!<END>
 
-//Matsuyama engage le combat contre Tsubasa<LINE>
-//avec détermination!<END>
+//Matsuyama engages in combat against Tsubasa<LINE>
+//with determination!<END>
 
-//Je ne peux pas faire de passe...<END>
+//I can't make a pass...<END>
 
-//Matsuyama tente un tacle glissé!<END>
+//Matsuyama attempts a sliding tackle!<END>
 
-//Mais Tsubasa l'évite de justesse!<END>
+//But Tsubasa narrowly avoids it!<END>
 
-//Tsubasa a l'œil partout, et il a compris<LINE>
-//qu'il ne pourrait pas faire de passe.<LINE>
-//Mais ce tacle n'était qu'une ruse!<END>
+//Tsubasa has eyes everywhere, and he has realized<LINE>
+//that he couldn't make a pass.<LINE>
+//But that tackle was just a feint!<END>
 
-//Cette fois-ci, c'est le vrai!<END>
+//This time, it's for real!<END>
 
-//Son premier tacle est aussitôt suivi<LINE>
-//d'un second, Matsuyama ayant pivoté!<END>
+//His first tackle is immediately followed<LINE>
+//by a second, with Matsuyama having pivoted!<END>
 
-//Matsuyama reprend possession du ballon!<END>
+//Matsuyama regains possession of the ball!<END>
 
-//Oui! La nouvelle Feinte sur tacle<LINE>
-//que Matsuyama avait imaginée a réussi!<END>
-
+//Yes! Matsuyama's new feint on tackle<LINE>
+//that he had imagined has succeeded!<END>

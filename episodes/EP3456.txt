@@ -1,66 +1,66 @@
 // FILE: EP3456.str containing 21 strings
 
-//Pas question!<LINE>
-//Je ne te laisserai pas me prendre<LINE>
-//le ballon!<END>
+//No way!<LINE>
+//I won't let you take<LINE>
+//the ball from me!<END>
 
-//Tu ne passeras pas!<END>
+//You shall not pass!<END>
 
-//Tu rêves! Je vais t'effacer!<END>
+//Dream on! I'm going to erase you!<END>
 
-//Je t'arrêterai!<LINE>
-//Matsuyama, ce sera ma dernière action<LINE>
-//de ce match!<END>
+//I'll stop you!<LINE>
+//Matsuyama, this will be my last move<LINE>
+//of this match!<END>
 
-//Oh! C'est un violent choc d'épaules<LINE>
-//entre les deux adversaires!<END>
+//Oh! It's a violent shoulder clash<LINE>
+//between the two opponents!<END>
 
-//Tsubasa a subi l'impact sur son épaule<LINE>
-//gauche blessée et se retrouve à terre!<END>
+//Tsubasa took the impact on his injured<LINE>
+//left shoulder and is now on the ground!<END>
 
-//Mais ce n'était pas une faute!<END>
+//But it wasn't a foul!<END>
 
-//C'est Matsuyama qui sort vainqueur<LINE>
-//de ce duel entre les deux capitaines!<END>
+//It's Matsuyama who emerges victorious<LINE>
+//from this duel between the two captains!<END>
 
-//Matsuyama va-t-il faire une passe<LINE>
-//ou tenter un long tir?<END>
+//Will Matsuyama make a pass<LINE>
+//or attempt a long shot?<END>
 
-//Oh! Matsuyama se met en position<LINE>
-//pour tirer!<END>
+//Oh! Matsuyama is positioning himself<LINE>
+//to shoot!<END>
 
-//Mais Nankatsu fait bloc<LINE>
-//pour contrer son tir!<END>
+//But Nankatsu is blocking<LINE>
+//to counter his shot!<END>
 
-//Maintenant!<END>
+//Now!<END>
 
-//Ah! Matsuyama change de position<LINE>
-//pour faire une passe!<LINE>
-//Il centre en avant!<END>
+//Ah! Matsuyama changes his position<LINE>
+//to make a pass!<LINE>
+//He crosses forward!<END>
 
-//Matsuyama fait confiance à ses partenaires<LINE>
-//pour la suite de l'action!<END>
+//Matsuyama trusts his teammates<LINE>
+//to continue the play!<END>
 
-//Les joueurs de Furano se ruent<LINE>
-//devant les buts!<END>
+//The Furano players rush<LINE>
+//toward the goal!<END>
 
-//On doit concrétiser sur ce ballon<LINE>
-//de notre capitaine!<END>
+//We must score on this ball<LINE>
+//from our captain!<END>
 
-//Nous sommes tous liés par la confiance<LINE>
-//et l'amitié!<LINE>
-//Je compte sur vous!<END>
+//We are all bound by trust<LINE>
+//and friendship!<LINE>
+//I'm counting on you!<END>
 
-//Morisaki, le gardien de Nankatsu, plonge<LINE>
-//sur le ballon!<END>
+//Morisaki, the Nankatsu goalkeeper, dives<LINE>
+//for the ball!<END>
 
-//Allez!<END>
+//Go!<END>
 
-//But!<LINE>
-//Morisaki n'a rien pu faire<LINE>
-//face à cette attaque en masse!<LINE>
-//La ténacité de Furano<LINE>
-//a fini par payer!<END>
+//Goal!<LINE>
+//Morisaki couldn't do anything<LINE>
+//against this mass attack!<LINE>
+//Furano's tenacity<LINE>
+//has finally paid off!<END>
 
-//On a réussi!<END>
+//We did it!<END>
 

@@ -1,51 +1,51 @@
 // FILE: EP3454.str containing 16 strings
 
-//Je ne te laisserai pas tirer!<END>
+//I won't let you shoot!<END>
 
-//C'est une occasion que l'équipe a créée<LINE>
-//juste pour moi…<LINE>
-//Même si je ne peux pas tirer,<LINE>
-//je dois au moins faire une passe.<END>
+//It's a chance the team created<LINE>
+//just for me...<LINE>
+//Even if I can't shoot,<LINE>
+//I have to at least make a pass.<END>
 
 //Izawa!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Tsubasa a été le plus rapide,<LINE>
-//mais il ne peut pas tirer!<END>
+//Tsubasa was the fastest,<LINE>
+//but he can't shoot!<END>
 
-//Il passe en retrait pour Izawa!<LINE>
-//Et c'est une tête plongeante d'Izawa!<END>
+//He passes back to Izawa!<LINE>
+//And it's a diving header from Izawa!<END>
 
-//Oh, non!<END>
+//Oh, no!<END>
 
-//But!<LINE>
-//Izawa, profitant de son élan, a fait<LINE>
-//un plongeon de 5 mètres!<END>
+//Goal!<LINE>
+//Izawa, taking advantage of his momentum, dove<LINE>
+//5 meters!<END>
 
-//Matsuyama était au coude à coude<LINE>
-//avec Tsubasa mais n'a pas réussi à<LINE>
-//lui reprendre le ballon.<LINE>
-//C'était une très belle passe pour Izawa,<LINE>
-//qui est allé au devant du ballon!<END>
+//Matsuyama was neck and neck<LINE>
+//with Tsubasa but couldn't<LINE>
+//take the ball from him.<LINE>
+//It was a beautiful pass to Izawa,<LINE>
+//who went ahead of the ball!<END>
 
-//C'est comme ça que l'équipe Nankatsu joue!<END>
+//That's how Nankatsu plays!<END>
 
-//Également grâce à un excellent travail<LINE>
-//collectif, Nankatsu a pu marquer un but!<END>
+//Also thanks to excellent teamwork,<LINE>
+//Nankatsu was able to score a goal!<END>
 
-//Comme on s'y attendait,<LINE>
-//Nankatsu est vraiment très fort.<LINE>
-//On risque de ne pas pouvoir les battre,<LINE>
-//même avec notre jeu collectif.<END>
+//As expected,<LINE>
+//Nankatsu is really strong.<LINE>
+//We might not be able to beat them,<LINE>
+//even with our teamwork.<END>
 
-//Qu'est-ce que c'est que ça?<LINE>
-//Vous baissez les bras alors que<LINE>
-//nous ne sommes menés que d'un but!<END>
+//What's this?<LINE>
+//You're giving up when<LINE>
+//we're only down by one goal!<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//Allons-y! Le match vient de commencer.<END>
+//Let's go! The match has just started.<END>
 
-//Oui, capitaine!<END>
+//Yes, captain!<END>
 

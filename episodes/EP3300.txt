@@ -1,136 +1,137 @@
 // FILE: EP3300.str containing 49 strings
 
-//Manager! Tu veux bien nous ravitailler,<LINE>
-//s'il te plaît?<END>
+//Manager! Can you please refill us?<LINE>
+//Please?<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Une boisson énergétique avec du lait<LINE>
-//et du miel de Hokkaido.<END>
+//An energy drink with milk<LINE>
+//and Hokkaido honey.<END>
 
-//Terminez votre verre et venez tous!<END>
+//Finish your drink and come on everyone!<END>
 
-//Voilà.<END>
+//Here you go.<END>
 
-//Comme nous ne sommes pas habitués<LINE>
-//à ce temps chaud et humide,<LINE>
-//il faudra faire attention de ne pas épuiser<LINE>
-//notre énergie pendant le match.<END>
+//As we're not used to<LINE>
+//this hot and humid weather,<LINE>
+//we have to be careful not to exhaust<LINE>
+//our energy during the match.<END>
 
-//Ça devrait aller, entraîneur.<LINE>
-//Jusqu'à présent, personne n'a été affecté<LINE>
-//et nous avons tous de l'énergie à revendre.<LINE>
-//Nous pourrons très bien jouer aujourd'hui.<LINE>
-//Ne vous inquiétez pas!<END>
+//It should be fine, coach.<LINE>
+//So far, no one has been affected<LINE>
+//and we all have plenty of energy to spare.<LINE>
+//We can play very well today.<LINE>
+//Don't worry!<END>
 
-//Ouais, j'imagine que vous avez raison.<END>
+//Yeah, I guess you're right.<END>
 
-//Les gars, ne baissez pas votre garde.<LINE>
-//Plus vous progressez dans le championnat<LINE>
-//et plus vos adversaires sont forts.<END>
+//Guys, don't let your guard down.<LINE>
+//The further you progress in the championship,<LINE>
+//the stronger your opponents will be.<END>
 
-//L'adversaire d'aujourd'hui, Minamiuwa, est<LINE>
-//une équipe dont la défense et l'attaque<LINE>
-//sont bien équilibrées.<LINE>
-//Méfiez-vous du capitaine Ishida<LINE>
-//et du jeu de tête de l'avant-centre Takéi.<END>
+//Today's opponent, Minamiuwa, has<LINE>
+//a team whose defense and attack<LINE>
+//are well-balanced.<LINE>
+//Beware of captain Ishida<LINE>
+//and the forward Takéi's heading game.<END>
 
-//Oui, entraîneur!<END>
+//Yes, coach!<END>
 
-//Si nous gagnons aujourd'hui,<LINE>
-//nous pourrons affronter Nankatsu,<LINE>
-//qui demeure notre premier objectif.<END>
+//If we win today,<LINE>
+//we'll be able to face Nankatsu,<LINE>
+//which remains our top goal.<END>
 
-//Pour cela, il faudra vaincre Minamiuwa<LINE>
-//sans efforts!<END>
+//For that, we have to beat Minamiuwa<LINE>
+//without any effort!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Et notre second objectif<LINE>
-//est de battre Hyuga en finale!<END>
+//And our second goal<LINE>
+//is to beat Hyuga in the final!<END>
 
 //Yoshiko.<END>
 
-//Mais...<END>
+//But...<END>
 
-//C'est d'accord, Yoshiko?<END>
+//It's okay, Yoshiko?<END>
 
-//Comme je te l'ai promis,<LINE>
-//tant que ton équipe de football gagnera,<LINE>
-//tu pourras rester au Japon.<END>
+//As I promised you,<LINE>
+//as long as your football team wins,<LINE>
+//you can stay in Japan.<END>
 
-//Ce qui veut dire que si Furano perdait<LINE>
-//aujourd'hui, nous partirions aussitôt.<END>
+//Which means that if Furano lost<LINE>
+//today, we would leave immediately.<END>
 
-//... D'accord.<END>
+//...Okay.<END>
 
-//Ce n'est pas vrai...<END>
+//This can't be true...<END>
 
-//Matsuyama, tu as un moment?<END>
+//Matsuyama, do you have a moment?<END>
 
-//Qu'est-ce qu'il y a?<END>
+//What's up?<END>
 
 //Yoshiko...<END>
 
 //...<END>
 
-//Tu as quelque chose à me dire?<END>
+//Do you have something to tell me?<END>
 
-//Vas-y Yoshiko. Parle!<END>
+//Go ahead, Yoshiko. Speak!<END>
 
-//Hum...<END>
+//Um...<END>
 
 //Huh?<END>
 
-//Capitaine, qu'est-ce que tu fais?<LINE>
-//Dépêche-toi!<END>
+//Captain, what are you doing?<LINE>
+//Hurry up!<END>
 
 //OK.<END>
 
-//Alors, manager?<END>
+//So, manager?<END>
 
-//Bonne... bonne chance!<LINE>
-//Promets-moi de gagner ce match.<END>
+//Good... good luck!<LINE>
+//Promise me you'll win this match.<END>
 
-//Oui... C'est tout?<END>
+//Yes... Is that all?<END>
 
-//Oui...<END>
+//Yes...<END>
 
-//C'était à propos de quoi?<END>
+//What was that about?<END>
 
-//Allez, les gars. On y va!<END>
+//Come on, guys. Let's go!<END>
 
 //Oh!<END>
 
 //...<END>
 
-//Mais ce n'est pas grave...<END>
+//But it doesn't matter...<END>
 
-//Parce qu'a l'heure actuelle Matsuyama<LINE>
-//ne pense à rien d'autre qu'à gagner<LINE>
-//le match.<END>
+//Because at the moment, Matsuyama<LINE>
+//is thinking of nothing else but winning<LINE>
+//the match.<END>
 
-//Allez, Furano!<LINE>
-//Courage Furano!<END>
+//Let's go, Furano!<LINE>
+//Go Furano!<END>
 
-//Allons-y!<END>
+//Here we go!<END>
 
-//Comme à l'accoutumé, ils entrent<LINE>
-//sur le terrain en criant pour se motiver!<LINE>
-//Représentant Hokkaido, le Furano 11!<END>
+//As usual, they enter<LINE>
+//the field shouting to motivate themselves!<LINE>
+//Representing Hokkaido, the Furano 11!<END>
 
-//À l'inverse, Minamiuwa pénètre<LINE>
-//sur le terrain calme et concentré.<END>
+//In contrast, Minamiuwa enters<LINE>
+//the field calm and focused.<END>
 
-//Il faut battre Furano pour accéder<LINE>
-//aux demi-finales et affronter Nankatsu,<LINE>
-//le champion sortant.<END>
+//They must defeat Furano to advance<LINE>
+//to the semi-finals and face Nankatsu,<LINE>
+//the reigning champions.<END>
 
-//Furano progresse grâce à son jeu collectif.<LINE>
-//Dans quelle mesure leurs adversaires<LINE>
-//pourront-ils les faire souffrir?<LINE>
-//C'est la première participation<LINE>
-//de Minamiuwa au tournoi!<END>
+//Furano advances thanks to their teamwork.<LINE>
+//To what extent can their opponents<LINE>
+//make them suffer?<LINE>
+//This is Minamiuwa's first appearance<LINE>
+//in the tournament!<END>
 
-//L'arbitre siffle le début de la rencontre.<END>
+//The referee blows the whistle<LINE>
+//to start the match.<END>
 

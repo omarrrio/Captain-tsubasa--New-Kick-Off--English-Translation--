@@ -1,42 +1,42 @@
 // FILE: EP2556.str containing 15 strings
 
-//Oh! Hyuga s'apprête déjà à tirer!<END>
+//Oh! Hyuga is already preparing to shoot!<END>
 
-//Il prévoit un autre Tiger shot<LINE>
-//directement dans la cage de but!<END>
+//He's planning another Tiger Shot<LINE>
+//directly into the goal!<END>
 
-//Prenez ça! Un autre but pour nous!<END>
+//Take that! Another goal for us!<END>
 
-//Le Tiger shot fonce comme une flèche!<LINE>
-//Avis à ceux qui se trouvent devant Hyuga,<LINE>
-//vous n'allez pas être épargnés!<END>
+//The Tiger Shot speeds like an arrow!<LINE>
+//Anyone standing in front of Hyuga,<LINE>
+//won't be spared!<END>
 
-//Vas-y! Tiger shot!<END>
+//Go for it! Tiger Shot!<END>
 
-//Drive shoot!<END>
+//Drive Shot!<END>
 
-//Incroyable! Tsubasa se positionne<LINE>
-//devant Hyuga et renvoie le ballon!<END>
+//Incredible! Tsubasa positions himself<LINE>
+//in front of Hyuga and sends the ball back!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Buuuuut! Buuuuut!<LINE>
-//Le gardien de but, Wakashimazu,<LINE>
-//n'a pas eu le temps de réagir<LINE>
-//face au Drive shoot de Tsubasa!<END>
+//Gooooal! Gooooal!<LINE>
+//The goalkeeper, Wakashimazu,<LINE>
+//didn't have time to react<LINE>
+//to Tsubasa's Drive Shot!<END>
 
 //...<END>
 
-//C'est... impossible!<END>
+//This is... impossible!<END>
 
-//Seul Tsubasa sait faire ça...<LINE>
-//Et je suis incapable de lui faire face!<END>
+//Only Tsubasa can do that...<LINE>
+//And I'm unable to face him!<END>
 
-//Courage, les gars!<END>
+//Hang in there, guys!<END>
 
-//Le match... le match n'est pas terminé!<LINE>
-//Nous allons battre Nankatsu!<LINE>
-//Et remporter notre premier championnat!<END>
+//The match... the match isn't over yet!<LINE>
+//We'll beat Nankatsu!<LINE>
+//And win our first championship!<END>
 
-//Oui!<END>
+//Yes!<END>
 

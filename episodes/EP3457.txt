@@ -1,78 +1,77 @@
 // FILE: EP3457.str containing 25 strings
 
-//Qu'est-ce qui se passe?<LINE>
-//D'habitude, en fin de match,<LINE>
-//Tsubasa mène l'attaque.<END>
+//What's happening?<LINE>
+//Usually, at the end of the match,<LINE>
+//Tsubasa leads the attack.<END>
 
-//Mais Tsubasa se tient en arrière<LINE>
-//et il est dos aux buts!<LINE>
-//Serait-il épuisé?<END>
+//But Tsubasa is holding back<LINE>
+//and he's facing the goal!<LINE>
+//Is he exhausted?<END>
 
-//Et bien, non! Le voici de retour!<END>
+//Well, no! Here he is back!<END>
 
-//C'est comme en championnat national<LINE>
-//quand nous étions à l'école primaire!<END>
+//It's like in the national championship<LINE>
+//when we were in elementary school!<END>
 
-//Même à un dixième de seconde du coup<LINE>
-//de sifflet final, Tsubasa n'abandonne pas!<LINE>
-//Il mijote quelque chose!<END>
+//Even a tenth of a second before the final whistle,<LINE>
+//Tsubasa never gives up!<LINE>
+//He's cooking up something!<END>
 
-//Mais, ce n'est pas possible!<END>
+//But that's not possible!<END>
 
-//Le match a repris! Le ballon est<LINE>
-//dans le rond central<LINE>
-//et passe de Kisugi à Taki.<END>
+//The match has resumed! The ball is<LINE>
+//in the center circle<LINE>
+//and passes from Kisugi to Taki.<END>
 
-//Taki passe en retrait!<END>
+//Taki passes back!<END>
 
-//J'en étais sûr! Je ne me trompais pas!<END>
+//I was sure! I wasn't wrong!<END>
 
-//Je m'en charge!<END>
+//I'll take care of it!<END>
 
-//Nankatsu et Tsubasa se sont retournés<LINE>
-//et courent vers le ballon!<END>
+//Nankatsu and Tsubasa have turned<LINE>
+//and run towards the ball!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Matsuyama semble avoir compris<LINE>
-//et se rue vers Tsubasa!<END>
+//Matsuyama seems to have understood<LINE>
+//and rushes towards Tsubasa!<END>
 
 //Tsubasa!<LINE>
-//Tu n'es pas du genre à baisser les bras!<LINE>
-//Tu es prêt pour le combat final?<END>
+//You're not the type to give up!<LINE>
+//Are you ready for the final battle?<END>
 
-//Mince... Ce Matsuyama!<LINE>
-//Il lit le moindre de nos mouvements!<LINE>
-//Mais je n'abandonnerai pas! Jamais!<END>
+//Damn... This Matsuyama!<LINE>
+//He reads every one of our movements!<LINE>
+//But I won't give up! Never!<END>
 
 //Grrr!<END>
 
-//C'est un choc terrifiant<LINE>
-//entre les deux joueurs!<END>
+//It's a terrifying clash<LINE>
+//between the two players!<END>
 
-//Oh, non! La jambe blessée de Tsubasa<LINE>
-//semble le faire souffir!<LINE>
-//Tsubasa a été projeté au sol!<END>
+//Oh no! Tsubasa's injured leg<LINE>
+//seems to be causing him pain!<LINE>
+//Tsubasa has been thrown to the ground!<END>
 
-//Désolé Tsubasa, mais j'ai décidé de ne pas<LINE>
-//te faire de cadeau, même si tu es blessé.<END>
+//Sorry Tsubasa, but I've decided not<LINE>
+//to give you any gifts, even if you're injured.<END>
 
-//Si je m'inquiète pour ta blessure,<LINE>
-//je perdrai.<LINE>
-//Nankatsu est un adversaire trop fort!<END>
+//If I worry about your injury,<LINE>
+//I'll lose.<LINE>
+//Nankatsu is too strong an opponent!<END>
 
-//Matsuyama efface les joueurs de Nankatsu<LINE>
-//et arme son tir!<END>
+//Matsuyama erases the Nankatsu players<LINE>
+//and prepares his shot!<END>
 
-//Va-t-il tirer de loin?<END>
+//Will he shoot from far away?<END>
 
-//Prenez-ça, Nankatsu!<LINE>
-//On va vous montrer ce que c'est,<LINE>
-//la ténacité de Furano!<END>
+//Take that, Nankatsu!<LINE>
+//We'll show you what Furano's tenacity is all about!<END>
 
-//Ah! Morisaki n'a pas réagi assez vite!<END>
+//Ah! Morisaki didn't react fast enough!<END>
 
-//Le puissant tir de Matsuyama est entré<LINE>
-//dans les cages de Nankatsu!<LINE>
-//Furano mène!<END>
+//Matsuyama's powerful shot has entered<LINE>
+//Nankatsu's goal!<LINE>
+//Furano is leading!<END>
 

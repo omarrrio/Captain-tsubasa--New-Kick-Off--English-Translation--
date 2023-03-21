@@ -1,18 +1,18 @@
 // FILE: EP3202.str containing 4 strings
 
-//La rencontre est terminée!<LINE>
-//Furano a remporté le premier match!<END>
+//The game is over!<LINE>
+//Furano has won the first match!<END>
 
-//Furano semble être la troisième équipe<LINE>
-//la plus forte après Nankatsu et Toho.<LINE>
-//Elle pourrait bien remporter<LINE>
-//un match de qualification!<END>
+//Furano seems to be the third strongest team<LINE>
+//after Nankatsu and Toho.<LINE>
+//It could very well win<LINE>
+//a qualifying match!<END>
 
-//Super! Nous avons facilement gagné<LINE>
-//le premier match!<LINE>
-//Faisons de même pour le prochain match!<END>
+//Great! We easily won<LINE>
+//the first match!<LINE>
+//Let's do the same for the next match!<END>
 
 //OK!<LINE>
-//Nous rentrerons à Hokkaido<LINE>
-//avec le trophée du vainqueur!<END>
+//We will return to Hokkaido<LINE>
+//with the winner's trophy!<END>
 

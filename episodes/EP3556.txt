@@ -55,7 +55,7 @@
 //nous avoir vus effectuer notre Avalanche!<END>
 
 //Matsuyama ne fera pas de passe!<LINE>
-//Il arme son tir! <END>
+//Il arme son tir!<END>
 
 //Prêt, Toho?<LINE>
 //Prenez-ça!<END>

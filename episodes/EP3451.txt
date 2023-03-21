@@ -1,62 +1,62 @@
 // FILE: EP3451.str containing 19 strings
 
-//Bon!<END>
+//Good!<END>
 
-//Ça ne se passera pas comme ça!<END>
+//It won't happen like that!<END>
 
-//Matsuyama, le capitaine de Furano,<LINE>
-//a effacé Taki sans difficulté!<END>
+//Matsuyama, the captain of Furano,<LINE>
+//erased Taki without difficulty!<END>
 
-//Matsuyama, le capitaine de Furano,<LINE>
-//a effacé Kisugi sans difficulté!<END>
+//Matsuyama, the captain of Furano,<LINE>
+//erased Kisugi without difficulty!<END>
 
-//Remontez, les gars! En avant!<LINE>
-//Le moment est venu de leur faire goûter<LINE>
-//l'Avalanche de Furano!<END>
+//Come on, guys! Let's go!<LINE>
+//The time has come to make them taste<LINE>
+//the Furano Avalanche!<END>
 
-//C'est quoi? L'Avalanche de Furano?<END>
+//What is that? The Furano Avalanche?<END>
 
-//Tous les joueurs de Furano remontent<LINE>
-//vers les buts de Nankatsu.<END>
+//All the Furano players move up<LINE>
+//towards Nankatsu's goal.<END>
 
-//OK, les gars!<LINE>
-//Je dégage la balle!<END>
+//OK, guys!<LINE>
+//I'm clearing the ball!<END>
 
-//Kisugi et Taki s'efforcent<LINE>
-//en vain d'intercepter le ballon.<LINE>
-//Matsuyama n'a pas l'intention<LINE>
-//de les laisser faire!<END>
+//Kisugi and Taki try<LINE>
+//in vain to intercept the ball.<LINE>
+//Matsuyama has no intention<LINE>
+//of letting them do it!<END>
 
-//Pour la protection de balle,<LINE>
-//personne dans ce championnat<LINE>
-//n'atteint le niveau de Matsuyama.<LINE>
+//When it comes to ball protection,<LINE>
+//no one in this championship<LINE>
+//reaches Matsuyama's level.<LINE>
 //<END>
 
 //?<END>
 
-//Tsubasa poursuit lui aussi Matsuyama!<END>
+//Tsubasa is also chasing Matsuyama!<END>
 
-//Je ferai une passe longue<LINE>
-//avant qu'il n'arrive!<END>
+//I'll make a long pass<LINE>
+//before he arrives!<END>
 
-//Matsuyama a frappé un grand lob<LINE>
-//pour ses coéquipiers qui courent se placer<LINE>
-//à l'avant.<END>
+//Matsuyama hit a great lob<LINE>
+//for his teammates who are running up<LINE>
+//to the front.<END>
 
-//Allons-y!<END>
+//Let's go!<END>
 
-//Je me fiche de savoir combien ils sont!<LINE>
-//Il n'y a qu'un seul ballon.<LINE>
-//Je vais stopper leur attaque<LINE>
-//et dégager la balle!<END>
+//I don't care how many there are!<LINE>
+//There's only one ball.<LINE>
+//I'll stop their attack<LINE>
+//and clear the ball!<END>
 
-//Ça ne marchera pas... même si je dégage,<LINE>
-//ils continueront à attaquer!<END>
+//It won't work... even if I clear it,<LINE>
+//they'll keep attacking!<END>
 
-//Si un joueur perd le ballon,<LINE>
-//ses partenaires sont là pour le protéger.<LINE>
-//C'est l'Avalanche de Furano!<END>
+//If a player loses the ball,<LINE>
+//his teammates are there to protect him.<LINE>
+//That's the Furano Avalanche!<END>
 
-//L'Avalanche de Furano pourra-t-elle<LINE>
-//submerger la défense de Nankatsu?<END>
+//Will the Furano Avalanche be able to<LINE>
+//overwhelm Nankatsu's defense?<END>
 

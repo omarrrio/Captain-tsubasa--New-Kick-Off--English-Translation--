@@ -1,27 +1,27 @@
 // FILE: EP3552.str containing 7 strings
 
-//Ici!<END>
+//Here!<END>
 
-//Une passe d'Oda!<LINE>
-//La tactique préférée de Furano consiste<LINE>
-//à exécuter des passes successives!<END>
+//A pass from Oda!<LINE>
+//Furano's preferred tactic is<LINE>
+//to execute successive passes!<END>
 
-//Une passe de Yumamuro!<LINE>
-//La tactique préférée de Furano consiste<LINE>
-//à exécuter des passes successives!<LINE>
+//A pass from Yamamuro!<LINE>
+//Furano's preferred tactic is<LINE>
+//to execute successive passes!<LINE>
 //<END>
 
-//Je ne te laisserai pas faire ça!<END>
+//I won't let you do that!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Sawada se déplace rapidement<LINE>
-//entre Oda et Yamamuro<LINE>
-//pour intercepter le ballon!<LINE>
-//Bien joué!<END>
+//Sawada quickly moves<LINE>
+//between Oda and Yamamuro<LINE>
+//to intercept the ball!<LINE>
+//Well played!<END>
 
-//Sawada se déplace rapidement<LINE>
-//entre Yamamuro et Oda<LINE>
-//pour intercepter le ballon!<LINE>
-//Bien joué!<END>
+//Sawada quickly moves<LINE>
+//between Yamamuro and Oda<LINE>
+//to intercept the ball!<LINE>
+//Well played!<END>
 

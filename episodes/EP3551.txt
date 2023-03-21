@@ -1,55 +1,55 @@
 // FILE: EP3551.str containing 17 strings
 
-//Vos dribbles sont médiocres!<LINE>
-//Voici le Tiger shot!<END>
+//Your dribbling is mediocre!<LINE>
+//Here's the Tiger Shot!<END>
 
-//Oh! Hyuga a tiré de très près<LINE>
-//un boulet de canon dans les cages!<LINE>
-//Un tir intimidant!<END>
+//Oh! Hyuga shot from very close range<LINE>
+//a cannon into the goal!<LINE>
+//An intimidating shot!<END>
 
 //Oh!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Oh! Il a exploité une faille<LINE>
-//dans la défense du gardien Kato!<LINE>
-//Celui-ci n'a rien pu faire<LINE>
-//pour arrêter le tir!<END>
+//Oh! He exploited a weakness<LINE>
+//in the goalkeeper Kato's defense!<LINE>
+//He couldn't do anything<LINE>
+//to stop the shot!<END>
 
-//But!<LINE>
-//Le tir agressif de Hyuga a donné un but<LINE>
-//à Toho Gakuen!<END>
+//Goal!<LINE>
+//Hyuga's aggressive shot resulted in a goal<LINE>
+//for Toho Gakuen!<END>
 
-//Mince. Ce n'est pas possible,<LINE>
-//un tir aussi puissant!<END>
+//Darn. It can't be<LINE>
+//a shot that powerful!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Oda!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Oda's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Yamamuro!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Yamamuro's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Kanéda!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Kaneda's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Wakamatsu!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Wakamatsu's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Honda!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Honda's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Sasé!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Sase's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Matsuda!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Matsuda's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Kondo!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Kondo's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Nakagawa!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Nakagawa's feet!<END>
 
-//Hyuga a repris de force le ballon<LINE>
-//des pieds d'Matsuyama!<END>
+//Hyuga forcefully took the ball<LINE>
+//from Matsuyama's feet!<END>
 
