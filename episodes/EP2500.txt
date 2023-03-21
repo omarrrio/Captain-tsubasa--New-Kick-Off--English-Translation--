@@ -1,179 +1,176 @@
 // FILE: EP2500.str containing 57 strings
 
-//Capitaine!<END>
+//Captain!<END>
 
 //Hyuga.<END>
 
-//Entraîneur Kitazumé, veuillez accepter<LINE>
-//cela s'il vous plaît!<END>
+//Coach Kitazume, please accept<LINE>
+//this, please!<END>
 
 //...<END>
 
 //...<END>
 
-//Si on m'avait dit que j'en arriverais là<LINE>
-//un jour, mais...<END>
+//If someone had told me I would end up<LINE>
+//like this one day, but...<END>
 
-//C'est le moins que je puisse faire<LINE>
-//pour  vous.<LINE>
-//Par pitié! Je vous supplie de me laisser<LINE>
-//jouer lors du prochain match!<END>
+//It's the least I can do<LINE>
+//for you.<LINE>
+//Please! I beg you, let me play<LINE>
+//in the next match!<END>
 
-//Regarde-moi, Hyuga!<END>
+//Look at me, Hyuga!<END>
 
-//J'ai toujours entraîné l'équipe à ma façon.<END>
+//I've always trained the team my way.<END>
 
-//Et c'est pourquoi, j'ai décidé de ne pas<LINE>
-//te faire participer à ce tournoi.<LINE>
-//Tu comprends, Hyuga?<END>
+//And that's why I've decided not<LINE>
+//to let you participate in this tournament.<LINE>
+//You understand, Hyuga?<END>
 
-//Je vois... Rien à foutre de tout ça.<LINE>
-//Je joue demain, point final!<END>
+//I see... I don't care about any of that.<LINE>
+//I'm playing tomorrow, period!<END>
 
-//Peu importe si je dois me battre<LINE>
-//contre vous ou m'imposer sur le terrain,<LINE>
-//mais je jouerai dans l'équipe demain!<END>
+//No matter if I have to fight<LINE>
+//against you or prove myself on the field,<LINE>
+//but I will play in the team tomorrow!<END>
 
-//Toho n'appartient pas à un seul homme!<LINE>
-//Je ne vous laisserai pas m'évincer<LINE>
-//par caprice!<END>
+//Toho doesn't belong to one man!<LINE>
+//I won't let you kick me out<LINE>
+//on a whim!<END>
 
-//Tu es le seul à avoir toujours agi<LINE>
-//par caprice!<END>
+//You're the only one who has always acted<LINE>
+//on a whim!<END>
 
 //Grrr!<END>
 
-//Une minute, capitaine!<LINE>
-//Vous aussi, entraîneur!<END>
+//Hold on, captain!<LINE>
+//You too, coach!<END>
 
-//Écoutez-moi, entraîneur!<LINE>
-//Laissez jouer Hyuga, s'il vous plaît!<END>
+//Listen to me, coach!<LINE>
+//Let Hyuga play, please!<END>
 
-//Le capitaine a eu tort de quitter<LINE>
-//l'équipe sans votre autorisation.<END>
+//The captain was wrong to leave<LINE>
+//the team without your permission.<END>
 
-//Mais durant son séjour à Okinawa,<LINE>
-//il s'est entraîné avec plus d'acharnement<LINE>
-//que quiconque ici, dans le seul but<LINE>
-//de battre Nankatsu!<END>
+//But during his stay in Okinawa,<LINE>
+//he trained harder than anyone else here,<LINE>
+//with the sole aim of beating Nankatsu!<END>
 
-//Entraîneur, s'il vous plaît!<LINE>
-//Faites entrer notre capitaine!<END>
+//Coach, please!<LINE>
+//Let our captain play!<END>
 
-//Les gars...<END>
+//Guys...<END>
 
-//Vous voulez vraiment que Hyuga participe<LINE>
-//au match, Huh?<END>
+//Do you really want Hyuga to play<LINE>
+//in the match, huh?<END>
 
-//Cette boule de fierté, Hyuga,<LINE>
-//s'est agenouillé devant moi et m'a supplié.<END>
+//That ball of pride, Hyuga,<LINE>
+//knelt down in front of me and begged.<END>
 
-//Et ses coéquipiers le réclament<LINE>
-//alors qu'il les a laissés tomber...<LINE>
-//Sans compter qu'il n'a pas joué<LINE>
-//un seul match de ce tournoi...<END>
+//And his teammates are asking for him<LINE>
+//even though he let them down...<LINE>
+//Not to mention he hasn't played<LINE>
+//a single match in this tournament...<END>
 
-//Mais j'ai... j'ai décidé en mon âme<LINE>
-//et conscience qu'il ne participerait pas<LINE>
-//au tournoi.<LINE>
-//Je ne peux pas revenir sur ma décision.<END>
+//But I... I have decided in my heart<LINE>
+//and conscience that he will not participate<LINE>
+//in the tournament.<LINE>
+//I cannot reverse my decision.<END>
 
-//Que quelqu'un m'apporte un ballon.<LINE>
-//Et de la lumière aussi.<END>
+//Someone bring me a ball.<LINE>
+//And some light too.<END>
 
 //Huh?<END>
 
-//Hyuga, tu as dit que Toho<LINE>
-//ne m'appartenait pas.<LINE>
-//Mais c'est pourtant moi, l'entraîneur,<LINE>
-//qui dirige cette équipe.<END>
+//Hyuga, you said Toho<LINE>
+//doesn't belong to me.<LINE>
+//But I, the coach,<LINE>
+//am the one who leads this team.<END>
 
-//Et Toho s'est démenée pour parvenir<LINE>
-//en finale sans toi.<END>
+//And Toho worked hard to make it<LINE>
+//to the finals without you.<END>
 
-//Nous pouvons remercier Sorimachi, Sawada<LINE>
-//et Wakashimazu.<LINE>
-//Peux-tu marquer un but en les affrontant<LINE>
-//sur le terrain?<END>
+//We can thank Sorimachi, Sawada<LINE>
+//and Wakashimazu.<LINE>
+//Can you score a goal facing<LINE>
+//them on the field?<END>
 
-//Vous promettez de me laisser jouer<LINE>
-//si j'y arrive?<END>
+//Do you promise to let me play<LINE>
+//if I do?<END>
 
-//Mais s'ils font exprès de laisser passer<LINE>
-//le but pour que tu puisses participer<LINE>
-//au match, je ne te laisserai pas entrer<LINE>
-//sur le terrain! Compris?<END>
+//But if they purposely let the goal pass<LINE>
+//so you can participate in the match, I won't let you<LINE>
+//onto the field! Got it?<END>
 
-//Je vais jouer! Je vais vaincre Tsubasa<LINE>
-//grâce à mon Tiger shot!<END>
+//I'm playing! I will defeat Tsubasa<LINE>
+//with my Tiger Shot!<END>
 
-//Hein!<END>
+//What!<END>
 
-//Wakashimazu n'a pas bougé d'un centimètre!<END>
+//Wakashimazu didn't budge an inch!<END>
 
-//N-non! Je ne l'ai pas fait exprès!<LINE>
-//C'est... c'est allé trop vite pour moi!<END>
+//No-no! I didn't do it on purpose!<LINE>
+//It... it happened too fast for me!<END>
 
-//Voici la composition de l'équipe<LINE>
-//pour le match de demain contre Nankatsu!<END>
+//Here's the lineup<LINE>
+//for tomorrow's match against Nankatsu!<END>
 
-//Avant-centre... Hyuga Kojiro!<END>
+//Center forward... Kojiro Hyuga!<END>
 
-//Super!<END>
+//Great!<END>
 
-//Entraîneur Kitazumé de Toho Gakuen?<LINE>
-//Je m'appelle Kira Kozo.<END>
+//Coach Kitazume from Toho Gakuen?<LINE>
+//My name is Kozo Kira.<END>
 
-//Entraîneur Kira!<END>
+//Coach Kira!<END>
 
-//Je vous demande de faire jouer Kojiro<LINE>
-//durant le match d'aujourd'hui!<END>
+//I ask you to play Kojiro<LINE>
+//during today's match!<END>
 
 //...<END>
 
-//M. Kira, je vous prie de bien vouloir<LINE>
-//m'écouter.<LINE>
-//Soyez sans crainte, je compte faire jouer<LINE>
-//Hyuga durant tout le match.<END>
+//Mr. Kira, please<LINE>
+//listen to me.<LINE>
+//Rest assured, I plan to play<LINE>
+//Hyuga throughout the match.<END>
 
-//Vraiment?<END>
+//Really?<END>
 
-//Hyuga a fait hier ce que vous venez<LINE>
-//de faire maintenant.<END>
+//Hyuga did yesterday what you just<LINE>
+//did now.<END>
 
 //Oh? Kojiro?<END>
 
-//Entraîneur...<END>
+//Coach...<END>
 
-//Quoiqu'il en soit, bonne chance!<LINE>
-//Vous avez de grandes chances de gagner<LINE>
-//avec une telle équipe!<END>
+//Anyway, good luck!<LINE>
+//You have a great chance of winning<LINE>
+//with such a team!<END>
 
-//Nous allons battre Nankatsu et ramener<LINE>
-//le drapeau du championnat à Toho Gakuen,<LINE>
-//là où est sa vraie place!<END>
+//We will beat Nankatsu and bring back<LINE>
+//the championship flag to Toho Gakuen,<LINE>
+//where it truly belongs!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Finalement je remettrai ma lettre<LINE>
-//de démission après le match.<END>
+//Finally, I will submit my resignation<LINE>
+//letter after the match.<END>
 
-//Très bien! C'est parti, les gars!<LINE>
-//Allons écraser Nankatsu!<END>
+//Very well! Let's go, guys!<LINE>
+//Let's crush Nankatsu!<END>
 
-//Cela fait longtemps que nous n'avons pas<LINE>
-//joué ensemble, Hyuga, mais je suis sûr<LINE>
-//que nous formerons un bon duo!<END>
+//It's been a long time since we<LINE>
+//played together, Hyuga, but I'm sure<LINE>
+//we'll make a good duo!<END>
 
-//Enfin de retour sur le terrain!<LINE>
-//J'ai besoin de vous, les gars.<LINE>
-//Je ne veux pas encore perdre contre<LINE>
-//Tsubasa!<END>
+//Finally back on the field!<LINE>
+//I need you guys.<LINE>
+//I don't want to lose to Tsubasa again!<END>
 
-//Tsubasa…<LINE>
-//J'ai consacré les quatre dernières années<LINE>
-//de ma vie à me préparer pour ce moment…<LINE>
-//Mon dernier match en ligue des collèges!<END>
+//Tsubasa...<LINE>
+//I have devoted the last four years<LINE>
+//of my life to prepare for this moment...<LINE>
+//My last match in the college league!<END>
 
-//Une demande de rencontre?<END>
+//A request for a match?<END>
 

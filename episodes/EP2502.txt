@@ -1,201 +1,193 @@
 // FILE: EP2502.str containing 58 strings
 
-//Et l'arbitre vient de siffler la fin<LINE>
-//du match!<LINE>
-//Le vainqueur du national junior high<LINE>
-//school soccer tournament,<LINE>
-//représentant Tokyo, est Toho Gakuen!<END>
+//And the referee just blew the final whistle<LINE>
+//of the match!<LINE>
+//The winner of the junior high national soccer tournament,<LINE>
+//representing Tokyo, is Toho Gakuen!<END>
 
-//Nous avons assisté à trois années<LINE>
-//de lutte acharnée entre les mêmes joueurs.<LINE>
-//Ce tournoi permet à Toho Gakuen<LINE>
-//de détrôner le vainqueur en titre,<LINE>
+//We have witnessed three years<LINE>
+//of fierce struggle between the same players.<LINE>
+//This tournament allowed Toho Gakuen<LINE>
+//to dethrone the defending champion,<LINE>
 //Nankatsu!<END>
 
-//Nous avons gagné!<LINE>
-//Nous avons battu Tsubasa et Nankatsu!<END>
+//We won!<LINE>
+//We defeated Tsubasa and Nankatsu!<END>
 
 //Hyuga!<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//La participation de Hyuga était<LINE>
-//incertaine, et c'est grâce à Sorimachi,<LINE>
-//Sawada et Wakashimazu, l'équipe a pu<LINE>
-//accéder à la finale.<END>
+//Hyuga's participation was uncertain, and it was thanks to Sorimachi,<LINE>
+//Sawada, and Wakashimazu that the team was able to<LINE>
+//reach the final.<END>
 
-//Mais l'arrivée de leur atout, Hyuga,<LINE>
-//en deuxième mi-temps de la finale,<LINE>
-//leur a permis de compromettre les projets<LINE>
-//de Nankatsu qui visait une troisième<LINE>
-//victoire.<LINE>
-//Toho Gakuen a enfin remporté le titre<LINE>
-//tant convoité!<END>
+//But the arrival of their ace, Hyuga,<LINE>
+//in the second half of the final,<LINE>
+//allowed them to compromise Nankatsu's plans<LINE>
+//for a third victory.<LINE>
+//Toho Gakuen finally won the coveted title!<END>
 
-//Tsubasa! J'ai enfin pu te battre, même si<LINE>
-//j'ai dû attendre le dernier moment!<END>
+//Tsubasa! I finally managed to beat you, even though<LINE>
+//I had to wait until the last moment!<END>
 
 //Hyuga.<END>
 
-//Mais... Si tu avais joué au meilleur<LINE>
-//de ta forme, le résultat aurait peut-être<LINE>
-//été différent.<END>
+//But... If you had played at your best,<LINE>
+//the result might have been different.<END>
 
-//Non, les blessures font partie du jeu.<END>
+//No, injuries are part of the game.<END>
 
-//C'est ta présence sur le terrain, Hyuga,<LINE>
-//qui m'a permis de me donner à fond.<LINE>
-//Toho Gakuen est une équipe<LINE>
-//hors du commun grâce à son capitaine.<LINE>
-//Tu m'as vaincu.<END>
+//It's your presence on the field, Hyuga,<LINE>
+//that allowed me to give it my all.<LINE>
+//Toho Gakuen is an extraordinary team<LINE>
+//thanks to its captain.<LINE>
+//You defeated me.<END>
 
-//Tsubasa... Vas-jouer au Brésil!<END>
+//Tsubasa... Go play in Brazil!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Je ne devrais peut-être pas te dire ça,<LINE>
-//puisque je viens de ruiner<LINE>
-//ton tableau d'honneur…<LINE>
-//Mais comme je te l'ai déjà dit, tu n'es pas<LINE>
-//le genre de joueurs à passer<LINE>
-//sa vie au Japon.<END>
+//I shouldn't tell you that,<LINE>
+//since I just ruined<LINE>
+//your record...<LINE>
+//But as I've already told you, you're not<LINE>
+//the type of player to spend<LINE>
+//his life in Japan.<END>
 
-//Et si tu continues à traîner dans le coin,<LINE>
-//je n'aurai personne d'autre à vaincre<LINE>
-//que toi.<END>
+//And if you keep hanging around,<LINE>
+//I'll have no one else to defeat<LINE>
+//but you.<END>
 
 //Hyuga...<END>
 
-//Je crois avoir appris plein choses<LINE>
-//positives sur le football en t'affrontant<LINE>
-//sur le terrain.<END>
+//I think I learned a lot of positive things<LINE>
+//about soccer by facing you on the field.<END>
 
-//Je veux viser plus haut, tout comme toi.<END>
+//I want to aim higher, just like you.<END>
 
 //Hyuga.<END>
 
-//Je ne sais pas exactement quoi<LINE>
-//pour le moment, mais ça viendra.<END>
+//I'm not sure exactly what<LINE>
+//at the moment, but it will come.<END>
 
-//Hyuga. Je... je partirai pour le Brésil<LINE>
-//dès que j'aurai terminé le collège.<END>
+//Hyuga. I... I'll go to Brazil<LINE>
+//as soon as I finish middle school.<END>
 
-//Tsubasa... J'imagine que ceci met<LINE>
-//un terme à notre rivalité... du moins<LINE>
-//pour le moment.<END>
+//Tsubasa... I guess this puts<LINE>
+//an end to our rivalry... at least<LINE>
+//for now.<END>
 
-//Oui.<END>
+//Yes.<END>
 
-//Les deux capitaines, Hyuga et Tsubasa,<LINE>
-//se félicitent du match qu'ils viennent<LINE>
-//de disputer.<LINE>
-//Ils échangent à présent leurs maillots!<LINE>
-//Ils n'ont aucun regret quant au match.<LINE>
-//Les deux joueurs affichent un visage<LINE>
-//radieux et souriant!<END>
+//The two captains, Hyuga and Tsubasa,<LINE>
+//congratulate each other on the match they have<LINE>
+//just played.<LINE>
+//They are now exchanging jerseys!<LINE>
+//They have no regrets about the match.<LINE>
+//Both players have a radiant, smiling face!<END>
 
-//La bannière rouge de la victoire<LINE>
-//est maintenant remise à Hyuga,<LINE>
-//le capitaine de Toho Gakuen!<END>
+//The red banner of victory<LINE>
+//is now handed over to Hyuga,<LINE>
+//the captain of Toho Gakuen!<END>
 
-//Nous avons gagné ce drapeau<LINE>
-//tous ensemble, les gars!<END>
+//We won this flag<LINE>
+//together, guys!<END>
 
-//C'était du beau travail d'équipe.<LINE>
-//Vous avez bien joué, et remporté<LINE>
-//le premier championnat de Toho Gakuen!<END>
+//It was a great team effort.<LINE>
+//You played well and won<LINE>
+//Toho Gakuen's first championship!<END>
 
-//Entraîneur, veuillez accepter ceci.<END>
+//Coach, please accept this.<END>
 
-//Même si nous avons gagné cette année,<LINE>
-//je n'ai pas rempli mon rôle de capitaine<LINE>
-//de Toho Gakuen, ni celui de coéquipier.<END>
+//Even though we won this year,<LINE>
+//I didn't fulfill my role as Toho Gakuen's<LINE>
+//captain or as a teammate.<END>
 
-//Tu n'as pas à quitter l'équipe.<LINE>
-//C'est plutôt à moi de le faire.<END>
+//You don't have to quit the team.<LINE>
+//It's more appropriate for me to do so.<END>
 
-//J'ai pris cette décision<LINE>
-//lorsque je suis revenu sur mon choix<LINE>
-//de ne pas te faire jouer.<LINE>
-//Nous avons pu cependant gagner, Hyuga.<END>
+//I made that decision<LINE>
+//when I changed my mind<LINE>
+//about not letting you play.<LINE>
+//However, we were still able to win, Hyuga.<END>
 
 //...<END>
 
-//Mais je vais bosser comme entraîneur<LINE>
-//dans une autre école, et je ferai<LINE>
-//à ma manière.<LINE>
-//Qui sait, nous serons peut-être adversaires<LINE>
-//lorsque nous nous reverrons, Hyuga.<END>
+//But I'll work as a coach<LINE>
+//in another school, and I'll do it<LINE>
+//my way.<LINE>
+//Who knows, we might be opponents<LINE>
+//when we meet again, Hyuga.<END>
 
-//M-mais, entraîneur!<END>
+//B-but, coach!<END>
 
-//Que vont devenir les autres joueurs<LINE>
-//si vous démissionnez?<END>
+//What will happen to the other players<LINE>
+//if you resign?<END>
 
-//Si tu es si sûr de toi, tu devras alors<LINE>
-//assumer chacun de tes actes à l'avenir.<LINE>
-//C'est ton devoir.<END>
+//If you're so confident, then<LINE>
+//you'll have to take responsibility for<LINE>
+//each of your actions in the future.<LINE>
+//It's your duty.<END>
 
-//Entraîneur.<END>
+//Coach.<END>
 
-//Très bien, fin de la discussion!<LINE>
-//Allons-y!<END>
+//Alright, end of discussion!<LINE>
+//Let's go!<END>
 
-//Membres du club de Toho Gakuen,<LINE>
-//faites une haie d'honneur!<END>
+//Members of Toho Gakuen's club,<LINE>
+//form an honor guard!<END>
 
-//Rendez hommage à l'entraîneur Kitazumé!<END>
+//Pay tribute to Coach Kitazume!<END>
 
-//Merci!<END>
+//Thank you!<END>
 
-//Vous avez été de bons élèves, les garçons.<END>
+//You were good students, boys.<END>
 
-//Toho et Nankatsu ont terminé à égalité.<LINE>
-//Les deux équipes n'ont pas réussi<LINE>
-//à se départager. Elles sont par conséquent<LINE>
-//toutes deux proclamées vainqueurs!<END>
+//Toho and Nankatsu ended in a tie.<LINE>
+//Both teams were unable to<LINE>
+//decide the winner. Therefore,<LINE>
+//they are both proclaimed as victors!<END>
 
-//C'est terminé.<END>
+//It's over.<END>
 
-//Match nul.<END>
+//Draw.<END>
 
-//Et alors que l'arbitre siffle la fin<LINE>
-//du match, les joueurs des deux équipes<LINE>
-//tombent à genoux.<LINE>
-//La déception est trop grande.<END>
+//As the referee blows the final whistle,<LINE>
+//the players from both teams<LINE>
+//fall to their knees.<LINE>
+//The disappointment is too great.<END>
 
-//Ceci montre à quel point les joueurs<LINE>
-//ont mené une lutte acharnée<LINE>
-//durant ce match.<END>
+//This shows how much the players<LINE>
+//fought hard during this match.<END>
 
-//La foule ovationne les deux équipes<LINE>
-//qui ont donné le meilleur d'elles-mêmes<LINE>
-//au cours d'un match difficile.<END>
+//The crowd applauds both teams<LINE>
+//who gave their best<LINE>
+//during a difficult match.<END>
 
-//C'est ton premier championnat,<LINE>
+//This is your first championship,<LINE>
 //Hyuga!<END>
 
-//Nous avons gagné, capitaine!<END>
+//We won, captain!<END>
 
 //Tsubasa...<END>
 
 //Hyuga.<END>
 
-//Je n'ai finalement pas réussi à te battre.<LINE>
-//Nous avons fait match nul.<END>
+//I ultimately didn't manage to beat you.<LINE>
+//We ended up with a draw.<END>
 
-//Mais... si tu avais joué au meilleur<LINE>
-//de ta forme, le résultat aurait peut-être<LINE>
-//été différent.<END>
+//But... if you had played at your best,<LINE>
+//the result might have been different.<END>
 
-//C'est ta présence sur le terrain, Hyuga,<LINE>
-//qui m'a permis de me donner à fond.<LINE>
-//Toho Gakuen est une équipe<LINE>
-//hors du commun grâce à son capitaine.<LINE>
-//Tu m'as vaincu.<END>
+//It was your presence on the field, Hyuga,<LINE>
+//that allowed me to give it my all.<LINE>
+//Toho Gakuen is an exceptional team<LINE>
+//thanks to its captain.<LINE>
+//You defeated me.<END>
 
-//Tsubasa... J'imagine que ceci met un terme<LINE>
-//à notre rivalité. Du moins pour le moment.<END>
+//Tsubasa... I suppose this puts an end<LINE>
+//to our rivalry. At least for now.<END>
 
-//Oui.<END>
+//Yes.<END>
 

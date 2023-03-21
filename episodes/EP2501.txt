@@ -1,82 +1,81 @@
 // FILE: EP2501.str containing 22 strings
 
-//Nankatsu, fais gaffe à toi<LINE>
-//durant la deuxième mi-temps.<LINE>
-//J'ai le soleil avec moi!<END>
+//Nankatsu, watch out<LINE>
+//during the second half.<LINE>
+//I have the sun on my side!<END>
 
-//Ils seront complètement épuisés<LINE>
-//durant la deuxième mi-temps.<LINE>
-//La chaleur et les nombreux matchs<LINE>
-//auront raison d'eux.<END>
+//They will be completely exhausted<LINE>
+//during the second half.<LINE>
+//The heat and the many matches<LINE>
+//will take their toll on them.<END>
 
-//Je me suis entraîné sans relâche<LINE>
-//sous le soleil ardent d'Okinawa.<LINE>
-//Je suis plus résistant qu'eux.<END>
+//I trained tirelessly<LINE>
+//under the scorching sun of Okinawa.<LINE>
+//I am tougher than them.<END>
 
-//Et c'est le premier match du tournoi<LINE>
-//auquel je participe.<END>
+//And this is the first match of the tournament<LINE>
+//that I am participating in.<END>
 
-//Tous les éléments sont en ma faveur!<LINE>
-//Je vais te battre à plates coutures<LINE>
-//durant la deuxième mi-temps, Nankatsu!<END>
+//All the elements are in my favor!<LINE>
+//I'm going to beat you hands down<LINE>
+//during the second half, Nankatsu!<END>
 
-//Vous avez bien joué jusqu'à présent,<LINE>
-//les gars.<LINE>
-//Mais Nankatsu ne sera pas facile à vaincre.<LINE>
-//Ne faites pas l'erreur fatale de laisser<LINE>
-//trop de liberté à Tsubasa Ozora!<LINE>
-//Marquez-le avec Wakashimazu au centre!<END>
+//You've played well so far,<LINE>
+//guys.<LINE>
+//But Nankatsu won't be easy to beat.<LINE>
+//Don't make the fatal mistake of giving<LINE>
+//too much freedom to Tsubasa Ozora!<LINE>
+//Mark him with Wakashimazu in the center!<END>
 
-//Envoyez le ballon à Hyuga durant<LINE>
-//la deuxième mi-temps et attaquez!<LINE>
-//Nous sommes sûrs de gagner<LINE>
-//si vous vous en tenez à cette tactique!<END>
+//Send the ball to Hyuga during<LINE>
+//the second half and attack!<LINE>
+//We're sure to win<LINE>
+//if you stick to this tactic!<END>
 
-//Entraîneur!<END>
+//Coach!<END>
 
-//L'entraîneur aussi...<LINE>
-//Lui aussi reconnaît le talent de Hyuga!<END>
+//The coach too...<LINE>
+//He also recognizes Hyuga's talent!<END>
 
-//Takeshi, Wakashimazu, je compte sur vous<LINE>
-//durant la deuxième mi-temps également!<END>
+//Takeshi, Wakashimazu, I'm counting on you<LINE>
+//during the second half as well!<END>
 
-//Oui, capitaine!<END>
+//Yes, captain!<END>
 
-//Ça marche, Hyuga!<END>
+//Got it, Hyuga!<END>
 
-//Oh, j'allais oublier.<LINE>
-//Comment va ton bras, Wakashimazu?<END>
+//Oh, I almost forgot.<LINE>
+//How's your arm, Wakashimazu?<END>
 
-//Je défendrai les buts de Toho<LINE>
-//quoiqu'il m'en coûte.<LINE>
-//Quoiqu'il m'en coûte!<END>
+//I'll defend Toho's goal<LINE>
+//whatever it takes.<LINE>
+//Whatever it takes!<END>
 
 //Wakashimazu?<END>
 
-//Euh... Non, oublie ça.<LINE>
-//Allons gagner ce match, capitaine!<LINE>
-//Nous allons gagner ce match et remporter<LINE>
-//le championnat, capitaine!<END>
+//Uh... No, forget it.<LINE>
+//Let's win this match, captain!<LINE>
+//We're going to win this match and win<LINE>
+//the championship, captain!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Bien, la deuxième mi-temps va commencer!<LINE>
-//Nous allons vaincre Toho et gagner<LINE>
-//notre tout premier championnat!<END>
+//Alright, the second half is about to begin!<LINE>
+//We're going to defeat Toho and win<LINE>
+//our very first championship!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Eh bien, la deuxième mi-temps du match<LINE>
-//de championnat pour le National Junior<LINE>
-//High School Soccer Tournament est<LINE>
-//sur le point de commencer!<END>
+//Well, the second half of the championship match<LINE>
+//for the National Junior High School Soccer Tournament is<LINE>
+//about to begin!<END>
 
-//Nankatsu va-t-elle devenir<LINE>
-//la première équipe de l'histoire<LINE>
-//à remporter trois championnats de suite?<LINE>
-//Ou est-ce Toho qui gagnera enfin<LINE>
-//sa première victoire?<END>
+//Will Nankatsu become<LINE>
+//the first team in history<LINE>
+//to win three championships in a row?<LINE>
+//Or will it be Toho that finally wins<LINE>
+//its first victory?<END>
 
-//Que nous réserve la deuxième mi-temps?<LINE>
-//Le coup d'envoi revient à Nankatsu!<END>
+//What does the second half hold for us?<LINE>
+//The kickoff goes to Nankatsu!<END>
 

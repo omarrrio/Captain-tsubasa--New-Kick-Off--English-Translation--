@@ -1,25 +1,25 @@
 // FILE: EP2452.str containing 9 strings
 
-//Tiens!<END>
+//Here you go!<END>
 
-//Sawada passe le ballon!<END>
+//Sawada passes the ball!<END>
 
-//Mais l'équipe adverse anticipe<LINE>
-//une fois de plus cette action!<END>
+//But once again, the opposing team anticipates<LINE>
+//this action!<END>
 
 //Grrr!<END>
 
-//Quoi!<END>
+//What!<END>
 
-//Bien joué, Takeshi!<END>
+//Well done, Takeshi!<END>
 
-//Mais Sawada effectue un tacle glissé<LINE>
-//et récupère le ballon!<END>
+//But Sawada performs a sliding tackle<LINE>
+//and retrieves the ball!<END>
 
-//Ouais! Bravo, Takeshi!<END>
+//Yeah! Well done, Takeshi!<END>
 
-//Bien joué!<LINE>
-//S'ils prennent le ballon, récupérez-le!<LINE>
-//C'est comme ça qu'on joue au football!<LINE>
-//Pas vrai, Tsubasa?<END>
+//Well played!<LINE>
+//If they take the ball, get it back!<LINE>
+//That's how you play football!<LINE>
+//Isn't that right, Tsubasa?<END>
 

@@ -1,116 +1,115 @@
 // FILE: EP2454.str containing 37 strings
 
-//Foncez!<END>
+//Go for it!<END>
 
-//Oh! Meiwa-Higashi prend le ballon<LINE>
-//et l'envoie à l'autre bout du terrain!<END>
+//Oh! Meiwa-Higashi takes the ball<LINE>
+//and sends it to the other end of the field!<END>
 
-//Toho s'est dispersée durant l'attaque,<LINE>
-//laissant une énorme faille dans sa défense.<LINE>
-//Le ballon vole droit au travers!<END>
+//Toho has scattered during the attack,<LINE>
+//leaving a huge gap in their defense.<LINE>
+//The ball flies straight through!<END>
 
-//Le ballon va-t-il arriver jusqu'à<LINE>
-//l'avant-centre de Meiwa-Higashi?<LINE>
-//Sawaki tente le tout pour le tout!<END>
+//Will the ball reach<LINE>
+//Meiwa-Higashi's forward?<LINE>
+//Sawaki goes all out!<END>
 
 //Grrr!<END>
 
-//Oh! Et la passe est bonne!<END>
+//Oh! And the pass is good!<END>
 
-//D'accord!<END>
+//Alright!<END>
 
-//Meiwa-Higashi met le paquet et lance<LINE>
-//une contre-attaque sur ses adversaires!<END>
+//Meiwa-Higashi puts everything they've got into it and launches<LINE>
+//a counter-attack on their opponents!<END>
 
-//Et ça marche!<LINE>
-//Personne ne court après Sawaki!<END>
+//And it works!<LINE>
+//No one is running after Sawaki!<END>
 
-//Je ne vais pas te laisser marquer!<END>
+//I won't let you score!<END>
 
-//Hein!<END>
+//Huh!<END>
 
-//Wakashimazu quitte son poste et vole<LINE>
-//le ballon avec un terrible tacle glissé!<END>
+//Wakashimazu leaves his position and flies<LINE>
+//toward the ball with a fierce sliding tackle!<END>
 
-//Un gardien de but devient un joueur<LINE>
-//comme un autre lorsqu'il quitte la zone<LINE>
-//de penalty!<LINE>
-//Je joue pour gagner, pas pour égaliser!<END>
+//A goalkeeper becomes just another player<LINE>
+//when they leave the penalty area!<LINE>
+//I play to win, not to tie!<END>
 
-//Il se moque de nous ou quoi?<LINE>
-//Occupez-vous de lui!<END>
+//Is he making fun of us or what?<LINE>
+//Take care of him!<END>
 
-//Si nous parvenons à prendre le ballon<LINE>
-//à Wakashimazu, nous serons libres<LINE>
-//de marquer!<LINE>
-//C'est le moment ou jamais!<LINE>
-//C'est parti! Allons-y!<END>
+//If we can take the ball<LINE>
+//from Wakashimazu, we'll be free<LINE>
+//to score!<LINE>
+//This is the moment of truth!<LINE>
+//Let's go! Attack!<END>
 
-//Si je parviens à attirer<LINE>
-//certains de leurs joueurs,<LINE>
-//cela créera une faille dans leur défense!<END>
+//If I can attract<LINE>
+//some of their players,<LINE>
+//it will create a gap in their defense!<END>
 
-//C'est incroyable!<LINE>
-//Wakashimazu remonte le terrain et passe<LINE>
-//devant les joueurs de Meiwa!<END>
+//This is incredible!<LINE>
+//Wakashimazu advances up the field and passes<LINE>
+//the Meiwa players!<END>
 
-//Attrape, Takeshi!<END>
+//Catch it, Takeshi!<END>
 
-//Sawada envoie le ballon sur le côté<LINE>
-//du terrain!<END>
+//Sawada sends the ball to the side<LINE>
+//of the field!<END>
 
-//C'est Sorimachi<LINE>
-//qui le réceptionne!<END>
+//It's Sorimachi<LINE>
+//who receives it!<END>
 
-//Parfait!<END>
+//Perfect!<END>
 
-//Sorimachi va-t-il tirer?<LINE>
-//Non! Il renvoie la balle une fois encore!<END>
+//Will Sorimachi shoot?<LINE>
+//No! He passes the ball again!<END>
 
-//Ouah! Wakashimazu fonce sur le ballon!<END>
+//Wow! Wakashimazu charges toward the ball!<END>
 
-//Prends ça!<END>
+//Take that!<END>
 
-//But!<LINE>
-//La célèbre puissance de tir de Wakashimazu<LINE>
-//lui permet d'envoyer le ballon<LINE>
-//droit dans les buts!<END>
+//Goal!<LINE>
+//Wakashimazu's famous power shot<LINE>
+//enables him to send the ball<LINE>
+//straight into the net!<END>
 
-//Nous venons d'assister à un renversement<LINE>
-//de situation! Toho mène Meiwa-Higashi<LINE>
-//de 2 buts à 1! La chance semble tourner<LINE>
-//en faveur de Toho!<END>
+//We have just witnessed a turnaround!<LINE>
+//Toho leads Meiwa-Higashi<LINE>
+//2 goals to 1! The tide seems to be turning<LINE>
+//in Toho's favor!<END>
 
-//Tu as réussi, Wakashimazu!<END>
+//You did it, Wakashimazu!<END>
 
-//Oh! Hori prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Hori takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Suénaga prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Suenaga takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Narita prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Narita takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Enomoto prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Enomoto takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Sakamoto prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Sakamoto takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Takagi prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Takagi takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Ishii prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Ishii takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Nagano prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Nagano takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Oh! Kawagoé prend le ballon et l'envoie<LINE>
-//le plus loin possible!<END>
+//Oh! Kawagoe takes the ball and sends it<LINE>
+//as far as he can!<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer?<END>
+//Back to<LINE>
+//Mode Selection screen.<LINE>
+//Confirm?<END>
 
