@@ -8,11 +8,11 @@
 
 //Arrrrrgh!<END>
 
-//Oui, fonce!<END>
+//Yes, go for it!<END>
 
-//Allez!<END>
+//Go!<END>
 
-//Bouge!<END>
+//Move!<END>
 
 //I'll put you out of my way!<END>
 
@@ -72,7 +72,7 @@
 
 //You are making me lose my time!<END>
 
-//Tu ne feras pas un pas de plus!<END>
+//You're not going any further!<END>
 
 //Oh no, there, you're dreaming!<END>
 
@@ -98,7 +98,7 @@
 
 //Yeaaaah!<END>
 
-//Je l'ai mis!<END>
+//It's in!<END>
 
 //Ah!<END>
 
