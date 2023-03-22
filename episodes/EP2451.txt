@@ -1,111 +1,85 @@
 // FILE: EP2451.str containing 33 strings
 
-//We're going to win this match!<LINE>
-//This will be the last one without Hyuga!<END>
-
-//Stay strong, Takeshi!<LINE>
-//We won't lose to<LINE>
-//a bunch of kids!<END>
-
-//Well, it seems like two players<LINE>
-//from Meiwa-Higashi are marking Sawada,<LINE>
-//Toho's playmaker!<END>
-
-//Here we go!<END>
-
-//Sawada still manages to make<LINE>
-//a pass!<END>
-
-//Oh, but it doesn't reach its target!<END>
-
-//They were expecting a pass<LINE>
-//to Sorimachi!<END>
-
-//Agh!<END>
-
-//Great! They're doing exactly<LINE>
-//what we planned!<END>
-
-//And Meiwa-Higashi is<LINE>
-//positioning for a shot!<END>
+//Et Meiwa-Higashi gets into shooting position!<END>
 
 //No!<END>
 
-//Oh! But Wakashimazu deflects the ball!<END>
+//Oh! But Wakashimazu saves the ball! <END>
 
-//It's amazing!<LINE>
+//It's incredible! <LINE>
 //Wakashimazu reacted in time<LINE>
-//to block the shot.<LINE>
+//and blocked the shot.<LINE>
 //Without that, the opposing team<LINE>
-//would have scored a goal!<END>
+//would have scored a goal! <END>
 
-//The ball has been deflected,<LINE>
-//but it's still in play.<LINE>
-//The action is taking place inside<LINE>
-//the penalty area!<END>
+//The ball has been saved,<LINE>
+//but it remains in play.<LINE>
+//The action is taking place in<LINE>
+//the penalty area! <END>
 
-//Clear the ball! Kick it far!<END>
+//Get rid of the ball! Send it far away! <END>
 
-//Which player will reach it first?<END>
+//Which player will reach it first? <END>
 
-//Toho's player?<LINE>
-//Or Meiwa-Higashi's?<END>
+//The one from Toho? <LINE>
+//Or the one from Meiwa-Higashi? <END>
 
-//Take this!<LINE>
-//Meiwa's kamikaze sliding squad,<LINE>
-//here we come!<END>
+//Take that! <LINE>
+//Kamikaze sliding squad from Meiwa,<LINE>
+//here we come! <END>
 
-//What!<END>
+//What! <END>
 
-//Wow! Goal! Goal!<LINE>
-//Meiwa's tenacity has finally paid off!<END>
+//Wow! Goal! Goal! <LINE>
+//Meiwa's tenacity has finally paid off! <END>
 
 //Huh...<END>
 
-//It seems that center-forward Sawaki<LINE>
+//It seems that the center forward Sawaki<LINE>
 //was the last one to touch the ball.<LINE>
 //In any case, we witnessed<LINE>
 //a storm of sliding tackles<LINE>
-//by Meiwa-Higashi!<END>
+//from Meiwa-Higashi! <END>
 
-//Everyone near the ball deflected by Wakashimazu<LINE>
-//went for sliding shots to score<LINE>
-//the first goal!<END>
+//All those who were<LINE>
+//near the ball saved by Wakashimazu<LINE>
+//bet on sliding shots to score<LINE>
+//the first goal! <END>
 
-//Alright! We scored a goal!<LINE>
-//We're dominating the match from now on!<END>
+//Very well! We scored a goal! <LINE>
+//We dominate the match now! <END>
 
 //...<END>
 
-//Wait, Hyuga!<END>
+//Wait, Hyuga! <END>
 
-//What are you doing?<LINE>
+//What are you doing? <LINE>
 //I have no intention of letting you<LINE>
-//participate in this match!<END>
+//participate in this match! <END>
 
 //...<END>
 
-//Sit down, Hyuga!<LINE>
-//It's an order from your coach!<END>
+//Sit down, Hyuga! <LINE>
+//It's an order from your coach! <END>
 
 //Orders, orders,<LINE>
 //always orders...<END>
 
-//Do you think you're the master of the world?<LINE>
-//Are you always right?<END>
+//Do you think you're the master of the world? <LINE>
+//Are you always right? <END>
 
-//What did you say?<END>
+//What are you saying? <END>
 
-//Why... why can't I play?<END>
+//Why... why can't I play? <END>
 
-//Wait, Hyuga!<END>
+//Wait, Hyuga! <END>
 
-//Come here, guys!<LINE>
-//It's just one goal!<LINE>
-//You can come back, I'm sure of it!<END>
+//Come here, guys! <LINE>
+//It's just one goal! <LINE>
+//You can come back, I'm sure of it! <END>
 
-//Win this match without me!<LINE>
-//You have to win, guys!<END>
+//Win this match without me! <LINE>
+//You have to win, guys! <END>
 
 //Hyuga...<END>
 
@@ -113,14 +87,14 @@
 
 //Hyuga...<END>
 
-//I'll play in the final!<END>
+//I'll play in the final! <END>
 
-//Alright...<LINE>
+//All right...<LINE>
 //Get ready, guys! It's just one goal,<LINE>
-//like the captain said!<LINE>
-//We'll take it back from them!<END>
+//just like the captain said! <LINE>
+//We'll take it back from them! <END>
 
-////Yeah! We made it here without<LINE>
-//the captain! We'll show them<LINE>
-//what Toho is made of!<END>
+//Yeah! We've made it here<LINE>
+//without the captain! We'll show them<LINE>
+//what Toho is made of! <END>
 
