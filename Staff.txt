@@ -214,9 +214,11 @@
 
 //Konami Digital Entertainment<END>
 
-//LOCALIZATION (European)<END>
-
+//LOCALIZATION (European)<LINE>
 //Unicon Products Inc.<END>
+
+//Translation (English)<LINE>
+//YuseiFD<END>
 
 //Mike Sakamoto<END>
 
