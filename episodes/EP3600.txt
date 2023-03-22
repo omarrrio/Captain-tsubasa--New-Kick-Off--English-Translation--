@@ -1,115 +1,115 @@
 // FILE: EP3600.str containing 44 strings
 
-//Ce bandeau que Fujisawa a confectionné<LINE>
-//m'a permis de continuer à jouer<LINE>
-//sur le terrain malgré la fatigue.<END>
+//This headband that Fujisawa made<LINE>
+//allowed me to keep playing<LINE>
+//on the field despite the fatigue.<END>
 
 //?<END>
 
-//Mais, qu'est-ce que...?<END>
+//But, what is this...?<END>
 
-//En caractères si petits qu'on peine<LINE>
-//à les voir...<LINE>
-//"I love you" brodé en blanc<LINE>
-//sur une étoffe blanche!<END>
+//In such small letters that it's hard<LINE>
+//to see...<LINE>
+//"I love you" embroidered in white<LINE>
+//on a white fabric!<END>
 
-//Qu'est-ce que c'est, capitaine?<END>
+//What is it, Captain?<END>
 
-//R-Rien...<END>
+//N-Nothing...<END>
 
 //...<END>
 
-//Excuse-moi... Laisse-moi passer!<END>
+//Excuse me... Let me through!<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
 //Fujisawa!<LINE>
-//Fujisawa part pour les États-Unis<LINE>
-//au second semestre!<END>
+//Fujisawa is leaving for the United States<LINE>
+//in the second semester!<END>
 
-//Machida, où est Fujisawa?<END>
+//Machida, where is Fujisawa?<END>
 
-//Elle vient de partir<LINE>
-//avec sa mère en taxi.<LINE>
-//Yoshiko part aujourd'hui<LINE>
-//pour les États-Unis.<END>
+//She just left<LINE>
+//with her mother in a taxi.<LINE>
+//Yoshiko is leaving today<LINE>
+//for the United States.<END>
 
 //Fujisawa!<LINE>
 //Fujisawa!...<END>
 
-//Ah, mince!<END>
+//Oh, darn!<END>
 
-//Yoshiko, dépêche-toi!<END>
+//Yoshiko, hurry up!<END>
 
-//Oui.<END>
+//Yes.<END>
 
 //...<END>
 
-//Yoshiko, tu as ton passeport?<LINE>
+//Yoshiko, do you have your passport?<LINE>
 //Yoshiko?<END>
 
 //Ma-Matsuyama...<END>
 
-//Fujisawa, je suis arrivé à temps.<END>
+//Fujisawa, I made it in time.<END>
 
-//Pourquoi es-tu ici, Matsuyama?<END>
+//Why are you here, Matsuyama?<END>
 
-//Ta jambe saigne, Matsuyama!<END>
+//Your leg is bleeding, Matsuyama!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Attends une seconde...<END>
+//Wait a second...<END>
 
-//Oh, ne t'inquiète pas.<LINE>
-//Ton mouchoir va être taché de sang.<END>
+//Oh, don't worry.<LINE>
+//Your handkerchief is going to be stained with blood.<END>
 
-//Non, tu ne saignes pas beaucoup...<END>
+//No, you're not bleeding much...<END>
 
-//Félicitations pour ta victoire, Matsuyama.<END>
+//Congratulations on your victory, Matsuyama.<END>
 
-//Oh, merci.<LINE>
-//On a pu gagner grâce aux bandeaux<LINE>
-//que tu nous as confectionnés.<END>
+//Oh, thank you.<LINE>
+//We were able to win thanks to the headbands<LINE>
+//that you made for us.<END>
 
-//Désolée d'être partie sans rien dire.<END>
+//Sorry for leaving without saying anything.<END>
 
-//Pas de problème.<LINE>
-//Tu avais tes propres raisons.<END>
+//No problem.<LINE>
+//You had your own reasons.<END>
 
-//Tu sais, c'est la dernière fois<LINE>
-//que tu t'occupes de mes blessures.<END>
+//You know, this is the last time<LINE>
+//that you will take care of my injuries.<END>
 
-//Matsuyama, tu joues toujours<LINE>
-//si dangereusement.<LINE>
-//Personne ne se blesse autant que toi...<END>
+//Matsuyama, you always play<LINE>
+//so dangerously.<LINE>
+//No one gets injured as much as you do...<END>
 
-//Héhéhé…<LINE>
-//Tu devrais plutôt dire que je joue<LINE>
-//avec dynamisme!<END>
+//Hehehe…<LINE>
+//You should say that I play<LINE>
+//with dynamism instead!<END>
 
-//Maintiens la pression là,<LINE>
-//pendant un moment...<END>
+//Keep the pressure up there,<LINE>
+//for a while...<END>
 
-//Merci, Fujisawa.<END>
+//Thank you, Fujisawa.<END>
 
 //...<END>
 
-//Qu'est-ce qui ne va pas?<END>
+//What's wrong?<END>
 
-//Tu es arrivé si soudainement...<END>
+//You came so suddenly...<END>
 
-//Hé, ne pleure pas...<END>
+//Hey, don't cry...<END>
 
 //Matsuyama!<END>
 
-//Prends soin de toi…<LINE>
-//Écris-moi, et je te répondrai...<END>
+//Take care of yourself...<LINE>
+//Write to me and I will reply...<END>
 
-//Oui.<END>
+//Yes.<END>
 
-//Et je garderai ce bandeau<LINE>
-//pour me souvenir de toi.<LINE>
-//Merci.<END>
+//And I will keep this headband<LINE>
+//to remember you.<LINE>
+//Thank you.<END>
 
-//Merci...<END>
+//Thank you...<END>
 

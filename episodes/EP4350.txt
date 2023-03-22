@@ -1,23 +1,23 @@
 // FILE: EP4350.str containing 5 strings
 
-//Musashi tente le tout pour le tout<LINE>
-//dans cette seconde mi-temps.<LINE>
-//On dirait que Misugi va enfin entrer<LINE>
-//sur le terrain!<END>
+//Musashi is going all out<LINE>
+//in this second half.<LINE>
+//It looks like Misugi will finally enter<LINE>
+//the field!<END>
 
-//Son rôle a été déterminant<LINE>
-//lors de la qualification de son équipe<LINE>
-//au détriment de Toho.<LINE>
-//On ne l'avait plus vu jouer<LINE>
-//au niveau national depuis trois ans!<END>
+//His role was crucial<LINE>
+//in his team's qualification<LINE>
+//at the expense of Toho.<LINE>
+//We haven't seen him play<LINE>
+//at the national level for three years!<END>
 
-//Misugi, le joueur de génie, le Prince<LINE>
-//du terrain, quel spectacle<LINE>
-//va-t-il nous offrir?<LINE>
+//Misugi, the genius player, the Prince<LINE>
+//of the field, what kind of performance<LINE>
+//will he give us?<LINE>
 //<END>
 
-//C'est maintenant que le match commence!<LINE>
-//Montrons-leur le football de Musashi!<END>
+//This is where the match begins!<LINE>
+//Let's show them the Musashi football!<END>
 
-//Oui, capitaine!<END>
+//Yes, captain!<END>
 

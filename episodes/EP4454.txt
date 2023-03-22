@@ -1,68 +1,67 @@
 // FILE: EP4454.str containing 21 strings
 
-//Oui!<LINE>
-//Une contre-attaque!<END>
+//Yes!<LINE>
+//A counterattack!<END>
 
-//Hori récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Hori retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Depuis que Misugi est sur le terrain,<LINE>
-//Musashi joue de manière très agressive!<LINE>
-//Meiwa-Higashi essaie peut-être de profiter<LINE>
-//de l'allégement de leur défense!<END>
+//Since Misugi entered the game,<LINE>
+//Musashi has been playing very aggressively!<LINE>
+//Meiwa-Higashi may be trying to take advantage<LINE>
+//of the lightening of their defense!<END>
 
-//Maintenant!<END>
+//Now!<END>
 
-//Cette longue passe file vers Sawaki<LINE>
-//qui est juste devant les buts!<LINE>
-//Vont-ils réussir<LINE>
-//une nouvelle contre-attaque?<END>
+//This long pass is headed towards Sawaki<LINE>
+//who is right in front of the goal!<LINE>
+//Will they succeed<LINE>
+//in another counterattack?<END>
 
-//Très bien! Maintenant, à moi de...<END>
+//Very good! Now it's my turn to...<END>
 
-//*coup de sifflet*<END>
+//whistle blows<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Oh! Sawaki est hors-jeu!<LINE>
-//Il est complètement seul sur la gauche!<LINE>
-//Il est tombé dans le piège tendu<LINE>
-//par Misugi!<END>
+//Oh! Sawaki is offside!<LINE>
+//He is completely alone on the left!<LINE>
+//He fell into the trap set<LINE>
+//by Misugi!<END>
 
-//Musashi qui avait surpris un peu<LINE>
-//plus tôt par une contre-attaque a<LINE>
-//cette fois préparé son action<LINE>
-//favorite : le piège du hors-jeu!<END>
+//Musashi, who was a bit surprised earlier<LINE>
+//by the counterattack, this time prepared<LINE>
+//his favorite action: the offside trap!<END>
 
 //Grr...<END>
 
-//OK! Nous avons bloqué la contre-attaque<LINE>
-//de Meiwa-Higashi!<END>
+//OK! We stopped Meiwa-Higashi's<LINE>
+//counterattack!<END>
 
-//Suénaga récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Suénaga retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Narita récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Narita retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Enomoto récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Enomoto retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Sakamoto récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Sakamoto retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Takagi récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Takagi retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Ishii récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Ishii retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Nagano récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Nagano retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Kawagoé récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Kawagoé retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 
-//Murasawa récupère le ballon,<LINE>
-//et fait une longue passe en avant!<END>
+//Murasawa retrieves the ball,<LINE>
+//and makes a long pass forward!<END>
 

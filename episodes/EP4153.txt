@@ -1,150 +1,150 @@
 // FILE: EP4153.str containing 50 strings
 
-//Je peux vous prendre tous en même temps!<END>
+//I can take you all on at once!<END>
 
-//Je vais marquer Hyuga!<LINE>
-//Et si j'ai le ballon,<LINE>
-//on lance une contre-attaque!<END>
+//I'm going to mark Hyuga!<LINE>
+//And if I get the ball,<LINE>
+//we'll launch a counter-attack!<END>
 
-//D'accord!<END>
+//Okay!<END>
 
-//Je t'attends, Hyuga.<LINE>
-//Je te promets que je vais t'arrêter,<LINE>
-//c'est la clé de notre égalisation!<END>
+//I'm waiting for you, Hyuga.<LINE>
+//I promise I'll stop you,<LINE>
+//that's the key to our equalizer!<END>
 
-//C'est ça que je voulais!<LINE>
-//Prépare-toi, Misugi!<END>
+//That's what I wanted!<LINE>
+//Get ready, Misugi!<END>
 
-//Misugi fonce sur Hyuga pour l'arrêter!<LINE>
-//Mais il ne va pas se laisser prendre<LINE>
-//le ballon si facilement!<LINE>
-//Les deux joueurs se battent!<END>
+//Misugi charges at Hyuga to stop him!<LINE>
+//But he won't let himself be<LINE>
+//dispossessed so easily!<LINE>
+//The two players fight for the ball!<END>
 
-//Hyuga va-t-il réussir à continuer<LINE>
-//vers les buts?<LINE>
-//Misugi va-t-il réussir à l'arrêter?<END>
+//Will Hyuga manage to continue<LINE>
+//towards the goal?<LINE>
+//Will Misugi manage to stop him?<END>
 
-//Hors de mon chemin!<END>
+//Get out of my way!<END>
 
-//Tu ne passeras...<END>
+//You shall not...<END>
 
-//… pas!<END>
+//...pass!<END>
 
 //!!<END>
 
 //Misugi!<END>
 
-//Que se passe-t-il?<LINE>
-//Misugi s'est effondré en laissant<LINE>
-//Hyuga prendre le contrôle du ballon!<END>
+//What's happening?<LINE>
+//Misugi collapsed, allowing<LINE>
+//Hyuga to take control of the ball!<END>
 
-//Les gars!<END>
+//Guys!<END>
 
-//Que se passe-t-il?<END>
+//What's happening?<END>
 
-//Ouah! Misugi a envoyé le ballon loin<LINE>
-//de Hyuga tout en tombant!<END>
+//Wow! Misugi kicked the ball far<LINE>
+//away from Hyuga as he fell!<END>
 
 //Misugi!<LINE>
-//OK!<END>
+//Okay!<END>
 
-//Musashi récupère le ballon!<END>
+//Musashi gets the ball!<END>
 
-//Musashi se lance dans une offensive<LINE>
-//rapide, mais Misugi est toujours au sol!<END>
+//Musashi launches a fast offensive,<LINE>
+//but Misugi is still on the ground!<END>
 
-//Écoutez Misugi!<LINE>
-//On doit frapper rapidement!<END>
+//Listen to Misugi!<LINE>
+//We have to strike quickly!<END>
 
-//Toho se replie pour arrêter<LINE>
-//l'offensive de Musashi!<END>
+//Toho falls back to stop<LINE>
+//Musashi's offensive!<END>
 
-//Amenez-vous, bande de microbes!<LINE>
-//Misugi est le seul à pouvoir me marquer<LINE>
-//un but!<END>
+//Bring it on, you little brats!<LINE>
+//Misugi is the only one who can score<LINE>
+//against me!<END>
 
-//Est-ce que Musashi va réussir à égaliser<LINE>
-//ou est-ce que la défense de Toho va<LINE>
-//tenir? Le match va peut-être basculer!<END>
+//Will Musashi manage to equalize,<LINE>
+//or will Toho's defense hold?<LINE>
+//The match may be about to turn!<END>
 
-//Regardez ça!<LINE>
-//Musashi fait une série de passes<LINE>
-//éblouissantes!<END>
+//Look at that!<LINE>
+//Musashi makes a series of dazzling<LINE>
+//passes!<END>
 
-//Ils font des passes instantanées<LINE>
-//les uns après les autres!<END>
+//They're making instant passes,<LINE>
+//one after the other!<END>
 
-//Mais il y a Wakashimazu dans les cages!<LINE>
-//Il ne laissera jamais passer un tir<LINE>
-//à longue distance!<END>
+//But there's Wakashimazu in the goal!<LINE>
+//He'll never let a long-range shot<LINE>
+//go past him!<END>
 
-//D'accord!<END>
+//Okay!<END>
 
-//Il semble que Musashi a été influencé<LINE>
-//par la ténacité de Misugi.<END>
+//It seems that Musashi was influenced<LINE>
+//by Misugi's tenacity.<END>
 
-//Les défenseurs de Toho ne peuvent pas<LINE>
-//toucher la balle!<END>
+//Toho's defenders can't<LINE>
+//get a touch on the ball!<END>
 
-//Voilà notre chance!<LINE>
-//À toi de jouer, Honma!<END>
+//This is our chance!<LINE>
+//It's up to you, Honma!<END>
 
-//Ouah!<LINE>
-//Est-ce une passe décisive de Musashi?<END>
+//Wow!<LINE>
+//Is that a decisive pass from Musashi?<END>
 
-//Wakashimazu se précipite<LINE>
-//mais Honma est déjà en position de tir!<END>
+//Wakashimazu rushes out<LINE>
+//but Honma is already in shooting position!<END>
 
-//Je vais marquer!<END>
+//I'm going to score!<END>
 
-//Ah! Honma est un petit peu plus rapide!<LINE>
-//Le ballon file vers les buts de Toho!<END>
+//Ah! Honma is a little bit faster!<LINE>
+//The ball sails towards Toho's goal!<END>
 
 //!!<END>
 
-//Wakashimazu fait demi-tour en urgence<LINE>
-//et fonce vers le ballon!<LINE>
-//Va-t-il l'atteindre à temps?<END>
+//Wakashimazu turns around in urgency<LINE>
+//and rushes towards the ball!<LINE>
+//Will he reach it in time?<END>
 
-//Non, il n'a pas réussi!<LINE>
-//Le ballon fond dans le filet!<LINE>
-//Musashi a égalisé à la dernière minute!<END>
+//No, he didn't make it!<LINE>
+//The ball goes into the net!<LINE>
+//Musashi has equalized in the last minute!<END>
 
-//Oui, on a réussi!<END>
+//Yes, we did it!<END>
 
-//Non! Capitaine!<END>
+//No! Captain!<END>
 
 //...<END>
 
 //Misugi!<LINE>
-//Misugi, ça va?<END>
+//Misugi, are you okay?<END>
 
-//Je vais bien.<LINE>
-//Quel est le score?<END>
+//I'm fine.<LINE>
+//What's the score?<END>
 
-//Nous avons transformé ta passe en un but!<LINE>
-//Nous sommes à égalité!<END>
+//We turned your pass into a goal!<LINE>
+//We are tied!<END>
 
-//Tant mieux...<LINE>
-//Bon, on peut y arriver,<LINE>
-//on peut gagner ce match!<LINE>
-//Encore un... On va marquer encore un but!<END>
+//Great...<LINE>
+//Well, we can do it,<LINE>
+//we can win this match!<LINE>
+//One more... we're going to score another goal!<END>
 
-//Mais Misugi... Tu es malade...<END>
+//But Misugi... You're sick...<END>
 
-//Ne t'en fais pas pour moi,<LINE>
-//je peux encore jouer!<LINE>
-//Je vais jouer avec vous jusqu'au bout!<LINE>
-//Nous allons aller au tournoi national<LINE>
-//et affronter Tsubasa!<END>
+//Don't worry about me,<LINE>
+//I can still play!<LINE>
+//I'll play with you until the end!<LINE>
+//We're going to the national tournament<LINE>
+//and face Tsubasa!<END>
 
-//Allons-y!<END>
+//Let's go!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Rapprochez-vous autant que possible<LINE>
-//et tirez de toutes vos forces!<LINE>
-//C'est la seule solution!<END>
+//Get as close as possible<LINE>
+//and shoot with all your might!<LINE>
+//It's the only solution!<END>
 
-//Hyuga refuse de passer le ballon!<END>
+//Hyuga refuses to pass the ball!<END>
 

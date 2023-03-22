@@ -1,96 +1,96 @@
 // FILE: EP4154.str containing 30 strings
 
-//Toho ne va quand même pas perdre<LINE>
-//face à un type qui est dans cet état!<END>
+//Toho is not going to lose<LINE>
+//against a guy in this state!<END>
 
-//Oh, un tacle très violent de Hyuga!<LINE>
-//Misugi n'étant pas au meilleur de sa forme,<LINE>
-//pourra-t-il l'éviter?<END>
+//Oh, a very violent tackle from Hyuga!<LINE>
+//Misugi not being in the best shape,<LINE>
+//will he be able to avoid it?<END>
 
-//Je dois bouger...<LINE>
-//Pourvu que mon cœur tienne...<LINE>
-//Juste encore un peu,<LINE>
-//au moins le temps de marquer un autre but!<END>
+//I have to move...<LINE>
+//I hope my heart holds up...<LINE>
+//Just a little longer,<LINE>
+//at least enough time to score another goal!<END>
 
-//Misugi évite le tacle!<LINE>
-//On a du mal à croire,<LINE>
-//après l'avoir vu éviter le tacle<LINE>
-//avec ce magnifique jeu de jambes,<LINE>
-//que ce garçon était exténué<LINE>
-//à peine quelques instants plus tôt.<END>
+//Misugi avoids the tackle!<LINE>
+//It's hard to believe,<LINE>
+//after seeing him avoid the tackle<LINE>
+//with this magnificent footwork,<LINE>
+//that this boy was exhausted<LINE>
+//just a few moments ago.<END>
 
-//C'est impossible!<END>
+//This is impossible!<END>
 
-//Misugi remonte avec le ballon<LINE>
-//dans la moitié de terrain de Toho.<END>
+//Misugi brings the ball up<LINE>
+//into Toho's half of the field.<END>
 
-//Je vais en finir!<LINE>
-//Je vais me créer un occasion décisive<LINE>
-//et marquer contre Wakashimazu!<END>
+//I'm going to end this!<LINE>
+//I'm going to create a decisive opportunity<LINE>
+//and score against Wakashimazu!<END>
 
-//Je ne te laisserai pas passer!<END>
+//I won't let you pass!<END>
 
-//Misugi, attention!<END>
+//Misugi, be careful!<END>
 
 //!!!<END>
 
-//Tu ne t'en sortiras pas si facilement!<END>
+//You're not getting away so easily!<END>
 
-//Misugi est pris en sandwich<LINE>
-//entre Sawada et Hyuga!<LINE>
-//Comment va-t-il se tirer<LINE>
-//de ce mauvais pas?<END>
+//Misugi is sandwiched<LINE>
+//between Sawada and Hyuga!<LINE>
+//How will he get<LINE>
+//out of this tight spot?<END>
 
-//Je... Je dois marquer!<END>
-
-//!!<END>
-
-//Misugi s'apprête à tirer!<LINE>
-//Il ignore complètement<LINE>
-//la pression de Hyuga et Sawada!<LINE>
-//Misugi tente le tout pour le tout<LINE>
-//avec cette action!<END>
+//I... I have to score!<END>
 
 //!!<END>
 
-//Il a réussi à tirer!<LINE>
-//Misugi vient de frapper un tir<LINE>
-//incroyablement rapide<LINE>
-//avant que Hyuga et Sawada<LINE>
-//ne le rejoignent!<END>
-
-//Le ballon fonce vers les buts de Toho...<END>
+//Misugi is preparing to shoot!<LINE>
+//He completely ignores<LINE>
+//the pressure from Hyuga and Sawada!<LINE>
+//Misugi is going all out<LINE>
+//with this move!<END>
 
 //!!<END>
 
-//BUUUT!<LINE>
-//Je n'arrive pas à y croire!<LINE>
-//Le tir de Misugi a disparu<LINE>
-//juste devant Wakashimazu!<END>
+//He managed to shoot!<LINE>
+//Misugi has just struck a shot<LINE>
+//incredibly fast<LINE>
+//before Hyuga and Sawada<LINE>
+//could reach him!<END>
 
-//Mais il y a clairement but!<END>
+//The ball is heading towards Toho's goal...<END>
 
-//C'est impossible!<LINE>
-//Un tir qui disparaît?<END>
+//!!<END>
 
-//Wakashimazu a été comme assommé!<LINE>
-//Il n'a pas pu bouger d'un cheveu!<END>
+//GOAL!<LINE>
+//I can't believe it!<LINE>
+//Misugi's shot disappeared<LINE>
+//right in front of Wakashimazu!<END>
 
-//Alors? Il est rentré?<END>
+//But it's clearly a goal!<END>
 
-//Misugi vient de s'effondrer sur le sol!<END>
+//This is impossible!<LINE>
+//A shot that disappears?<END>
+
+//Wakashimazu was like he was knocked out!<LINE>
+//He couldn't move a muscle!<END>
+
+//So? Did it go in?<END>
+
+//Misugi just collapsed on the ground!<END>
 
 //Misugi!<END>
 
 //...<END>
 
-//Je vais bien...<LINE>
-//Mon cœur bat toujours...<LINE>
-//Il bat toujours!<END>
+//I'm okay...<LINE>
+//My heart is still beating...<LINE>
+//It's still beating!<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//Ces deux années de rééducation ont rendu<LINE>
-//mon cœur plus fort!<LINE>
-//Hyuga, je peux me battre contre toi!<END>
+//These two years of rehabilitation have made<LINE>
+//my heart stronger!<LINE>
+//Hyuga, I can fight against you!<END>
 

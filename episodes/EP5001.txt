@@ -1,83 +1,81 @@
 // FILE: EP5001.str containing 28 strings
 
-//Fin du match!<END>
+//End of the match!<END>
 
-//Merci pour le match d'aujourd'hui.<LINE>
-//Nous ne l'oublierons jamais!<END>
+//Thanks for today's game.<LINE>
+//We will never forget it!<END>
 
-//Pourquoi ils sourient? Ils n'ont pas honte<LINE>
-//de s'être inclinés sur un tel score?<END>
+//Why are they smiling? Don't they feel ashamed<LINE>
+//of losing by such a score?<END>
 
-//J'arrête. Je quitte l'équipe.<LINE>
-//J'abandonne le foot.<END>
+//I'm done. I'm leaving the team.<LINE>
+//I'm giving up football.<END>
 
-//Bons déplacements, nº 12!<END>
+//Good moves, number 12!<END>
 
-//Si tu aimes le foot, ne renonce jamais!<END>
+//If you love football, never give up!<END>
 
-//Les paroles de Tsubasa Ozora m'avaient ému.<LINE>
-//Il était ensuite parti au royaume du<LINE>
-//football, le Brésil, dès la fin du collège<LINE>
-//afin de poursuivre son rêve qui était de<LINE>
-//faire gagner la coupe du monde au Japon.<END>
+//The words of Tsubasa Ozora had moved me.<LINE>
+//He had then left for the kingdom of<LINE>
+//football, Brazil, right after middle school<LINE>
+//to pursue his dream of winning the World Cup<LINE>
+//for Japan.<END>
 
-//Je voulais à tout prix le voir<LINE>
-//avant qu'il ne parte...<END>
+//I wanted to see him at all costs<LINE>
+//before he left...<END>
 
 //Tsubasa Ozora!<END>
 
 //???<END>
 
-//Tu ne te souviens sans doute pas de moi,<LINE>
-//mais...<END>
+//You probably don't remember me,<LINE>
+//but...<END>
 
-//Je te souhaite de faire un malheur<LINE>
-//au Brésil!<END>
+//I wish you the best of luck<LINE>
+//in Brazil!<END>
 
-//(Nous offrirons un jour ensemble<LINE>
-//la coupe du monde au Japon!)<END>
+//(We will someday win<LINE>
+//the World Cup together for Japan!)<END>
 
-//Au revoir...<END>
+//Goodbye...<END>
 
-//Le nº 12 de Nakahara!<END>
+//Number 12 from Nakahara!<END>
 
 //Huh?<END>
 
-//Bon courage, toi aussi!<END>
+//Good luck to you too!<END>
 
-//Tu te souviens de moi!<END>
+//You remember me!<END>
 
-//Tiens!<END>
+//Here!<END>
 
-//Qu'est-ce que c'est?<END>
+//What is this?<END>
 
-//Vingt-cinq cents américains, dix francs<LINE>
-//français et cent yens... Mais, c'est...!<END>
+//Twenty-five American cents, ten French francs,<LINE>
+//and one hundred yen... But, it's...!<END>
 
-//Ce sont les pièces des pays organisateurs :<LINE>
-//les États-Unis, la France... et aussi<LINE>
-//le Japon qui postule pour organiser<LINE>
-//la prochaine coupe du monde.<END>
+//These are the coins of the organizing countries:<LINE>
+//the United States, France... and also<LINE>
+//Japan, which is applying to host<LINE>
+//the next World Cup.<END>
 
-//J'étais certain que Tsubasa n'avait pas<LINE>
-//menti, qu'il désirait de toute son âme que<LINE>
-//le Japon se qualifie pour la phase finale<LINE>
-//de la coupe du monde et décroche le titre<LINE>
-//mondial.<END>
+//I was certain that Tsubasa had not lied,<LINE>
+//that he truly desired for Japan to qualify<LINE>
+//for the World Cup finals and win the title<LINE>
+//worldwide.<END>
 
-//C'est pour réaliser ce rêve démesuré,<LINE>
-//et aussi être sélectionné en équipe<LINE>
-//nationale...<END>
+//It is to fulfill this colossal dream,<LINE>
+//and also to be selected for the national team...<END>
 
-//Et devenir encore meilleur que Tsubasa<LINE>
-//pour qui j'ai le plus profond respect...<END>
+//And to become even better than Tsubasa,<LINE>
+//for whom I have the utmost respect...<END>
 
-//C'est pour toutes ces raisons que je suis<LINE>
-//en Italie, le royaume du foot européen!<END>
+//It is for all of these reasons that I am<LINE>
+//in Italy, the kingdom of European football!<END>
 
-//Je ne renoncerai jamais à mon rêve<LINE>
-//et je me donnerai à fond<LINE>
-//sous le soleil italien!<END>
+//I will never give up on my dream<LINE>
+//and I will give it my all<LINE>
+//under the Italian sun!<END>
 
-//Non! Je ne renoncerai pas!<END>
+//No! I will not give up!<END>
 

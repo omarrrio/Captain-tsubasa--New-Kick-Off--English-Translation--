@@ -1,15 +1,15 @@
 // FILE: EP4401.str containing 4 strings
 
-//La pression a été très forte<LINE>
-//en première mi-temps,<LINE>
-//mais la partie commence maintenant!<LINE>
-//Avec Misugi au centre, vous allez pouvoir<LINE>
-//passer à l'offensive!<END>
+//The pressure was very strong<LINE>
+//in the first half,<LINE>
+//but the game starts now!<LINE>
+//With Misugi in the center, you'll be able<LINE>
+//to go on the offensive!<END>
 
-//Oui, monsieur!<END>
+//Yes, sir!<END>
 
-//Allez, les gars! On va leur montrer<LINE>
-//le véritable football de Musashi!<END>
+//Come on, guys! Let's show them<LINE>
+//the real football of Musashi!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 

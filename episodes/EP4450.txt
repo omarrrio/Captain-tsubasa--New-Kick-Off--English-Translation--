@@ -1,49 +1,49 @@
 // FILE: EP4450.str containing 14 strings
 
-//Meiwa-Higashi va tirer!<END>
+//Meiwa-Higashi is going to shoot!<END>
 
-//Non!<END>
+//No!<END>
 
-//Alors que le but paraissait assuré,<LINE>
-//Moriyama, le gardien de Musashi, s'est jeté<LINE>
-//sur la trajectoire du ballon,<LINE>
-//faute de pouvoir réagir à temps!<END>
+//As the goal seemed certain,<LINE>
+//Moriyama, Musashi's goalkeeper, threw himself<LINE>
+//on the path of the ball,<LINE>
+//unable to react in time!<END>
 
-//Mais même s'il a arrêté le ballon,<LINE>
-//celui-ci est toujours en jeu!<LINE>
-//Il est retombé devant le but!<END>
+//But even though he stopped the ball,<LINE>
+//it's still in play!<LINE>
+//It landed in front of the goal!<END>
 
-//Dégage! Dégage le ballon!<END>
+//Clear it! Clear the ball!<END>
 
-//Qui va reprendre le ballon?<LINE>
-//Musashi ou Meiwa-Higashi?<END>
+//Who will take the ball?<LINE>
+//Musashi or Meiwa-Higashi?<END>
 
-//Prends ça!<LINE>
-//Voici la Kamikaze sliding squad de Meiwa!<END>
+//Take this!<LINE>
+//Here's the Meiwa Kamikaze Sliding Squad!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//C'est un but!<LINE>
-//L'obstination de Meiwa-Higashi a réussi<LINE>
-//à percer la défense solide de Musashi!<END>
+//It's a goal!<LINE>
+//Meiwa-Higashi's persistence has succeeded<LINE>
+//in breaking through Musashi's solid defense!<END>
 
-//Est-ce l'attaquant Sawaki qui a touché<LINE>
-//le ballon en dernier?<LINE>
-//C'est difficile à dire après cette tempête<LINE>
-//de tacles de Meiwa-Higashi!<END>
+//Was it the attacker Sawaki who touched<LINE>
+//the ball last?<LINE>
+//It's hard to say after that storm<LINE>
+//of tackles from Meiwa-Higashi!<END>
 
-//Tous les joueurs se sont rués sur le ballon<LINE>
-//pour tirer en glissant, et ils ont marqué<LINE>
-//leur premier but du match!<END>
+//All the players rushed for the ball<LINE>
+//to shoot while sliding, and they scored<LINE>
+//their first goal of the match!<END>
 
-//Oui, on a marqué!<LINE>
-//Le match est dans la poche!<END>
+//Yes, we scored!<LINE>
+//The match is in the bag!<END>
 
-//Les onze joueurs de Meiwa-Higashi<LINE>
-//sont fous de joie!<END>
+//All eleven Meiwa-Higashi players<LINE>
+//are overjoyed!<END>
 
-//Alors que la défense de Musashi<LINE>
-//ne tenait déjà plus qu'à un fil,<LINE>
-//l'obstination de Meiwa-Higashi<LINE>
-//l'a mise à terre!<END>
+//As Musashi's defense<LINE>
+//was already hanging by a thread,<LINE>
+//Meiwa-Higashi's persistence<LINE>
+//brought it down!<END>
 

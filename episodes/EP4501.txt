@@ -1,70 +1,69 @@
 // FILE: EP4501.str containing 18 strings
 
-//Le coup de sifflet marque la fin de<LINE>
-//la première mi-temps!<LINE>
-//Nous voici arrivés à la moitié du match<LINE>
-//opposant Musashi à Nankatsu.<END>
+//The whistle marks the end of<LINE>
+//the first half!<LINE>
+//We have now reached the halfway point<LINE>
+//of the match between Musashi and Nankatsu.<END>
 
-//Entraîneur!<END>
+//Coach!<END>
 
-//Qu'y a-t-il, Misugi?<END>
+//What is it, Misugi?<END>
 
-//Je veux jouer jusqu'à la fin du match!<END>
+//I want to play until the end of the match!<END>
 
-//Je me sens très bien!<LINE>
-//Je vais me reposer pendant la pause,<LINE>
-//ainsi je serai assez en forme<LINE>
-//pour me donner à fond<LINE>
-//pendant les trente minutes<LINE>
-//de la seconde mi-temps!<END>
+//I feel great!<LINE>
+//I will rest during the break,<LINE>
+//so I'll be fit enough<LINE>
+//to give it my all<LINE>
+//during the thirty minutes<LINE>
+//of the second half!<END>
 
-//Ce n'est pas ce que ton médecin avait dit!<END>
+//That's not what your doctor said!<END>
 
-//Mais je dois absolument participer<LINE>
-//à ce match! Pour bloquer Tsubasa<LINE>
-//et battre Nankatsu...<END>
+//But I absolutely have to participate<LINE>
+//in this match! To block Tsubasa<LINE>
+//and beat Nankatsu...<END>
 
-//Si vous voyez que je ne me sens pas bien,<LINE>
-//remplacez-moi immédiatement!<END>
+//If you see that I'm not feeling well,<LINE>
+//replace me immediately!<END>
 
-//Très bien...<LINE>
-//Je te ferai sortir<LINE>
-//au moindre signe de fatigue.<END>
+//Very well...<LINE>
+//I'll take you out<LINE>
+//at the slightest sign of fatigue.<END>
 
-//Merci beaucoup, entraîneur!<END>
+//Thank you very much, coach!<END>
 
-//Vous avez fait jusqu'à présent<LINE>
-//un match parfait. Votre défense<LINE>
-//face a Nankatsu a été impeccable.<LINE>
-//En seconde mi-temps, comme d'habitude,<LINE>
-//vous attaquerez en passant<LINE>
-//la balle à Misugi.<END>
+//You have played<LINE>
+//a perfect match so far. Your defense<LINE>
+//against Nankatsu has been impeccable.<LINE>
+//In the second half, as usual,<LINE>
+//you will attack by passing<LINE>
+//the ball to Misugi.<END>
 
-//Comme Misugi et Tsubasa sont tous les deux<LINE>
-//milieux de terrain,<LINE>
-//la bataille va y être rude.<END>
+//Since Misugi and Tsubasa are both<LINE>
+//midfielders, the battle will be tough.<END>
 
-//Alors n'hésitez pas à venir<LINE>
-//donner un coup de main à Misugi.<LINE>
-//Si vous parvenez à jouer ce match<LINE>
-//comme vous avez joué les précédents,<LINE>
-//vous devriez écraser Nankatsu.<END>
+//So don't hesitate to come<LINE>
+//and give Misugi a hand.<LINE>
+//If you manage to play this match<LINE>
+//as you have played the previous ones,<LINE>
+//you should crush Nankatsu.<END>
 
-//Oui, entraîneur!<END>
+//Yes, coach!<END>
 
-//OK! Je vais tout donner<LINE>
-//pour les trente dernières minutes!<LINE>
-//Nous allons écraser Nankatsu!<LINE>
-//C'est nous qui allons repartir<LINE>
-//avec le drapeau de la victoire!<END>
+//OK! I'll give it my all<LINE>
+//for the last thirty minutes!<LINE>
+//We'll crush Nankatsu!<LINE>
+//We'll be the ones<LINE>
+//to come away with the victory flag!<END>
 
-//Ouais!<END>
+//Yeah!<END>
 
-//Plus que trente minutes...<LINE>
-//Je vais me battre jusqu'au bout<LINE>
-//contre Tsubasa et Nankatsu!<END>
+//Only thirty minutes left...<LINE>
+//I'll fight to the end<LINE>
+//against Tsubasa and Nankatsu!<END>
 
-//Et nous arrivons dans les trente dernières<LINE>
-//minutes de cette finale tant attendue.<LINE>
-//Et c'est le coup d'envoi.<END>
+//And we're now entering the last thirty<LINE>
+//minutes of this highly anticipated final.<LINE>
+//And the kickoff is taken.<END>
 

@@ -2,29 +2,29 @@
 
 //Argh!<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
 //Misugi!<END>
 
-//Non!<LINE>
-//Je dois remplacer Misugi sur le champ!<END>
+//No!<LINE>
+//I have to replace Misugi right away!<END>
 
-//Attendez un peu, entraîneur!<END>
+//Wait a moment, coach!<END>
 
 //Misugi!<END>
 
-//Je vais bien! Je peux continuer à jouer!<END>
+//I'm fine! I can keep playing!<END>
 
-//Mais Misugi...<END>
+//But Misugi...<END>
 
-//Nous avons trouvé le bon rythme.<LINE>
-//Je ne veux pas le casser en sortant.<END>
+//We've found our rhythm.<LINE>
+//I don't want to break it by leaving.<END>
 
-//Je vais bien.<LINE>
-//Je me suis reposé à la mi-temps.<LINE>
-//Et je connais mon corps<LINE>
-//mieux que quiconque.<END>
+//I'm fine.<LINE>
+//I rested during halftime.<LINE>
+//And I know my body<LINE>
+//better than anyone else.<END>
 
-//Laissez-moi au moins rester le temps<LINE>
-//de marquer un but de plus!<END>
+//Let me at least stay long enough<LINE>
+//to score one more goal!<END>
 

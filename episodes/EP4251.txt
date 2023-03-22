@@ -1,49 +1,49 @@
 // FILE: EP4251.str containing 16 strings
 
-//Ça y est!<END>
+//There it is!<END>
 
-//Honma tire!<END>
+//Honma shoots!<END>
 
-//Je ne le laisserai pas entrer!<END>
+//I won't let it in!<END>
 
-//Le gardien a réussi à arrêter le ballon!<LINE>
-//Quelle réaction fantastique!<END>
+//The goalkeeper managed to stop the ball!<LINE>
+//What a fantastic reaction!<END>
 
-//Il est hors de question de perdre<LINE>
-//contre Musashi, surtout sans Misugi!<END>
+//There's no way we're going to lose<LINE>
+//against Musashi, especially without Misugi!<END>
 
-//Comment a-t-il réussi à l'arrêter?<END>
+//How did he manage to stop it?<END>
 
-//Honma, ne te laisse pas déconcentrer!<LINE>
-//Contente-toi de jouer comme d'habitude!<END>
+//Honma, don't get distracted!<LINE>
+//Just play as usual!<END>
 
-//OK... Entendu!<END>
+//OK... Understood!<END>
 
-//Personne n'a le ballon!<LINE>
-//Est-ce que Honma va le prendre en premier?<LINE>
-//Ou est-ce que ce sera Seki?<LINE>
-//Les deux joueurs foncent vers le ballon.<END>
+//Nobody has the ball!<LINE>
+//Will Honma be the first to get it?<LINE>
+//Or will it be Seki?<LINE>
+//Both players race towards the ball.<END>
 
-//Nous avons été sélectionnés<LINE>
-//parmi mille joueurs!<LINE>
-//Et nous sommes des anciens de Musashi FC!<END>
+//We were chosen<LINE>
+//from among a thousand players!<LINE>
+//And we are former members of Musashi FC!<END>
 
-//Ce n'est pas parce que Misugi ne joue pas<LINE>
-//que nous allons laisser cette partie<LINE>
-//se terminer par un match nul!<END>
+//Just because Misugi isn't playing<LINE>
+//doesn't mean we're going to let this game<LINE>
+//end in a tie!<END>
 
-//Allez!<END>
+//Let's go!<END>
 
-//Honma a été un tout petit peu plus rapide!<LINE>
-//Il a eu le temps de tirer et le ballon file<LINE>
-//maintenant tout droit vers les buts!<END>
+//Honma was just a little bit faster!<LINE>
+//He had time to shoot and now the ball<LINE>
+//is heading straight for the goal!<END>
 
-//Non!<END>
+//No!<END>
 
-//Buuut!<LINE>
-//La frappe de Honma vient de prouver<LINE>
-//que Musashi ne baisse pas les bras!<END>
+//Goal!<LINE>
+//Honma's shot just proved<LINE>
+//that Musashi never gives up!<END>
 
-//Cette frappe puissante fait trembler<LINE>
-//le filet des buts de Matsukami!<END>
+//This powerful shot shakes<LINE>
+//the net of Matsukami's goal!<END>
 

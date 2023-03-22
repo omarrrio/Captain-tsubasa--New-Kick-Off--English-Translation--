@@ -1,34 +1,31 @@
 // FILE: EP4402.str containing 9 strings
 
-//Et l'arbitre siffle la fin du match!<LINE>
-//C'est Musashi qui continue en finale<LINE>
-//à l'issue de sa demi-finale<LINE>
-//contre Meiwa-Higashi!<END>
+//And the referee blows the end of the match!<LINE>
+//It's Musashi who advances to the final<LINE>
+//after their semifinal match against Meiwa-Higashi!<END>
 
-//Pas de doute, Musashi a été beaucoup<LINE>
-//plus forte à partir de l'entrée de Misugi<LINE>
-//sur le terrain!<END>
+//No doubt, Musashi was much stronger<LINE>
+//after Misugi came onto the field!<END>
 
-//Je croyais que Meiwa-Higashi avait pris<LINE>
-//le contrôle du match, mais avec Misugi,<LINE>
-//Musashi a pris en main le cours du jeu.<END>
+//I thought Meiwa-Higashi had taken control<LINE>
+//of the game, but with Misugi,<LINE>
+//Musashi took charge of the game.<END>
 
-//Musashi a gagné le droit d'aller en finale.<END>
+//Musashi has won the right to go to the final.<END>
 
-//Misugi! Ta victoire contre Toho<LINE>
-//n'était vraiment pas un coup de chance.<LINE>
-//Je n'aurais pas réussi à venger Hyuga...<END>
+//Misugi! Your victory over Toho<LINE>
+//was not just a fluke.<LINE>
+//I couldn't avenge Hyuga...<END>
 
 //Sawaki...<END>
 
-//Vous nous avez battus, vous avez battu<LINE>
-//la Toho de Hyuga, vous êtes les seuls<LINE>
-//capables de battre Nankatsu!<LINE>
-//Misugi, vous devez empêcher Nankatsu<LINE>
-//de gagner son troisième titre consécutif!<END>
+//You defeated us, defeated Hyuga's Toho,<LINE>
+//you're the only ones capable of defeating Nankatsu!<LINE>
+//Misugi, you have to stop Nankatsu<LINE>
+//from winning their third consecutive title!<END>
 
-//On va le faire!<END>
+//We'll do it!<END>
 
-//Il ne reste plus que la finale.<LINE>
-//Tsubasa, je vais enfin t'affronter!<END>
+//There's only the final left.<LINE>
+//Tsubasa, I'll finally be facing you!<END>
 

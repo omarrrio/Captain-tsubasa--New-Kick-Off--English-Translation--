@@ -1,34 +1,34 @@
 // FILE: EP4455.str containing 12 strings
 
-//Je peux tirer d'ici!<END>
+//I can shoot from here!<END>
 
-//Misugi va essayer de tirer de sa position!<LINE>
-//La défense de Meiwa-Higashi est<LINE>
-//trop faible!<END>
+//Misugi is going to try shooting from his position!<LINE>
+//The defense of Meiwa-Higashi is<LINE>
+//too weak!<END>
 
-//Allez!<END>
+//Go for it!<END>
 
-//Misugi tire vers les buts!<END>
+//Misugi shoots towards the goal!<END>
 
-//Le tir de Misugi file tout droit<LINE>
-//vers les filets de Meiwa-Higashi!<END>
+//Misugi's shot flies straight<LINE>
+//towards Meiwa-Higashi's goal!<END>
 
-//Le gardien va-t-il réagir à temps?<END>
+//Will the goalkeeper react in time?<END>
 
 //!<END>
 
-//Le... Le ballon a disparu!<LINE>
-//But!<END>
+//The... The ball has disappeared!<LINE>
+//Goal!<END>
 
-//Le tir de Misugi a disparu<LINE>
-//juste devant les mains du gardien!<END>
+//Misugi's shot disappeared<LINE>
+//just in front of the goalkeeper's hands!<END>
 
-//Et le ballon s'est enfoncé dans le filet!<LINE>
-//Mais que s'est-il passé?<END>
+//And the ball sank into the net!<LINE>
+//But what happened?<END>
 
-//OK! Il est dedans!<END>
+//OK! It's in!<END>
 
-//Quel tir fabuleux!<LINE>
-//Misugi, le prodige de Musashi, a réussi<LINE>
-//à marquer avec un tir superbe!<END>
+//What a fabulous shot!<LINE>
+//Misugi, the prodigy of Musashi, has successfully<LINE>
+//scored with a superb shot!<END>
 

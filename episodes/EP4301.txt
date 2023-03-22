@@ -1,41 +1,41 @@
 // FILE: EP4301.str containing 9 strings
 
-//Qu'est-ce qui ne va pas?<LINE>
-//Vous ne jouez pas votre football habituel!<LINE>
-//Ayez confiance en vous,<LINE>
-//jouez comme d'habitude et ces garçons<LINE>
-//ne seront pas une menace pour vous!<END>
+//What's wrong?<LINE>
+//You're not playing your usual football!<LINE>
+//Believe in yourself,<LINE>
+//play as usual, and these boys<LINE>
+//won't be a threat to you!<END>
 
-//Que vous arrive-t-il?<LINE>
-//Ça ne vous ressemble pas<LINE>
-//de vous laisser abattre comme ça!<END>
+//What's going on?<LINE>
+//It's not like you<LINE>
+//to be so down!<END>
 
-//Nous avons encore le temps.<LINE>
-//Jouons l'offensive en seconde mi-temps<LINE>
-//et gagnons ce match!<LINE>
-//Allez, on y va!<END>
+//We still have time.<LINE>
+//Let's play on the offensive in the second half<LINE>
+//and win this match!<LINE>
+//Come on, let's go!<END>
 
-//Musashi fait rentrer Misugi.<LINE>
-//Pourra-t-il guider Musashi vers la victoire<LINE>
-//dans le temps restant à jouer?<LINE>
-//Et c'est le début de la seconde mi-temps!<END>
+//Musashi brings Misugi on.<LINE>
+//Can he lead Musashi to victory<LINE>
+//in the remaining time to play?<LINE>
+//And it's the start of the second half!<END>
 
-//Entraîneur!<LINE>
-//Je vous en prie, faites-moi entrer.<LINE>
-//Si ça continue, nous allons<LINE>
-//nous faire éliminer du tournoi!<END>
+//Coach!<LINE>
+//Please, let me in.<LINE>
+//If this continues, we're going to<LINE>
+//be eliminated from the tournament!<END>
 
-//Nous ne sommes pas arrivés<LINE>
-//au niveau national pour perdre ici!<END>
+//We didn't make it<LINE>
+//to the national level to lose here!<END>
 
-//Misugi... D'accord, mais ne force pas trop.<END>
+//Misugi... Alright, but don't push yourself too hard.<END>
 
-//Entendu!<END>
+//Got it!<END>
 
-//On dirait que Musashi va faire entrer<LINE>
-//Misugi en seconde mi-temps.<LINE>
-//Avec Misugi à ses côtés, Musashi va-t-il<LINE>
-//voir la chance lui sourire?<LINE>
-//Et c'est le coup d'envoi de la seconde<LINE>
-//mi-temps!<END>
+//It looks like Musashi is going to bring in<LINE>
+//Misugi in the second half.<LINE>
+//With Misugi by his side, will Musashi<LINE>
+//see luck smile upon him?<LINE>
+//And it's the kickoff of<LINE>
+//the second half!<END>
 

@@ -1,56 +1,57 @@
 // FILE: EP4200.str containing 13 strings
 
-//C'est le premier tour du tournoi national!<LINE>
-//Quelle que soit l'équipe en face,<LINE>
-//Musashi jouera de la même façon!<END>
+//This is the first round of the national tournament!<LINE>
+//No matter who the opposing team is,<LINE>
+//Musashi will play the same way!<END>
 
-//Le calendrier des matchs va être chargé.<LINE>
-//Il va donc falloir ménager Misugi<LINE>
-//au maximum.<END>
+//The schedule of matches will be packed.<LINE>
+//So we need to take it easy on Misugi<LINE>
+//as much as possible.<END>
 
-//Montrons-leur que nous sommes assez bons<LINE>
-//pour gagner, même en l'absence de Misugi!<END>
+//Let's show them that we are good enough<LINE>
+//to win, even without Misugi!<END>
 
-//Oui, monsieur!<END>
+//Yes, sir!<END>
 
-//Nous allons gagner ce match avec<LINE>
-//nos propres forces, capitaine.<END>
+//We will win this match with<LINE>
+//our own strengths, captain.<END>
 
-//Je sais que vous allez y arriver!<END>
+//I know for sure that<LINE>
+//you'll make it!<END>
 
-//Le tournoi de la région de Tokyo<LINE>
-//a donné lieu à des batailles acharnées<LINE>
-//et Musashi y a survécu!<LINE>
-//Ce match va certainement valoir<LINE>
-//le coup d'œil!<END>
+//The Tokyo regional tournament<LINE>
+//has seen fierce battles<LINE>
+//and Musashi survived it!<LINE>
+//This match is certainly worth<LINE>
+//watching!<END>
 
-//Quand on pense à la région de Tokyo,<LINE>
-//on pense tout de suite à Toho Gakuen.<LINE>
-//Eh bien, Musashi Junior High est justement<LINE>
-//arrivé au tournoi national en battant<LINE>
-//Toho en finale régionale!<END>
+//When one thinks of Tokyo,<LINE>
+//Toho Gakuen immediately comes to mind.<LINE>
+//Well, Musashi Junior High has<LINE>
+//made it to the national tournament by beating<LINE>
+//Toho in the regional finals!<END>
 
-//Misugi, le capitaine de Musashi, est<LINE>
-//certainement le joueur à surveiller.<LINE>
-//Il est de retour sur le terrain après<LINE>
-//deux ans de rééducation cardiaque.<END>
+//Misugi, the captain of Musashi, is<LINE>
+//certainly the player to watch.<LINE>
+//He is back on the field after<LINE>
+//two years of cardiac rehabilitation.<END>
 
-//Même s'il ne peut jouer<LINE>
-//que pendant une durée limitée,<LINE>
-//sa présence dans l'équipe fait de Musashi<LINE>
-//une équipe de poids<LINE>
-//dans ce tournoi national.<END>
+//Even if he can only play<LINE>
+//for a limited time,<LINE>
+//his presence on the team makes Musashi<LINE>
+//a formidable opponent<LINE>
+//in this national tournament.<END>
 
-//Sans compter que la majorité<LINE>
-//de ses coéquipiers ont joué avec lui<LINE>
-//à l'école primaire!<END>
+//Not to mention that the majority<LINE>
+//of his teammates played with him<LINE>
+//in elementary school!<END>
 
-//Sans compter que la majorité<LINE>
-//de ses coéquipiers ont joué avec lui<LINE>
-//à l'école primaire!<END>
+//Not to mention that the majority<LINE>
+//of his teammates played with him<LINE>
+//in elementary school!<END>
 
-//Les joueurs font enfin leur entrée.<LINE>
-//Quelles surprises ce match va-t-il<LINE>
-//nous réserver?<LINE>
-//Voilà le coup d'envoi...<END>
+//The players are finally entering the field.<LINE>
+//What surprises will this match<LINE>
+//have in store for us?<LINE>
+//Here comes the kick-off...<END>
 

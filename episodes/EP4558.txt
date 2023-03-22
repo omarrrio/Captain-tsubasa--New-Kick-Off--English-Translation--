@@ -1,65 +1,64 @@
 // FILE: EP4558.str containing 18 strings
 
-//Allez, mon corps, continue...<LINE>
-//Et toi, mon cœur, ne m'abandonne pas!<LINE>
-//Au moins, pas avant que j'aie battu<LINE>
+//Come on, my body, keep going...<LINE>
+//And you, my heart, don't abandon me!<LINE>
+//At least not until I defeat<LINE>
 //Tsubasa!<END>
 
-//Misugi…<LINE>
-//Non... Je n'ai pas le temps<LINE>
-//de m'inquiéter pour lui!<LINE>
-//Si je ne l'arrête pas,<LINE>
-//on va perdre ce match!<END>
+//Misugi...<LINE>
+//No... I don't have time<LINE>
+//to worry about him!<LINE>
+//If I don't stop him,<LINE>
+//we'll lose this match!<END>
 
-//Les mouvements de Misugi sont lents!<END>
+//Misugi's movements are slow!<END>
 
-//Misugi laisse beaucoup trop le ballon<LINE>
-//s'éloigner de lui!<LINE>
-//Et Tsubasa le lui vole!<END>
+//Misugi lets the ball<LINE>
+//get too far away from him!<LINE>
+//And Tsubasa steals it from him!<END>
 
-//Te voilà, Tsubasa...<LINE>
-//C'est ma dernière chance...<LINE>
-//Affronte-moi, Tsubasa!<END>
+//There you are, Tsubasa...<LINE>
+//This is my last chance...<LINE>
+//Face me, Tsubasa!<END>
 
-//Le ballon arrive!<LINE>
-//Je dois le frapper avant Misugi!<END>
+//The ball is coming!<LINE>
+//I have to hit it before Misugi!<END>
 
-//Même si je dois en faire<LINE>
-//une crise cardiaque...<END>
+//Even if I have<LINE>
+//a heart attack...<END>
 
-//Drive shoot!<END>
+//Drive shot!<END>
 
-//Et c'est un duel!<LINE>
-//Ils semblent avoir la même puissance!<LINE>
-//Le ballon file haut dans les airs!<END>
+//And it's a duel!<LINE>
+//They seem to have the same power!<LINE>
+//The ball flies high into the air!<END>
 
-//Misugi…<LINE>
-//Je ne pensais pas que tu aurais<LINE>
-//autant de puissance…<LINE>
-//Quoi?<END>
+//Misugi...<LINE>
+//I didn't think you would<LINE>
+//have that much power...<LINE>
+//What?<END>
 
 //Oh!<LINE>
-//Misugi saute vers le ballon!<LINE>
-//Tsubasa a réagi un peu trop tard!<END>
+//Misugi jumps for the ball!<LINE>
+//Tsubasa reacted a bit too late!<END>
 
-//Prends ça!<END>
+//Take this!<END>
 
-//Il tire!<LINE>
-//Misugi a repris le ballon à la volée<LINE>
-//avec un tir retourné!<END>
+//He shoots!<LINE>
+//Misugi takes the ball on the volley<LINE>
+//with a bicycle kick!<END>
 
 //Misugi!<END>
 
-//But!<LINE>
-//La puissante Bicyclette retournée<LINE>
-//de Misugi a foncé tout droit<LINE>
-//dans les buts de Nankatsu!<END>
+//Goal!<LINE>
+//Misugi's powerful bicycle kick<LINE>
+//heads straight for Nankatsu's goal!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Bravo, capitaine!<END>
+//Well done, captain!<END>
 
-//J'ai... J'ai réussi, les gars!<LINE>
-//J'ai marqué un but<LINE>
-//après un duel contre Tsubasa!<END>
+//I... I did it, guys!<LINE>
+//I scored a goal<LINE>
+//after a duel against Tsubasa!<END>
 

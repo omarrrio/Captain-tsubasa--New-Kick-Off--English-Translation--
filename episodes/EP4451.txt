@@ -1,33 +1,32 @@
 // FILE: EP4451.str containing 9 strings
 
-//Le tir arrive!<LINE>
-//Bloque-le!<END>
+//The shot is coming!<LINE>
+//Block it!<END>
 
-//Musashi n'a pas que Misugi!<LINE>
-//Il y a aussi nous, des anciens joueurs<LINE>
-//de Musashi FC, sélectionnés<LINE>
-//parmi plus de mille joueurs!<END>
+//Musashi doesn't only have Misugi!<LINE>
+//There are also us, former players<LINE>
+//of Musashi FC, selected<LINE>
+//from over a thousand players!<END>
 
-//Les trois attaquants de Musashi, Sanada,<LINE>
-//Ichinosé et Honma, jouent ensemble<LINE>
-//depuis Musashi FC.<END>
+//The three attackers of Musashi, Sanada,<LINE>
+//Ichinosé, and Honma, have been playing together<LINE>
+//since their Musashi FC days.<END>
 
-//Ils se lancent à l'attaque devant les buts<LINE>
-//de Meiwa-Higashi!<END>
+//They launch an attack in front of Meiwa-Higashi's goal!<END>
 
-//Oh... Ichinosé centre!<LINE>
-//Sanada et Honma sont devant les buts!<END>
+//Oh... Ichinosé centers!<LINE>
+//Sanada and Honma are in front of the goal!<END>
 
-//Je peux tirer!<END>
+//I can shoot!<END>
 
-//Sanada attendait au centre de la surface.<LINE>
-//Il profite de sa taille pour sauter<LINE>
-//et tenter une tête!<END>
+//Sanada was waiting at the center of the box.<LINE>
+//He uses his height advantage to jump<LINE>
+//and attempt a header!<END>
 
-//But!<LINE>
-//Magnifique travail d'équipe de la part<LINE>
-//du trio magnifique de Musashi!<END>
+//Goal!<LINE>
+//Magnificent teamwork by Musashi's<LINE>
+//terrific trio!<END>
 
-//Sanada a incroyablement transformé la passe<LINE>
-//d'Ichinosé en but!<END>
+//Sanada incredibly converted Ichinosé's<LINE>
+//pass into a goal!<END>
 

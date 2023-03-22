@@ -1,39 +1,39 @@
 // FILE: EP5050.str containing 13 strings
 
-//Ce n'est pas possible…<LINE>
-//Je n'ai jamais le ballon!<END>
+//This is not possible...<LINE>
+//I never have the ball!<END>
 
-//Le capitaine a dit qu'il y remédierait,<LINE>
-//mais rien n'y fait...<LINE>
+//The captain said he would fix it,<LINE>
+//but nothing is working...<LINE>
 //<END>
 
-//Quoi de plus logique quand on est battus<LINE>
-//avant de commencer un match?<LINE>
-//Comment avoir la maîtrise du ballon<LINE>
-//face à Nankatsu?<END>
+//What's more logical when you're beaten<LINE>
+//before a match even begins?<LINE>
+//How can you control the ball<LINE>
+//against Nankatsu?<END>
 
-//Hé Shingo, tu ne respectes pas<LINE>
-//les consignes de match!<END>
+//Hey, Shingo, you're not following<LINE>
+//the game plan!<END>
 
-//Si je compte sur vous, je n'aurai jamais<LINE>
-//le ballon!<END>
+//If I rely on you, I'll never have<LINE>
+//the ball!<END>
 
-//Quoi? Shingo!<END>
+//What? Shingo!<END>
 
-//Qu'est-ce qu'il leur prend?<LINE>
-//Ils se disputent, maintenant?<END>
+//What's gotten into them?<LINE>
+//Are they fighting now?<END>
 
-//Attention Izawa!<END>
+//Watch out, Izawa!<END>
 
-//Quoi? Izawa s'est fait déposséder<LINE>
-//du ballon?<END>
+//What? Izawa got stripped<LINE>
+//of the ball?<END>
 
-//Le Trio de Shutetsu va venger Izawa!<END>
+//The Shutetsu trio will avenge Izawa!<END>
 
 //Huh?<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Ça passe! Mon dribble est efficace<LINE>
-//même face à Nankatsu!<END>
+//It works! My dribbling is effective<LINE>
+//even against Nankatsu!<END>
 

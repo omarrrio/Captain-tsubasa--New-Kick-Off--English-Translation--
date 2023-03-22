@@ -1,24 +1,23 @@
 // FILE: EP4353.str containing 8 strings
 
-//Misugi est devant le ballon<LINE>
-//et il est démarqué...<LINE>
-//Mais le ballon semble trop haut.<END>
+//Misugi is in possession of the ball<LINE>
+//but it seems to be too high for him.<END>
 
-//Maintenant... Je dois essayer!<END>
+//Now... I have to try it!<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//Misugi se retourne et tente sa spécialité,<LINE>
-//la Bicyclette retournée!<END>
+//Misugi turns around and attempts his specialty,<LINE>
+//the overhead bicycle kick!<END>
 
-//Le gardien peut trembler!<END>
+//The goalkeeper must be trembling!<END>
 
-//Allez!<END>
+//Go for it!<END>
 
-//Misugi tire sa Bicyclette retournée!<END>
+//Misugi executes his overhead bicycle kick!<END>
 
-//Il est dedans!<LINE>
-//Le gardien n'a pas pu bouger un muscle!<LINE>
-//Musashi a mis le ballon au fond des filets<LINE>
-//sur un magnifique tir de Misugi!<END>
+//It's in!<LINE>
+//The goalkeeper couldn't move a muscle!<LINE>
+//Musashi scores a goal<LINE>
+//with a magnificent shot from Misugi!<END>
 

@@ -1,70 +1,70 @@
 // FILE: EP4452.str containing 21 strings
 
-//Allez!<END>
+//Go!<END>
 
-//Hori a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Hori got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Musashi était en pleine attaque.<LINE>
-//Leur défense est dégarnie! Et le ballon<LINE>
-//file vers leur moitié de terrain!<END>
+//Musashi was on the attack.<LINE>
+//Their defense is exposed! And the ball<LINE>
+//is heading towards their half of the field!<END>
 
-//Le ballon va-t-il atteindre Sawaki,<LINE>
-//l'avant-centre de Meiwa-Higashi,<LINE>
-//qui est en train de remonter le terrain?<END>
+//Will the ball reach Sawaki,<LINE>
+//Meiwa-Higashi's center forward,<LINE>
+//who's running up the field?<END>
 
-//Oh non!<END>
+//Oh no!<END>
 
-//Oui, il l'a reçu!<END>
+//Yes, he received it!<END>
 
-//Super!<END>
+//Great!<END>
 
-//D'ordinaire, Musashi se débrouille plutôt<LINE>
-//pour piéger les attaquants<LINE>
-//en position de hors-jeu.<LINE>
-//Mais Misugi, leur meneur, est sur le banc<LINE>
-//de touche, et personne ne marque Sawaki!<END>
+//Normally, Musashi does a good job<LINE>
+//of trapping attackers<LINE>
+//in offside positions.<LINE>
+//But Misugi, their playmaker, is on the bench<LINE>
+//and no one marked Sawaki!<END>
 
-//Oh non!<END>
+//Oh no!<END>
 
-//Sawaki court tout droit<LINE>
-//vers les buts de Musashi!<LINE>
-//Le gardien est tout seul!<LINE>
-//Sawaki va tirer!<END>
+//Sawaki runs straight<LINE>
+//towards Musashi's goal!<LINE>
+//The goalkeeper is all alone!<LINE>
+//Sawaki is going to shoot!<END>
 
-//Nous devions battre Toho... et Hyuga!<LINE>
-//Nous ne pouvons pas perdre<LINE>
-//face à l'équipe qui les a battus!<END>
+//We were supposed to beat Toho... and Hyuga!<LINE>
+//We can't lose<LINE>
+//to the team that beat them!<END>
 
-//Brillante contre-attaque de Meiwa-Higashi!<LINE>
-//Sawaki a conclu l'action en solitaire<LINE>
-//sur une longue passe de ses coéquipiers.<LINE>
-//Et Meiwa-Higashi a marqué!<END>
+//Brilliant counterattack by Meiwa-Higashi!<LINE>
+//Sawaki finished it off all by himself<LINE>
+//on a long pass from his teammates.<LINE>
+//And Meiwa-Higashi scored!<END>
 
-//Suénaga a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Suenaga got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Narita a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Narita got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Enomoto a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Enomoto got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Sakamoto a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Sakamoto got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Takagi a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Takagi got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Ishii a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Ishii got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Nagano a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Nagano got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Kawagoé a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Kawagoé got the ball and sent it<LINE>
+//straight forward!<END>
 
-//Murasawa a eu le ballon pour l'envoyer<LINE>
-//directement vers l'avant!<END>
+//Murasawa got the ball and sent it<LINE>
+//straight forward!<END>
 

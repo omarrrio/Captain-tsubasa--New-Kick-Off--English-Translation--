@@ -1,22 +1,20 @@
 // FILE: EP4253.str containing 6 strings
 
-//Sanada remonte dans la moitie de terrain<LINE>
-//de Matsukami!<LINE>
-//Il est rapide!<END>
+//Sanada moves up into Matsukami's half of the field<LINE>
+//He's fast!<END>
 
-//Je vais marquer celui-là tout seul!<LINE>
-//Prenez ça!<END>
+//I'm going to score this one by myself!<LINE>
+//Take this!<END>
 
-//Sanada trouve une ouverture et tire!<END>
+//Sanada finds an opening and shoots!<END>
 
-//Allez!<END>
+//Go!<END>
 
-//But!<LINE>
-//Le ballon a fini dans les filets<LINE>
-//de Matsukami!<END>
+//Goal!<LINE>
+//The ball ended up in Matsukami's net!<END>
 
-//Qu'est-ce que vous pensez de ça, Huh?<LINE>
-//Si vous vous imaginiez que<LINE>
-//nous n'étions pas dangereux sans Misugi,<LINE>
-//vous allez le regretter!<END>
+//What do you think of that, huh?<LINE>
+//If you thought we weren't<LINE>
+//dangerous without Misugi,<LINE>
+//you'll regret it!<END>
 

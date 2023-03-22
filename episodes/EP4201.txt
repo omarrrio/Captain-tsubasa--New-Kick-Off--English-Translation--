@@ -1,30 +1,30 @@
 // FILE: EP4201.str containing 7 strings
 
-//Votre style de jeu est un peu tendu,<LINE>
-//ce doit être parce que<LINE>
-//c'est votre premier match...<LINE>
-//Quoi qu'il en soit, vous n'avez<LINE>
-//rien à craindre de Matsukami,<LINE>
-//pas plus leur défense que leur attaque.<END>
+//Your playing style is a bit tense,<LINE>
+//perhaps because<LINE>
+//it's your first match...<LINE>
+//Anyway, you have<LINE>
+//nothing to fear from Matsukami,<LINE>
+//neither their defense nor their offense.<END>
 
-//En seconde mi-temps, je veux voir Honma,<LINE>
-//Sanada et Ichinosé attaquer!<END>
+//In the second half, I want to see Honma,<LINE>
+//Sanada, and Ichinosé attack!<END>
 
-//Les amis, oubliez la pression<LINE>
-//et contentez-vous de jouer<LINE>
-//votre football habituel.<END>
+//Friends, forget the pressure<LINE>
+//and just play<LINE>
+//your usual football.<END>
 
-//Montrez à tout le pays le niveau<LINE>
-//du football de Musashi!<END>
+//Show the whole country the level<LINE>
+//of Musashi's football!<END>
 
-//Oui!<END>
+//Yes!<END>
 
-//Peut-être est-ce la pression du premier<LINE>
-//match, mais je les sens un peu nerveux...<LINE>
-//Vont-ils réussir à se ressaisir?<END>
+//Maybe it's the pressure of the first<LINE>
+//match, but I sense they're a little nervous...<LINE>
+//Will they be able to recover?<END>
 
-//Les instructions qu'ils ont reçues<LINE>
-//pendant la pause vont-elles modifier<LINE>
-//leur style de jeu?<LINE>
-//La seconde mi-temps commence.<END>
+//Will the instructions they received<LINE>
+//during the break change<LINE>
+//their playing style?<LINE>
+//The second half begins.<END>
 

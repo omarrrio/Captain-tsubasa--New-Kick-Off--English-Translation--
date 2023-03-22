@@ -1,32 +1,32 @@
 // FILE: EP4101.str containing 9 strings
 
-//Et le coup de sifflet marque<LINE>
-//la fin de la première mi-temps.<END>
+//And the whistle marks<LINE>
+//the end of the first half.<END>
 
-//Toho avait le contrôle du match,<LINE>
-//mais la participation de Misugi l'a fait<LINE>
-//basculer du côté de Musashi!<END>
+//Toho had control of the game,<LINE>
+//but Misugi's participation turned it<LINE>
+//in favor of Musashi!<END>
 
-//Il va être intéressant de voir les effets<LINE>
-//de cette pause sur le cours du match.<END>
+//It will be interesting to see the effects<LINE>
+//of this break on the course of the game.<END>
 
-//Misugi, souviens-toi que tu ne peux jouer<LINE>
-//que vingt minutes, d'accord?<END>
+//Misugi, remember that you can only play<LINE>
+//for twenty minutes, okay?<END>
 
-//Oui, je comprends.<END>
+//Yes, I understand.<END>
 
-//Vingt minutes de plus...<LINE>
-//Nous allons sceller ce match<LINE>
-//en vingt minutes!<END>
+//Twenty more minutes...<LINE>
+//We will seal this game<LINE>
+//in twenty minutes!<END>
 
-//Et voici les joueurs qui reviennent<LINE>
-//sur le terrain. Avec l'entrée de Misugi,<LINE>
-//le match va être plus intense que jamais.<END>
+//And here come the players<LINE>
+//back to the field. With Misugi's entry,<LINE>
+//the game will be more intense than ever.<END>
 
-//La seconde mi-temps est sur le point<LINE>
-//de commencer. Bien malin qui pourra<LINE>
-//prédire comment elle va se terminer.<END>
+//The second half is about to<LINE>
+//begin. It's hard to predict<LINE>
+//how it will end.<END>
 
-//Le coup de sifflet de l'arbitre marque<LINE>
-//le début de la seconde mi-temps.<END>
+//The referee's whistle marks<LINE>
+//the start of the second half.<END>
 

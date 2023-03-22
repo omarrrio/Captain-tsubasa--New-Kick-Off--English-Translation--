@@ -1,86 +1,86 @@
 // FILE: EP4551.str containing 40 strings
 
-//Musashi traverse une mauvaise passe!<END>
+//Musashi is going through a rough patch!<END>
 
-//Alors que Nankatsu s'appuie sur Tsubasa<LINE>
-//pour s'élancer vers la défense de Musashi!<END>
+//While Nankatsu relies on Tsubasa<LINE>
+//to charge towards Musashi's defense!<END>
 
-//Les gars... Tenez bon!<END>
+//Come on guys, hold on!<END>
 
-//Nankatsu centre!<END>
+//Nankatsu crosses!<END>
 
-//Tsubasa court vers le ballon!<END>
+//Tsubasa runs towards the ball!<END>
 
-//Oh non!<END>
+//Oh no!<END>
 
-//La Bicyclette retournée,<LINE>
-//le tir fétiche de Tsubasa!<LINE>
-//Puissamment cadré<LINE>
-//dans la partie droite du but!<END>
+//The Bicycle Kick, <LINE>
+//Tsubasa's signature shot!<LINE>
+//Powerfully aimed<LINE>
+//into the right side of the goal!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 
-//Nakazato évite Mukai et centre!<END>
+//Nakazato avoids Mukai and centers!<END>
 

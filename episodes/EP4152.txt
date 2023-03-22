@@ -1,88 +1,86 @@
 // FILE: EP4152.str containing 31 strings
 
-//Je vais t'en empêcher!<END>
+//I'll stop you!<END>
 
-//Wakashimazu est revenu en un éclair<LINE>
-//et a repoussé le ballon en le frappant<LINE>
-//avec le poing!<END>
+//Wakashimazu quickly returned<LINE>
+//and punched the ball away!<END>
 
-//À moi de jouer!<END>
+//It's my turn now!<END>
 
-//Et Misugi court vers le ballon repoussé<LINE>
-//par Wakashimazu!<END>
+//And Misugi runs towards the ball repelled<LINE>
+//by Wakashimazu!<END>
 
-//C'est une blague?<END>
+//Is this a joke?<END>
 
-//Mais Sawada de Toho arrive, lui aussi!<END>
+//But Sawada from Toho is also arriving!<END>
 
-//Je vais devoir tirer à la volée<LINE>
-//avant que Sawada me rattrape!<LINE>
-//Et pour ça...<END>
+//I'll have to shoot on the fly<LINE>
+//before Sawada catches up to me!<LINE>
+//And for that...<END>
 
-//Je vais devoir faire ça!<END>
+//I'll have to do this!<END>
 
-//Ouah! Misugi pivote en pleine course<LINE>
-//et se prépare pour une retournée<LINE>
-//acrobatique!<END>
+//Wow! Misugi pivots in full stride<LINE>
+//and prepares for an acrobatic overhead kick!<END>
 
-//Allez!<END>
+//Come on!<END>
 
-//Misugi a fait une Bicyclette retournée<LINE>
-//avant que Sawada ne le rattrape!<END>
+//Misugi did a Bicycle kick<LINE>
+//before Sawada caught up to him!<END>
 
-//Le gardien Wakashimazu est toujours<LINE>
-//hors de ses buts!<LINE>
-//Le ballon passe derrière lui!<END>
+//The goalkeeper Wakashimazu is still<LINE>
+//out of his goal!<LINE>
+//The ball passes behind him!<END>
 
-//Tu crois que je vais te laisser marquer<LINE>
-//encore une fois?<END>
+//Do you really think I'll let you score<LINE>
+//again?<END>
 
-//Tu le crois vraiment?<END>
+//Do you really think so?<END>
 
-//Wakashimazu fait son fameux plongeon<LINE>
-//avec appui sur le poteau!<LINE>
-//Va-t-il arriver à temps?<END>
+//Wakashimazu does his famous dive<LINE>
+//with support from the post!<LINE>
+//Will he arrive in time?<END>
 
-//Allez! Rentre!<END>
+//Come on! Go in!<END>
 
-//Il n'a pas réussi à l'atteindre!<LINE>
-//Un autre but pour Musashi!<END>
+//He didn't manage to reach it!<LINE>
+//Another goal for Musashi!<END>
 
-//J'ai été trop lent!<END>
+//I was too slow!<END>
 
-//Après un magnifique contrôle du ballon,<LINE>
-//cette Bicyclette retournée de Misugi a fini<LINE>
-//sa course dans la partie droite du but!<END>
+//After a magnificent ball control,<LINE>
+//Misugi's Bicycle kick ended up<LINE>
+//in the right part of the goal!<END>
 
-//Et voilà le travail!<END>
+//And there's the goal!<END>
 
 //Argh...<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
-//Misugi, ça ne va pas?<END>
+//Misugi, are you okay?<END>
 
-//Ça a l'air très grave!<LINE>
-//Je te remplace immédiatement!<LINE>
-//C'est trop risqué pour ta santé<LINE>
-//de te laisser jouer davantage.<END>
+//It looks very serious!<LINE>
+//I'll replace you immediately!<LINE>
+//It's too risky for your health<LINE>
+//to let you play further.<END>
 
-//Entraîneur, attendez!<END>
+//Coach, wait!<END>
 
 //?<END>
 
-//Je vais bien, je peux encore jouer.<END>
+//I'm fine, I can still play.<END>
 
-//Mais...<END>
+//But...<END>
 
-//Ça ira.<LINE>
-//Je me suis reposé pendant la pause,<LINE>
-//et puis je connais mon corps<LINE>
-//mieux que quiconque.<END>
+//It's okay.<LINE>
+//I rested during the break,<LINE>
+//and I know my body<LINE>
+//better than anyone.<END>
 
-//Laissez-moi une dernière chance!<LINE>
-//Je vous en prie, entraîneur!<END>
+//Give me one last chance!<LINE>
+//Please, coach!<END>
 
-//Il m'avait semblé que Misugi allait être<LINE>
-//remplacé. Mais il continue le match.<END>
+//It seemed to me that Misugi was going to be<LINE>
+//replaced. But he continues the match.<END>
 

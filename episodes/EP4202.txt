@@ -1,30 +1,29 @@
 // FILE: EP4202.str containing 6 strings
 
-//Le coup de sifflet marque<LINE>
-//la fin du match.<LINE>
-//Musashi Junior High remporte<LINE>
-//son premier match!<END>
+//The whistle marks<LINE>
+//the end of the match.<LINE>
+//Musashi Junior High wins<LINE>
+//their first match!<END>
 
-//Misugi avait attiré l'attention<LINE>
-//lors des phases qualificatives,<LINE>
-//mais il n'a pas joué aujourd'hui.<LINE>
-//Au lieu de cela, nous avons vu Matsukami<LINE>
-//se faire anéantir par le travail d'équipe<LINE>
-//de Musashi.<END>
+//Misugi had caught the eye<LINE>
+//during the qualifying rounds,<LINE>
+//but he didn't play today.<LINE>
+//Instead, we saw Matsukami<LINE>
+//get crushed by Musashi's teamwork.<END>
 
-//Après l'absence de Misugi, tout le monde<LINE>
-//se demande si on va le voir jouer<LINE>
-//lors de ce tournoi national...<END>
+//After Misugi's absence, everyone<LINE>
+//wonders if we'll see him play<LINE>
+//in this national tournament...<END>
 
-//Bien joué, les gars!<LINE>
-//Vous avez fait un très bon match!<LINE>
-//Vous pouvez avoir confiance en vous!<END>
+//Well done, guys!<LINE>
+//You played a great match!<LINE>
+//You can be proud of yourselves!<END>
 
-//Vous avez tous très bien joué.<LINE>
-//Vous n'avez même pas eu besoin de moi!<END>
+//You all played very well.<LINE>
+//You didn't even need me!<END>
 
-//Le tournoi débute à peine.<LINE>
-//Mais plus on va avancer,<LINE>
-//plus les matchs vont devenir difficiles.<LINE>
-//C'est à ce moment que je ferai mon entrée.<END>
+//The tournament has only just begun.<LINE>
+//But as we move forward,<LINE>
+//the matches will get tougher.<LINE>
+//That's when I'll make my entrance.<END>
 

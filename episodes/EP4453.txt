@@ -1,64 +1,63 @@
 // FILE: EP4453.str containing 19 strings
 
-//Passe en direction de Misugi!<END>
+//A pass heading for Misugi!<END>
 
-//Honma, Ichinosé et Sanada,<LINE>
-//les trois joueurs qui jouent ensemble<LINE>
-//depuis l'école primaire sont<LINE>
-//dans la moitié de terrain adverse!<LINE>
-//Que va faire Misugi?<END>
+//Honma, Ichinose, and Sanada,<LINE>
+//the three players who have been playing together<LINE>
+//since elementary school,<LINE>
+//are now in the opposing team's half of the field!<LINE>
+//What will Misugi do?<END>
 
-//Oh... Misugi dribble vers les buts!<END>
+//Oh... Misugi is dribbling towards the goal!<END>
 
-//Arrêtez Misugi!<LINE>
-//Faites-le goûter aux tacles<LINE>
-//de Meiwa-Higashi!<END>
+//Stop Misugi!<LINE>
+//Give him a taste of Meiwa-Higashi's tackles!<END>
 
-//Les joueurs de Meiwa-Higashi tentent<LINE>
-//de tacler Misugi les uns après les autres!<END>
+//The players from Meiwa-Higashi are attempting<LINE>
+//to tackle Misugi one after another!<END>
 
-//Regardez!<END>
+//Look!<END>
 
 //!<END>
 
-//Deux joueurs de Meiwa-Higashi ont taclé<LINE>
-//au même moment, et pourtant Misugi<LINE>
-//les a évités sans peine!<END>
+//Two players from Meiwa-Higashi tackled<LINE>
+//at the same time, yet Misugi<LINE>
+//easily avoided them!<END>
 
-//Misugi continue à dribbler!<LINE>
-//Il ne reste plus que le gardien<LINE>
-//et deux défenseurs entre lui et les buts!<END>
+//Misugi continues to dribble!<LINE>
+//Only the goalkeeper and two defenders remain<LINE>
+//between him and the goal!<END>
 
-//Je vais t'arrêter!<END>
+//I'm going to stop you!<END>
 
-//Si la défense échoue,<LINE>
-//le gardien de Meiwa-Higashi se retrouvera<LINE>
-//face-à-face avec Misugi!<LINE>
-//Et une fois encore, les deux joueurs<LINE>
-//attaquent en même temps!<END>
+//If the defense fails,<LINE>
+//the Meiwa-Higashi goalkeeper will be<LINE>
+//face-to-face with Misugi!<LINE>
+//And once again, the two players<LINE>
+//attack at the same time!<END>
 
-//Leurs tacles sont parfaitement calibrés!<END>
+//Their tackles are perfectly timed!<END>
 
-//Les tacles de Meiwa-Higashi<LINE>
-//ont arrêté Misugi et le ballon...<END>
+//Meiwa-Higashi's tackles<LINE>
+//stopped Misugi and the ball...<END>
 
-//Non! Ils n'ont pas réussi à intercepter<LINE>
-//le ballon!<LINE>
-//Misugi a légèrement soulevé la balle<LINE>
-//et a sauté pour éviter l'attaque.<END>
+//No! They didn't manage to intercept<LINE>
+//the ball!<LINE>
+//Misugi lifted the ball slightly<LINE>
+//and jumped to avoid the attack.<END>
 
-//Je vais marquer!<END>
+//I'm going to score!<END>
 
-//Et il tire à la volée!<END>
+//And he shoots!<END>
 
-//But!<LINE>
-//Le gardien n'a même pas pu réagir!<END>
+//Goal!<LINE>
+//The goalkeeper couldn't even react!<END>
 
-//Les dribbles, le contrôle de balle, le tir,<LINE>
-//tout était parfait!<LINE>
-//Le génie de Misugi à l'état pur!<END>
+//The dribbling, ball control, shot,<LINE>
+//everything was perfect!<LINE>
+//Misugi's genius in its purest form!<END>
 
-//Hmm… Je n'aurais pas cru<LINE>
-//encaisser un but<LINE>
-//devant Misugi tout seul...<END>
+//Hmm... I didn't think<LINE>
+//I'd let a goal in<LINE>
+//while facing Misugi alone...<END>
 

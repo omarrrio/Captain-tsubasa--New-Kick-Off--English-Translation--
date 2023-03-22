@@ -1,60 +1,58 @@
 // FILE: EP4400.str containing 15 strings
 
-//Meiwa-Higashi est composée de joueurs<LINE>
-//qui sont ensemble depuis l'école primaire,<LINE>
-//comme vous.<END>
+//Meiwa-Higashi is composed of players<LINE>
+//who have been together since elementary school,<LINE>
+//just like you.<END>
 
-//Leurs points forts sont grosso-modo<LINE>
-//les mêmes que les nôtres.<LINE>
-//Honma, Sanada et Ichinosé,<LINE>
-//vous serez en attaque.<END>
+//Their strengths are roughly<LINE>
+//the same as ours.<LINE>
+//Honma, Sanada and Ichinose,<LINE>
+//you will be in the attack.<END>
 
-//Oui, monsieur!<END>
+//Yes, sir!<END>
 
-//Ce match va sans doute être difficile.<LINE>
-//Misugi, je veux que tu te tiennes prêt<LINE>
-//à entrer en jeu n'importe quand.<END>
+//This match will no doubt be difficult.<LINE>
+//Misugi, I want you to be ready<LINE>
+//to enter the game at any time.<END>
 
-//Oui, monsieur!<END>
+//Yes, sir!<END>
 
-//Si nous réussissons à verrouiller le jeu<LINE>
-//en défense pendant la première mi-temps,<LINE>
-//nous gagnerons facilement<LINE>
-//en seconde mi-temps<LINE>
-//en faisant entrer Misugi en attaque.<END>
+//If we can lock down the game<LINE>
+//in defense during the first half,<LINE>
+//we will easily win<LINE>
+//in the second half<LINE>
+//by bringing Misugi into the attack.<END>
 
-//Bonne chance pour la première mi-temps!<LINE>
-//Je compte sur vous, les gars!<END>
+//Good luck for the first half!<LINE>
+//I'm counting on you guys!<END>
 
-//Oui, capitaine!<END>
+//Yes, captain!<END>
 
-//Et voici arrivée la demi-finale<LINE>
-//du National Junior High School Tournament.<END>
+//And here we have the semi-finals<LINE>
+//of the National Junior High School Tournament.<END>
 
-//Musashi et Meiwa-Higashi sont<LINE>
-//toutes les deux composées en partie<LINE>
-//de joueurs habitués à jouer ensemble<LINE>
-//depuis l'école primaire.<END>
+//Musashi and Meiwa-Higashi are<LINE>
+//both composed in part<LINE>
+//of players who have played together<LINE>
+//since elementary school.<END>
 
-//Musashi a obtenu le droit de représenter<LINE>
-//la région de Tokyo<LINE>
-//en éliminant Toho Gakuen,<LINE>
-//les champions de leur région.<END>
+//Musashi earned the right to represent<LINE>
+//the Tokyo region<LINE>
+//by eliminating Toho Gakuen,<LINE>
+//the champions of their region.<END>
 
-//Il se trouve justement que certains joueurs<LINE>
-//de Toho Gakuen - Hyuga, Sawada et<LINE>
-//Wakashimazu - ont autrefois joué<LINE>
-//avec des joueurs de Meiwa-Higashi<LINE>
-//au sein de Meiwa FC.<END>
+//It turns out that some players from Toho Gakuen - Hyuga, Sawada, and<LINE>
+//Wakashimazu - once played<LINE>
+//with players from Meiwa-Higashi<LINE>
+//in Meiwa FC.<END>
 
-//Est-ce une chance pour ces joueurs de<LINE>
-//Meiwa-Higashi de venger la défaite de<LINE>
-//Hyuga et de leurs anciens coéquipiers?<END>
+//Is this a chance for these Meiwa-Higashi players<LINE>
+//to avenge the defeat of Hyuga and their former teammates?<END>
 
-//Ou est-ce que Musashi va continuer<LINE>
-//en finale en éliminant Meiwa-Higashi<LINE>
-//comme ils ont éliminé Toho?<END>
+//Or will Musashi continue<LINE>
+//into the final by eliminating Meiwa-Higashi<LINE>
+//as they eliminated Toho?<END>
 
-//Ce match pour une place en finale<LINE>
-//va bientôt commencer!<END>
+//This match for a place in the final<LINE>
+//will soon begin!<END>
 

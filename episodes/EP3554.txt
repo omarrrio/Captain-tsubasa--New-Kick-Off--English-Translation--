@@ -1,62 +1,62 @@
 // FILE: EP3554.str containing 19 strings
 
-//Furano souhaite définitivement<LINE>
-//marquer plusieurs buts!<LINE>
-//Leur objectif principal est de faire<LINE>
-//parvenir le ballon à Matsuyama.<END>
+//Furano definitely wants<LINE>
+//to score multiple goals!<LINE>
+//Their main goal is to get<LINE>
+//the ball to Matsuyama.<END>
 
-//Mince! L'avant est marqué.<LINE>
-//Même si j'arrive à éviter Hyuga,<LINE>
-//il reste leur gardien Wakashimazu!<END>
+//Darn! The forward is marked.<LINE>
+//Even if I avoid Hyuga,<LINE>
+//their goalkeeper Wakashimazu is still there!<END>
 
-//Si je n'arrive pas à me positionner,<LINE>
-//je n'arriverai pas à marquer!<END>
+//If I can't position myself,<LINE>
+//I won't be able to score!<END>
 
-//Qu'est-ce que je peux faire?<END>
+//What can I do?<END>
 
-//Hyuga se précipite vers Matsuyama!<LINE>
-//Il semblerait que les deux capitaines<LINE>
-//vont s'affronter en face-à-face.<END>
+//Hyuga rushes towards Matsuyama!<LINE>
+//It seems like the two captains<LINE>
+//will face off one-on-one.<END>
 
-//À ce stade du match, je dois marquer,<LINE>
-//en tant que capitaine de l'équipe!<END>
+//At this point in the match, I have to score,<LINE>
+//as the team captain!<END>
 
-//C'est tout ou rien... Je tente ma chance!<LINE>
-//Ce tir a marché à l'entraînement!<END>
+//It's all or nothing... I'm taking my chance!<LINE>
+//This shot worked in training!<END>
 
-//Oh! Matsuyama semblait vouloir dribbler<LINE>
-//jusqu'au buts,<LINE>
-//mais il a finalement préféré tirer!<END>
+//Oh! Matsuyama seemed to want to dribble<LINE>
+//to the goal,<LINE>
+//but he ended up shooting!<END>
 
-//Je ne vais pas te laisser marquer!<END>
+//I'm not going to let you score!<END>
 
-//Allons-y!<LINE>
-//Les tempêtes de neige de Hokkaido<LINE>
-//n'ont rien pu faire contre ce tir!<LINE>
-//Alors, gagnons!<END>
+//Let's go!<LINE>
+//The snowstorms of Hokkaido<LINE>
+//couldn't do anything against this shot!<LINE>
+//So let's win!<END>
 
-//Le tir de Matsuyama a été plus rapide!<LINE>
-//Hyuga n'a pas pu le bloquer!<END>
+//Matsuyama's shot was faster!<LINE>
+//Hyuga couldn't block it!<END>
 
 //Ah! Wakashimazu!<END>
 
-//Oui, on peut lui faire confiance...<END>
+//Yes, we can trust him...<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Oh! Le ballon ondule!<LINE>
-//Surpris, Wakashimazu n'arrive pas<LINE>
-//à l'arrêter.<END>
+//Oh! The ball is curving!<LINE>
+//Surprised, Wakashimazu can't<LINE>
+//stop it.<END>
 
-//Le ballon est entré dans les cages!<END>
+//The ball has entered the goal!<END>
 
-//Furano et Matsuyama ont marqué<LINE>
-//en donnant de l'effet au ballon<LINE>
-//grâce à une technique surprenante!<END>
+//Furano and Matsuyama scored<LINE>
+//by putting spin on the ball<LINE>
+//thanks to a surprising technique!<END>
 
-//Nous avons réussi!<END>
+//We did it!<END>
 
-//Bien, les gars!<LINE>
-//Si nous continuons à marquer,<LINE>
-//nous gagnerons!<END>
+//Great job, guys!<LINE>
+//If we keep scoring,<LINE>
+//we'll win!<END>
 

@@ -1,34 +1,34 @@
 // FILE: EP4554.str containing 13 strings
 
-//Oh! Misugi centre! Le ballon semble<LINE>
-//aller vers le grand Sanada!<END>
+//Oh! Misugi crosses the ball! It looks like<LINE>
+//it's going towards the tall Sanada!<END>
 
 //Misugi!<END>
 
-//Quoi?<END>
+//What?<END>
 
-//Oh? Sanada ne va pas tirer!<END>
+//Oh? Sanada's not going to shoot!<END>
 
-//Attendez, le ballon est trop haut<LINE>
-//pour que ce soit une passe...<LINE>
-//Aurait-il raté son tir?<END>
+//Wait, the ball is too high<LINE>
+//to be a pass...<LINE>
+//Did he miss his shot?<END>
 
-//Bien joué, Sanada!<END>
+//Well played, Sanada!<END>
 
-//Non! C'était une passe pour Misugi!<END>
+//No! It was a pass to Misugi!<END>
 
-//Misugi va tenter un tir retourné!<END>
+//Misugi is going to attempt a bicycle kick!<END>
 
-//Misugi frappe le ballon<LINE>
-//avec une magnifique Bicyclette retournée!<LINE>
-//Morisaki ne pourra pas réagir à temps!<END>
+//Misugi strikes the ball<LINE>
+//with a magnificent bicycle kick!<LINE>
+//Morisaki won't be able to react in time!<END>
 
-//Quoi?!<END>
+//What?!<END>
 
-//Oh! Tsubasa a renvoyé le ballon à Misugi<LINE>
-//avec un tir retourné!<END>
+//Oh! Tsubasa has returned the ball to Misugi<LINE>
+//with a bicycle kick!<END>
 
 //Pff...<END>
 
-//La bataille va être rude...<END>
+//The battle is going to be tough...<END>
 

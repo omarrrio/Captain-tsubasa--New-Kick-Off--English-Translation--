@@ -1,63 +1,62 @@
 // FILE: EP3555.str containing 21 strings
 
-//Leur joueur clé est à présent Matsuyama.<LINE>
-//Si nous l'arrêtons, l'équipe de Furano<LINE>
-//toute entière s'effondrera!<END>
+//Their key player now is Matsuyama.<LINE>
+//If we stop him, the entire Furano team<LINE>
+//will crumble!<END>
 
-//Hyuga se rapproche de Matsuyama!<LINE>
-//Il est prêt à attaquer!<END>
+//Hyuga approaches Matsuyama!<LINE>
+//He is ready to attack!<END>
 
-//Si je perds le ballon, Toho prendra<LINE>
-//le contrôle du match!<LINE>
-//Je ne dois pas perdre ici!<END>
+//If I lose the ball, Toho will take<LINE>
+//control of the match!<LINE>
+//I can't lose here!<END>
 
-//Matsuyama n'a pas bronché<LINE>
-//face à l'attaque de Hyuga!<END>
+//Matsuyama hasn't flinched<LINE>
+//in the face of Hyuga's attack!<END>
 
-//Il possède toujours le ballon!<LINE>
-//Hyuga aura du mal à le lui prendre!<END>
+//He still has the ball!<LINE>
+//Hyuga will have a hard time taking it from him!<END>
 
-//Les deux se sont aussi affrontés<LINE>
-//au championnat national quand ils étaient<LINE>
-//à l'école primaire.<END>
+//The two also faced each other<LINE>
+//in the national championship when they were<LINE>
+//in elementary school.<END>
 
-//Leur technique s'est considérablement<LINE>
-//améliorée!<LINE>
-//Ce match est vraiment excitant!<END>
+//Their technique has improved considerably!<LINE>
+//This match is really exciting!<END>
 
-//Je vais te reprendre la balle!<END>
+//I'll take the ball from you!<END>
 
-//Tu rêves! Je ne te laisserai pas faire!<END>
+//You're dreaming! I won't let you do that!<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
 //?<END>
 
-//OK, vas-y Oda!<END>
+//OK, go for it Oda!<END>
 
-//Oh, non!<END>
+//Oh no!<END>
 
-//Oda se déplace rapidement<LINE>
-//pour se mettre en position optimale,<LINE>
-//et Matsuyama lui envoie la balle!<END>
+//Oda moves quickly<LINE>
+//to get in optimal position,<LINE>
+//and Matsuyama sends him the ball!<END>
 
-//Mais sa passe est aussi rapide qu'un tir!<LINE>
-//Oda pourra-t-il atteindre le ballon<LINE>
-//à temps?<END>
+//But his pass is as fast as a shot!<LINE>
+//Will Oda be able to reach the ball<LINE>
+//in time?<END>
 
-//Allons-y!<END>
+//Let's go!<END>
 
-//Bien! Oda fait une reprise de volée!<END>
+//Nice! Oda makes a volley!<END>
 
-//Une belle reprise de volée d'Oda,<LINE>
-//sur une  passe de Matsuyama!<END>
+//A beautiful volley by Oda,<LINE>
+//on a pass from Matsuyama!<END>
 
-//Même l'excellent gardien Wakashimazu<LINE>
-//n'a pas eu le temps de réagir!<END>
+//Even the excellent goalkeeper Wakashimazu<LINE>
+//didn't have time to react!<END>
 
-//C'était une belle passe, capitaine!<END>
+//That was a great pass, captain!<END>
 
-//Bien joué, Oda!<LINE>
-//Tu leur as montré ce dont était capable<LINE>
-//un avant-centre de Furano!<END>
+//Well done, Oda!<LINE>
+//You showed them what a Furano center forward<LINE>
+//is capable of!<END>
 

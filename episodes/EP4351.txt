@@ -1,35 +1,35 @@
 // FILE: EP4351.str containing 9 strings
 
-//Musashi est en attaque!<LINE>
-//L'entrée de Musashi a redonné de l'énergie<LINE>
-//à Musashi!<END>
+//Musashi is on the attack!<LINE>
+//The entrance of Musashi has given<LINE>
+//new energy to Musashi!<END>
 
-//Musashi est en attaque!<LINE>
-//L'entrée de Misugi a redonné de l'énergie<LINE>
-//à Musashi!<END>
+//Musashi is on the attack!<LINE>
+//The entrance of Misugi has given<LINE>
+//new energy to Musashi!<END>
 
-//Arrêtez-les!<END>
+//Stop them!<END>
 
-//Konishi tente de les mettre sous pression<LINE>
-//pour récupérer la balle, mais<LINE>
-//avec Misugi au centre de son jeu de passes,<LINE>
-//Musashi est beaucoup trop rapide!<END>
+//Konishi is trying to pressure them<LINE>
+//to regain possession of the ball, but<LINE>
+//with Misugi at the center of their passing game,<LINE>
+//Musashi is much too fast!<END>
 
-//Musashi a déjà fait remonter le ballon<LINE>
-//jusque devant les buts adverses!<END>
+//Musashi has already brought the ball<LINE>
+//up to the opponent's goal!<END>
 
 //Misugi!<END>
 
-//C'est fini!<END>
+//It's over!<END>
 
-//Misugi est complètement démarqué!<LINE>
-//Et le voila qui décoche<LINE>
-//une frappe époustouflante!<END>
+//Misugi is completely unmarked!<LINE>
+//And here he goes, unleashing<LINE>
+//an incredible shot!<END>
 
-//Le ballon est au fond!<LINE>
-//La tentative d'arrêt désespérée d'Omori<LINE>
-//n'aura servi à rien!<LINE>
-//Misugi a conclu l'action<LINE>
-//après quelques passes magnifiques<LINE>
-//de ses coéquipiers!<END>
+//The ball is in the back of the net!<LINE>
+//Omori's desperate attempt to stop it<LINE>
+//was in vain!<LINE>
+//Misugi finished off the play<LINE>
+//after some magnificent passes<LINE>
+//from his teammates!<END>
 

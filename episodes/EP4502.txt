@@ -1,102 +1,98 @@
 // FILE: EP4502.str containing 30 strings
 
-//Oh... L'arbitre a sifflé la fin du match!<LINE>
-//Le vainqueur est le représentant de Tokyo,<LINE>
+//Oh... The referee blew the end of the match!<LINE>
+//The winner is the representative of Tokyo,<LINE>
 //Musashi Junior High!<LINE>
-//Les espoirs de troisième titre consécutif<LINE>
-//de Nankatsu ont été balayés!<END>
+//The hopes of a third consecutive title<LINE>
+//for Nankatsu have been swept away!<END>
 
-//Nous... Nous avons gagné!<LINE>
-//Nous avons gagné un titre national!<LINE>
+//We... We won!<LINE>
+//We won a national title!<LINE>
 //<END>
 
-//Capitaine!<END>
+//Captain!<END>
 
 //Misugi!<END>
 
-//Je m'étais toujours battu<LINE>
-//pour pouvoir affronter Tsubasa et Nankatsu<LINE>
-//dans un tournoi national...<END>
+//I had always fought<LINE>
+//to be able to face Tsubasa and Nankatsu<LINE>
+//in a national tournament...<END>
 
-//Mais j'y ai gagné<LINE>
-//la plus belle des récompenses,<LINE>
-//un titre de champion!<END>
+//But I won the most beautiful reward,<LINE>
+//a championship title!<END>
 
-//Bravo, Misugi.<LINE>
-//C'était une belle victoire!<END>
+//Congratulations, Misugi.<LINE>
+//It was a beautiful victory!<END>
 
-//Merci, Tsubasa.<LINE>
-//Et toi, tu es toujours un adversaire<LINE>
-//aussi redoutable.<LINE>
-//Tu n'as pas changé depuis nos matchs<LINE>
-//à l'école primaire...<END>
+//Thank you, Tsubasa.<LINE>
+//And you, you're still<LINE>
+//as formidable an opponent.<LINE>
+//You haven't changed since our<LINE>
+//primary school matches...<END>
 
-//Ton cœur est guéri?<END>
+//Is your heart healed?<END>
 
-//Non, pas complètement.<LINE>
-//Mon médecin m'a défendu de faire<LINE>
-//plus de trente minutes<LINE>
-//d'effort intensif d'affilée...<END>
+//No, not completely.<LINE>
+//My doctor forbade me from doing<LINE>
+//more than thirty minutes<LINE>
+//of intense effort in a row...<END>
 
-//Mais je veux continuer à jouer au foot!<LINE>
-//Et ça n'a pas de sens si je ne peux pas<LINE>
-//jouer un match en entier...<END>
+//But I want to continue playing football!<LINE>
+//And it doesn't make sense if I can't<LINE>
+//play a full match...<END>
 
 //Misugi...<END>
 
-//Promets-moi que nous rejouerons l'un<LINE>
-//contre l'autre quand mon cœur sera guéri.<END>
+//Promise me that we'll play against each other again<LINE>
+//when my heart is healed.<END>
 
-//Oui, et ce jour-là,<LINE>
-//ça ne se passera pas comme aujourd'hui,<LINE>
-//ce sera sans handicap<LINE>
-//et je ne perdrai pas!<END>
+//Yes, and on that day,<LINE>
+//it won't go like today,<LINE>
+//it will be without any handicap<LINE>
+//and I won't lose!<END>
 
-//J'attendrai ça avec impatience.<END>
+//I'll be looking forward to that.<END>
 
-//Le coup de sifflet final a retenti!<LINE>
-//Musashi et Nankatsu sont à égalité!<LINE>
-//La finale se termine sur un match nul!<LINE>
-//Les deux équipes sont victorieuses!<END>
+//The final whistle has sounded!<LINE>
+//Musashi and Nankatsu are tied!<LINE>
+//The final ends in a draw!<LINE>
+//Both teams are victorious!<END>
 
-//Nous sommes à égalité...<LINE>
-//C'est un match nul...<END>
+//We're tied...<LINE>
+//It's a draw...<END>
 
-//Un match nul...<END>
-
-//Misugi!<END>
-
-//Je m'étais toujours battu pour pouvoir<LINE>
-//affronter Tsubasa et Nankatsu<LINE>
-//dans un tournoi national...<END>
-
-//Et même si je dois partager mon titre...<LINE>
-//J'ai pu me battre!<END>
+//A draw...<END>
 
 //Misugi!<END>
 
-//Merci, Tsubasa.<LINE>
-//Et toi, tu es toujours un adversaire<LINE>
-//aussi redoutable.<LINE>
-//Tu n'as pas changé depuis nos matchs<LINE>
-//à l'école primaire...<END>
+//I've always fought to be able to<LINE>
+//face Tsubasa and Nankatsu<LINE>
+//in a national tournament...<END>
 
-//Ton cœur est guéri?<END>
+//And even if I have to share my title...<LINE>
+//I was able to fight!<END>
 
-//Non, pas complètement.<LINE>
-//Mais je veux continuer à jouer au football.<END>
+//Misugi!<END>
+
+//Thank you, Tsubasa.<LINE>
+//And you, you're still a formidable opponent.<LINE>
+//You haven't changed since our elementary school matches...<END>
+
+//Is your heart healed?<END>
+
+//No, not completely.<LINE>
+//But I want to continue playing football.<END>
 
 //Misugi...<END>
 
-//Promets-moi que nous rejouerons l'un<LINE>
-//contre l'autre quand mon cœur sera guéri.<END>
+//Promise me that we'll play against each other<LINE>
+//again when my heart is healed.<END>
 
 //OK!<END>
 
-//Ça s'est terminé sur un match nul<LINE>
-//cette fois-ci.<LINE>
-//Mais la prochaine fois, je te battrai!<END>
+//It ended in a tie this time.<LINE>
+//But next time, I'll beat you!<END>
 
-//Et ça n'a pas de sens si je ne peux pas<LINE>
-//jouer un match en entier...<END>
+//And it doesn't make sense if I can't<LINE>
+//play a full match...<END>
 

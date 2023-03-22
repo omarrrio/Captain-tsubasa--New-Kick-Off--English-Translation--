@@ -1,47 +1,46 @@
 // FILE: EP4555.str containing 15 strings
 
-//Même avec l'entrée de Misugi, Musashi<LINE>
-//n'arrive toujours pas à suivre!<LINE>
-//Ils ont intérêt à marquer et rapidement!<END>
+//Even with Misugi's entry, Musashi<LINE>
+//still can't keep up!<LINE>
+//They need to score and quickly!<END>
 
-//Si nous n'arrivons pas à marquer<LINE>
-//maintenant, la suite sera très difficile...<LINE>
-//Face à Nankatsu, je ne pourrai pas gagner<LINE>
-//si je m'inquiète pour mon cœur...<END>
+//If we can't score now,<LINE>
+//the rest will be very difficult...<LINE>
+//Against Nankatsu, I can't win<LINE>
+//if I worry about my heart...<END>
 
-//Je dois me battre!<END>
+//I have to fight!<END>
 
-//Misugi accélère!<LINE>
-//Il avance dans la moitié de terrain<LINE>
-//de Nankatsu!<END>
+//Misugi accelerates!<LINE>
+//He advances in Nankatsu's half of the field!<END>
 
-//Il est rapide!<END>
+//He's fast!<END>
 
-//Là! J'ai vu une ouverture!<END>
+//There! I saw an opening!<END>
 
-//Il tire!<LINE>
-//Malheureusement le ballon file tout droit<LINE>
-//sur Morisaki!<END>
+//He shoots!<LINE>
+//Unfortunately, the ball goes straight<LINE>
+//to Morisaki!<END>
 
-//Morisaki! Tu peux l'arrêter!<END>
+//Morisaki! You can stop it!<END>
 
-//Oui!<END>
+//Yes!<END>
 
 //?<END>
 
-//Oh! C'est son tir fantôme!<END>
+//Oh! It's his phantom shot!<END>
 
-//Morisaki a perdu le ballon des yeux!<LINE>
-//Et il s'écrase dans les filets!<END>
+//Morisaki lost sight of the ball!<LINE>
+//And it crashes into the net!<END>
 
-//C'est...<LINE>
-//Le ballon a continué à tourner<LINE>
-//très rapidement dans les mains du gardien!<END>
+//It's...<LINE>
+//The ball continued to spin<LINE>
+//very quickly in the goalkeeper's hands!<END>
 
 //Tsubasa...<LINE>
-//Tu as compris l'astuce de mon tir...<END>
+//You understood the trick of my shot...<END>
 
-//C'est trop dangereux.<LINE>
-//Je ne peux pas laisser Misugi tirer<LINE>
-//une nouvelle fois!<END>
+//It's too dangerous.<LINE>
+//I can't let Misugi shoot<LINE>
+//again!<END>
 

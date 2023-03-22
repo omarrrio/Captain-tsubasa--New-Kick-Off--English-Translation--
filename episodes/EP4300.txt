@@ -1,52 +1,50 @@
 // FILE: EP4300.str containing 14 strings
 
-//Aucun joueur ne représentant une menace<LINE>
-//particulière, je vais laisser Misugi<LINE>
-//se reposer pour ce match.<END>
+//No player representing a particular threat,<LINE>
+//I'm going to let Misugi rest for this match.<END>
 
-//Entraîneur.<END>
+//Coach.<END>
 
-//Qu'y a-t-il, Misugi?<END>
+//What is it, Misugi?<END>
 
-//Pourriez-vous me faire entrer<LINE>
-//en cours de partie?<LINE>
-//Je voudrais vérifier quelque chose<LINE>
-//pendant le match.<END>
+//Could you let me enter<LINE>
+//during the game?<LINE>
+//I want to check something<LINE>
+//during the match.<END>
 
 //Hmm...<LINE>
-//Si c'est vraiment ce que tu veux,<LINE>
-//je vais y réfléchir.<END>
+//If that's really what you want,<LINE>
+//I'll think about it.<END>
 
-//Alors comme ça votre capitaine<LINE>
-//est encore sur le banc?<LINE>
-//Génie ou pas, moi, j'aime pas<LINE>
-//qu'on nous prenne pour une équipe<LINE>
-//de seconde zone.<END>
+//So your captain<LINE>
+//is still on the bench?<LINE>
+//Genius or not, I don't like<LINE>
+//being taken for a second-rate team.<END>
 
-//Ce n'est pas parce que notre capitaine<LINE>
-//ne joue pas que nous allons perdre!<END>
+//Just because our captain<LINE>
+//isn't playing doesn't mean we'll lose!<END>
 
-//C'est ça, cause toujours!<LINE>
-//Sans votre capitaine, vous ne savez rien<LINE>
-//faire d'autre que vous recroqueviller<LINE>
-//en défense!<END>
+//That's right, keep talking!<LINE>
+//Without your captain, you don't know<LINE>
+//how to do anything else but huddle<LINE>
+//in defense!<END>
 
 //!!<END>
 
-//Contre une équipe incapable d'attaquer,<LINE>
-//ce match va être un jeu d'enfant!<END>
+//Against a team incapable of attacking,<LINE>
+//this match will be a piece of cake!<END>
 
-//Tu crois ça, Huh?<END>
+//You think so, huh?<END>
 
-//Et c'est bientôt l'heure du coup d'envoi<LINE>
-//du match d'aujourd'hui, Musashi Junior<LINE>
-//High contre Konishi Junior High.<END>
+//And it's almost time for kickoff<LINE>
+//of today's match, Musashi Junior<LINE>
+//High against Konishi Junior High.<END>
 
-//Comment ce match va-t-il se dérouler?<LINE>
-//Verrons-nous Misugi de Musashi Junior High<LINE>
-//jouer aujourd'hui?<END>
+//How will this match unfold?<LINE>
+//Will we see Misugi of Musashi Junior High<LINE>
+//play today?<END>
 
-//Tout le monde est en place sur le terrain<LINE>
-//et Musashi Junior High s'apprête à frapper<LINE>
-//le coup d'envoi.<END>
+//Everyone is in place on the field<LINE>
+//and Musashi Junior High is preparing to<LINE>
+//take the kickoff.<END>
 
