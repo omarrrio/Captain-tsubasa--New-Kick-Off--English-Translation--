@@ -33,7 +33,7 @@
 //a team whose defense and attack<LINE>
 //are well-balanced.<LINE>
 //Beware of captain Ishida<LINE>
-//and the forward Takéi's heading game.<END>
+//and the forward Takei's heading game.<END>
 
 //Yes, coach!<END>
 

@@ -3,7 +3,7 @@
 //Let's show them<LINE>
 //our Eiffel Tower!<END>
 
-//Allons-y, Napoléon!<END>
+//Allons-y, Napoleon!<END>
 
 //I won't give up<LINE>
 //the ball!<END>

@@ -98,7 +98,7 @@
 //Napoleon is about to shoot,<LINE>
 //but Wakashimazu dives onto the ball.<END>
 
-//Tégatana defense!<END>
+//Tegatana defense!<END>
 
 //Arghhhhhh!<END>
 

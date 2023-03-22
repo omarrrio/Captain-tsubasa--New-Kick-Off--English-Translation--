@@ -13,7 +13,7 @@
 
 //Hyuga receives the pass.<LINE>
 //He is alone facing the Nankatsu goalkeeper!<LINE>
-//And here comes Hyuga's Tiger Shot! <END>
+//And here comes Hyuga's Tiger Shot!<END>
 
 //The winning goal...<LINE>
 //The championship goal!<LINE>

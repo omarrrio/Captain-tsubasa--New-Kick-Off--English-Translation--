@@ -6,7 +6,7 @@
 
 //Will Ishida shoot again towards the goal?<END>
 
-//Takéi is marked.<END>
+//Takei is marked.<END>
 
 //In that case, I have to shoot!<END>
 

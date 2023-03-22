@@ -32,7 +32,7 @@
 
 //It's ok!<END>
 
-//Faudra me passer sur le corps!<END>
+//You'll have to go through me!<END>
 
 //Argh!<END>
 
@@ -74,7 +74,7 @@
 
 //In your dreams!<END>
 
-//Je vais l'arrêter!<END>
+//I'm gonna stop him!<END>
 
 //Aaaarrrrgh!<END>
 

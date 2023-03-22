@@ -1437,11 +1437,11 @@
 
 //Physique+ Shinguards<END>
 
-//Équilibre+ Shinguards<END>
+//Equilibrium+ Shinguards<END>
 
-//Drib. Équi. Shinguards<END>
+//Drib. Equi. Shinguards<END>
 
-//Phys. Équi. Shinguards<END>
+//Phys. Equi. Shinguards<END>
 
 //Pass Amulet<END>
 
@@ -2241,7 +2241,7 @@
 //Allows usage of<LINE>
 //the "Triangle Assault" ability.<END>
 
-//Gloves of a karaté master.<LINE>
+//Gloves of a karate master.<LINE>
 //Allows usage of<LINE>
 //the "Shuto defense" ability.<END>
 
@@ -2640,7 +2640,7 @@
 
 //Pierre<END>
 
-//Napoléon<END>
+//Napoleon<END>
 
 //Margus<END>
 
@@ -3331,7 +3331,7 @@
 
 //The representative from Ehime<LINE>
 //with the captain Ishida<LINE>
-//and the forward Takéi.<END>
+//and the forward Takei.<END>
 
 //DUMMY_F<END>
 

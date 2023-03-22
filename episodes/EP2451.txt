@@ -4,34 +4,34 @@
 
 //No!<END>
 
-//Oh! But Wakashimazu saves the ball! <END>
+//Oh! But Wakashimazu saves the ball!<END>
 
-//It's incredible! <LINE>
+//It's incredible!<LINE>
 //Wakashimazu reacted in time<LINE>
 //and blocked the shot.<LINE>
 //Without that, the opposing team<LINE>
-//would have scored a goal! <END>
+//would have scored a goal!<END>
 
 //The ball has been saved,<LINE>
 //but it remains in play.<LINE>
 //The action is taking place in<LINE>
-//the penalty area! <END>
+//the penalty area!<END>
 
-//Get rid of the ball! Send it far away! <END>
+//Get rid of the ball! Send it far away!<END>
 
-//Which player will reach it first? <END>
+//Which player will reach it first?<END>
 
-//The one from Toho? <LINE>
-//Or the one from Meiwa-Higashi? <END>
+//The one from Toho?<LINE>
+//Or the one from Meiwa-Higashi?<END>
 
-//Take that! <LINE>
+//Take that!<LINE>
 //Kamikaze sliding squad from Meiwa,<LINE>
-//here we come! <END>
+//here we come!<END>
 
-//What! <END>
+//What!<END>
 
-//Wow! Goal! Goal! <LINE>
-//Meiwa's tenacity has finally paid off! <END>
+//Wow! Goal! Goal!<LINE>
+//Meiwa's tenacity has finally paid off!<END>
 
 //Huh...<END>
 
@@ -39,47 +39,47 @@
 //was the last one to touch the ball.<LINE>
 //In any case, we witnessed<LINE>
 //a storm of sliding tackles<LINE>
-//from Meiwa-Higashi! <END>
+//from Meiwa-Higashi!<END>
 
 //All those who were<LINE>
 //near the ball saved by Wakashimazu<LINE>
 //bet on sliding shots to score<LINE>
-//the first goal! <END>
+//the first goal!<END>
 
-//Very well! We scored a goal! <LINE>
-//We dominate the match now! <END>
+//Very well! We scored a goal!<LINE>
+//We dominate the match now!<END>
 
 //...<END>
 
-//Wait, Hyuga! <END>
+//Wait, Hyuga!<END>
 
-//What are you doing? <LINE>
+//What are you doing?<LINE>
 //I have no intention of letting you<LINE>
-//participate in this match! <END>
+//participate in this match!<END>
 
 //...<END>
 
-//Sit down, Hyuga! <LINE>
-//It's an order from your coach! <END>
+//Sit down, Hyuga!<LINE>
+//It's an order from your coach!<END>
 
 //Orders, orders,<LINE>
 //always orders...<END>
 
-//Do you think you're the master of the world? <LINE>
-//Are you always right? <END>
+//Do you think you're the master of the world?<LINE>
+//Are you always right?<END>
 
-//What are you saying? <END>
+//What are you saying?<END>
 
-//Why... why can't I play? <END>
+//Why... why can't I play?<END>
 
-//Wait, Hyuga! <END>
+//Wait, Hyuga!<END>
 
-//Come here, guys! <LINE>
-//It's just one goal! <LINE>
-//You can come back, I'm sure of it! <END>
+//Come here, guys!<LINE>
+//It's just one goal!<LINE>
+//You can come back, I'm sure of it!<END>
 
-//Win this match without me! <LINE>
-//You have to win, guys! <END>
+//Win this match without me!<LINE>
+//You have to win, guys!<END>
 
 //Hyuga...<END>
 
@@ -87,14 +87,14 @@
 
 //Hyuga...<END>
 
-//I'll play in the final! <END>
+//I'll play in the final!<END>
 
 //All right...<LINE>
 //Get ready, guys! It's just one goal,<LINE>
-//just like the captain said! <LINE>
-//We'll take it back from them! <END>
+//just like the captain said!<LINE>
+//We'll take it back from them!<END>
 
 //Yeah! We've made it here<LINE>
 //without the captain! We'll show them<LINE>
-//what Toho is made of! <END>
+//what Toho is made of!<END>
 

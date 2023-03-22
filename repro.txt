@@ -422,7 +422,7 @@
 
 //Toho is determined on defeating<LINE>
 //it's adversary Nankatsu, which aims<LINE>
-//for a 3rd consécutive title,<LINE>
+//for a 3rd consecutive title,<LINE>
 //and take it's<LINE>
 //1st championship.<LINE>
 //Which team will get out victorious?<END>
@@ -720,7 +720,7 @@
 //game, capting the crowds!<LINE>
 //Don't let your guard down<LINE>
 //against their middle fielder, Pierre,<LINE>
-//nor their forward center Napoléon,<LINE>
+//nor their forward center Napoleon,<LINE>
 //and take the victory!<END>
 
 //Germany is a world-class<LINE>

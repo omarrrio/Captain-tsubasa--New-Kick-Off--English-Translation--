@@ -13,7 +13,7 @@
 
 //Oh no!<END>
 
-//The Bicycle Kick, <LINE>
+//The Bicycle Kick,<LINE>
 //Tsubasa's signature shot!<LINE>
 //Powerfully aimed<LINE>
 //into the right side of the goal!<END>

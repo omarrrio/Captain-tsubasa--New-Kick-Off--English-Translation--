@@ -38,7 +38,7 @@
 //OK! We stopped Meiwa-Higashi's<LINE>
 //counterattack!<END>
 
-//Suénaga retrieves the ball,<LINE>
+//Suenaga retrieves the ball,<LINE>
 //and makes a long pass forward!<END>
 
 //Narita retrieves the ball,<LINE>
@@ -59,7 +59,7 @@
 //Nagano retrieves the ball,<LINE>
 //and makes a long pass forward!<END>
 
-//Kawagoé retrieves the ball,<LINE>
+//Kawagoe retrieves the ball,<LINE>
 //and makes a long pass forward!<END>
 
 //Murasawa retrieves the ball,<LINE>
