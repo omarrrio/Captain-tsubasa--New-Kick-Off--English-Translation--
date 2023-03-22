@@ -1,63 +1,59 @@
 // FILE: HELP.str containing 94 strings
 
-//Begin the match<LINE>
-//with the corrent formation.<END>
+//with the current training.<END>
 
-//Change Team formation<LINE>
+//Change the team formation<LINE>
 //and strategy.<END>
 
-//Return to Match Selection screen<LINE>
-//for the currnt Story.<END>
+//Return to the Select Match screen<LINE>
+//for the current story.<END>
 
-//Configure holders for the match.<END>
+//Set up the starting lineup for the match.<END>
 
-//Adjust Formation type and defenders modes,<LINE>
-//midfielders<LINE>
-//and forward<END>
+//Adjust the formation type and modes<LINE>
+//for defenders, midfielders<LINE>
+//and forwards.<END>
 
-//Attribute Players position<LINE>
+//Assign the position of the players<LINE>
 //on the field.<END>
 
-//Pick Team Captain.<LINE>
-//Captain competence depends<LINE>
-//on selected player.<END>
+//Designate the team captain.<LINE>
+//The captain's skill depends<LINE>
+//on the selected player.<END>
 
-//Attribute<LINE>
-//shirts<LINE>
-//Numbering<LINE>
-//for the players.<END>
+//Assign<LINE>
+//jersey numbers<LINE>
+//to the players.<END>
 
-//Adjust Match Strategy.<LINE>
-//Strategy influence the results<LINE>
+//Adjust the strategy during the match.<LINE>
+//The strategy affects the results<LINE>
 //of duels.<END>
 
-//Attribute a player for Corners,<LINE>
-//Free Kicks, Fouls and Throw ins.<END>
+//Assign a player for corners,<LINE>
+//free kicks, penalties, and throw-ins.<END>
 
-//Please select a slot<LINE>
-//for save data.<END>
+//Please select the slot<LINE>
+//to save the data.<END>
 
-//Please select a<LINE>
-//save data to load.<END>
+//Please select<LINE>
+//the data to load.<END>
 
 //DUMMY_F<END>
 
 //Equip the players<LINE>
-//with obtained objects.<END>
+//with obtained items.<END>
 
-//The Data is corrupted.<END>
+//The data is corrupted.<END>
 
-//The Data has been reinitialized.<END>
+//The data is reset.<END>
 
-//Data loading have failed.<LINE>
-//Turn off the console and reinsert<LINE>
-//the game cartridge.<END>
+//Data loading failed.<LINE>
+//Turn off the DS console and reinsert<LINE>
+//the game card.<END>
 
-//Reinitialization of data...<END>
+//Resetting data...<END>
 
-//Reinitialization is complete.<END>
-
-//DUMMY_F<END>
+//Data reset complete.<END>
 
 //DUMMY_F<END>
 
@@ -129,123 +125,112 @@
 
 //DUMMY_F<END>
 
-//Adjust SFX volume.<END>
+//DUMMY_F<END>
 
-//Adjust musique volume.<END>
+//Adjust the volume of sound effects.<END>
 
-//Adjust spectators volume.<END>
+//Adjust the volume of music.<END>
 
-//Activate/deactivate Characters<LINE>
-//Voices in animated sequences<LINE>
-//and matches.<END>
+//Adjust the volume of spectators.<END>
+
+//Turn on/off character voices<LINE>
+//in animated sequences and matches.<END>
 
 //DUMMY_F<END>
 
-//Focus on attack and raise<LINE>
-//settings related to attack<LINE>
-//control.<END>
+//Focus on attack and increase<LINE>
+//parameters related to attack commands.<END>
 
-//Focus on defense and raise<LINE>
-//settings related to defense<LINE>
-//control.<END>
+//Focus on defense and increase<LINE>
+//parameters related to defense commands.<END>
 
-//Focus on passes and raise<LINE>
-//the"PASSE" parameters.<END>
+//Focus on passing and increase<LINE>
+//parameters for "PASS".<END>
 
-//Focus on shooting and raise<LINE>
-//the"SHOOT" parameters.<END>
+//Focus on shooting and increase<LINE>
+//parameters for "SHOT".<END>
 
-//Focus on dribbles and raise<LINE>
-//the"FEINT" parameters.<END>
+//Focus on dribbling and increase<LINE>
+//parameters for "FEINT".<END>
 
-//Focus on pass interceptions and raise<LINE>
-//the"INTERCEPTION" parameters.<END>
+//Focus on intercepting passes and<LINE>
+//increase parameters for "INTERCEPTION".<END>
 
-//Focus on shots blocking and raise<LINE>
-//the"BLOCK" parameters.<END>
+//Focus on blocking shots and<LINE>
+//increase parameters for "BLOCKING".<END>
 
-//Focus on opponent interception<LINE>
-//and raise "TACLE" parameters.<END>
+//Focus on intercepting opponents and<LINE>
+//increase parameters for "TACKLE".<END>
 
-//Preserve endurence and go<LINE>
-//for an Ultimate Attack.<LINE>
-//Parameters increase only<LINE>
-//When using a<LINE>
-//Special Move,<LINE>
-//and decreasing in the opposite case.<END>
+//Preserve stamina and launch<LINE>
+//an ultimate attack.<LINE>
+//Parameters only increase<LINE>
+//when using a special move,<LINE>
+//and decrease otherwise.<END>
 
-//Focus on simple play<LINE>
-//and raise all the parameters.<LINE>
-//When using a Special Move,<LINE>
-//parameters decrease.<END>
+//Focus on simple and basic gameplay,<LINE>
+//and increase all parameters.<LINE>
+//Parameters decrease when<LINE>
+//using a special move.<END>
 
-//Focus on using Special<LINE>
-//Moves and raise SP recovery.<LINE>
-//Some parameters decrease.<END>
+//Focus on using special moves and<LINE>
+//increase SP recovery. Some parameters decrease.<END>
 
-//Character evolotion will be<LINE>
-//proper to this storyline.<END>
+//Character evolution will be<LINE>
+//specific to this story.<END>
 
-//The adversary place<LINE>
-//his shot.<END>
+//The opponent takes<LINE>
+//their shot.<END>
 
-//Return to match configuration<LINE>
-//screen.<END>
+//Return to the match configuration screen.<LINE>
+//<END>
 
-//Data loading of<LINE>
-//the corrupted party...<LINE>
+//Loading data from the interrupted game...<LINE>
 //Do not turn off the console<LINE>
-//or remove the cartridge.Party<END>
+//or remove the DS game card.<END>
 
-//Party save data corrupted...<LINE>
+//Saving data from the interrupted game...<LINE>
+//<LINE>
 //Do not turn off the console<LINE>
-//or remove the cartridge.<END>
+//or remove the DS game card.<END>
 
-//Return to VS Menu.<END>
+//Return to the VS menu.<END>
 
-//Return to team selection<LINE>
-//screen.<END>
+//Return to the team selection screen.<END>
 
-//cus on shots blocking and ra<END>
+//Save with these settings?<END>
 
-//Save the<LINE>
-//party?<END>
+//Save the game?<END>
 
-//Saving…<END>
+//Saving...<END>
 
-//Saving is complete.<END>
+//Save complete.<END>
 
 //Loading...<END>
 
-//Loading is complete.<END>
+//Loading complete.<END>
 
-//Overwrite<LINE>
-//the data?<END>
+//Overwrite the data?<END>
 
-//The current party<LINE>
-//won't be<LINE>
-//saved.<LINE>
+//The current game<LINE>
+//will not be saved.<LINE>
 //Continue?<END>
 
-//Access to save screen.<END>
+//Access the save screen.<END>
 
 //Continue without saving.<END>
 
-//See epilogue?<END>
+//View the epilogue?<END>
 
-//See epilogue.<END>
+//View the epilogue.<END>
 
-//Pass epilogue.<END>
+//Skip the epilogue.<END>
 
-//Return to main<LINE>
-//screen?<END>
+//Return to the main screen?<END>
 
-//Interrupt<LINE>
-//Party<LINE>
-//and return<LINE>
-//to main screen?<END>
+//Interrupt the game<LINE>
+//and return to the title screen?<END>
 
-//The match won't be<LINE>
+//The match will not be<LINE>
 //saved.<LINE>
 //Continue?<END>
-
