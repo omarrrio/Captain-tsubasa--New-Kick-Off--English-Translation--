@@ -226,11 +226,13 @@
 
 //Skip the epilogue.<END>
 
-//Return to the main screen?<END>
+//Return to the<LINE>
+//main screen?<END>
 
 //Interrupt the game<LINE>
-//and return to the title screen?<END>
+//and return to the<LINE>
+//title screen?<END>
 
-//The match will not be<LINE>
-//saved.<LINE>
+//The match will<LINE>
+//not be saved.<LINE>
 //Continue?<END>

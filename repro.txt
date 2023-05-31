@@ -584,23 +584,23 @@
 //revenge on Tsubasa<LINE>
 //who defeated him 3 years before?<END>
 
-//Play an amical match against<LINE>
+//Play a friendly match against<LINE>
 //a team specilazied<LINE>
 //in passing.<END>
 
-//Play an amical match against<LINE>
+//Play a friendly match against<LINE>
 //a team specilazied<LINE>
 //in interception.<END>
 
-//Play an amical match against<LINE>
+//Play a friendly match against<LINE>
 //a team with<LINE>
 //an equal level.<END>
 
-//Play an amical match against<LINE>
+//Play a friendly match against<LINE>
 //a team specilazied<LINE>
 //in blocking.<END>
 
-//Play an amical match against<LINE>
+//Play a friendly match against<LINE>
 //a team specilazied<LINE>
 //in shooting.<END>
 
@@ -643,7 +643,7 @@
 //will surpass your teammate's,<LINE>
 //Tsubasa Ozora, talents!<END>
 
-//Play an amical match.<END>
+//Play a friendly match.<END>
 
 //ANYTHING TO SCORE<END>
 
