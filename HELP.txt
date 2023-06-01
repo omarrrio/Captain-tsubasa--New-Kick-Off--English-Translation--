@@ -174,7 +174,8 @@
 //using a special move.<END>
 
 //Focus on using special moves and<LINE>
-//increase SP recovery. Some parameters decrease.<END>
+//increase SP recovery.<LINE>
+//Some parameters decrease.<END>
 
 //Character evolution will be<LINE>
 //specific to this story.<END>
@@ -182,8 +183,8 @@
 //The opponent takes<LINE>
 //their shot.<END>
 
-//Return to the match configuration screen.<LINE>
-//<END>
+//Return to the<LINE>
+//match configuration screen.<END>
 
 //Loading data from the interrupted game...<LINE>
 //Do not turn off the console<LINE>
