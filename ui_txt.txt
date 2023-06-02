@@ -935,7 +935,7 @@
 
 //No<END>
 
-//My friend, the ball<END>
+//The ball is my friend<END>
 
 //Physical Wall<END>
 
@@ -983,7 +983,7 @@
 
 //Young noble of the field<END>
 
-//Glass heart shoot<END>
+//Glass heasrt shoot<END>
 
 //Speed intercept<END>
 
@@ -2019,7 +2019,7 @@
 //Grants matchless<LINE>
 //courage.<LINE>
 //Allow usage of<LINE>
-//the "My friend, the ball" ability.<END>
+//the "The ball is my friend" ability.<END>
 
 //Grants kamikaze<LINE>
 //spirit.<LINE>
