@@ -1,52 +1,52 @@
 // FILE: bvb077.str containing 54 strings
 
-//Go!<END>
+//Go for it!<END>
 
-//Admire the show!<END>
+//Marvel at the spectacle!<END>
 
-//There you go!<END>
+//There it is!<END>
 
-//Take!<END>
+//Here!<END>
 
-//Here we go!<END>
+//Let's go!<END>
 
-//Go!<END>
+//Go for it!<END>
 
-//He he he!<END>
+//Hehehe!<END>
 
 //Get ready!<END>
 
-//Bring yourself!<END>
+//Come on!<END>
 
-//I won't let this pass by!<END>
+//I won't let that pass!<END>
 
-//You won't trespass me!<END>
+//You won't pass me!<END>
 
-//Admire the show!<END>
+//Marvel at the spectacle!<END>
 
 //I got it!<END>
 
-//Admire the show!<END>
+//Marvel at the spectacle!<END>
 
-//I have to have it!<END>
+//I must get it!<END>
 
 //Get ready!<END>
 
-//I will take it from you!<END>
+//I'm going to take it from you!<END>
 
 //Ah!<END>
 
-//I have to stop him!<END>
+//I must stop him!<END>
 
 //I got it!<END>
 
-//I will to stop him!<END>
+//I'm going to stop him!<END>
 
 //Yes!<END>
 
 //Cool!<END>
 
-//What do you say of this?<END>
+//What do you say about that?<END>
 
 //Oh...<END>
 
@@ -54,49 +54,50 @@
 
 //No!<END>
 
-//Go!<END>
+//Go for it!<END>
 
 //That's it!<END>
 
 //Here!<END>
 
-//You have to score!<END>
+//You must score!<END>
 
-//I'll let you handle it!<END>
+//I'll let you do it!<END>
 
-//I have to have it!<END>
+//I must get it!<END>
 
-//Let me pass!<END>
+//Let me through!<END>
 
 //Yes!<END>
 
 //You won't have it!<END>
 
-//I won't let this pass by!<END>
+//I won't let that pass!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
-//I have to stop him!<END>
+//I must stop him!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
 //You won't have it!<END>
 
-//I have to stop him!<END>
+//I must stop him!<END>
 
-//You stop here!<END>
+//You stop there!<END>
 
 //You won't go any further!<END>
 
 //Ah!<END>
 
-//I have to stop him!<END>
+//I must stop him!<END>
 
-//I can't let him in!<END>
+//I can't let him<LINE>
+//go any further!<END>
 
-//I have to get there in time!<END>
+//I must get there in time!<END>
 
 //Yes!<END>
 

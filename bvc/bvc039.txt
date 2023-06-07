@@ -1,41 +1,41 @@
 // FILE: bvc039.str containing 54 strings
 
-//Go!<END>
+//Go for it!<END>
 
 //He's coming!<END>
 
-//Take this!<END>
+//Take that!<END>
 
 //Easy!<END>
 
-//Admire the show!<END>
+//Admire the spectacle!<END>
 
-//Take!<END>
+//Here you go!<END>
 
 //Let me pass!<END>
 
 //Out of my way!<END>
 
-//Bring yourself!<END>
+//Bring it on!<END>
 
-//I won't let you!<END>
+//I'll stop you!<END>
 
-//You won't trespass me!<END>
+//You won't pass me!<END>
 
-//Admire the show!<END>
+//Admire the spectacle!<END>
 
 //It's over!<END>
 
-//Admire the show!<END>
+//Admire the spectacle!<END>
 
 //I got it!<END>
 
 //He's coming!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
-//I won't let you!<END>
+//I'll prevent you from doing that!<END>
 
 //I have to stop him!<END>
 
@@ -47,7 +47,7 @@
 
 //Cool!<END>
 
-//What do you say of this?<END>
+//What do you say about that?<END>
 
 //Huh, what?<END>
 
@@ -59,13 +59,13 @@
 
 //Take this!<END>
 
-//Go!<END>
+//Go for it!<END>
 
-//This is for you!<END>
+//This one's for you!<END>
 
-//Admire the show!<END>
+//Admire the spectacle!<END>
 
-//Go!<END>
+//Go for it!<END>
 
 //You think you can stop me?<END>
 
@@ -73,31 +73,31 @@
 
 //You won't have it!<END>
 
-//Youw on't pass!<END>
+//You won't pass!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
-//Aaaarrrrgh!<END>
+//Aaaargh!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
-//I have to have it!<END>
+//I have to get it!<END>
 
 //I have to stop him!<END>
 
 //Take this!<END>
 
-//Youw on't pass!<END>
+//You won't pass!<END>
 
-//Aaaarrrrgh!<END>
+//Aaaargh!<END>
 
 //I have to stop him!<END>
 
 //I won't let you score!<END>
 
-//Aaaarrrrgh!<END>
+//Aaaargh!<END>
 
 //Yes!<END>
 
@@ -105,9 +105,9 @@
 
 //Ah!<END>
 
-//Unbelievable!<END>
+//It's not true!<END>
 
-//Grrr....<END>
+//Grrr...<END>
 
 //What? That's impossible...<END>
 

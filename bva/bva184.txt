@@ -4,19 +4,19 @@
 
 //Get ready!<END>
 
-//Admire the work!<END>
+//Admire my talent!<END>
 
-//Take!<END>
+//Here!<END>
 
 //Admire the show!<END>
 
-//Yes, Come on!<END>
+//Yes, let's go!<END>
 
 //Let me pass!<END>
 
-//Admire the work!<END>
+//Admire my talent!<END>
 
-//Bring yourself!<END>
+//Come on!<END>
 
 //I won't let him in!<END>
 
@@ -32,22 +32,22 @@
 
 //Get ready!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
 //I got it!<END>
 
-//I have to stop it!<END>
+//I must stop him!<END>
 
 //It's over!<END>
 
-//I will stop it!<END>
+//I will stop him!<END>
 
 //Yes!<END>
 
 //Cool!<END>
 
-//What do you say of this?<END>
+//What do you say about that?<END>
 
 //Oh...<END>
 
@@ -61,11 +61,11 @@
 
 //Aaaarrrrgh!<END>
 
-//This is for you!<END>
+//It's for you!<END>
 
-//Come on, let's move it!<END>
+//Come on, let's go!<END>
 
-//I have to have it!<END>
+//I must have it!<END>
 
 //Let me pass!<END>
 
@@ -73,26 +73,26 @@
 
 //You won't have it!<END>
 
-//No way we're taking a goal!<END>
+//No way you're scoring!<END>
 
 //I won't let you shoot!<END>
 
 //Aaaarrrrgh!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
-//I have to have it!<END>
+//I must have it!<END>
 
-//I have to stop it!<END>
+//I must stop him!<END>
 
 //Take this!<END>
 
-//You think you can trespass me?<END>
+//Do you think you can get past me?<END>
 
 //Aaaarrrrgh!<END>
 
-//I have to stop it!<END>
+//I must stop him!<END>
 
 //I won't let him in!<END>
 

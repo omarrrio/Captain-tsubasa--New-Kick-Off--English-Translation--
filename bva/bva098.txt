@@ -4,19 +4,19 @@
 
 //Get ready!<END>
 
-//Admire the work!<END>
+//Admire my talent!<END>
 
-//Take!<END>
+//Here!<END>
 
 //Admire the show!<END>
 
-//Come on!<END>
+//Let's go!<END>
 
 //Let me pass!<END>
 
-//Admire the work!<END>
+//Admire my talent!<END>
 
-//Bring yourself!<END>
+//Come on!<END>
 
 //I won't let him in!<END>
 
@@ -32,22 +32,22 @@
 
 //Get ready!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
 //I got it!<END>
 
-//I will stop him!<END>
+//I'll stop him!<END>
 
-//Bring yourself!<END>
+//Come on!<END>
 
-//Let me handle it!<END>
+//Let me handle this!<END>
 
 //Yes!<END>
 
 //Cool!<END>
 
-//What do you say of this?<END>
+//What do you say about that?<END>
 
 //Oh...<END>
 
@@ -61,11 +61,11 @@
 
 //Aaaarrrrgh!<END>
 
-//This is for you!<END>
+//It's for you!<END>
 
 //Admire the show!<END>
 
-//I have to have it!<END>
+//I must have it!<END>
 
 //Let me pass!<END>
 
@@ -75,17 +75,17 @@
 
 //I won't let him in!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
 //Aaaarrrrgh!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
-//I have to have it!<END>
+//I must have it!<END>
 
-//I have to stop it!<END>
+//I must stop him!<END>
 
 //Take this!<END>
 
@@ -93,13 +93,13 @@
 
 //Aaaarrrrgh!<END>
 
-//No way we're letting<LINE>
-//them score any more!<END>
+//No way they'll<LINE>
+//score again!<END>
 
 //Yaaaah!<END>
 
 //You won't score<LINE>
-//taht easy!<END>
+//so easily!<END>
 
 //Yes!<END>
 

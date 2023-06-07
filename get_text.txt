@@ -4,7 +4,7 @@
 
 //Special move mastered.<END>
 
-//.Obtained object.<END>
+//.Obtained item.<END>
 
 //Unlocked team in VS MODE.<END>
 

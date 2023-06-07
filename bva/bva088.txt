@@ -4,20 +4,20 @@
 
 //Get ready!<END>
 
-//It's OK, i got it!<END>
+//Alright, I got it!<END>
 
-//Take!<END>
+//Here!<END>
 
 //Admire the show!<END>
 
-//Come on!<END>
+//Let's go!<END>
 
 //Let me pass!<END>
 
 //I can't let you<LINE>
 //stop me here.<END>
 
-//Bring yourself!<END>
+//Come on!<END>
 
 //I won't let him in!<END>
 
@@ -33,22 +33,22 @@
 
 //Get ready!<END>
 
-//I won't let this<LINE>
+//I won't let that<LINE>
 //happen!<END>
 
 //I got it!<END>
 
-//I have to stop it!<END>
+//I must stop him!<END>
 
 //It's over!<END>
 
-//I will stop it!<END>
+//I'm going to stop him!<END>
 
 //Yes!<END>
 
 //Cool!<END>
 
-//What do you say of this?<END>
+//What do you say about that?<END>
 
 //Oh...<END>
 
@@ -62,11 +62,11 @@
 
 //Aaaarrrrgh!<END>
 
-//This is for you!<END>
+//It's for you!<END>
 
 //It's your turn to play!<END>
 
-//I have to have it!<END>
+//I must have it!<END>
 
 //You can't stop me!<END>
 
@@ -75,7 +75,7 @@
 //You won't have it!<END>
 
 //No way<LINE>
-//i'm letting you shoot!<END>
+//I'll let you shoot!<END>
 
 //I think you're dreaming!<END>
 
@@ -83,17 +83,17 @@
 
 //I think you're dreaming!<END>
 
-//I have to have it!<END>
+//I must have it!<END>
 
-//I have to stop it!<END>
+//I must stop him!<END>
 
 //Take this!<END>
 
-//I will stop you!<END>
+//I'll stop you!<END>
 
 //Aaaarrrrgh!<END>
 
-//I have to stop it!<END>
+//I must stop him!<END>
 
 //I won't let him in!<END>
 
