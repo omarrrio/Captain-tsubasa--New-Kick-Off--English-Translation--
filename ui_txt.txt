@@ -96,7 +96,7 @@
 
 //Ide<END>
 
-//Mihashi<END>
+//Mitsuhashi<END>
 
 //Onodera<END>
 
@@ -134,7 +134,7 @@
 
 //Yoshikura<END>
 
-//Koda<END>
+//Kada<END>
 
 //Takeda<END>
 
@@ -1103,7 +1103,7 @@
 
 //Napalm header<END>
 
-//Napalm shot<END>
+//Napalm shoot<END>
 
 //Phantasmagoric Dribble<END>
 
@@ -1111,7 +1111,7 @@
 
 //Kaiser block<END>
 
-//Kaiser tackle<END>
+//Kaiser tackle<END>s
 
 //Rolling pass<END>
 
@@ -1149,7 +1149,7 @@
 
 //Twin shoot<END>
 
-//Golden Combination<END>
+//Golden Combi<END>
 
 //Nankatsu<END>
 
@@ -1225,7 +1225,7 @@
 
 //Golden Yoichi<END>
 
-//Begin an episode.<END>
+//Start an episode.<END>
 
 //Resume a saved party.<END>
 
