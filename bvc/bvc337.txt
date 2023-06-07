@@ -8,7 +8,7 @@
 
 //Easy!<END>
 
-//Marvel at the spectacle!<END>
+//I'll show you what i can do!<END>
 
 //Go for it!<END>
 
@@ -22,11 +22,11 @@
 
 //You won't pass me!<END>
 
-//Marvel at the spectacle!<END>
+//I'll show you what i can do!<END>
 
 //It's over!<END>
 
-//Marvel at the spectacle!<END>
+//I'll show you what i can do!<END>
 
 //I got it!<END>
 
@@ -63,7 +63,7 @@
 
 //It's for you!<END>
 
-//Marvel at the spectacle!<END>
+//I'll show you what i can do!<END>
 
 //Go for it!<END>
 
