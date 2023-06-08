@@ -2,7 +2,7 @@
 
 //Ha! Nobody can stop me!<END>
 
-//The pass, Napoleon!<END>
+//The pass, Napoléon!<END>
 
 //Pierre!<END>
 
@@ -11,11 +11,11 @@
 
 //That was a very hard tackle<LINE>
 //from Souda!<LINE>
-//Nevertheless, Napoleon manages to pass<LINE>
+//Nevertheless, Napoléon manages to pass<LINE>
 //the ball!<END>
 
 //But Souda, carried away by his momentum,<LINE>
-//takes out Napoleon!<END>
+//takes out Napoléon!<END>
 
 //This can't be!<END>
 
@@ -83,14 +83,14 @@
 
 //Oh! But what's happening<LINE>
 //on the other side of the field?<LINE>
-//Things are heating up between Napoleon and Souda!<END>
+//Things are heating up between Napoléon and Souda!<END>
 
 //whistle blow<END>
 
 //Players from both teams rush<LINE>
 //to separate them.<END>
 
-//It seems that Napoleon complained<LINE>
+//It seems that Napoléon complained<LINE>
 //to Souda about his tackle,<LINE>
 //and they came to blows.<END>
 

@@ -20,12 +20,12 @@
 
 //Phew, we dodged a bullet.<END>
 
-//Napoleon recovers the ball.<END>
+//Napoléon recovers the ball.<END>
 
 //Pierre, it's our turn!<LINE>
 //The football gods are with us!<END>
 
-//Napoleon!<END>
+//Napoléon!<END>
 
 //Here comes the Eiffel Attack!<END>
 
@@ -38,7 +38,7 @@
 //with an impressive passing game!<END>
 
 //It's a series of one-two passes<LINE>
-//between Napoleon and Pierre!<END>
+//between Napoléon and Pierre!<END>
 
 //This passing game is built on the<LINE>
 //architectural model of the Eiffel Tower,<LINE>
@@ -61,7 +61,7 @@
 //There!<END>
 
 //Misaki makes a tackle just as<LINE>
-//Pierre receives the ball from Napoleon.<END>
+//Pierre receives the ball from Napoléon.<END>
 
 //Oh! Pierre takes the ball with his left<LINE>
 //foot instead of his right!<LINE>
@@ -83,7 +83,7 @@
 //at the same time!<LINE>
 //The ball is thrown up into the air!<END>
 
-//Pierre returns the ball to Napoleon<LINE>
+//Pierre returns the ball to Napoléon<LINE>
 //with a superb header!<END>
 
 //Rhaaa!<END>
@@ -91,18 +91,18 @@
 //One-on-one!<LINE>
 //Wakashimazu comes out of the goal without hesitation!<END>
 
-//Napoleon, shoot!<END>
+//Napoléon, shoot!<END>
 
 //Okay!<END>
 
-//Napoleon is about to shoot,<LINE>
+//Napoléon is about to shoot,<LINE>
 //but Wakashimazu dives onto the ball.<END>
 
 //Tegatana defense!<END>
 
 //Arghhhhhh!<END>
 
-//Napoleon strikes a powerful Cannon Shoot!<LINE>
+//Napoléon strikes a powerful Cannon Shoot!<LINE>
 //The ball is deflected by Wakashimazu,<LINE>
 //but not enough and heads straight<LINE>
 //toward the Japanese goal!<END>

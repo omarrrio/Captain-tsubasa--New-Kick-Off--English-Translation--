@@ -720,7 +720,7 @@
 //game, capting the crowds!<LINE>
 //Don't let your guard down<LINE>
 //against their middle fielder, Pierre,<LINE>
-//nor their forward center Napoleon,<LINE>
+//nor their forward center Napoléon,<LINE>
 //and take the victory!<END>
 
 //Germany is a world-class<LINE>

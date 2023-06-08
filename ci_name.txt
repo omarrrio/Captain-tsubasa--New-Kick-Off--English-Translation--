@@ -96,7 +96,7 @@
 
 //ide<END>
 
-//mihashi<END>
+//mitsuhashi<END>
 
 //onodera<END>
 
@@ -170,7 +170,7 @@
 
 //morisue<END>
 
-//nakajo<END>
+//nakagi<END>
 
 //himeji<END>
 
@@ -530,7 +530,7 @@
 
 //lindt<END>
 
-//gongels<END>
+//gongers<END>
 
 //harness<END>
 
@@ -630,7 +630,7 @@
 
 //diaz<END>
 
-//pascal<END>
+//pascual<END>
 
 //gartoni<END>
 
@@ -640,9 +640,9 @@
 
 //gareja<END>
 
-//galvan<END>
+//garban<END>
 
-//ruggeri<END>
+//rugeri<END>
 
 //jeytes<END>
 
@@ -650,13 +650,13 @@
 
 //braun<END>
 
-//napoleon<END>
+//napoléon<END>
 
 //pierre<END>
 
 //amolo<END>
 
-//degaulle<END>
+//de Gaulle<END>
 
 //bravo<END>
 
@@ -670,9 +670,9 @@
 
 //marcel<END>
 
-//bossi<END>
+//bossis<END>
 
-//margus<END>
+//margas<END>
 
 //schneider<END>
 
@@ -682,13 +682,13 @@
 
 //muller<END>
 
-//hardwich<END>
+//hardwig<END>
 
 //maier<END>
 
 //max<END>
 
-//magath<END>
+//magathu<END>
 
 //myleus<END>
 

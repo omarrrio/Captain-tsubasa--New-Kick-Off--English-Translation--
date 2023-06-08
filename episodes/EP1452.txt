@@ -6,7 +6,7 @@
 
 //Both players dive for the header!<END>
 
-//Napoleon couldn't hit the ball well!<LINE>
+//Napoléon couldn't hit the ball well!<LINE>
 //Wakashimazu easily takes possession!<END>
 
 //*Whistle blows*<END>
@@ -25,7 +25,7 @@
 //Souda gets a second yellow card,<LINE>
 //meaning he is expelled!<END>
 
-//Napoleon received an elbow blow<LINE>
+//Napoléon received an elbow blow<LINE>
 //from Souda<LINE>
 //during their aerial duel.<END>
 

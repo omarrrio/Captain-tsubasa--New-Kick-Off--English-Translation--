@@ -170,7 +170,7 @@
 
 //Morisue<END>
 
-//Nakajo<END>
+//Nakagi<END>
 
 //Himeji<END>
 
@@ -530,9 +530,9 @@
 
 //Lintz<END>
 
-//Gongels<END>
+//Gongers<END>
 
-//Haness<END>
+//Hans<END>
 
 //Mayer<END>
 
@@ -546,7 +546,7 @@
 
 //Klaus<END>
 
-//Jara<END>
+//Jaller<END>
 
 //Wakabayashi<END>
 
@@ -630,33 +630,33 @@
 
 //Diaz<END>
 
-//Pascal<END>
+//Pascual<END>
 
 //Galtoni<END>
 
-//Sembero<END>
+//Senbero<END>
 
 //Pasaro<END>
 
 //Gareya<END>
 
-//Galvan<END>
+//Garban<END>
 
-//Ruggeri<END>
+//Rugeri<END>
 
 //Jeites<END>
 
-//Palus<END>
+//Pals<END>
 
 //Brown<END>
 
-//Napoleon<END>
+//Napoléon<END>
 
 //Pierre<END>
 
 //Amoro<END>
 
-//Degaulle<END>
+//De Gaulle<END>
 
 //Bravo<END>
 
@@ -670,9 +670,9 @@
 
 //Marcel<END>
 
-//Bossi<END>
+//Bossis<END>
 
-//Margus<END>
+//Margas<END>
 
 //Schneider<END>
 
@@ -680,19 +680,19 @@
 
 //Kaltz<END>
 
-//Muller<END>
+//Dieter<END>
 
-//Hardwich<END>
+//Hardwig<END>
 
 //Mayer<END>
 
 //Max<END>
 
-//Magath<END>
+//Magathu<END>
 
-//Mileus<END>
+//Mireus<END>
 
-//Hain<END>
+//Hein<END>
 
 //Kitano<END>
 

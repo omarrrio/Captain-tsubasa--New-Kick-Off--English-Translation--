@@ -170,7 +170,7 @@
 
 //Morisue<END>
 
-//Nakajo<END>
+//Nakagi<END>
 
 //Himeji<END>
 
@@ -530,9 +530,9 @@
 
 //Lintz<END>
 
-//Gongels<END>
+//Gongers<END>
 
-//Haness<END>
+//Hans<END>
 
 //Mayer<END>
 
@@ -546,7 +546,7 @@
 
 //Klaus<END>
 
-//Jara<END>
+//Jaller<END>
 
 //Wakabayashi<END>
 
@@ -630,33 +630,33 @@
 
 //Diaz<END>
 
-//Pascal<END>
+//Pascual<END>
 
 //Galtoni<END>
 
-//Sembero<END>
+//Senbero<END>
 
 //Pasaro<END>
 
 //Gareya<END>
 
-//Galvan<END>
+//Garban<END>
 
-//Ruggeri<END>
+//Rugeri<END>
 
 //Jeites<END>
 
-//Palus<END>
+//Pals<END>
 
 //Brown<END>
 
-//Napoleon<END>
+//Napoléon<END>
 
 //Pierre<END>
 
 //Amoro<END>
 
-//Degaulle<END>
+//De Gaulle<END>
 
 //Bravo<END>
 
@@ -670,9 +670,9 @@
 
 //Marcel<END>
 
-//Bossi<END>
+//Bossis<END>
 
-//Margus<END>
+//Margas<END>
 
 //Schneider<END>
 
@@ -682,17 +682,17 @@
 
 //Muller<END>
 
-//Hardwich<END>
+//Hardwig<END>
 
 //Mayer<END>
 
 //Max<END>
 
-//Magath<END>
+//Magathu<END>
 
-//Mileus<END>
+//Mireus<END>
 
-//Hain<END>
+//Hein<END>
 
 //Kitano<END>
 
@@ -1111,7 +1111,7 @@
 
 //Kaiser block<END>
 
-//Kaiser tackle<END>s
+//Kaiser tackle<END>
 
 //Rolling pass<END>
 
@@ -2634,15 +2634,15 @@
 
 //Diaz<END>
 
-//Pascal<END>
+//Pascual<END>
 
-//Galvan<END>
+//Garban<END>
 
 //Pierre<END>
 
-//Napoleon<END>
+//Napoléon<END>
 
-//Margus<END>
+//Margas<END>
 
 //Schester<END>
 
@@ -3369,7 +3369,7 @@
 
 //Team from the International Jr.<LINE>
 //Youth Tournament focused on<LINE>
-//Pierre and Napoleon.<END>
+//Pierre and Napoléon.<END>
 
 //Team from the International Jr.<LINE>
 //Youth Tournament with perfect<LINE>

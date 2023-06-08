@@ -38,17 +38,17 @@
 //goal! It's a dangerous play for Japan!<END>
 
 //Pierre makes a pinpoint pass<LINE>
-//to Napoleon who's in a shooting position!<END>
+//to Napoléon who's in a shooting position!<END>
 
 //The goal is mine!<END>
 
 //Don't let him shoot!<END>
 
-//Napoleon, let it go!<END>
+//Napoléon, let it go!<END>
 
 //Huh?<END>
 
-//Napoleon doesn't shoot! He lets the ball<LINE>
+//Napoléon doesn't shoot! He lets the ball<LINE>
 //go through his legs!<END>
 
 //Bossis, the other French forward,<LINE>
@@ -66,16 +66,16 @@
 
 //Wait, it's not over!<LINE>
 //The ball is still in play<LINE>
-//and comes right back to Napoleon's<LINE>
+//and comes right back to Napoléon's<LINE>
 //feet!<END>
 
 //I'm going to score for real!<END>
 
-//Napoleon shoots!<END>
+//Napoléon shoots!<END>
 
 //Gooooooooooooal!<LINE>
 //The goalkeeper got a hand on the shot,<LINE>
-//but couldn't keep out Napoleon's<LINE>
+//but couldn't keep out Napoléon's<LINE>
 //strike with just one hand!<END>
 
 //The Japanese team reduced to 10<LINE>
