@@ -18,9 +18,9 @@
 
 //Come on!<END>
 
-//I won't let that pass!<END>
+//I won't let it pass!<END>
 
-//You won't pass me!<END>
+//You won't get past me!<END>
 
 //Admire the spectacle!<END>
 
@@ -72,7 +72,7 @@
 
 //You won't have it!<END>
 
-//I won't let that pass!<END>
+//I won't let it pass!<END>
 
 //I won't let that<LINE>
 //happen!<END>

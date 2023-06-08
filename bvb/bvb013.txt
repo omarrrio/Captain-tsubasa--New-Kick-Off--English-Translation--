@@ -21,7 +21,7 @@
 
 //Ah!<END>
 
-//You won't pass me!<END>
+//You won't get past me!<END>
 
 //I'll show you what i can do!<END>
 
@@ -73,7 +73,7 @@
 
 //You won't have it!<END>
 
-//I won't let that pass!<END>
+//I won't let it pass!<END>
 
 //I won't let that<LINE>
 //happen!<END>
