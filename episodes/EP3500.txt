@@ -14,7 +14,7 @@
 
 //Everything's alright, Yoshiko?<END>
 
-//Yeah, i am good.<END>
+//Yeah, I am good.<END>
 
 //Okay, in that case, please prepare<LINE>
 //the energy drink for us, please?<END>

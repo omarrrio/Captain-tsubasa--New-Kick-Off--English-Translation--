@@ -27,9 +27,11 @@
 //Ishizaki!<END>
 
 //The ball is still in play!<LINE>
-//I can't worry about my opponents. I have to score!<END>
+//I can't worry about my<LINE>
+//opponents. I have to score!<END>
 
-//Ishizaki's efforts will not be in vain! I will stop Schneider!<END>
+//Ishizaki's efforts will not be in vain!<LINE>
+//I will stop Schneider!<END>
 
 //I'll clear the ball<LINE>
 //before you shoot!<END>

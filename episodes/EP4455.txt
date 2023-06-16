@@ -2,7 +2,8 @@
 
 //I can shoot from here!<END>
 
-//Misugi is going to try shooting from his position!<LINE>
+//Misugi is going to try<LINE>
+//shooting from his position!<LINE>
 //The defense of Meiwa-Higashi is<LINE>
 //too weak!<END>
 

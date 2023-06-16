@@ -59,7 +59,8 @@
 //Oh! He passes the ball back<LINE>
 //and circumvents the defensive duo on the left!<END>
 
-//Kaltz, who was following him, is he going to shoot?<END>
+//Kaltz, who was following him,<LINE>
+//is he going to shoot?<END>
 
 //Schneider!<END>
 
@@ -67,7 +68,8 @@
 //to Schneider!<END>
 
 //Schneider takes Kaltz's pass<LINE>
-//in the air and executes a Jumping High Volley Shoot!<END>
+//in the air and executes a<LINE>
+//Jumping High Volley Shoot!<END>
 
 //Gooooaaaal!<END>
 

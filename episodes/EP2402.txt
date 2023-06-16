@@ -6,7 +6,8 @@
 //to qualify for the final!<END>
 
 //Despite having given their best and<LINE>
-//benefiting from the support of their fans, the players of Meiwa-Higashi<LINE>
+//benefiting from the support of their fans,<LINE>
+//the players of Meiwa-Higashi<LINE>
 //were unable to hold on until the end.<END>
 
 //This is great!<LINE>
@@ -33,7 +34,8 @@
 //of Toho.<END>
 
 //Takeshi! I don't know whether it'll be<LINE>
-//Nankatsu or Furano who will qualify for the final,<LINE>
+//Nankatsu or Furano who will<LINE>
+//qualify for the final,<LINE>
 //but you have to win and take the lead<LINE>
 //in the championship!<END>
 

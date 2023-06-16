@@ -10,9 +10,11 @@
 
 //Diaz jumps over Matsuyama's tackle.<END>
 
-//But Matsuyama doesn't give up and tackles even higher!<END>
+//But Matsuyama doesn't give up<LINE>
+//and tackles even higher!<END>
 
-//Oh! Diaz uses Matsuyama's foot to jump even higher!<END>
+//Oh! Diaz uses Matsuyama's<LINE>
+//foot to jump even higher!<END>
 
 //And he makes a pass in the air!<END>
 
@@ -22,13 +24,17 @@
 
 //What!<END>
 
-//Pascual receives the ball, and passes it back to Diaz!<END>
+//Pascual receives the ball,<LINE>
+//and passes it back to Diaz!<END>
 
 //Here, Diaz!<END>
 
-//Diaz evades Ishizaki by dribbling past him on the side!<LINE>
-//He does a cartwheel and finishes with a backflip!<LINE>
-//He's going to shoot in a full backward flip!<END>
+//Diaz evades Ishizaki by<LINE>
+//dribbling past him on the side!<LINE>
+//He does a cartwheel and<LINE>
+//finishes with a backflip!<LINE>
+//He's going to shoot in<LINE>
+//a full backward flip!<END>
 
 //Wakashimazu dives, but doesn't touch the ball!<LINE>
 //Goooooooal!<END>
@@ -38,6 +44,7 @@
 //Argentina scores the first goal, and in style!<END>
 
 //What a combination!<LINE>
-//Diaz's acrobatic play and Pascual's passing technique!<LINE>
+//Diaz's acrobatic play and Pascual's<LINE>
+//passing technique!<LINE>
 //They're Argentina's golden pair!<END>
 

@@ -10,8 +10,10 @@
 //in the second half.<END>
 
 //Tsubasa is right. Don't forget that we're<LINE>
-//playing against the All Italy Jr. Youth Team.<LINE>
-//They're one of the favorites to win the competition.<END>
+//playing against the<LINE>
+//All Italy Jr. Youth Team.<LINE>
+//They're one of the favorites<LINE>
+//to win the competition.<END>
 
 //Show them what you're capable of!<END>
 

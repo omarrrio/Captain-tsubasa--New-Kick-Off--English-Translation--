@@ -1,12 +1,15 @@
 // FILE: EP1000.str containing 38 strings
 
-//After the national championship, the selected players<LINE>
+//After the national championship,<LINE>
+//the selected players<LINE>
 //trained in preparation for the European tour.<END>
 
 //Tsubasa Ozora, the captain of Nankatsu<LINE>
-//Junior High and the winner of the national championship,<LINE>
-//had to resign himself to not participating in the European tour<LINE>
-//due to the injury he sustained during the championship.<END>
+//Junior High and the winner of<LINE>
+//the national championship, had to resign<LINE>
+//himself to not participating in<LINE>
+//the European tour due to the injury<LINE>
+//he sustained during the championship.<END>
 
 //Hey, it's Tsubasa!<END>
 
@@ -20,10 +23,12 @@
 //I see...<END>
 
 //As I couldn't stand being away from the field<LINE>
-//anymore, I came to watch the training as a spectator.<END>
+//anymore, I came to watch<LINE>
+//the training as a spectator.<END>
 
 //You're obviously welcome, but<LINE>
-//don't you think that watching us will just make you<LINE>
+//don't you think that watching<LINE>
+//us will just make you<LINE>
 //want to play even more?<END>
 
 //Hmm... I hadn't thought about that!<END>
@@ -74,7 +79,8 @@
 //next time...<END>
 
 //Today marks the end of the training camp.<LINE>
-//I will now announce the list of 17 players selected for the<LINE>
+//I will now announce the list<LINE>
+//of 17 players selected for the<LINE>
 //European tour!<END>
 
 //!!!<END>
@@ -83,17 +89,21 @@
 
 //Nothing is easy in football...<END>
 
-//Out of the 24 players selected for the national team,<LINE>
-//only 17 remain as starters. And in the end, only 11 of<LINE>
+//Out of the 24 players selected<LINE>
+//for the national team,<LINE>
+//only 17 remain as starters.<LINE>
+//And in the end, only 11 of<LINE>
 //these 17 players will be on the field.<END>
 
 //Football is really a very tough sport.<END>
 
-//Tsubasa, I have a message from Katagiri for you. He's waiting to<LINE>
-//see you completely recovered and in good shape for the 1st Annual<LINE>
+//Tsubasa, I have a message from Katagiri for you.<LINE>
+//He's waiting to see you completely recovered<LINE>
+//and in good shape for the 1st Annual<LINE>
 //French International Jr. Youth Tournament.<END>
 
-//The All Japan Jr. Youth Team cannot do without the golden<LINE>
+//The All Japan Jr. Youth Team<LINE>
+//cannot do without the golden<LINE>
 //pair formed by Tsubasa Ozora and Taro Misaki.<END>
 
 //What! Misaki was selected?<END>

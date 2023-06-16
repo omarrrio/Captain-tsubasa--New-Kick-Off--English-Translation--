@@ -1,6 +1,7 @@
 // FILE: EP3354.str containing 6 strings
 
-//Ah! I won't let teams that play on a grass field all year win!<END>
+//Ah! I won't let teams that play on<LINE>
+//a grass field all year win!<END>
 
 //Oh! A long shot by Matsuyama!<END>
 

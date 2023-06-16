@@ -19,7 +19,8 @@
 
 //Alright!<END>
 
-//Meiwa-Higashi puts everything they've got into it and launches<LINE>
+//Meiwa-Higashi puts everything they've<LINE>
+//got into it and launches<LINE>
 //a counter-attack on their opponents!<END>
 
 //And it works!<LINE>

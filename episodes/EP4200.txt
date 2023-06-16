@@ -1,6 +1,7 @@
 // FILE: EP4200.str containing 13 strings
 
-//This is the first round of the national tournament!<LINE>
+//This is the first round of<LINE>
+//the national tournament!<LINE>
 //No matter who the opposing team is,<LINE>
 //Musashi will play the same way!<END>
 

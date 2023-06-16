@@ -43,7 +43,8 @@
 
 //Misugi...<END>
 
-//Promise me that we'll play against each other again<LINE>
+//Promise me that we'll play<LINE>
+//against each other again<LINE>
 //when my heart is healed.<END>
 
 //Yes, and on that day,<LINE>
@@ -76,7 +77,8 @@
 
 //Thank you, Tsubasa.<LINE>
 //And you, you're still a formidable opponent.<LINE>
-//You haven't changed since our elementary school matches...<END>
+//You haven't changed since<LINE>
+//our elementary school matches...<END>
 
 //Is your heart healed?<END>
 

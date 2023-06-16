@@ -67,8 +67,9 @@
 //Yes!<END>
 
 //Well, the second half of the championship match<LINE>
-//for the National Junior High School Soccer Tournament is<LINE>
-//about to begin!<END>
+//for the National Junior High<LINE>
+//School Soccer Tournament<LINE>
+//is about to begin!<END>
 
 //Will Nankatsu become<LINE>
 //the first team in history<LINE>

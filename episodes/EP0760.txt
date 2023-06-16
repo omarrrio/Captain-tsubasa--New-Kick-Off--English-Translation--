@@ -20,7 +20,8 @@
 //And he jumps over Nankatsu's defense<LINE>
 //to land unscathed!<END>
 
-//Then, in the blink of an eye, he shoots on the fly!<END>
+//Then, in the blink of an eye,<LINE>
+//he shoots on the fly!<END>
 
 //Go! A lob... Tiger shot!<END>
 

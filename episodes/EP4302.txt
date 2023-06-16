@@ -12,7 +12,8 @@
 //Musashi immediately took control of the match<LINE>
 //and claimed victory.<END>
 
-//Misugi single-handedly changed the course of the match.<LINE>
+//Misugi single-handedly changed<LINE>
+//the course of the match.<LINE>
 //Without him, we might have lost!<END>
 
 //This victory is not just thanks to me.<LINE>

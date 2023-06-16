@@ -509,7 +509,7 @@
 //In the semifinals of the nationals,<LINE>
 //Toho faces Meiwa-Higashi<LINE>
 //composed of former teammats of Hyuga,<LINE>
-//Sawa et Wakashimazu.<LINE>
+//Sawa and Wakashimazu.<LINE>
 //How Toho<LINE>
 //led by Sawada will take it<LINE>
 //against Meiwa-Higashi?<END>
@@ -551,7 +551,7 @@
 //The title is so close!<LINE>
 //Furano faces the dreadful team<LINE>
 //Toho.<LINE>
-//The destiny reunited Matsuyama et Hyuga<LINE>
+//The destiny reunited Matsuyama and Hyuga<LINE>
 //in this battle for the title!<END>
 
 //Toho dominates<LINE>
@@ -579,7 +579,7 @@
 //and will now strike Musashi!<END>
 
 //The finals will pit the two prodigies<LINE>
-//Misugi et Tsubasa!<LINE>
+//Misugi and Tsubasa!<LINE>
 //Will Misugi be able to take<LINE>
 //revenge on Tsubasa<LINE>
 //who defeated him 3 years before?<END>

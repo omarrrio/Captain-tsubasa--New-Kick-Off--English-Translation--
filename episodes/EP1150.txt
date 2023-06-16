@@ -37,7 +37,8 @@
 
 //Aah! Nothing can get past him!<LINE>
 //Wakabayashi grabbed the ball<LINE>
-//that was rolling along the ground towards the goal!<END>
+//that was rolling along<LINE>
+//the ground towards the goal!<END>
 
 //Let's go!<END>
 

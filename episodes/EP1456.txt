@@ -54,7 +54,8 @@
 //It's clear that just getting in their way<LINE>
 //isn't enough!<END>
 
-//The distance between their passes is getting closer.<END>
+//The distance between their<LINE>
+//passes is getting closer.<END>
 
 //I have to stop them!<END>
 
@@ -89,7 +90,8 @@
 //Rhaaa!<END>
 
 //One-on-one!<LINE>
-//Wakashimazu comes out of the goal without hesitation!<END>
+//Wakashimazu comes out of<LINE>
+//the goal without hesitation!<END>
 
 //Napoléon, shoot!<END>
 

@@ -37,7 +37,8 @@
 
 //I will prove myself worthy<LINE>
 //of my teammates' trust, and seal<LINE>
-//the course of the match with my mastery of the Drive Shoot!<END>
+//the course of the match with<LINE>
+//my mastery of the Drive Shoot!<END>
 
 //And at the critical moment,<LINE>
 //I will score a goal!<END>

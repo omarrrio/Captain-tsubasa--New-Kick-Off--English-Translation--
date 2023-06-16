@@ -110,7 +110,8 @@
 //the victory.<END>
 
 //Will it be Nankatsu,<LINE>
-//aiming for a historic third consecutive national title?<LINE>
+//aiming for a historic third<LINE>
+//consecutive national title?<LINE>
 //Or will the third attempt<LINE>
 //be successful for Toho,<LINE>
 //dreaming of their first victory?<END>
@@ -128,7 +129,8 @@
 //without your help.<END>
 
 //But soon I'll be alone,<LINE>
-//because after our third consecutive national title,<LINE>
+//because after our third<LINE>
+//consecutive national title,<LINE>
 //I'll leave for Brazil.<END>
 
 //Thanks, friends. Thanks for everything.<END>

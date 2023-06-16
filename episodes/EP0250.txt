@@ -1,6 +1,6 @@
 // FILE: EP0250.str containing 9 strings
 
-//Nitta a le ballon!<END>
+//Nitta has the ball!<END>
 
 //Otomo will be able to test its strategy!<END>
 

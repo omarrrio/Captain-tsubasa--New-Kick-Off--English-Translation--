@@ -12,7 +12,7 @@
 //Continue?<END>
 
 //when it is involving<LINE>
-//heads, i am unbeatable!<END>
+//heads, I am unbeatable!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>

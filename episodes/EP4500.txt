@@ -1,7 +1,8 @@
 // FILE: EP4500.str containing 17 strings
 
 //Our strategy remains the same!<LINE>
-//In the first half, focus on defense. And in the second half,<LINE>
+//In the first half, focus on defense.<LINE>
+//And in the second half,<LINE>
 //attack relying on Misugi!<END>
 
 //OK!<END>

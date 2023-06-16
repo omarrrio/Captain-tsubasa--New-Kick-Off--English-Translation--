@@ -22,7 +22,8 @@
 //What?<END>
 
 //Sano decided to make a pass!<LINE>
-//He's having fun with the champions of Nankatsu!<END>
+//He's having fun with the<LINE>
+//champions of Nankatsu!<END>
 
 //But Jito is not as free<LINE>
 //in his movements. He's marked by Oda.<END>
@@ -43,8 +44,8 @@
 //!!<END>
 
 //He... He got it!<LINE>
-//Morisaki placed himself right in front of the ball<LINE>
-//to stop it!<END>
+//Morisaki placed himself right in<LINE>
+//front of the ball to stop it!<END>
 
 //Well done, Morisaki!<END>
 

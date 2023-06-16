@@ -16,7 +16,8 @@
 //he certainly doesn't intend<LINE>
 //to play Hyuga tomorrow.<END>
 
-//What will we do if Hyuga is stuck on the bench again?<END>
+//What will we do if Hyuga<LINE>
+//is stuck on the bench again?<END>
 
 //I have to trust the team.<LINE>
 //But I'm definitely playing tomorrow!<END>

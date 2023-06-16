@@ -61,7 +61,8 @@
 //Wait a second...<END>
 
 //Oh, don't worry.<LINE>
-//Your handkerchief is going to be stained with blood.<END>
+//Your handkerchief is going<LINE>
+//to be stained with blood.<END>
 
 //No, you're not bleeding much...<END>
 

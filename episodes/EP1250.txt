@@ -7,7 +7,8 @@
 //We've got our chance, guys.<LINE>
 //I can score directly from here!<END>
 
-//Really? You mean you can make your Drive Shot from here?<LINE>
+//Really? You mean you can make<LINE>
+//your Drive Shot from here?<LINE>
 //Is that what you're thinking?<END>
 
 //But they must be prepared<LINE>
@@ -54,7 +55,8 @@
 //I'm going to score!<END>
 
 //Matsuyama unleashes his Eagle Shot!<LINE>
-//The ball skims across the ground towards the goal!<END>
+//The ball skims across<LINE>
+//the ground towards the goal!<END>
 
 //This can't be!<END>
 

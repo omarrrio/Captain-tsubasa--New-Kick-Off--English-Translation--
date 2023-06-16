@@ -2,7 +2,8 @@
 
 //And the referee blows the end of the match!<LINE>
 //It's Musashi who advances to the final<LINE>
-//after their semifinal match against Meiwa-Higashi!<END>
+//after their semifinal match<LINE>
+//against Meiwa-Higashi!<END>
 
 //No doubt, Musashi was much stronger<LINE>
 //after Misugi came onto the field!<END>
@@ -20,7 +21,8 @@
 //Sawaki...<END>
 
 //You defeated us, defeated Hyuga's Toho,<LINE>
-//you're the only ones capable of defeating Nankatsu!<LINE>
+//you're the only ones capable<LINE>
+//of defeating Nankatsu!<LINE>
 //Misugi, you have to stop Nankatsu<LINE>
 //from winning their third consecutive title!<END>
 

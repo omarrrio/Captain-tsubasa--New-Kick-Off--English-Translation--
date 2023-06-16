@@ -22,7 +22,8 @@
 
 // As for Hyuga, like I've already said,<LINE>
 // I don't plan on having him participate<LINE>
-// in this tournament! Sawada will be our playmaker,<LINE>
+// in this tournament!<LINE>
+//Sawada will be our playmaker,<LINE>
 // and the ball will be sent to Sorimachi,<LINE>
 // our center forward.<END>
 
@@ -38,7 +39,8 @@
 // It seems that Hyuga won't be playing<LINE>
 // during this match! We have nothing<LINE>
 // to fear from Toho's defense.<LINE>
-// You take control and give it your all in defense!<END>
+// You take control and<LINE>
+//give it your all in defense!<END>
 
 // Yeah!<END>
 

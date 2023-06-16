@@ -13,7 +13,8 @@
 //but his presence on the field is<LINE>
 //indispensable today.<END>
 
-//Musashi Junior High is following their usual strategy<LINE>
+//Musashi Junior High is<LINE>
+//following their usual strategy<LINE>
 //by keeping Misugi<LINE>
 //reserved until the second half,<LINE>
 //and playing defensively during<LINE>

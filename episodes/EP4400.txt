@@ -41,13 +41,16 @@
 //by eliminating Toho Gakuen,<LINE>
 //the champions of their region.<END>
 
-//It turns out that some players from Toho Gakuen - Hyuga, Sawada, and<LINE>
+//It turns out that some players from<LINE>
+//Toho Gakuen - Hyuga, Sawada, and<LINE>
 //Wakashimazu - once played<LINE>
 //with players from Meiwa-Higashi<LINE>
 //in Meiwa FC.<END>
 
-//Is this a chance for these Meiwa-Higashi players<LINE>
-//to avenge the defeat of Hyuga and their former teammates?<END>
+//Is this a chance for these<LINE>
+//Meiwa-Higashi players<LINE>
+//to avenge the defeat of Hyuga<LINE>
+//and their former teammates?<END>
 
 //Or will Musashi continue<LINE>
 //into the final by eliminating Meiwa-Higashi<LINE>

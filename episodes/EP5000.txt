@@ -12,7 +12,8 @@
 //We're counting on you, Shingo. You're the only<LINE>
 //one who can score a goal against Nankatsu!<END>
 
-//We'll all defend and pass the ball up front to you!<END>
+//We'll all defend and pass<LINE>
+//the ball up front to you!<END>
 
 //Yes, you can count on me!<END>
 

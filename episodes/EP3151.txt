@@ -12,7 +12,8 @@
 //Of course, the quality of their play<LINE>
 //is largely due to the fact<LINE>
 //that most of the team's players<LINE>
-//have been playing together since elementary school.<END>
+//have been playing together<LINE>
+//since elementary school.<END>
 
 //So when it comes to teamwork<LINE>
 //and team spirit,<LINE>

@@ -30,7 +30,8 @@
 //If that's what you want,<LINE>
 //I'll stand my ground!<LINE>
 //Stop me if you can!<LINE>
-//Come by the thousands, it won't make a difference!<END>
+//Come by the thousands,<LINE>
+//it won't make a difference!<END>
 
 //Try to stop my Tiger shot!<END>
 
@@ -38,7 +39,8 @@
 //The players on the opposing team are<LINE>
 //in shock!<END>
 
-//Hyuga has broken through the wall with his Tiger shot!<LINE>
+//Hyuga has broken through<LINE>
+//the wall with his Tiger shot!<LINE>
 //Morisaki, the goalkeeper, didn't have<LINE>
 //time to react!<END>
 

@@ -36,7 +36,8 @@
 //participate in the tournament, such as Brazil,<LINE>
 //considered the king of football.<END>
 
-//Our real goal is to win the international tournament.<LINE>
+//Our real goal is to win<LINE>
+//the international tournament.<LINE>
 //That's when we'll truly know<LINE>
 //who the best are.<END>
 

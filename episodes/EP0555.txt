@@ -55,7 +55,8 @@
 //diabolically powerful!<END>
 
 //And Tsubasa rushes again<LINE>
-//towards the ball that has fallen to the ground!<LINE>
+//towards the ball that has<LINE>
+//fallen to the ground!<LINE>
 //It's simply incredible!<END>
 
 //Not yet…<LINE>

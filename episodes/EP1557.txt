@@ -65,7 +65,8 @@
 
 //Your turn, Hyuga!<END>
 
-//Japan's star striker, Kojiro Hyuga, is receiving it!<END>
+//Japan's star striker,<LINE>
+//Kojiro Hyuga, is receiving it!<END>
 
 //You'll see!<END>
 

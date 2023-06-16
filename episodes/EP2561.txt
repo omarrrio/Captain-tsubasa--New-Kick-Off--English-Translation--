@@ -80,7 +80,8 @@
 //I'll block your Drive shoot<LINE>
 //with my Tiger shot!<LINE>
 //You do your Drive shoot, and I'll shoot<LINE>
-//in Nankatsu's goal from the other end of the field!<END>
+//in Nankatsu's goal from<LINE>
+//the other end of the field!<END>
 
 //Ragh! Tiger...<END>
 

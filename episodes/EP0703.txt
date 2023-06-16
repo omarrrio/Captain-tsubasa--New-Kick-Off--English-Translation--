@@ -9,7 +9,8 @@
 
 //I... I want to play in the second half.<END>
 
-//But I won't be able to play to the best of my abilities.<END>
+//But I won't be able to play<LINE>
+//to the best of my abilities.<END>
 
 //You can replace me if you want.<LINE>
 //I don't want to be a burden to you.<LINE>

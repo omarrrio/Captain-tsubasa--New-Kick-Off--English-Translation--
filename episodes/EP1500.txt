@@ -14,7 +14,8 @@
 //Wakabayashi...<END>
 
 //I've been collecting this information<LINE>
-//for a while now, and I finally put it all together yesterday.<END>
+//for a while now, and I finally<LINE>
+//put it all together yesterday.<END>
 
 //I've already played with Schneider and Kaltz,<LINE>
 //and against Schester and Margas. Everything<LINE>

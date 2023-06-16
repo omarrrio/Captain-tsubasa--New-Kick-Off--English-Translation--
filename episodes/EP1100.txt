@@ -45,7 +45,8 @@
 //Yes!<END>
 
 //For defense, don't let Schneider<LINE>
-//out of your sight for a second. Keep an eye on him<LINE>
+//out of your sight for a second.<LINE>
+//Keep an eye on him<LINE>
 //no matter what. You'll need to mark him<LINE>
 //as a priority.<END>
 

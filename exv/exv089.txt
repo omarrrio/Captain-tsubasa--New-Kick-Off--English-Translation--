@@ -1,6 +1,6 @@
 // FILE: exv089.str containing 2 strings
 
-//Alright, i will stop you!<END>
+//Alright, I will stop you!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>

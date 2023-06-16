@@ -13,7 +13,8 @@
 //It's like in the national championship<LINE>
 //when we were in elementary school!<END>
 
-//Even a tenth of a second before the final whistle,<LINE>
+//Even a tenth of a second<LINE>
+//before the final whistle,<LINE>
 //Tsubasa never gives up!<LINE>
 //He's cooking up something!<END>
 
@@ -67,7 +68,8 @@
 //Will he shoot from far away?<END>
 
 //Take that, Nankatsu!<LINE>
-//We'll show you what Furano's tenacity is all about!<END>
+//We'll show you what Furano's<LINE>
+//tenacity is all about!<END>
 
 //Ah! Morisaki didn't react fast enough!<END>
 

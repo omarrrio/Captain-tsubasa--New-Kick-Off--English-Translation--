@@ -28,7 +28,8 @@
 //I, Ken Wakashimazu, will stop<LINE>
 //the Drive shoot!<END>
 
-//Wakashimazu does not move forward. On the contrary,<LINE>
+//Wakashimazu does not move forward.<LINE>
+//On the contrary,<LINE>
 //he waits on the goal line, ready to<LINE>
 //stop the ball!<END>
 

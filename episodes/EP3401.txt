@@ -2,7 +2,8 @@
 
 //Nankatsu versus Furano...<LINE>
 //Both teams are well balanced<LINE>
-//and worthy of facing each other in the semifinals.<END>
+//and worthy of facing each<LINE>
+//other in the semifinals.<END>
 
 //It's the second half!<END>
 

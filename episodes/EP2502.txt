@@ -2,7 +2,8 @@
 
 //And the referee just blew the final whistle<LINE>
 //of the match!<LINE>
-//The winner of the junior high national soccer tournament,<LINE>
+//The winner of the junior high<LINE>
+//national soccer tournament,<LINE>
 //representing Tokyo, is Toho Gakuen!<END>
 
 //We have witnessed three years<LINE>
@@ -18,7 +19,8 @@
 
 //Captain!<END>
 
-//Hyuga's participation was uncertain, and it was thanks to Sorimachi,<LINE>
+//Hyuga's participation was uncertain,<LINE>
+//and it was thanks to Sorimachi,<LINE>
 //Sawada, and Wakashimazu that the team was able to<LINE>
 //reach the final.<END>
 
@@ -28,7 +30,8 @@
 //for a third victory.<LINE>
 //Toho Gakuen finally won the coveted title!<END>
 
-//Tsubasa! I finally managed to beat you, even though<LINE>
+//Tsubasa! I finally managed to<LINE>
+//beat you, even though<LINE>
 //I had to wait until the last moment!<END>
 
 //Hyuga.<END>
