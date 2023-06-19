@@ -35,7 +35,7 @@
 //Mode Selection.<LINE>
 //Continue?<END>
 
-//I won't simplfy<LINE>
+//I won't simplify<LINE>
 //the task!<END>
 
 //I think you're dreaming!<END>

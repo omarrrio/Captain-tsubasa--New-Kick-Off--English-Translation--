@@ -1,6 +1,7 @@
 // FILE: EP0652.str containing 18 strings
 
-//Matsuyama and Tsubasa are both running towards<LINE>
+//Matsuyama and Tsubasa are<LINE>
+//both running towards<LINE>
 //the ball!<LINE>
 //Who will reach it first?<END>
 
@@ -25,7 +26,7 @@
 //Matsuyama is open and already in position<LINE>
 //to shoot.<END>
 
-//Now... I'm going to score!<END>
+//Now...I'm going to score!<END>
 
 //I'm not as naturally talented at football<LINE>
 //as Tsubasa or Hyuga...<LINE>
@@ -36,7 +37,8 @@
 //Matsuyama puts all his power<LINE>
 //into this long shot!<END>
 
-//Matsuyama's shot stays very close to the ground!<END>
+//Matsuyama's shot stays very<LINE>
+//close to the ground!<END>
 
 //Goal! He scored!<LINE>
 //Goalkeeper Morisaki took too long<LINE>

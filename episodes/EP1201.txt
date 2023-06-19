@@ -1,6 +1,7 @@
 // FILE: EP1201.str containing 7 strings
 
-//It's about time we put our plan into action.<END>
+//It's about time we put<LINE>
+//our plan into action.<END>
 
 //Alright, Gino!<END>
 

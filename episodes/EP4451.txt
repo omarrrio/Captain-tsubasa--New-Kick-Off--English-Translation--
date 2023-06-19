@@ -15,7 +15,7 @@
 //They launch an attack in front<LINE>
 //of Meiwa-Higashi's goal!<END>
 
-//Oh... Ichinose centers!<LINE>
+//Oh...Ichinose centers!<LINE>
 //Sanada and Honma are in front of the goal!<END>
 
 //I can shoot!<END>

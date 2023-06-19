@@ -5,7 +5,7 @@
 //Hanawa fought well<LINE>
 //but their journey ends here.<END>
 
-//We... lost.<END>
+//We...lost.<END>
 
 //Both teams gave it their all in this match.<LINE>
 //The applause of the crowd<LINE>
@@ -44,12 +44,12 @@
 
 //So, you're not injured?<END>
 
-//... No.<END>
+//...No.<END>
 
 //In that case, for the third year<LINE>
 //in a row...<END>
 
-//... I'm counting on a final<LINE>
+//...I'm counting on a final<LINE>
 //Nankatsu against Touhou!<END>
 
 //On your part, make sure to arrive<LINE>

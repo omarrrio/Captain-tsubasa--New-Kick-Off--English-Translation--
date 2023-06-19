@@ -128,9 +128,9 @@
 //Great...<LINE>
 //Well, we can do it,<LINE>
 //we can win this match!<LINE>
-//One more... we're going to score another goal!<END>
+//One more...we're going to score another goal!<END>
 
-//But Misugi... You're sick...<END>
+//But Misugi...You're sick...<END>
 
 //Don't worry about me,<LINE>
 //I can still play!<LINE>

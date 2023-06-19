@@ -36,12 +36,14 @@
 //He's going to shoot in<LINE>
 //a full backward flip!<END>
 
-//Wakashimazu dives, but doesn't touch the ball!<LINE>
+//Wakashimazu dives,<LINE>
+//but doesn't touch the ball!<LINE>
 //Goooooooal!<END>
 
 //Yes!<END>
 
-//Argentina scores the first goal, and in style!<END>
+//Argentina scores the first goal,<LINE>
+//and in style!<END>
 
 //What a combination!<LINE>
 //Diaz's acrobatic play and Pascual's<LINE>

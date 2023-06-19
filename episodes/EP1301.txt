@@ -5,7 +5,8 @@
 
 //You're all part of<LINE>
 //the Argentine team!<LINE>
-//You need to have more confidence in yourselves!<LINE>
+//You need to have more confidence<LINE>
+//in yourselves!<LINE>
 //Don't just rely on Diaz!<END>
 
 //It's not their fault.<END>
@@ -15,7 +16,7 @@
 //That's why I wear<LINE>
 //the captain's armband.<END>
 
-//And besides... I don't think the number 10<LINE>
+//And besides...I don't think the number 10<LINE>
 //has shown what he's really<LINE>
 //capable of yet.<END>
 

@@ -20,7 +20,8 @@
 //Here comes the real one!<END>
 
 //Oh! Matsuyama changed direction<LINE>
-//in the middle of the tackle to make another one!<END>
+//in the middle of the tackle<LINE>
+//to make another one!<END>
 
 //Matsuyama takes the ball!<END>
 

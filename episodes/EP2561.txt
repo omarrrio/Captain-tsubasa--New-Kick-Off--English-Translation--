@@ -2,7 +2,7 @@
 
 //Drive shoot!<END>
 
-//But Hyuga... Hyuga runs furiously<LINE>
+//But Hyuga...Hyuga runs furiously<LINE>
 //and stands in Tsubasa's way!<END>
 
 //Don't even think about scoring against Toho!<LINE>
@@ -66,7 +66,7 @@
 //Tsubasa just fell to his knees.<LINE>
 //Is he unable to move?<END>
 
-//The ball... My friend came back to me.<END>
+//The ball...My friend came back to me.<END>
 
 //I'll score.<LINE>
 //I'll score!<END>
@@ -125,7 +125,7 @@
 //carried by his momentum!<END>
 
 //I have to stop him!<LINE>
-//Tsubasa... Nankatsu<LINE>
+//Tsubasa...Nankatsu<LINE>
 //must not score another goal!<END>
 
 //He stopped it!<LINE>

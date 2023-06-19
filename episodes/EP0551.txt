@@ -17,7 +17,7 @@
 
 //Watch out! Don't let him shoot!<END>
 
-//Hmm... I think I'll pass instead.<END>
+//Hmm...I think I'll pass instead.<END>
 
 //What?<END>
 
@@ -43,7 +43,7 @@
 
 //!!<END>
 
-//He... He got it!<LINE>
+//He...He got it!<LINE>
 //Morisaki placed himself right in<LINE>
 //front of the ball to stop it!<END>
 
@@ -53,7 +53,7 @@
 
 //What?<END>
 
-//Mo... Morisaki!<END>
+//Mo...Morisaki!<END>
 
 //No! It looks like the goalkeeper fell<LINE>
 //into the goal with the ball!<LINE>

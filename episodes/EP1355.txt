@@ -2,7 +2,8 @@
 
 //Hyuga is getting ready to shoot!<END>
 
-//Do you think I'll let you shoot that easily?<END>
+//Do you think I'll let you<LINE>
+//shoot that easily?<END>
 
 //Huh?<END>
 
@@ -40,7 +41,8 @@
 
 //That was a missed opportunity for a goal!<END>
 
-//Fan Diaz... it's true that you're talented...<END>
+//Fan Diaz...<LINE>
+//it's true that you're talented...<END>
 
 //But even if you blocked my shot,<LINE>
 //I'm not going to let this opportunity<LINE>

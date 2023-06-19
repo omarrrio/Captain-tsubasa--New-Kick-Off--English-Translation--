@@ -1,6 +1,7 @@
 // FILE: HELP.str containing 94 strings
 
-//with the current training.<END>
+//Start the game<LINE>
+//with the current team formation.<END>
 
 //Change the team formation<LINE>
 //and strategy.<END>

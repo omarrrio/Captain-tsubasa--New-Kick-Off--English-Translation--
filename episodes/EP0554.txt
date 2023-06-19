@@ -6,7 +6,7 @@
 
 //Tsubasa, as soon as you see the goal, shoot!<END>
 
-//OK... Roberto!<END>
+//OK...Roberto!<END>
 
 //Tsubasa has barely entered<LINE>
 //Hirado's half of the field<LINE>
@@ -19,7 +19,7 @@
 //Tsubasa put all his strength<LINE>
 //into this long-range shot!<END>
 
-//Hmm... No need to panic, goalkeeper.<LINE>
+//Hmm...No need to panic, goalkeeper.<LINE>
 //No matter how powerful his shot is...<LINE>
 //It's not going towards the goal.<END>
 
@@ -28,7 +28,7 @@
 
 //What?!<END>
 
-//It... It went in!<END>
+//It...It went in!<END>
 
 //How?!<END>
 

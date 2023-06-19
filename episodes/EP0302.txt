@@ -11,7 +11,7 @@
 //by seeing the angle between your two legs,<LINE>
 //and I warned him without thinking.<END>
 
-//I see... The angle of my legs...<END>
+//I see...The angle of my legs...<END>
 
 //I also have a lot of trouble curving<LINE>
 //the trajectory of the ball.<END>
@@ -45,6 +45,6 @@
 //Don't cry. Pull yourselves together, guys,<LINE>
 //and let's go home.<END>
 
-//Souda... Maybe he's a nice guy<LINE>
+//Souda...Maybe he's a nice guy<LINE>
 //after all...<END>
 

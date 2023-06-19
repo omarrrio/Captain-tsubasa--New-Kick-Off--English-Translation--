@@ -11,7 +11,7 @@
 
 //Now!<END>
 
-//whistle blow<END>
+//*Whistle blows*<END>
 
 //There is an offside!<LINE>
 //It's Misugi's favorite trap!<END>

@@ -1,13 +1,14 @@
 // FILE: EP1401.str containing 9 strings
 
-//H-how... how's the game going?<END>
+//H-how...how's the game going?<END>
 
-//Even with ten players, we're more or less holding<LINE>
+//Even with ten players,<LINE>
+//we're more or less holding<LINE>
 //our own for the moment.<END>
 
 //Ah...<END>
 
-//I'm sorry... It's my fault...<LINE>
+//I'm sorry...It's my fault...<LINE>
 //If I hadn't been sent off...<END>
 
 //That red card wasn't fair,<LINE>

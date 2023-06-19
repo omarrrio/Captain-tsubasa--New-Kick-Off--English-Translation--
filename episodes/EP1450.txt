@@ -12,9 +12,10 @@
 //Tsubasa rushes towards the goal<LINE>
 //and expects a shot!<END>
 
-//The best advice Roberto ever gave me<LINE>
-//when I was a forward in primary school,<LINE>
-//was to be a midfielder who can build the play.<END>
+//The best advice Roberto<LINE>
+//ever gave me when I was a forward<LINE>
+//in primary school, was to be a<LINE>
+//midfielder who can build the play.<END>
 
 //Will Tsubasa reach the ball<LINE>
 //before the French defenders?<LINE>
@@ -30,7 +31,8 @@
 
 //And that's the kind of player<LINE>
 //I want to become!<LINE>
-//I have to earn the right to wear the number 10!<END>
+//I have to earn the right to<LINE>
+//wear the number 10!<END>
 
 //Tsubasa volleys the ball!<END>
 

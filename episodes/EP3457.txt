@@ -42,7 +42,7 @@
 //You're not the type to give up!<LINE>
 //Are you ready for the final battle?<END>
 
-//Damn... This Matsuyama!<LINE>
+//Damn...This Matsuyama!<LINE>
 //He reads every one of our movements!<LINE>
 //But I won't give up! Never!<END>
 

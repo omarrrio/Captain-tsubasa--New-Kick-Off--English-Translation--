@@ -15,7 +15,8 @@
 
 //OK!<END>
 
-//Despite this, Tsubasa heads towards the goal.<END>
+//Despite this, Tsubasa heads<LINE>
+//towards the goal.<END>
 
 //And goalkeeper Wakashimazu dives!<END>
 
@@ -29,13 +30,15 @@
 
 //I'm fine. It was nothing.<END>
 
-//You say that, but you're holding your shoulder...<END>
+//You say that,<LINE>
+//but you're holding your shoulder...<END>
 
 //Why do you always push yourself<LINE>
 //so hard?<END>
 
 //Yeah, it was obvious<LINE>
-//that you two were going to crash into each other.<LINE>
+//that you two were going<LINE>
+//to crash into each other.<LINE>
 //You didn't have to go<LINE>
 //challenge him in the air.<END>
 

@@ -21,7 +21,7 @@
 //At this point in the match, I have to score,<LINE>
 //as the team captain!<END>
 
-//It's all or nothing... I'm taking my chance!<LINE>
+//It's all or nothing...I'm taking my chance!<LINE>
 //This shot worked in training!<END>
 
 //Oh! Matsuyama seemed to want to dribble<LINE>

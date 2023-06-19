@@ -18,7 +18,7 @@
 
 //!<END>
 
-//The... The ball has disappeared!<LINE>
+//The...The ball has disappeared!<LINE>
 //Goal!<END>
 
 //Misugi's shot disappeared<LINE>

@@ -23,7 +23,7 @@
 //This is the second Tiger shot<LINE>
 //of the day!<END>
 
-//And... Goal!<END>
+//And...Goal!<END>
 
 //All the players near the goal<LINE>
 //didn't move an inch<LINE>

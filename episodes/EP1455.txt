@@ -29,12 +29,14 @@
 //But now he's charging at me<LINE>
 //just like before.<END>
 
-//Either he really thinks he can dribble past me,<LINE>
+//Either he really thinks<LINE>
+//he can dribble past me,<LINE>
 //or he's completely crazy.<END>
 
 //Pierre, listen to me carefully!<LINE>
 //I'm crazy, crazy about football!<LINE>
-//And this time, I'm going to dribble past you!<END>
+//And this time,<LINE>
+//I'm going to dribble past you!<END>
 
 //I'm going to win with speed!<END>
 

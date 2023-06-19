@@ -16,7 +16,7 @@
 
 //What?<END>
 
-//whistle blows<END>
+//*Whistle blows*<END>
 
 //Yellow card!<END>
 
@@ -36,9 +36,10 @@
 //No way! It wasn't intentional!<LINE>
 //This expulsion is unfair!<END>
 
-//The All Japan Team is contesting this decision,<LINE>
-//but the referee's decision is<LINE>
-//irreversible. They will have to continue<LINE>
+//The All Japan Team is contesting<LINE>
+//this decision, but the referee's<LINE>
+//decision is irreversible.<LINE>
+//They will have to continue<LINE>
 //this match with 10 players.<END>
 
 //To make matters worse, a penalty<LINE>
@@ -60,7 +61,7 @@
 
 //But, it's unfair!<END>
 
-//whistle blows<END>
+//*Whistle blows*<END>
 
 //Oh! Another yellow card!<END>
 
@@ -71,7 +72,7 @@
 //referee! But it seems to be<LINE>
 //welcomed by the French audience.<END>
 
-//Tsubasa... If you also get expelled,<LINE>
+//Tsubasa...If you also get expelled,<LINE>
 //we will have no chance.<END>
 
 //Souda retracts and leaves the field.<LINE>
@@ -92,7 +93,7 @@
 //Wakashimazu couldn't react in time<LINE>
 //and Pierre converts the penalty!<END>
 
-//... but it was unintentional!<LINE>
+//...but it was unintentional!<LINE>
 //Please reconsider your decision<LINE>
 //to expel Souda!<END>
 

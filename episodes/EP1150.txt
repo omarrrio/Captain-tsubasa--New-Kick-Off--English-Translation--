@@ -31,8 +31,9 @@
 //All right, now it's my turn to challenge<LINE>
 //the great Wakabayashi!<END>
 
-//Matsuyama shoots at the goal! It's the famous<LINE>
-//Eagle Shot that he brought straight from<LINE>
+//Matsuyama shoots at the goal!<LINE>
+//It's the famous Eagle Shot<LINE>
+//that he brought straight from<LINE>
 //the snow-covered plains of Hokkaido!<END>
 
 //Aah! Nothing can get past him!<LINE>

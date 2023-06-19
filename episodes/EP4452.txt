@@ -32,7 +32,7 @@
 //The goalkeeper is all alone!<LINE>
 //Sawaki is going to shoot!<END>
 
-//We were supposed to beat Toho... and Hyuga!<LINE>
+//We were supposed to beat Toho...and Hyuga!<LINE>
 //We can't lose<LINE>
 //to the team that beat them!<END>
 

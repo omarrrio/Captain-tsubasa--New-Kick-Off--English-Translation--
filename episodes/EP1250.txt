@@ -14,16 +14,17 @@
 //But they must be prepared<LINE>
 //for Tsubasa's Drive Shot, right?<END>
 
-//Yes. That's why... Matsuyama...<END>
+//Yes. That's why...Matsuyama...<END>
 
 //What?<END>
 
-//Ah... I see... Okay, let's do it!<END>
+//Ah...I see...Okay, let's do it!<END>
 
 //Japan gets a direct free kick<LINE>
 //in front of the Italian goal.<END>
 
-//What are they going to do? From this distance,<LINE>
+//What are they going to do?<LINE>
+//From this distance,<LINE>
 //they could shoot directly at the goal!<END>
 
 //Italy sets up its wall.<END>
@@ -50,7 +51,8 @@
 //go over the wall!<END>
 
 //Aah! It's a feint! It's not<LINE>
-//Tsubasa, but Matsuyama who's going to shoot!<END>
+//Tsubasa, but Matsuyama<LINE>
+//who's going to shoot!<END>
 
 //I'm going to score!<END>
 
@@ -60,15 +62,15 @@
 
 //This can't be!<END>
 
-//Ohhh! Stop by the Italian goalkeeper!<END>
+//Ohhh! Stopped by the Italian goalkeeper!<END>
 
 //What a reflex save! What a grip!<LINE>
 //Matsuyama's powerful Eagle Shot<LINE>
 //was stopped with one hand!<END>
 
 //Gino Hernandez once again proves<LINE>
-//with this save that he's the best goalkeeper<LINE>
-//in Europe!<END>
+//with this save that he's<LINE>
+//the best goalkeeper in Europe!<END>
 
-//*whistle blow*<END>
+//*Whistle blows*<END>
 

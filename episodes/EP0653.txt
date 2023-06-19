@@ -9,7 +9,8 @@
 //Matsuyama won't be able to stop this!<END>
 
 //But the ball is coming from a long way off!<LINE>
-//Tsubasa is going to have trouble controlling it!<END>
+//Tsubasa is going to have<LINE>
+//trouble controlling it!<END>
 
 //!!<END>
 

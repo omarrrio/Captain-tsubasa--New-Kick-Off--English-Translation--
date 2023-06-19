@@ -17,7 +17,7 @@
 
 //Don't worry, there's an interpreter.<END>
 
-//Ah, but... um...<END>
+//Ah, but...um...<END>
 
 //The captain of Japan, Tsubasa, will<LINE>
 //now give us a few words<LINE>
@@ -48,7 +48,7 @@
 
 //Japan being the best football nation<LINE>
 //in the world may be a dream...<LINE>
-//But we... we...<END>
+//But we...we...<END>
 
 //We'll do everything to make it come true!<END>
 
@@ -78,7 +78,7 @@
 
 //It's fine...<END>
 
-//Roberto, after middle school... I...<LINE>
+//Roberto, after middle school...I...<LINE>
 //I want to go to Brazil!<END>
 
 //I know. I saw your video<LINE>

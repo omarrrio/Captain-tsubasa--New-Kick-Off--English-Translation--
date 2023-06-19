@@ -1,21 +1,23 @@
 // FILE: EP1354.str containing 24 strings
 
-//Tsubasa, give us a pass in front of the goal.<END>
+//Tsubasa, give us a pass<LINE>
+//in front of the goal.<END>
 
 //It's up to you guys now.<END>
 
 //Tsubasa sends the ball high in the air<LINE>
 //in front of the Argentinean goal.<END>
 
-//Unfortunately, no one from All Japan is there<LINE>
-//to receive it!<END>
+//Unfortunately,<LINE>
+//no one from All Japan is<LINE>
+//there to receive it!<END>
 
 //Let's go, Jito!<END>
 
 //Okay!<END>
 
-//Ohhh! The Tachibana brothers use Jito's<LINE>
-//feet as a platform...<END>
+//Ohhh! The Tachibana brothers<LINE>
+//use Jito's feet as a platform...<END>
 
 //Ready!<END>
 
@@ -53,7 +55,8 @@
 
 //Great!<END>
 
-//The Skylab twin shot by the Tachibana brothers,<LINE>
+//The Skylab twin shot by<LINE>
+//the Tachibana brothers,<LINE>
 //propelled into the air by Jito, flew<LINE>
 //straight into the Argentinean goal!<END>
 

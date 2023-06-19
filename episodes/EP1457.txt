@@ -22,8 +22,10 @@
 //Wakashimazu had no chance<LINE>
 //to stop it!<END>
 
-//France has started the penalty shootout well.<LINE>
-//Who will take the next penalty kick for Japan?<END>
+//France has started the<LINE>
+//penalty shootout well.<LINE>
+//Who will take the next<LINE>
+//penalty kick for Japan?<END>
 
 //Oh! It's going to be Hyuga!<END>
 
@@ -52,7 +54,8 @@
 //France and Japan have both scored<LINE>
 //one goal each.<END>
 
-//It's now the turn of the second penalty takers.<END>
+//It's now the turn of<LINE>
+//the second penalty takers.<END>
 
 //Both Frenchman Bossis and Japan's<LINE>
 //Matsuyama score!<END>

@@ -30,7 +30,7 @@
 
 //Yes, coach.<END>
 
-//Hmm... He's right.<LINE>
+//Hmm...He's right.<LINE>
 //Football is a team sport.<END>
 
 //However, you also need<LINE>

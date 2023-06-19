@@ -27,14 +27,14 @@
 
 //...<END>
 
-//This is... impossible!<END>
+//This is...impossible!<END>
 
 //Only Tsubasa can do that...<LINE>
 //And I'm unable to face him!<END>
 
 //Hang in there, guys!<END>
 
-//The match... the match isn't over yet!<LINE>
+//The match...the match isn't over yet!<LINE>
 //We'll beat Nankatsu!<LINE>
 //And win our first championship!<END>
 

@@ -8,7 +8,8 @@
 //Oh! Schneider is heading towards the ball<LINE>
 //at an impressive speed!<END>
 
-//He's getting ready to shoot with his right foot!<LINE>
+//He's getting ready to shoot<LINE>
+//with his right foot!<LINE>
 //Here comes his Fire shot!<END>
 
 //What? But it's Hyuga's Tiger shot!<END>
@@ -26,7 +27,7 @@
 //but at least I was able<LINE>
 //to anticipate them...<END>
 
-//But this... This shot has something more.<LINE>
+//But this...This shot has something more.<LINE>
 //It gains speed<LINE>
 //as it reaches the goal.<END>
 

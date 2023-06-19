@@ -89,7 +89,7 @@
 
 //Ishizaki, are you okay?<END>
 
-//Not really... I'm dizzy<LINE>
+//Not really...I'm dizzy<LINE>
 //and my nose won't stop bleeding...<END>
 
 //You probably broke your nose...<END>
@@ -97,12 +97,12 @@
 //It might be a concussion!<LINE>
 //Lie down and don't move!<END>
 
-//Damn... It was just my turn<LINE>
+//Damn...It was just my turn<LINE>
 //to shine on the stage...<END>
 
-//Tsubasa... Tsubasa, are you here?<END>
+//Tsubasa...Tsubasa, are you here?<END>
 
-//Ishizaki... I'm here.<END>
+//Ishizaki...I'm here.<END>
 
 //I wanted to thank you. It's thanks to you<LINE>
 //that I was able to come this far.<END>
@@ -123,7 +123,7 @@
 //We all have to give our best<LINE>
 //to improve ourselves!<END>
 
-//You're right... But I don't think<LINE>
+//You're right...But I don't think<LINE>
 //I can do more than that...<END>
 
 //Ishizaki...<END>

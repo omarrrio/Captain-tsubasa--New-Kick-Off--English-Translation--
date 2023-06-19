@@ -70,7 +70,7 @@
 
 //What are you saying?<END>
 
-//Why... why can't I play?<END>
+//Why...why can't I play?<END>
 
 //Wait, Hyuga!<END>
 

@@ -1,12 +1,12 @@
 // FILE: EP4502.str containing 30 strings
 
-//Oh... The referee blew the end of the match!<LINE>
+//Oh...The referee blew the end of the match!<LINE>
 //The winner is the representative of Tokyo,<LINE>
 //Musashi Junior High!<LINE>
 //The hopes of a third consecutive title<LINE>
 //for Nankatsu have been swept away!<END>
 
-//We... We won!<LINE>
+//We...We won!<LINE>
 //We won a national title!<LINE>
 //<END>
 

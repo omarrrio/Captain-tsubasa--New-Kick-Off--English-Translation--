@@ -1521,7 +1521,7 @@
 
 //Face down Cleats<END>
 
-//Pheonix Cleats<END>
+//Phoenix Cleats<END>
 
 //Sanae's Cleats<END>
 
@@ -2070,7 +2070,7 @@
 //and usage<LINE>
 //of the "Overhead Kick" ability.<END>
 
-//Allow Pheonix style shoots.<LINE>
+//Allow Phoenix style shoots.<LINE>
 //Allow usage of<LINE>
 //the "Drive shoot" ability.<END>
 
@@ -3026,8 +3026,8 @@
 //in the air and shoot.<END>
 
 //Shot/200 SP: Twin Shoot<LINE>
-//in the air from the Tachibana brothers<LINE>
-//propelled by Jito.<END>
+//in the air from the Tachibana<LINE>
+//brothers propelled by Jito.<END>
 
 //Pass/70 SP: catch<LINE>
 //the defense off guard<LINE>

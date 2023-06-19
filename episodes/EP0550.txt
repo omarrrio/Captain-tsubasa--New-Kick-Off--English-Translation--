@@ -3,7 +3,7 @@
 //OK, it's time to reveal<LINE>
 //the true power of Hirado!<END>
 
-//Hmm... They're hiding something.<END>
+//Hmm...They're hiding something.<END>
 
 //Here we go!<END>
 
@@ -25,7 +25,7 @@
 
 //OK, I've got it.<END>
 
-//... What?<END>
+//...What?<END>
 
 //Huh? Sano jumped to the side of the goal<LINE>
 //and deflected the ball's trajectory!<END>

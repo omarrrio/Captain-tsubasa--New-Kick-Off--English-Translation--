@@ -15,7 +15,7 @@
 //It's an intense duel<LINE>
 //between the two captains!<END>
 
-//Darn it! Hyuga... as I expected...<LINE>
+//Darn it! Hyuga...as I expected...<LINE>
 //He won't let me pass easily!<END>
 
 //He's a powerful player...<LINE>

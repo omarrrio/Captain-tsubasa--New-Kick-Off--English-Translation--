@@ -15,15 +15,16 @@
 
 //Tsubasa shows us here<LINE>
 //the full extent of his technique!<LINE>
-//This will ultimately be a three-step action!<END>
+//This will ultimately be<LINE>
+//a three-step action!<END>
 
 //Go!<END>
 
 //But Hernandez is in the path<LINE>
 //of the ball!<END>
 
-//He repels the ball! Hernandez has managed<LINE>
-//to block Tsubasa's bicycle kick!<END>
+//He repels the ball! Hernandez has<LINE>
+//managed to block Tsubasa's bicycle kick!<END>
 
 //But the ball returns<LINE>
 //to Tsubasa's feet...<END>
@@ -44,7 +45,8 @@
 
 //Impossible...<END>
 
-//Wait! A player is rushing at an impressive speed<LINE>
+//Wait! A player is rushing<LINE>
+//at an impressive speed<LINE>
 //towards the deflected ball!<END>
 
 //It's the All Japan Jr. Youth No. 9,<LINE>
@@ -67,9 +69,9 @@
 
 //The suspense lasted<LINE>
 //until the final seconds of the match,<LINE>
-//but the fate of the All Japan Team was sealed<LINE>
-//by the Golden Right Foot of this impeccable<LINE>
-//goalkeeper!<END>
+//but the fate of the All Japan Team<LINE>
+//was sealed by the Golden Right Foot<LINE>
+//of this impeccable goalkeeper!<END>
 
 //Aaaah!<END>
 

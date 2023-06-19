@@ -6,12 +6,12 @@
 //Oh! Sawada rushed to stop<LINE>
 //his teammate Hyuga from shooting!<END>
 
-//That's... That's it!<LINE>
+//That's...That's it!<LINE>
 //Takeshi, your leg! Over here!<END>
 
 //Huh?<END>
 
-//Oh... What's happening?<END>
+//Oh...What's happening?<END>
 
 //Hyuga uses Sawada's leg<LINE>
 //to jump, as the latter was<LINE>
@@ -23,7 +23,7 @@
 //Then, in the blink of an eye,<LINE>
 //he shoots on the fly!<END>
 
-//Go! A lob... Tiger shot!<END>
+//Go! A lob...Tiger shot!<END>
 
 //The ball zooms straight towards the keeper!<LINE>
 //But the shot is powerful enough<LINE>

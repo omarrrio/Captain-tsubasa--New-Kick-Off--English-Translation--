@@ -28,8 +28,9 @@
 
 //And here comes Tsubasa's Bicycle kick!<END>
 
-//But Hernandez is coming back at an impressive<LINE>
-//speed! He's almost<LINE>
+//But Hernandez is coming back<LINE>
+//at an impressive speed!<LINE>
+//He's almost<LINE>
 //neck and neck with Tsubasa!<END>
 
 //I'm going to stop this shot!<END>

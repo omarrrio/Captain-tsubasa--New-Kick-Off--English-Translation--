@@ -18,7 +18,8 @@
 //to make a pass or will he attempt<LINE>
 //a long-range shot?<END>
 
-//Matsuyama is getting into position to shoot!<END>
+//Matsuyama is getting into<LINE>
+//position to shoot!<END>
 
 //But Nankatsu is desperately trying<LINE>
 //to block him!<END>

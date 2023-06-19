@@ -20,13 +20,14 @@
 
 //Pascual is closely following Diaz!<END>
 
-//Diaz delights us with his fantastic dribbling!<END>
+//Diaz delights us with<LINE>
+//his fantastic dribbling!<END>
 
 //Ishizaki...<END>
 
 //Ah!<END>
 
-//Jito... He evades the two defenders!<END>
+//Jito...He evades the two defenders!<END>
 
 //What!<END>
 
@@ -44,12 +45,14 @@
 
 //Oh! He just got past Matsuyama!<END>
 
-//Now he's facing the goalkeeper, Wakashimazu...<LINE>
+//Now he's facing the goalkeeper,<LINE>
+//Wakashimazu...<LINE>
 //Wakashimazu rushes out of the goal!<END>
 
 //Argh!<END>
 
-//Oh my god! Diaz dribbled past Wakashimazu!<END>
+//Oh my God!<LINE>
+//Diaz dribbled past Wakashimazu!<END>
 
 //This is incredible!<LINE>
 //Diaz got past 8 players all by himself!<LINE>

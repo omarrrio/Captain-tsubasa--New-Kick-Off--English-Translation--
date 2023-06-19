@@ -50,7 +50,7 @@
 //I'll stop their attack<LINE>
 //and clear the ball!<END>
 
-//It won't work... even if I clear it,<LINE>
+//It won't work...even if I clear it,<LINE>
 //they'll keep attacking!<END>
 
 //If a player loses the ball,<LINE>

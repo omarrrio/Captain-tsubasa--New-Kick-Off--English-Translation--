@@ -12,7 +12,8 @@
 
 //He'll make a much better captain than me.<END>
 
-//Coach, please give Tsubasa the captain's armband.<END>
+//Coach, please give Tsubasa<LINE>
+//the captain's armband.<END>
 
 //Matsuyama...<END>
 

@@ -16,7 +16,7 @@
 //Let's keep it up<LINE>
 //and win the tournament!<END>
 
-//We lost... I...<END>
+//We lost...I...<END>
 
 //Diaz...<END>
 
@@ -30,9 +30,9 @@
 
 //Hey, number 10!<END>
 
-//Tell me... Tell me your name...<END>
+//Tell me...Tell me your name...<END>
 
-//Tsubasa... Tsubasa Ozora.<END>
+//Tsubasa...Tsubasa Ozora.<END>
 
 //Tsubasa...<END>
 

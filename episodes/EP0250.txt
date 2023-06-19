@@ -21,7 +21,7 @@
 //Ah! But I think Tsubasa has taken<LINE>
 //the ball!<END>
 
-//I... I've lost...<END>
+//I...I've lost...<END>
 
 //Everybody, let's push forward and attack again!<END>
 

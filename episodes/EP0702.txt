@@ -1,17 +1,18 @@
 // FILE: EP0702.str containing 38 strings
 
-//That's it. The referee just blew the whistle<LINE>
+//That's it. The referee just<LINE>
+//blew the whistle<LINE>
 //ending the second half.<END>
 
-//Neither team was able to score<LINE>
-//the winning goal<LINE>
-//during the previous sixty minutes.<LINE>
+//Neither team was able to score the<LINE>
+//winning goal during the previous<LINE>
+//sixty minutes.<LINE>
 //The final of the national tournament<LINE>
-//between Nankatsu and Toho is therefore extended<LINE>
-//by two additional ten-minute halves.<LINE>
+//between Nankatsu and Toho is therefore<LINE>
+//extended by two additional ten-minute halves.<LINE>
 //Twenty more minutes of fierce struggle...<END>
 
-//Tsu... Tsubasa!<LINE>
+//Tsu...Tsubasa!<LINE>
 //What happened?<END>
 
 //Hey, Tsubasa!<END>
@@ -19,7 +20,7 @@
 //Well, guys, we're going to have to play<LINE>
 //overtime.<END>
 
-//Tsu... Tsubasa...<LINE>
+//Tsu...Tsubasa...<LINE>
 //Are you feeling okay?<END>
 
 //Tsubasa, I'm sorry<LINE>
@@ -99,8 +100,8 @@
 //Y-yes, coach! Of course!<END>
 
 //And now, the start of extra time<LINE>
-//in the final of the National Junior High School<LINE>
-//Tournament.<END>
+//in the final of the National<LINE>
+//Junior High School Tournament.<END>
 
 //The match has been splendid, and worthy<LINE>
 //of what was expected from a match<LINE>

@@ -36,7 +36,7 @@
 
 //Hyuga.<END>
 
-//But... If you had played at your best,<LINE>
+//But...If you had played at your best,<LINE>
 //the result might have been different.<END>
 
 //No, injuries are part of the game.<END>
@@ -47,7 +47,7 @@
 //thanks to its captain.<LINE>
 //You defeated me.<END>
 
-//Tsubasa... Go play in Brazil!<END>
+//Tsubasa...Go play in Brazil!<END>
 
 //What?<END>
 
@@ -74,11 +74,11 @@
 //I'm not sure exactly what<LINE>
 //at the moment, but it will come.<END>
 
-//Hyuga. I... I'll go to Brazil<LINE>
+//Hyuga. I...I'll go to Brazil<LINE>
 //as soon as I finish middle school.<END>
 
-//Tsubasa... I guess this puts<LINE>
-//an end to our rivalry... at least<LINE>
+//Tsubasa...I guess this puts<LINE>
+//an end to our rivalry...at least<LINE>
 //for now.<END>
 
 //Yes.<END>
@@ -180,7 +180,7 @@
 //I ultimately didn't manage to beat you.<LINE>
 //We ended up with a draw.<END>
 
-//But... if you had played at your best,<LINE>
+//But...if you had played at your best,<LINE>
 //the result might have been different.<END>
 
 //It was your presence on the field, Hyuga,<LINE>
@@ -189,7 +189,7 @@
 //thanks to its captain.<LINE>
 //You defeated me.<END>
 
-//Tsubasa... I suppose this puts an end<LINE>
+//Tsubasa...I suppose this puts an end<LINE>
 //to our rivalry. At least for now.<END>
 
 //Yes.<END>

@@ -1,6 +1,6 @@
 // FILE: EP0352.str containing 13 strings
 
-//Grrr... That's the only thing that will work...<END>
+//Grrr...That's the only thing that will work...<END>
 
 //Ah! Tsubasa quickly positioned himself<LINE>
 //to shoot!<END>

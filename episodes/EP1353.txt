@@ -18,7 +18,7 @@
 //towards the goal!<LINE>
 //Did he miss the shot?<END>
 
-//No... The Drive Shot...<LINE>
+//No...The Drive Shot...<LINE>
 //Hyuga is running towards it!<END>
 
 //Your turn, Hyuga!<END>
@@ -51,8 +51,9 @@
 //college football stars!<END>
 
 //Gooooooal!<LINE>
-//This is the first time we've seen a shot<LINE>
-//that combines the Drive Shot and the Tiger Shot!<END>
+//This is the first time we've seen<LINE>
+//a shot that combines the<LINE>
+//Drive Shot and the Tiger Shot!<END>
 
 //The ball has pierced the nets!<LINE>
 //It's a goal of great importance<LINE>

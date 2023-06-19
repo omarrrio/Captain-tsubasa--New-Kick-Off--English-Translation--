@@ -53,7 +53,7 @@
 
 //Wakashimazu?<END>
 
-//Uh... No, forget it.<LINE>
+//Uh...No, forget it.<LINE>
 //Let's win this match, captain!<LINE>
 //We're going to win this match and win<LINE>
 //the championship, captain!<END>

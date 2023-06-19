@@ -2,7 +2,8 @@
 
 //After the national championship,<LINE>
 //the selected players<LINE>
-//trained in preparation for the European tour.<END>
+//trained in preparation for<LINE>
+//the European tour.<END>
 
 //Tsubasa Ozora, the captain of Nankatsu<LINE>
 //Junior High and the winner of<LINE>
@@ -22,7 +23,8 @@
 
 //I see...<END>
 
-//As I couldn't stand being away from the field<LINE>
+//As I couldn't stand being away<LINE>
+//from the field<LINE>
 //anymore, I came to watch<LINE>
 //the training as a spectator.<END>
 
@@ -31,7 +33,7 @@
 //us will just make you<LINE>
 //want to play even more?<END>
 
-//Hmm... I hadn't thought about that!<END>
+//Hmm...I hadn't thought about that!<END>
 
 //You'll never change!<END>
 
@@ -45,12 +47,13 @@
 
 //Huh?<END>
 
-//Here's the All Japan Jr. Youth Team jersey...<END>
+//Here's the All Japan<LINE>
+//Jr. Youth Team jersey...<END>
 
 //We were free to choose any number,<LINE>
 //but no one wanted number 10.<END>
 
-//But... I'm not even going to participate<LINE>
+//But...I'm not even going to participate<LINE>
 //in the training camp.<END>
 
 //Plus, Hyuga and Matsuyama usually wear<LINE>
@@ -63,10 +66,11 @@
 
 //Hyuga...<END>
 
-//Tsubasa, you're the only one who deserves to wear<LINE>
+//Tsubasa, you're the only one<LINE>
+//who deserves to wear<LINE>
 //this number.<END>
 
-//You... all of you...<END>
+//You...all of you...<END>
 
 //Ah...<END>
 
@@ -74,11 +78,14 @@
 
 //I really want to go to the European tour!<END>
 
-//Even if you don't have the opportunity to wear<LINE>
-//this jersey this time, you'll surely wear it<LINE>
+//Even if you don't have<LINE>
+//the opportunity to wear<LINE>
+//this jersey this time,<LINE>
+//you'll surely wear it<LINE>
 //next time...<END>
 
-//Today marks the end of the training camp.<LINE>
+//Today marks the end of<LINE>
+//the training camp.<LINE>
 //I will now announce the list<LINE>
 //of 17 players selected for the<LINE>
 //European tour!<END>
@@ -97,18 +104,22 @@
 
 //Football is really a very tough sport.<END>
 
-//Tsubasa, I have a message from Katagiri for you.<LINE>
-//He's waiting to see you completely recovered<LINE>
-//and in good shape for the 1st Annual<LINE>
+//Tsubasa, I have a message from Katagiri<LINE>
+//for you.<LINE>
+//He's waiting to see you completely<LINE>
+//recovered and in good<LINE>
+//shape for the 1st Annual<LINE>
 //French International Jr. Youth Tournament.<END>
 
 //The All Japan Jr. Youth Team<LINE>
 //cannot do without the golden<LINE>
-//pair formed by Tsubasa Ozora and Taro Misaki.<END>
+//pair formed by Tsubasa Ozora<LINE>
+//and Taro Misaki.<END>
 
 //What! Misaki was selected?<END>
 
 //Two days later,<LINE>
 //the All Japan Jr. Youth Team took off<LINE>
-//for Germany, the first stop on the European tour!<END>
+//for Germany, the first stop<LINE>
+//on the European tour!<END>
 

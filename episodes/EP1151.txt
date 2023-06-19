@@ -41,14 +41,15 @@
 //Argh...<END>
 
 //No feint this time, he passes<LINE>
-//right through the middle and the two defenders<LINE>
-//are struck down in his wake!<END>
+//right through the middle and<LINE>
+//the two defenders are struck<LINE>
+//down in his wake!<END>
 
 //B-but, it's Hyuga's Straight Dribble!<END>
 
-//Schneider speeds towards<LINE>
-//the opposing goal and outmaneuvers<LINE>
-//his opponents with lightning-fast dribbling!<END>
+//Schneider speeds towards the opposing<LINE>
+//goal and outmaneuvers his opponents<LINE>
+//with lightning-fast dribbling!<END>
 
 //We have to stop him!<END>
 
@@ -57,7 +58,8 @@
 //to stop him!<END>
 
 //Oh! He passes the ball back<LINE>
-//and circumvents the defensive duo on the left!<END>
+//and circumvents the defensive<LINE>
+//duo on the left!<END>
 
 //Kaltz, who was following him,<LINE>
 //is he going to shoot?<END>

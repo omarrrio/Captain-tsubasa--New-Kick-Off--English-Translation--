@@ -2,8 +2,8 @@
 
 //Diaz, I may not be as skilled<LINE>
 //as you, but with training I was able<LINE>
-//to hold my own against the best Japanese player,<LINE>
-//Tsubasa Ozora!<END>
+//to hold my own against the<LINE>
+//best Japanese player, Tsubasa Ozora!<END>
 
 //I won't let myself be beaten<LINE>
 //so easily!<END>
@@ -30,8 +30,9 @@
 //It's a pass to Hyuga<LINE>
 //who's charging straight towards the goal!<END>
 
-//If I don't score, I'll never be able<LINE>
-//to claim the title of All Japan's top scorer!<END>
+//If I don't score, I'll never<LINE>
+//be able to claim the title of<LINE>
+//All Japan's Top Scorer!<END>
 
 //Hyuga is tightly marked<LINE>
 //by two defenders!<END>

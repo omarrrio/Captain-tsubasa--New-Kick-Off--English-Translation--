@@ -83,9 +83,10 @@
 
 //Oh! But what's happening<LINE>
 //on the other side of the field?<LINE>
-//Things are heating up between Napoléon and Souda!<END>
+//Things are heating up<LINE>
+//between Napoléon and Souda!<END>
 
-//whistle blow<END>
+//*Whistle blows*<END>
 
 //Players from both teams rush<LINE>
 //to separate them.<END>

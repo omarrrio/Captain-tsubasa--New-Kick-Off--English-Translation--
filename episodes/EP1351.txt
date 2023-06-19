@@ -1,34 +1,34 @@
 // FILE: EP1351.str containing 17 strings
 
-//Is this going to be a showdown
+//Is this going to be a showdown<LINE>
 //between Tsubasa and Diaz?<END>
 
-//A midfielder knows when to
-//attack and when to pass the ball.
+//A midfielder knows when to<LINE>
+//attack and when to pass the ball.<LINE>
 //Our showdown can wait.<END>
 
 //What?!<END>
 
 //Pascual!<END>
 
-//Diaz avoided the one-on-one with Tsubasa
+//Diaz avoided the one-on-one with Tsubasa<LINE>
 //and passed to Pascual!<END>
 
-//After the pass, he immediately
+//After the pass, he immediately<LINE>
 //sprinted towards the All Japan's goal.<END>
 
-//Pascual passes back to Diaz who is now
-//facing the goal!<END>
+//Pascual passes back to Diaz<LINE>
+//who is nowfacing the goal!<END>
 
 //Go!<END>
 
 //Very well.<END>
 
 //A daring somersault by Diaz!<LINE>
-//Taking advantage of his momentum, he shoots
-//in mid-air!<END>
+//Taking advantage of his momentum,<LINE>
+//he shoots in mid-air!<END>
 
-//But Wakashimazu anticipated everything
+//But Wakashimazu anticipated everything<LINE>
 //and is on the ball's trajectory!<END>
 
 //Oh! It's a curling shot!<END>
@@ -36,16 +36,16 @@
 //No!<END>
 
 //Goooooal!<LINE>
-//Diaz put a strong spin on the ball
+//Diaz put a strong spin on the ball<LINE>
 //during his front flip!<END>
 
 //Pull yourselves together!<LINE>
-//Don't forget that
+//Don't forget that<LINE>
 //you represent Japan!<END>
 
 //Wakabayashi...<END>
 
 //It's all my fault.<LINE>
-//I'm obsessed with Roberto's presence...
+//I'm obsessed with Roberto's presence...<LINE>
 //I need to get a hold of myself...<END>
 
