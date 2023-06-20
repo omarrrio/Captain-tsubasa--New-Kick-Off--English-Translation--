@@ -14,7 +14,8 @@
 //they will be counting on that.<END>
 
 //Moreover, I can feel Nitta's challenge!<LINE>
-//and I'm eager to respond with my own performance.<END>
+//and I'm eager to respond<LINE>
+//with my own performance.<END>
 
 //Very well, let's follow Tsubasa's strategy.<LINE>
 //Any objections?<END>
@@ -27,7 +28,8 @@
 
 //The moment has finally arrived, Urabe.<END>
 
-//Everything is riding on this game, Ishizaki!<END>
+//Everything is riding on this game,<LINE>
+//Ishizaki!<END>
 
 //I know.<LINE>
 //That is why, the loser has to<LINE>
