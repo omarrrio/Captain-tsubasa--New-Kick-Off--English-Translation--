@@ -4,7 +4,8 @@
 //You will be the first ones to suffer<LINE>
 //the effects of my Drive Shot!<END>
 
-//Tsubasa, as soon as you see the goal, shoot!<END>
+//Tsubasa, as soon as<LINE>
+//you see the goal, shoot!<END>
 
 //OK...Roberto!<END>
 
@@ -23,7 +24,8 @@
 //No matter how powerful his shot is...<LINE>
 //It's not going towards the goal.<END>
 
-//The ball goes over the goalkeeper's head...<LINE>
+//The ball goes over<LINE>
+//the goalkeeper's head...<LINE>
 //It's going over the bar and...<END>
 
 //What?!<END>

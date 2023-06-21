@@ -38,7 +38,8 @@
 //And the ball is my friend.<LINE>
 //Even if I take it right in the face!<END>
 
-//Come on, there's got to be some part of my body<LINE>
+//Come on, there's got to be<LINE>
+//some part of my body<LINE>
 //that will touch it!<END>
 
 //Goalkeeper Morisaki uses his entire body<LINE>
@@ -63,7 +64,8 @@
 //to defend its goal!<LINE>
 //Hanawa didn't score!<END>
 
-//But Ishizaki is carried forward by his momentum<LINE>
+//But Ishizaki is carried<LINE>
+//forward by his momentum<LINE>
 //and hits the goalpost!<END>
 
 //Ishizaki!<END>

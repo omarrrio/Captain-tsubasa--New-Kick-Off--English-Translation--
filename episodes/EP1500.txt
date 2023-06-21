@@ -17,11 +17,13 @@
 //for a while now, and I finally<LINE>
 //put it all together yesterday.<END>
 
-//I've already played with Schneider and Kaltz,<LINE>
-//and against Schester and Margas. Everything<LINE>
-//there should be very accurate.<END>
+//I've already played with <LINE>
+//Schneider and Kaltz,<LINE>
+//and against Schester and Margas.<LINE>
+//Everything there should be very accurate.<END>
 
-//There's no need to memorize everyone's data.<LINE>
+//There's no need to memorize<LINE>
+//everyone's data.<LINE>
 //Only the data of the player you'll<LINE>
 //be marking should be enough.<END>
 

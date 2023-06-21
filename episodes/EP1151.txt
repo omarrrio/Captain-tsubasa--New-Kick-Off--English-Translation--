@@ -1,6 +1,7 @@
 // FILE: EP1151.str containing 29 strings
 
-//Don't think you're invincible, Wakabayashi!<LINE>
+//Don't think you're invincible,<LINE>
+//Wakabayashi!<LINE>
 //My Tiger shot will pierce your net!<END>
 
 //That's what we'll see, Hyuga!<END>
@@ -66,8 +67,8 @@
 
 //Schneider!<END>
 
-//No! He doesn't shoot and passes the ball back<LINE>
-//to Schneider!<END>
+//No! He doesn't shoot and passes<LINE>
+//the ball back to Schneider!<END>
 
 //Schneider takes Kaltz's pass<LINE>
 //in the air and executes a<LINE>

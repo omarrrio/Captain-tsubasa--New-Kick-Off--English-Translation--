@@ -29,8 +29,9 @@
 //Don't worry, Pascual.<LINE>
 //It's not a problem.<END>
 
-//After all, geniuses like me only come along<LINE>
-//once every ten years...<END>
+//After all,<LINE>
+//geniuses like me only come<LINE>
+//along once every ten years...<END>
 
 //As long as I'm on the field,<LINE>
 //Argentina won't lose!<LINE>

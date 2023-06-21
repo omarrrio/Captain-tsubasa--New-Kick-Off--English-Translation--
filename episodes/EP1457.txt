@@ -130,8 +130,9 @@
 //My right wrist is finished...<LINE>
 //I'm counting on you, Tsubasa!<END>
 
-//The 5th shooter for All Japan is none other<LINE>
-//than their captain, Tsubasa Ozora.<END>
+//The 5th shooter for All Japan is<LINE>
+//none other than their captain,<LINE>
+//Tsubasa Ozora.<END>
 
 //Well played, Wakashimazu.<LINE>
 //Your sacrifice won't be in vain.<LINE>

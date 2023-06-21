@@ -3,7 +3,8 @@
 //And the game restarts<LINE>
 //with a corner kick from Hanawa.<END>
 
-//Oh! This must be Nankatsu's ultimate strategy!<END>
+//Oh! This must be Nankatsu's<LINE>
+//ultimate strategy!<END>
 
 //Kisugi and Taki are already<LINE>
 //on the crossbar,<LINE>
@@ -13,7 +14,8 @@
 //What?!<END>
 
 //We can't replicate Tsubasa's move,<LINE>
-//but at least we can jump onto the crossbar first!<END>
+//but at least we can jump<LINE>
+//onto the crossbar first!<END>
 
 //That way, we'll block them<LINE>
 //even if they attempt a Skylab Hurricane!<LINE>

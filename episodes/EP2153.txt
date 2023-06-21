@@ -27,7 +27,7 @@
 //Wakashimazu hurries back<LINE>
 //and clears the ball!<END>
 
-//This should do it!<END>
+//This IS happening!<END>
 
 //And Misugi runs after the ball<LINE>
 //sent back by Wakashimazu!<END>

@@ -17,7 +17,8 @@
 //but the ball and the opposing goal!<END>
 
 //What?<LINE>
-//Sano throws himself in the path of the shot!<END>
+//Sano throws himself in<LINE>
+//the path of the shot!<END>
 
 //But Sano is ejected into the air!<END>
 

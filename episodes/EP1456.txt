@@ -116,8 +116,8 @@
 //The Eiffel Attack is unstoppable!<END>
 
 //Oh! The ball is still in play<LINE>
-//and Pierre takes it back with a magnificent<LINE>
-//airborne volley!<END>
+//and Pierre takes it back with<LINE>
+//a magnificent airborne volley!<END>
 
 //Gooooooal!<LINE>
 //The Japanese defense couldn't withstand<LINE>

@@ -6,13 +6,15 @@
 //their opponents are,<LINE>
 //the more they reveal their potential.<END>
 
-//We don't really know what they're capable of.<LINE>
+//We don't really know what<LINE>
+//they're capable of.<LINE>
 //The two players to watch out for are Jito,<LINE>
 //a defender, and Sano, a forward.<END>
 
-//It's a clash between the reigning champions<LINE>
-//Nankatsu, and Hirado, who have made it here<LINE>
-//by stringing together close 1-0 victories.<END>
+//It's a clash between the reigning<LINE>
+//champions Nankatsu, and Hirado,<LINE>
+//who have made it here by stringing<LINE>
+//together close 1-0 victories.<END>
 
 //How will Hirado hold up<LINE>
 //against the champions of Nankatsu?<LINE>

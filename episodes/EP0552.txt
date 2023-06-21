@@ -9,9 +9,10 @@
 
 //You think you can score?<END>
 
-//But Tsubasa's mid-range shot<LINE>
-//was released just a bit too early for Jito!<LINE>
-//In his momentum, Jito collides with Tsubasa!<END>
+//But Tsubasa's mid-range shot was released<LINE>
+//just a bit too early for Jito!<LINE>
+//In his momentum,<LINE>
+//Jito collides with Tsubasa!<END>
 
 //And the shot hits the post!<END>
 

@@ -13,7 +13,8 @@
 //the others' encouragement.<LINE>
 //Let them know that things have changed.<END>
 
-//I will not give up, no matter the opponent!<LINE>
+//I will not give up,<LINE>
+//no matter the opponent!<LINE>
 //I will fight until the end!<END>
 
 //That's the only way I will become<LINE>
@@ -78,7 +79,8 @@
 //Super!<END>
 
 //Three years ago, the same rain was falling<LINE>
-//in the semi-finals, and Misugi dominated me<LINE>
-//with his exceptional technique.<LINE>
+//in the semi-finals,<LINE>
+//and Misugi dominated me with his<LINE>
+//exceptional technique.<LINE>
 //I was about to give up…<END>
 

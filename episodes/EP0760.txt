@@ -25,7 +25,8 @@
 
 //Go! A lob...Tiger shot!<END>
 
-//The ball zooms straight towards the keeper!<LINE>
+//The ball zooms straight<LINE>
+//towards the keeper!<LINE>
 //But the shot is powerful enough<LINE>
 //to push Morisaki back into the goal!<END>
 

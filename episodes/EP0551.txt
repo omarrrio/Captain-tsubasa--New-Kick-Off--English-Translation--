@@ -8,8 +8,9 @@
 
 //What?<END>
 
-//Heh heh heh, do you really want to leave me<LINE>
-//all alone? It's me who has the ball,<LINE>
+//Heh heh heh, do you really <LINE>
+//want to leave me all alone?<LINE>
+//It's me who has the ball,<LINE>
 //have you forgotten?<END>
 
 //Sano is running just in front of the goal,<LINE>

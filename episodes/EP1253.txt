@@ -14,8 +14,9 @@
 
 //Tsubasa, it's your turn!<END>
 
-//Oh! Misaki passes the ball! It was probably<LINE>
-//because he felt Hernandez was too close<LINE>
+//Oh! Misaki passes the ball!<LINE>
+//It was probably because he felt<LINE>
+// Hernandez was too close<LINE>
 //to shoot, and being unbalanced,<LINE>
 //he preferred to pass the ball to Tsubasa!<END>
 

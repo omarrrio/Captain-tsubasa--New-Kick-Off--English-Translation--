@@ -11,7 +11,8 @@
 //We must fight them<LINE>
 //with all our strength!<END>
 
-//The twenty-two players take their positions<LINE>
+//The twenty-two players<LINE>
+//take their positions<LINE>
 //on the field to the cheers<LINE>
 //of the supporters!<END>
 

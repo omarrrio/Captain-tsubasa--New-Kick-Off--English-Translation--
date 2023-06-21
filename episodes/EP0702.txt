@@ -4,12 +4,12 @@
 //blew the whistle<LINE>
 //ending the second half.<END>
 
-//Neither team was able to score the<LINE>
-//winning goal during the previous<LINE>
-//sixty minutes.<LINE>
-//The final of the national tournament<LINE>
-//between Nankatsu and Toho is therefore<LINE>
-//extended by two additional ten-minute halves.<LINE>
+//Neither team was able to score the winning<LINE>
+//goal during the previous sixty minutes.<LINE>
+//The final of the national<LINE>
+//tournament between Nankatsu and <LINE>
+//Toho is therefore extended by two<LINE>
+//additional ten-minute halves.<LINE>
 //Twenty more minutes of fierce struggle...<END>
 
 //Tsu...Tsubasa!<LINE>

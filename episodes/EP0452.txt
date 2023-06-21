@@ -88,8 +88,8 @@
 
 //What?<END>
 
-//It could be serious, you might have dislocated<LINE>
-//your shoulder.<LINE>
+//It could be serious, you might<LINE>
+//have dislocated your shoulder.<LINE>
 //Go to the infirmary right away!<END>
 
 //I'm fine...<LINE>
@@ -104,7 +104,8 @@
 
 //Go to the infirmary immediately.<LINE>
 //That's an order.<LINE>
-//If you don't listen to me, I'll make you leave.<END>
+//If you don't listen to me,<LINE>
+//I'll make you leave.<END>
 
 //Okay...I understand.<END>
 

@@ -68,7 +68,8 @@
 //and now they find themselves<LINE>
 //with a decimated defense!<END>
 
-//The Italian passing game is lightning fast!<LINE>
+//The Italian passing game<LINE>
+//is lightning fast!<LINE>
 //Wakashimazu is out of his goal!<END>
 
 //Raah!<END>
