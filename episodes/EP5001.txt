@@ -18,8 +18,8 @@
 //The words of Tsubasa Ozora had moved me.<LINE>
 //He had then left for the kingdom of<LINE>
 //football, Brazil, right after middle school<LINE>
-//to pursue his dream of winning the World Cup<LINE>
-//for Japan.<END>
+//to pursue his dream of winning<LINE>
+//the World Cup for Japan.<END>
 
 //I wanted to see him at all costs<LINE>
 //before he left...<END>
@@ -51,10 +51,12 @@
 
 //What is this?<END>
 
-//Twenty-five American cents, ten French francs,<LINE>
+//Twenty-five American cents,<LINE>
+//ten French francs,<LINE>
 //and one hundred yen...But, it's...!<END>
 
-//These are the coins of the organizing countries:<LINE>
+//These are the coins of<LINE>
+//the organizing countries:<LINE>
 //the United States, France...and also<LINE>
 //Japan, which is applying to host<LINE>
 //the next World Cup.<END>
@@ -65,7 +67,8 @@
 //worldwide.<END>
 
 //It is to fulfill this colossal dream,<LINE>
-//and also to be selected for the national team...<END>
+//and also to be selected<LINE>
+//for the national team...<END>
 
 //And to become even better than Tsubasa,<LINE>
 //for whom I have the utmost respect...<END>

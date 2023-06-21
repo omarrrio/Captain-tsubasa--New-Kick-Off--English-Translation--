@@ -429,7 +429,8 @@
 
 //The tale of the encounter of<LINE>
 //Shingo Aoi, young player of<LINE>
-//an unknown school who lifts on his shoulders<LINE>
+//an unknown school who<LINE>
+//lifts on his shoulders<LINE>
 //the future of the japanese soccer,<LINE>
 //and Tsubasa Ozora.<END>
 
@@ -526,7 +527,7 @@
 //to be obtained by Furano Junior High.<LINE>
 //With a greased team play,<LINE>
 //They're aiming a place<LINE>
-//in the national tounament!<END>
+//in the national tournament!<END>
 
 //After winning<LINE>
 //thee Hokkaido Regional,<LINE>
@@ -613,7 +614,7 @@
 //DUMMY_F<END>
 
 //<LINE>
-//Led by Tsubasa OzaruNankatsu Junior High<LINE>
+//Led by Tsubasa Ozaru, Nankatsu Junior High<LINE>
 //will attempt to win it's 3rd<LINE>
 //consecutive title!<END>
 
@@ -626,7 +627,7 @@
 //Finalist for 2 consecutive years,<LINE>
 //a new Toho prepares<LINE>
 //to take revenge on Nankatsu<LINE>
-//and to win their first tounament!<END>
+//and to win their first tournament!<END>
 
 //Coming from Hokkaido, Furano Junior High,<LINE>
 //known for it's perfect team play,<LINE>

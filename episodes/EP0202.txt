@@ -4,7 +4,8 @@
 //Nankatsu Junior High is representing<LINE>
 //the Shizuoka prefecture!<END>
 
-//This is an opportunity to speak with Tsubasa,<LINE>
+//This is an opportunity<LINE>
+//to speak with Tsubasa,<LINE>
 //their captain.<END>
 
 //You will soon be participating<LINE>

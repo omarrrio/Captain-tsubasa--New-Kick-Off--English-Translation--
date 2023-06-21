@@ -14,7 +14,8 @@
 //Huh?<END>
 
 //Oh, what's happening?<LINE>
-//Masao Tachibana threw himself to the ground<LINE>
+//Masao Tachibana threw<LINE>
+//himself to the ground<LINE>
 //and slid on his back!<LINE>
 //What does it mean?<END>
 
@@ -37,8 +38,10 @@
 
 //Goal!<LINE>
 //This new airborne technique<LINE>
-//by the Tachibana brothers is incredible!<LINE>
-//They truly are the gods of acrobatic soccer!<END>
+//by the Tachibana brothers<LINE>
+//is incredible!<LINE>
+//They truly are the gods<LINE>
+//of acrobatic soccer!<END>
 
 //Ha ha ha!<LINE>
 //Did you see that, Nankatsu?<LINE>

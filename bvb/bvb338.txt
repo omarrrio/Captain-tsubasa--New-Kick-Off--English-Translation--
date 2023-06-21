@@ -1,113 +1,110 @@
-// FILE: bvb338.str containing 54 strings
-
-//Go for it!<END>
-
-//Get ready!<END>
-
-//This goal is for me!<END>
-
-//Here!<END>
+﻿// FILE: bvb338.str containing 54 strings
 
 //Let's go!<END>
 
-//Go for it!<END>
-
-//Let me pass!<END>
-
-//Get ready!<END>
-
-//Come on!<END>
-
-//I won't let it pass!<END>
-
-//Get ready!<END>
-
-//Admire the spectacle!<END>
+//Here I come!<END>
 
 //I got it!<END>
 
-//Admire the spectacle!<END>
+//Here goes!!<END>
 
-//I must have it!<END>
+//I'm going!<END>
 
-//Get ready!<END>
+//Let's go!<END>
 
-//I'm going to take it from you!<END>
+//I can do it!<END>
 
-//Ah!<END>
+//Here I come!<END>
 
-//I must stop it!<END>
+//Come at me!<END>
 
-//I got it!<END>
+//I won't let you!<END>
 
-//I'm going to stop it!<END>
+//Here I come!<END>
 
-//Yes!<END>
+//Take this!<END>
 
-//Cool!<END>
+//Here I come!<END>
 
-//What do you say about that?<END>
+//Take this!<END>
 
-//Oh...<END>
+//Take this!<END>
 
-//!!!<END>
+//Here I come!<END>
 
-//No!<END>
+//Take this!<END>
 
-//Go for it!<END>
+//Take that!<END>
 
-//That's it!<END>
+//I'll stop you!<END>
 
-//Here!<END>
+//Here I come!<END>
 
-//You must score!<END>
+//That's where you stop!<END>
 
-//I'll let you do it!<END>
+//Right on!<END>
 
-//I must get it!<END>
+//Nice!<END>
 
-//Let me pass!<END>
+//What do you think about this!<END>
 
-//Yes!<END>
+//Ah~!<END>
 
-//You won't have it!<END>
+//W-What!<END>
 
-//I won't let it pass!<END>
+//Damn it!<END>
 
-//I won't let that<LINE>
-//happen!<END>
+//Let's go!<END>
 
-//I must stop it!<END>
+//I'll finish it!<END>
 
-//I won't let that<LINE>
-//happen!<END>
+//There it is!<END>
 
-//You won't have it!<END>
+//I'm counting on you!<END>
 
-//I must stop it!<END>
+//I'm putting my hopes in this!<END>
 
-//You stop there!<END>
+//Take this!<END>
 
-//You won't go any further!<END>
+//I can do it!<END>
 
-//Ah!<END>
+//Right on!<END>
 
-//I must stop it!<END>
+//You're not taking it from me!<END>
 
-//I can't let it<LINE>
-//go any further!<END>
+//I won't let you!<END>
 
-//I must get there in time!<END>
+//Not gonna happen!<END>
 
-//Yes!<END>
+//I'll stop you!<END>
+
+//Not gonna happen!<END>
+
+//You're not taking it from me!<END>
+
+//I'll stop you!<END>
+
+//That's as far as you go!<END>
+
+//I'm not letting you go!<END>
+
+//Take that!<END>
+
+//I'll stop you!<END>
+
+//I won't let you come any closer!<END>
+
+//I can make it!<END>
+
+//Right on!<END>
 
 //I did it!<END>
 
-//Ah!<END>
+//Go!<END>
 
-//Impossible!<END>
+//No...!<END>
 
-//What!<END>
+//Huh?!<END>
 
-//What? That's impossible...<END>
+//Th-this is bad!<END>
 

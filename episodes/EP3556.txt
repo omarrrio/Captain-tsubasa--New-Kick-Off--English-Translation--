@@ -1,91 +1,91 @@
 // FILE: EP3556.str containing 26 strings
 
-// Matsuyama is now getting closer to Sawada<LINE>
-// to take the ball from him!<END>
+//Matsuyama is now getting closer to Sawada<LINE>
+//to take the ball from him!<END>
 
-// Matsuyama is hard to beat<LINE>
-// today, but that doesn't mean<LINE>
-// I should let him have the ball!<LINE>
-// I need to pass to Hyuga!<END>
+//Matsuyama is hard to beat<LINE>
+//today, but that doesn't mean<LINE>
+//I should let him have the ball!<LINE>
+//I need to pass to Hyuga!<END>
 
-// One more goal, just one more goal<LINE>
-// and we can win!<LINE>
-// I have to score!<END>
+//One more goal, just one more goal<LINE>
+//and we can win!<LINE>
+//I have to score!<END>
 
-// Sawada wants to pass the ball to Hyuga,<LINE>
-// while Matsuyama tries to keep it<LINE>
-// to attack.<END>
+//Sawada wants to pass the ball to Hyuga,<LINE>
+//while Matsuyama tries to keep it<LINE>
+//to attack.<END>
 
-// Who will win the duel<LINE>
-// between the midfielders?<END>
+//Who will win the duel<LINE>
+//between the midfielders?<END>
 
-// Watch the ball and your opponent!<LINE>
-// Remember your training<LINE>
-// in the snow,<LINE>
-// when visibility was reduced!<END>
+//Watch the ball and your opponent!<LINE>
+//Remember your training<LINE>
+//in the snow,<LINE>
+//when visibility was reduced!<END>
 
-// Hyuga!<END>
+//Hyuga!<END>
 
-// Oh! Sawada is going to make a long pass<LINE>
-// to Hyuga up front!<END>
+//Oh! Sawada is going to make a long pass<LINE>
+//to Hyuga up front!<END>
 
-// Darn!<END>
+//Darn!<END>
 
-// Matsuyama intercepted the ball!<LINE>
-// It was a beautiful pass,<LINE>
-// but Matsuyama blocked it<LINE>
-// by stretching his legs!<END>
+//Matsuyama intercepted the ball!<LINE>
+//It was a beautiful pass,<LINE>
+//but Matsuyama blocked it<LINE>
+//by stretching his legs!<END>
 
-// What?<END>
+//What?<END>
 
-// Let's go, guys!<LINE>
-// We can still get one more!<END>
+//Let's go, guys!<LINE>
+//We can still get one more!<END>
 
-// Furano rushes towards Toho!<LINE>
-// Can Toho block this attack?<END>
+//Furano rushes towards Toho!<LINE>
+//Can Toho block this attack?<END>
 
-// It's a fast pass!<LINE>
-// Block the ball!<END>
+//It's a fast pass!<LINE>
+//Block the ball!<END>
 
-// Toho's players are spreading out<LINE>
-// to block the pass!<END>
+//Toho's players are spreading out<LINE>
+//to block the pass!<END>
 
-// There it is! That's what I was waiting for!<LINE>
-// I knew you would make that choice after<LINE>
-// seeing us perform our Avalanche!<END>
+//There it is! That's what I was waiting for!<LINE>
+//I knew you would make that choice after<LINE>
+//seeing us perform our Avalanche!<END>
 
-// Matsuyama won't make a pass!<LINE>
-// He's preparing his shot!<END>
+//Matsuyama won't make a pass!<LINE>
+//He's preparing his shot!<END>
 
-// Ready, Toho?<LINE>
-// Take this!<END>
+//Ready, Toho?<LINE>
+//Take this!<END>
 
-// Matsuyama shot!<LINE>
-// It's the same shot with a ripple effect<LINE>
-// that had previously fooled Wakashimazu!<END>
+//Matsuyama shot!<LINE>
+//It's the same shot with a ripple effect<LINE>
+//that had previously fooled Wakashimazu!<END>
 
-// I won't let you score<LINE>
-// with a similar shot!<LINE>
-// I'll block it!<END>
+//I won't let you score<LINE>
+//with a similar shot!<LINE>
+//I'll block it!<END>
 
-// Wakashimazu dives to the side<LINE>
-// to stop the shot!<LINE>
-// Will he succeed?<END>
+//Wakashimazu dives to the side<LINE>
+//to stop the shot!<LINE>
+//Will he succeed?<END>
 
-// What?<END>
+//What?<END>
 
-// The ball slipped past Wakashimazu's<LINE>
-// outstretched hands!<END>
+//The ball slipped past Wakashimazu's<LINE>
+//outstretched hands!<END>
 
-// The ball actually bounced off his arm<LINE>
-// due to its ripple effect!<END>
+//The ball actually bounced off his arm<LINE>
+//due to its ripple effect!<END>
 
-// Goal!<LINE>
-// Furano leads!<LINE>
-// Matsuyama scored another goal<LINE>
-// against Wakashimazu's defense!<END>
+//Goal!<LINE>
+//Furano leads!<LINE>
+//Matsuyama scored another goal<LINE>
+//against Wakashimazu's defense!<END>
 
-// So, can you do better?<LINE>
-// We promised Tsubasa<LINE>
-// that we will win this match!<END>
+//So, can you do better?<LINE>
+//We promised Tsubasa<LINE>
+//that we will win this match!<END>
 

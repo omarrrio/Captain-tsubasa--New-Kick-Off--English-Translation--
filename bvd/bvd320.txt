@@ -1,110 +1,110 @@
-// FILE: bvd320.str containing 54 strings
+﻿// FILE: bvd320.str containing 54 strings
 
-//Go for it!<END>
+//Let's go!<END>
 
-//He's coming!<END>
+//Let's go!<END>
 
-//Arrrrgh!<END>
+//Uraah~!<END>
 
-//Hold on!<END>
+//There it is!<END>
 
-//Admire the show!<END>
+//Take this!<END>
 
-//Go for it!<END>
+//Let's go!<END>
 
-//Let me pass!<END>
+//I can do it!<END>
 
-//Admire my talent!<END>
+//Watch this!<END>
+
+//Come at me!<END>
+
+//I won't allow that!<END>
+
+//I won't let you get away anymore!<END>
+
+//Take this!<END>
+
+//Here I come!<END>
+
+//Take this!<END>
+
+//I got it!<END>
+
+//Here I come!<END>
+
+//I won't allow that!<END>
+
+//Uraah~!<END>
+
+//I'll stop you!<END>
+
+//Here I come!<END>
+
+//I'll block it!<END>
+
+//Alright!<END>
+
+//Nice!<END>
+
+//What do you think about this!<END>
+
+//What did you say!<END>
+
+//W-What!<END>
+
+//Damn it!<END>
+
+//I got it!!<END>
 
 //Come on!<END>
 
-//I think you're dreaming!<END>
+//Oooooh!<END>
 
-//I can't let anyone pass anymore!<END>
+//I'm counting on you!<END>
 
-//Admire the show!<END>
+//Take this!<END>
 
-//It's over!<END>
+//Take this!<END>
 
-//Admire the show!<END>
+//Uorya-orya!<END>
 
-//I've got it!<END>
+//Right on!<END>
 
-//It's good!<END>
+//I won't let you go!<END>
 
-//I think you're dreaming!<END>
+//I'll crush you!<END>
 
-//Arrrrgh!<END>
+//It won't go like that!<END>
 
-//I have to stop him!<END>
+//Oooooh!<END>
 
-//It's over!<END>
+//I won't allow that!<END>
 
-//I have to stop him!<END>
+//Take this!<END>
 
-//Yeeeaaah!<END>
+//I'll stop you!<END>
 
-//Cool!<END>
+//Come on!<END>
 
-//What do you say about that?<END>
+//I won't let you get away anymore!<END>
 
-//Huh, what?<END>
+//Oooooh!<END>
 
-//!!!<END>
+//I'll stop you!<END>
 
-//No!<END>
+//You won't get any closer!<END>
 
-//I've got it!<END>
+//Oooooh!<END>
 
-//Take that!<END>
-
-//Aaaarrrrgh!<END>
-
-//It's for you!<END>
-
-//Admire the show!<END>
-
-//I have to get it!<END>
-
-//Hop, hop, hop!<END>
-
-//Yes!<END>
-
-//You won't get it!<END>
-
-//I'm going to crush you!<END>
-
-//Don't think you're going to pass!<END>
-
-//Aaaarrrrgh!<END>
-
-//I think you're dreaming!<END>
-
-//I have to get it!<END>
-
-//I have to stop him!<END>
-
-//Take that!<END>
-
-//I can't let anyone pass anymore!<END>
-
-//Aaaarrrrgh!<END>
-
-//I have to stop him!<END>
-
-//Nothing will pass anymore!<END>
-
-//Aaaarrrrgh!<END>
-
-//Yeeeaaah!<END>
+//Alright!<END>
 
 //I did it!<END>
 
-//Ah!<END>
+//Go!<END>
 
-//Huh?<END>
+//Ugh...!<END>
 
-//Grrr....<END>
+//Damn it!<END>
 
-//What? That's impossible...<END>
+//Th-this is bad!<END>
 

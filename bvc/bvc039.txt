@@ -1,113 +1,110 @@
-// FILE: bvc039.str containing 54 strings
+﻿// FILE: bvc039.str containing 54 strings
 
-//Go for it!<END>
+//Let's go!<END>
 
-//He's coming!<END>
+//Let's go!<END>
 
-//Take that!<END>
+//I got it!<END>
 
-//Easy!<END>
+//Too easy!<END>
 
-//Admire the spectacle!<END>
+//Take this!<END>
 
-//Here you go!<END>
+//There it is!<END>
 
-//Let me pass!<END>
+//I can do it!<END>
 
-//Out of my way!<END>
+//Get out of my way!<END>
 
-//Bring it on!<END>
+//Come at me!<END>
+
+//I won't let you do that!<END>
+
+//You won't pass!<END>
+
+//Take this!<END>
+
+//Here I come!<END>
+
+//Take this!<END>
+
+//I got it!<END>
+
+//Let's go!<END>
+
+//Not gonna happen!<END>
+
+//I won't let you do that!<END>
 
 //I'll stop you!<END>
 
-//You won't get past me!<END>
-
-//Admire the spectacle!<END>
-
-//It's over!<END>
-
-//Admire the spectacle!<END>
-
-//I got it!<END>
-
-//He's coming!<END>
-
-//I won't let that<LINE>
-//happen!<END>
-
-//I'll prevent you from doing that!<END>
-
-//I have to stop him!<END>
-
-//It's over!<END>
-
-//I won't let him in!<END>
-
-//Yes!<END>
-
-//Cool!<END>
-
-//What do you say about that?<END>
-
-//Huh, what?<END>
-
-//!!!<END>
-
-//No!<END>
-
-//I got it!<END>
-
-//Take this!<END>
-
-//Go for it!<END>
-
-//This one's for you!<END>
-
-//Admire the spectacle!<END>
-
-//Go for it!<END>
-
-//You think you can stop me?<END>
+//Here I come!<END>
 
 //Out of my way!<END>
 
-//You won't have it!<END>
+//Right on!<END>
 
-//You won't pass!<END>
+//Nice!<END>
 
-//I won't let that<LINE>
-//happen!<END>
+//What do you think about this!<END>
 
-//Aaaargh!<END>
+//What did you say!<END>
 
-//I won't let that<LINE>
-//happen!<END>
+//W-What!<END>
 
-//I have to get it!<END>
+//Damn it!<END>
 
-//I have to stop him!<END>
+//I got it!!<END>
+
+//Come on!<END>
+
+//Let's go!<END>
+
+//I'm counting on you!<END>
 
 //Take this!<END>
 
-//You won't pass!<END>
+//Let's go!<END>
 
-//Aaaargh!<END>
+//Don't underestimate me!<END>
 
-//I have to stop him!<END>
+//Get out of my way!<END>
+
+//I won't let you go!<END>
+
+//I won't let you go!<END>
+
+//Not gonna happen!<END>
+
+//Oooooh!<END>
+
+//Not gonna happen!<END>
+
+//Take this!<END>
+
+//I'll stop you!<END>
+
+//Come on!<END>
+
+//I won't let you go!<END>
+
+//Oooooh!<END>
+
+//I'll stop you!<END>
 
 //I won't let you score!<END>
 
-//Aaaargh!<END>
+//Oooooh!<END>
 
-//Yes!<END>
+//Right on!<END>
 
 //I did it!<END>
 
-//Ah!<END>
+//Go!<END>
 
-//It's not true!<END>
+//No way!<END>
 
-//Grrr...<END>
+//Damn it!<END>
 
-//What? That's impossible...<END>
+//Th-this is bad!<END>
 

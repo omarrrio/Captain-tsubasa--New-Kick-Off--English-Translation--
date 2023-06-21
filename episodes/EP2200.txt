@@ -1,46 +1,46 @@
 // FILE: EP2200.str containing 14 strings
 
-// Huh?<END>
+//Huh?<END>
 
-// Ah, Captain!<END>
+//Ah, Captain!<END>
 
-// Hyuga!<END>
+//Hyuga!<END>
 
-// I'm back from Okinawa, coach!<END>
+//I'm back from Okinawa, coach!<END>
 
-// I don't plan on having you<LINE>
-// participate in this tournament, Hyuga!<END>
+//I don't plan on having you<LINE>
+//participate in this tournament, Hyuga!<END>
 
-// What!<END>
+//What!<END>
 
-// Coach!<END>
+//Coach!<END>
 
-// The first match of the tournament is against<LINE>
-// Matsukami Junior High. We beat them<LINE>
-// in the Tokyo qualifying match.<LINE>
-// So we have a good chance of winning today!<END>
+//The first match of the tournament is against<LINE>
+//Matsukami Junior High. We beat them<LINE>
+//in the Tokyo qualifying match.<LINE>
+//So we have a good chance of winning today!<END>
 
-// As for Hyuga, like I've already said,<LINE>
-// I don't plan on having him participate<LINE>
-// in this tournament!<LINE>
+//As for Hyuga, like I've already said,<LINE>
+//I don't plan on having him participate<LINE>
+//in this tournament!<LINE>
 //Sawada will be our playmaker,<LINE>
-// and the ball will be sent to Sorimachi,<LINE>
-// our center forward.<END>
+//and the ball will be sent to Sorimachi,<LINE>
+//our center forward.<END>
 
-// Yes, Coach.<END>
+//Yes, Coach.<END>
 
-// The coach said he won't let Hyuga play,<LINE>
-// but we can't win without him,<LINE>
-// especially not against Nankatsu!<END>
+//The coach said he won't let Hyuga play,<LINE>
+//but we can't win without him,<LINE>
+//especially not against Nankatsu!<END>
 
-// All we can do is unite our strengths<LINE>
-// and keep winning to make it to the finals!<END>
+//All we can do is unite our strengths<LINE>
+//and keep winning to make it to the finals!<END>
 
-// It seems that Hyuga won't be playing<LINE>
-// during this match! We have nothing<LINE>
-// to fear from Toho's defense.<LINE>
-// You take control and<LINE>
+//It seems that Hyuga won't be playing<LINE>
+//during this match! We have nothing<LINE>
+//to fear from Toho's defense.<LINE>
+//You take control and<LINE>
 //give it your all in defense!<END>
 
-// Yeah!<END>
+//Yeah!<END>
 

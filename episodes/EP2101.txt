@@ -1,7 +1,7 @@
 // FILE: EP2101.str containing 4 strings
 
-//The teams take possession of the field<LINE>
-//for the National Junior High School Tournament.<LINE>
+//The teams take possession of the field for the<LINE>
+//National Junior High School Tournament.<LINE>
 //The winning team will represent<LINE>
 //the Tokyo area!<END>
 
@@ -20,7 +20,7 @@
 //and playing defensively during<LINE>
 //the first half.<END>
 
-//Both teams are ready<LINE>
-//to give it their all to obtain the privilege<LINE>
+//Both teams are ready to give it<LINE>
+//their all to obtain the privilege<LINE>
 //of representing Tokyo.<END>
 

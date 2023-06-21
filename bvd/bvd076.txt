@@ -1,111 +1,110 @@
-// FILE: bvd076.str containing 54 strings
+﻿// FILE: bvd076.str containing 54 strings
 
-//Go for it!<END>
+//Let's go!<END>
 
-//He's coming!<END>
+//Let's go!<END>
 
-//Aaaargh!<END>
+//Uraah!<END>
 
-//Arrrrrgh!<END>
+//That's right!<END>
 
-//Yes, go for it!<END>
+//Alright, let's do this!<END>
+
+//Let's go!<END>
+
+//Get out of the way!<END>
+
+//I'll blow you away!<END>
+
+//Come at me!<END>
+
+//I won't let you!<END>
+
+//You won't pass!<END>
+
+//Take this!<END>
+
+//Here I come!<END>
+
+//Take this!<END>
+
+//I got it!<END>
+
+//Here I come!<END>
+
+//It won't go like that!<END>
+
+//Uraah!<END>
+
+//I'll stop you!<END>
+
+//Here I come!<END>
+
+//I'll block it!<END>
+
+//Alright!<END>
+
+//Nice!<END>
+
+//What do you think about this!<END>
+
+//What did you say!<END>
+
+//W-What!<END>
+
+//Damn it!<END>
+
+//Shoot!<END>
 
 //Come on!<END>
 
-//Move!<END>
+//Oooooh!<END>
 
-//I'm going to get<LINE>
-//you out of the way!<END>
+//I'm counting on you!<END>
 
-//Bring it on!<END>
+//Take this!<END>
 
-//In your dreams!<END>
+//Take this!<END>
 
-//You won't get past me!<END>
+//Move, move!<END>
 
-//Admire the spectacle!<END>
+//Right on!<END>
 
-//It's over!<END>
+//It's futile!<END>
 
-//Admire the spectacle!<END>
+//I'll stop it!<END>
 
-//I've got it!<END>
+//It won't go like that!<END>
 
-//It's good!<END>
+//Oooooh!<END>
 
-//Oh no, you're dreaming there!<END>
+//It won't go like that!<END>
 
-//Aaaargh!<END>
+//Take this!<END>
 
-//I have to stop him!<END>
+//I'll stop it!<END>
 
-//It's over!<END>
+//Come on!<END>
 
-//I have to stop him!<END>
+//It's futile<END>
 
-//Yeeeaaah!<END>
+//Oooooh!<END>
 
-//Cool!<END>
+//I'll stop it!<END>
 
-//What do you say about that?<END>
+//It's futile!<END>
 
-//Huh, what?<END>
+//Oooooh!<END>
 
-//!!!<END>
+//Alright!<END>
 
-//No!<END>
+//I did it!<END>
 
-//Watch out in front!<END>
+//Go!<END>
 
-//Take that!<END>
+//Ugh...!<END>
 
-//Aaaarrrrgh!<END>
+//Nah...<END>
 
-//It's for you!<END>
-
-//Admire the spectacle!<END>
-
-//I have to get it!<END>
-
-//Out of my way!<END>
-
-//Yes!<END>
-
-//You're wasting my time!<END>
-
-//You won't take another step!<END>
-
-//Oh no, you're dreaming there!<END>
-
-//Aaaarrrrgh!<END>
-
-//Oh no, you're dreaming there!<END>
-
-//I have to get it!<END>
-
-//I've got it!<END>
-
-//Take that!<END>
-
-//You're wasting your time!<END>
-
-//Aaaarrrrgh!<END>
-
-//I've got it!<END>
-
-//You're wasting my time!<END>
-
-//Aaaarrrrgh!<END>
-
-//Yeeeaaah!<END>
-
-//I've scored!<END>
-
-//Ah!<END>
-
-//Huh?<END>
-
-//What?<END>
-
-//What? That's impossible...<END>
+//Th-this is bad!<END>
 

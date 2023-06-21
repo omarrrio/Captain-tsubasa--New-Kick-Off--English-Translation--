@@ -1,113 +1,110 @@
-// FILE: bvd340.str containing 54 strings
+﻿// FILE: bvd340.str containing 54 strings
 
-//Go for it!<END>
+//Let's go!<END>
 
-//He's coming!<END>
+//Let's go!<END>
 
-//Arrrrgh!<END>
+//Uraah~!<END>
 
-//Hold on!<END>
+//There it is!<END>
 
-//Catch this!<END>
+//Let's go!<END>
 
-//Go for it!<END>
+//Let's go!<END>
 
-//Let me pass!<END>
+//I can do it!<END>
 
-//Admire my talent!<END>
+//Watch this!<END>
 
-//Come on!<END>
+//Come at me!<END>
 
-//In your dreams!<END>
-
-//You won't get past me!<END>
-
-//Admire the show!<END>
-
-//It's over!<END>
-
-//Admire the show!<END>
-
-//I've got it!<END>
-
-//It's good!<END>
-
-//Don't think you're going to<LINE>
-//pass!<END>
-
-//Arrrrgh!<END>
-
-//I've got it!<END>
-
-//Come on!<END>
-
-//I won't let you pass!<END>
-
-//Yeeeaaah!<END>
-
-//Cool!<END>
-
-//What do you say about that?<END>
-
-//Huh, what?<END>
-
-//!!!<END>
-
-//No!<END>
-
-//I've got it!<END>
-
-//Take that!<END>
-
-//Aaaarrrrgh!<END>
-
-//It's for you!<END>
-
-//Catch this!<END>
-
-//I have to get it!<END>
-
-//Let me pass!<END>
-
-//Yes!<END>
-
-//You won't get it!<END>
-
-//In your dreams!<END>
-
-//Don't think you're going to<LINE>
-//pass!<END>
-
-//Aaaarrrrgh!<END>
-
-//Don't think you're going to<LINE>
-//pass!<END>
-
-//I have to get it!<END>
-
-//I have to stop him!<END>
-
-//Take that!<END>
+//I won't let you!<END>
 
 //You won't pass!<END>
 
-//Aaaarrrrgh!<END>
+//Take this!<END>
 
-//Oooargh!<END>
+//Here I come!<END>
 
-//He won't pass!<END>
+//Take this!<END>
 
-//Aaaarrrrgh!<END>
+//I got it!<END>
 
-//Yeeeaaah!<END>
+//Here I come!<END>
+
+//It won't go like that!<END>
+
+//Uraah~!<END>
+
+//I can take it!<END>
+
+//Bring it on!<END>
+
+//I'll stop it!<END>
+
+//Alright!<END>
+
+//Nice!<END>
+
+//What do you think about this!<END>
+
+//What did you say!<END>
+
+//W-What!<END>
+
+//Damn it!<END>
+
+//I got it!!<END>
+
+//Come on!<END>
+
+//Oooooh!<END>
+
+//I'm counting on you!<END>
+
+//Let's go!<END>
+
+//Take this!<END>
+
+//I can do it!<END>
+
+//Right on!<END>
+
+//I won't let you go!<END>
+
+//I won't let you!<END>
+
+//It won't go like that!<END>
+
+//Oooooh!<END>
+
+//It won't go like that!<END>
+
+//Take this!<END>
+
+//I'll stop you!<END>
+
+//Come on!<END>
+
+//I won't let you go!<END>
+
+//Oooooh!<END>
+
+//Haa!!<END>
+
+//You won't get away!<END>
+
+//Oooooh!<END>
+
+//Alright!<END>
 
 //I did it!<END>
 
-//Ah!<END>
+//Go!<END>
 
-//Huh?<END>
+//Ugh...!<END>
 
-//Grrr....<END>
+//Damn it!<END>
 
-//!!!<END>
+//W-What?!<END>
 

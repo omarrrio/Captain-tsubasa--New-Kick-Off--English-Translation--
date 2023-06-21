@@ -1,8 +1,9 @@
 // FILE: EP0400.str containing 13 strings
 
 //As you know, you'll have to be wary<LINE>
-//of the Tachibana brothers' aerial techniques<LINE>
-//from Hanawa. And with Ishizaki in the center,<LINE>
+//of the Tachibana brothers'<LINE>
+//aerial techniques from Hanawa.<LINE>
+//And with Ishizaki in the center,<LINE>
 //defense will be key.<END>
 
 //Understood.<END>

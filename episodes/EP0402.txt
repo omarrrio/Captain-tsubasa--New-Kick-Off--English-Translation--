@@ -7,7 +7,8 @@
 
 //We...lost.<END>
 
-//Both teams gave it their all in this match.<LINE>
+//Both teams gave it their<LINE>
+//all in this match.<LINE>
 //The applause of the crowd<LINE>
 //echoes in the stadium!<END>
 

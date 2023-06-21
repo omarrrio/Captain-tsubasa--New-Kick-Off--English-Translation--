@@ -1,110 +1,110 @@
-// FILE: bvd005.str containing 54 strings
+﻿// FILE: bvd005.str containing 54 strings
 
-//Go for it!<END>
+//Let's go!<END>
 
-//He's coming!<END>
+//Let's go!<END>
 
-//Argh!<END>
+//Of course!<END>
 
-//Argh!<END>
+//Of course!<END>
 
-//Enjoy the show!<END>
+//Take this!<END>
 
-//Go for it!<END>
+//Let's go!<END>
 
-//Let me through!<END>
+//I can do it!<END>
 
-//You're not stronger than me!<END>
+//I won't lose in terms of power!<END>
 
-//Bring it on!<END>
+//Come at me!<END>
 
-//In your dreams!<END>
-
-//You won't get past me!<END>
-
-//Enjoy the show!<END>
-
-//It's over!<END>
-
-//Enjoy the show!<END>
-
-//I got it!<END>
-
-//That's it!<END>
-
-//You'll have to go through me!<END>
-
-//Argh!<END>
-
-//I have to stop him!<END>
-
-//It's over!<END>
-
-//I have to stop him!<END>
-
-//Yes!<END>
-
-//Cool!<END>
-
-//What do you say about that?<END>
-
-//Huh, what?<END>
-
-//Grrrr!<END>
-
-//No!<END>
-
-//I got it!<END>
-
-//Take that!<END>
-
-//Aaaarrrgh!<END>
-
-//This one's for you!<END>
-
-//Enjoy the show!<END>
-
-//I have to get it!<END>
-
-//You're not stronger than me!<END>
-
-//Yes!<END>
-
-//You won't get it!<END>
-
-//In your dreams!<END>
-
-//I'm going to stop him!<END>
-
-//Aaaarrrgh!<END>
-
-//I think you're dreaming!<END>
-
-//I have to get it!<END>
-
-//I have to stop him!<END>
-
-//Take that!<END>
+//I won't let you!<END>
 
 //You won't pass!<END>
 
-//Aaaarrrgh!<END>
+//Take this!<END>
 
-//I have to stop him!<END>
+//Here I come!<END>
 
-//Nothing will get through!<END>
+//Take this!<END>
 
-//Aaaarrrgh!<END>
+//I got it!<END>
 
-//Yeah!<END>
+//Here I come!<END>
+
+//I won't allow that<END>
+
+//Of course!<END>
+
+//I'll stop you!<END>
+
+//Here I come!<END>
+
+//I'll block it!<END>
+
+//Right on!<END>
+
+//Nice!<END>
+
+//What do you think about this!<END>
+
+//What did you say!<END>
+
+//D...Damn it!<END>
+
+//Damn it!<END>
+
+//I got it!!<END>
+
+//Come on!<END>
+
+//Oooooh!<END>
+
+//I'm counting on you!<END>
+
+//Take this!<END>
+
+//Take this!<END>
+
+//I won't lose in terms of power!<END>
+
+//Right on!<END>
+
+//I won't let you go!<END>
+
+//I won't let you!<END>
+
+//I'll stop it!<END>
+
+//Oooooh!<END>
+
+//I won't allow that!<END>
+
+//Take this!<END>
+
+//I'll stop you!<END>
+
+//Come on!<END>
+
+//I won't let you go!<END>
+
+//Oooooh!<END>
+
+//I'll stop you!<END>
+
+//You won't get any closer!<END>
+
+//Oooooh!<END>
+
+//Alright!<END>
 
 //I did it!<END>
 
-//Ah!<END>
+//Go!<END>
 
-//Huh?<END>
+//Ugh...!<END>
 
-//Grrr....<END>
+//Damn it!<END>
 
-//What? That's impossible...<END>
+//Th-this is bad!<END>
 

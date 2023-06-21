@@ -55,7 +55,8 @@
 
 //What?<END>
 
-//A support message all the way from Germany.<LINE>
+//A support message all<LINE>
+//the way from Germany.<LINE>
 //He wish us good luck<LINE>
 //and hope we'll come out National Champions.<END>
 

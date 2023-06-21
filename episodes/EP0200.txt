@@ -17,7 +17,8 @@
 //and I'm eager to respond<LINE>
 //with my own performance.<END>
 
-//Very well, let's follow Tsubasa's strategy.<LINE>
+//Very well, let's follow<LINE>
+//Tsubasa's strategy.<LINE>
 //Any objections?<END>
 
 //None!<END>

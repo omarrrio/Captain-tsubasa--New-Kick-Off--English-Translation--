@@ -29,11 +29,11 @@
 
 //Ah...Okay.<END>
 
-//Only thirty minutes of<LINE>
-//sweat and tears left in the battle<LINE>
+//Only thirty minutes of sweat<LINE>
+//and tears left in the battle<LINE>
 //between Nankatsu and Otomo!<LINE>
 //Will Nankatsu be able to pass<LINE>
-//the Shizuoka tournament, the first obstacle<LINE>
-//on the road to a third consecutive<LINE>
-//national victory?<END>
+//the Shizuoka tournament,<LINE>
+//the first obstacle on the road to a<LINE>
+//third consecutive national victory?<END>
 

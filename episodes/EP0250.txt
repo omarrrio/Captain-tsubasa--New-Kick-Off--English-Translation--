@@ -23,5 +23,6 @@
 
 //I...I've lost...<END>
 
-//Everybody, let's push forward and attack again!<END>
+//Everybody, let's push forward<LINE>
+//and attack again!<END>
 

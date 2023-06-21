@@ -10,5 +10,6 @@
 
 //A new Episode has been unlocked.<END>
 
-//An adversary has been added to "Nankatsu"'s Episode.<END>
+//An adversary has been<LINE>
+//added to "Nankatsu"'s Episode.<END>
 

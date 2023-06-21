@@ -1,113 +1,110 @@
-// FILE: bva106.str containing 54 strings
-
-//Come on!<END>
-
-//Get ready!<END>
-
-//I got it!<END>
-
-//Here!<END>
-
-//Admire the show!<END>
+﻿// FILE: bva106.str containing 54 strings
 
 //Let's go!<END>
 
-//Let me pass!<END>
+//Here I come!<END>
 
-//Admire my talent!<END>
+//Yes, i got it!<END>
 
-//Come on!<END>
+//Here goes!!<END>
 
-//I won't let him in!<END>
-
-//Oh no, you're dreaming!<END>
-
-//Admire the show!<END>
-
-//It's over!<END>
-
-//Admire the show!<END>
-
-//I got it!<END>
-
-//Get ready!<END>
-
-//I won't let that<LINE>
-//happen!<END>
-
-//I got it!<END>
-
-//I must stop him!<END>
-
-//Come on!<END>
+//Take this!<END>
 
 //Let's go!<END>
 
-//Yes!<END>
+//I can do it!<END>
 
-//Cool!<END>
+//Watch this!<END>
 
-//What do you say about that?<END>
+//Come at me!<END>
 
-//Oh...<END>
+//I won't let you!<END>
 
-//!!!<END>
+//Try getting past me!<END>
 
-//No!<END>
+//Take this!<END>
+
+//Here I come!<END>
+
+//Take this!<END>
 
 //I got it!<END>
 
+//Here I come!<END>
+
+//Not gonna happen!<END>
+
+//I got it!<END>
+
+//I'll stop you!<END>
+
+//Here I come!<END>
+
+//That's where you stop!<END>
+
+//Right on!<END>
+
+//Nice!<END>
+
+//What do you think about this!<END>
+
+//Ah~!<END>
+
+//W-What!<END>
+
+//Damn it!<END>
+
+//I got it!!<END>
+
+//Come on!<END>
+
+//Oooooh!<END>
+
+//I'm counting on you!<END>
+
 //Take this!<END>
 
-//Aaaarrrrgh!<END>
+//Take this!<END>
 
-//It's for you!<END>
+//I can do it!<END>
 
-//Admire the show!<END>
+//Right on!<END>
 
-//I must have it!<END>
+//You're not taking it from me!<END>
 
-//Let me pass!<END>
+//I won't let you!<END>
 
-//Yes!<END>
+//Not gonna happen!<END>
 
-//You won't have it!<END>
+//Oooooh!<END>
 
-//I won't let him in!<END>
-
-//I won't let that<LINE>
-//happen!<END>
-
-//Aaaarrrrgh!<END>
-
-//I won't let that<LINE>
-//happen!<END>
-
-//I must have it!<END>
-
-//I must stop him!<END>
+//Not gonna happen!<END>
 
 //Take this!<END>
 
-//You won't go any further!<END>
+//I'll stop you!<END>
 
-//Aaaarrrrgh!<END>
+//Come on!<END>
 
-//I have to stop it!<END>
+//I'm not letting you go!<END>
 
-//I won't let him in!<END>
+//Oooooh!<END>
 
-//Aaaarrrrgh!<END>
+//I'll stop you!<END>
 
-//Yes!<END>
+//Out of my way!<END>
+
+//Oooooh!<END>
+
+//Right on!<END>
 
 //I did it!<END>
 
-//Ah!<END>
+//Go!<END>
 
-//Impossible!<END>
+//No...!<END>
 
-//Grrr....<END>
+//Damn it!<END>
 
-//What? That's impossible...<END>
+//Th-this is bad!<END>
 

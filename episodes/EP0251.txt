@@ -1,7 +1,8 @@
 // FILE: EP0251.str containing 17 strings
 
 //And the Otomo Quartet,<LINE>
-//in excellent condition for this tournament,<LINE>
+//in excellent condition<LINE>
+//for this tournament,<LINE>
 //is waiting for Tsubasa!<LINE>
 //They are the cornerstone<LINE>
 //of Otomo's defense!<END>

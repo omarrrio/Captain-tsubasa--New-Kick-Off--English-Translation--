@@ -8,7 +8,8 @@
 
 //Huh!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Date doesn't have time to react!<END>
 
 //Sawada escapes!<LINE>
@@ -38,36 +39,47 @@
 //and this action has allowed him<LINE>
 //to score another great goal!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Kawai doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Moriya doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Takeuchi doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Arita doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Hamaguchi doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Tanioka doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Kakimoto doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Takida doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Iino doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Kan doesn't have time to react!<END>
 
-//Looks like he's been doing this his whole life!<LINE>
+//Looks like he's been doing<LINE>
+//this his whole life!<LINE>
 //Takahashi doesn't have time to react!<END>
 

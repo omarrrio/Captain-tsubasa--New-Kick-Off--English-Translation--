@@ -10,8 +10,9 @@
 //The explosive power of my kicks<LINE>
 //is the only reason they let me play.<END>
 
-//What? Daimaru kicks the ball from the middle<LINE>
-//of the field with extraordinary force!<LINE>
+//What? Daimaru kicks the<LINE>
+//ball from the middle of the field<LINE>
+//with extraordinary force!<LINE>
 //The ball flies towards Nankatsu's goal!<END>
 
 //What?!<END>
@@ -56,8 +57,8 @@
 //The two players are in the air.<LINE>
 //Ozora rises...And it's a collision!<LINE>
 //Tsubasa has blocked the Skylab Hurricane!<LINE>
-//An incredible defensive technique<LINE>
-//against the Tachibana brothers' new technique!<END>
+//An incredible defensive technique against<LINE>
+//the Tachibana brothers' new technique!<END>
 
 //But they're in danger!<LINE>
 //The two players have lost their balance<LINE>
