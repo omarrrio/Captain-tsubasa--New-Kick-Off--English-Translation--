@@ -340,7 +340,8 @@
 //There's hardly any<LINE>
 //playing time left!<END>
 
-//These are the stoppage time minutes.<LINE>
+//These are the stoppage<LINE>
+//time minutes.<LINE>
 //Is this the last attack?<END>
 
 //The ball changes sides.<END>

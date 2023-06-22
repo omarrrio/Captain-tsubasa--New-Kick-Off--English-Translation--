@@ -8,7 +8,8 @@
 //What do you say about that?<LINE>
 //I'm not going to stop there!<LINE>
 //Try to take the lead after that!<LINE>
-//You seemed confident before the match though!<END>
+//You seemed confident<LINE>
+//before the match though!<END>
 
 //We play to win!<END>
 

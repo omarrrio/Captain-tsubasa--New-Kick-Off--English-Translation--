@@ -509,10 +509,9 @@
 
 //In the semifinals of the nationals,<LINE>
 //Toho faces Meiwa-Higashi<LINE>
-//composed of former teammats of Hyuga,<LINE>
+//composed of former teammates of Hyuga,<LINE>
 //Sawa and Wakashimazu.<LINE>
-//How Toho<LINE>
-//led by Sawada will take it<LINE>
+//How Toho led by Sawada will take it<LINE>
 //against Meiwa-Higashi?<END>
 
 //The finals will put Toho against<LINE>

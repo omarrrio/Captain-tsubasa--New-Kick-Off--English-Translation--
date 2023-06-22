@@ -24,7 +24,8 @@
 //Yeah. We're facing Toho today.<LINE>
 //All we have to do is mark Takeshi<LINE>
 //the whole time to be safe.<LINE>
-//Then, all we have to do is trick Wakashimazu.<END>
+//Then, all we have to do<LINE>
+//is trick Wakashimazu.<END>
 
 //These two are former teammates.<LINE>
 //So we have the advantage of knowing<LINE>
@@ -58,9 +59,9 @@
 //for this match.<END>
 
 //Toho has certainly managed to win<LINE>
-//so far without Hyuga, but<LINE>
-//Meiwa-Higashi knows their main opponents<LINE>
-//very well!<LINE>
-//This decisive match promises to be thrilling!<LINE>
+//so far without Hyuga, but Meiwa-Higashi<LINE>
+//knows their main opponents very well!<LINE>
+//This decisive match<LINE>
+//promises to be thrilling!<LINE>
 //Let the kickoff begin!<END>
 

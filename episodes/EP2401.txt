@@ -10,7 +10,8 @@
 
 //Sorimachi, for the second half,<LINE>
 //I want you to focus on scoring goals.<LINE>
-//You can shoot from afar as long as you shoot!<END>
+//You can shoot from afar<LINE>
+//as long as you shoot!<END>
 
 //Yes, coach.<END>
 
@@ -25,15 +26,17 @@
 //I would have already scored three goals<LINE>
 //if I were on the field.<LINE>
 //If I see the other team is about to score<LINE>
-//during the second half, I'll rush onto the field!<END>
+//during the second half,<LINE>
+//I'll rush onto the field!<END>
 
 //Alright! You did a good job<LINE>
 //in the first half!<LINE>
 //We just need to score some goals now!<END>
 
 //If we maintain our offensive tactics,<LINE>
-//we'll have a real chance of scoring at least<LINE>
-//one goal. Don't miss the opportunity!<LINE>
+//we'll have a real chance of<LINE>
+//scoring at least one goal.<LINE>
+//Don't miss the opportunity!<LINE>
 //Keep putting pressure on them<LINE>
 //during the second half!<END>
 

@@ -3,8 +3,8 @@
 //Coach, where is Hyuga?<END>
 
 //Hyuga won't come!<LINE>
-//He doesn't need to train<LINE>
-//since he won't participate in the tournament.<LINE>
+//He doesn't need to train since he<LINE>
+//won't participate in the tournament.<LINE>
 //So I told him to go home.<END>
 
 //W-why?<END>
@@ -28,8 +28,8 @@
 
 //Coach...<END>
 
-//The coach is trying to remove me from the game<LINE>
-//once again.<END>
+//The coach is trying to remove me<LINE>
+//from the game once again.<END>
 
 //I don't care as long as Toho wins.<LINE>
 //But they can't win without me<LINE>

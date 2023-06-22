@@ -1683,7 +1683,7 @@
 
 //Laser Cleats<END>
 
-//6th Sens Protects<END>
+//6th Sense Protects<END>
 
 //Assaut Shinguards<END>
 
@@ -1889,22 +1889,22 @@
 //"Mental".<END>
 
 //Strongly increase<LINE>
-//revovery of SP.<END>
+//recovery of SP.<END>
 
 //Increases "Mental"<LINE>
-//and revovery of SP,<LINE>
+//and recovery of SP,<LINE>
 //but decreases "Endurance".<END>
 
 //Increases "Endurance"<LINE>
 //and "Mental", but decreases<LINE>
-//revovery of SP.<END>
+//recovery of SP.<END>
 
 //Strongly increase<LINE>
 //"Endurance"<LINE>
-//and revovery of SP.<END>
+//and recovery of SP.<END>
 
 //Strongly increase "Mental"<LINE>
-//and revovery of SP.<END>
+//and recovery of SP.<END>
 
 //Increases "Dribble".<END>
 
@@ -1958,7 +1958,7 @@
 //max number of SP.<END>
 
 //Strongly increase<LINE>
-//revovery of SP.<END>
+//recovery of SP.<END>
 
 //Strongly increase success<LINE>
 //rate of "Shoot".<END>
@@ -1975,7 +1975,7 @@
 
 //Increases "Special move" and<LINE>
 //max SP. Decrease<LINE>
-//revovery of SP.<END>
+//recovery of SP.<END>
 
 //Increase success<LINE>
 //rate of "Dribble"<LINE>
