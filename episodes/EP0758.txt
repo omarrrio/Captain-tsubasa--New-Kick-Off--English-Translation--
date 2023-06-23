@@ -1,13 +1,13 @@
 // FILE: EP0758.str containing 37 strings
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
 //I won't let you get<LINE>
 //into Toho's goal!<LINE>
 //Tiger Shot!<END>
 
 //Hyuga is facing the ball!<LINE>
-//Will he be able to repel the Drive shoot<LINE>
+//Will he be able to repel the Drive Shoot<LINE>
 //with a Tiger Shot?<END>
 
 //It's a duel! A face-to-face!<END>
@@ -24,9 +24,9 @@
 
 //Come on! My dream depends on you!<LINE>
 //Be my victory!<LINE>
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
-//Tsubasa's Drive shoot flies<LINE>
+//Tsubasa's Drive Shoot flies<LINE>
 //into the air.<END>
 
 //I'll stop it!<LINE>
@@ -52,7 +52,7 @@
 
 //I'll score! Yes, I'll score!<END>
 
-//I'll keep using my Drive shoot<LINE>
+//I'll keep using my Drive Shoot<LINE>
 //until we break<LINE>
 //Toho's defense.<LINE>
 //Until Nankatsu's victory!<END>
@@ -67,7 +67,7 @@
 
 //Does he seriously think to take<LINE>
 //advantage of the rebound<LINE>
-//of Tsubasa's Drive shoot on the post<LINE>
+//of Tsubasa's Drive Shoot on the post<LINE>
 //to aim for Nankatsu's goal?<END>
 
 //It's... It's the final shot!<END>
@@ -76,7 +76,7 @@
 
 //It's returned again!<END>
 
-//Tsubasa returns it with a Drive shoot!<END>
+//Tsubasa returns it with a Drive Shoot!<END>
 
 //He performed a Jumping high volley kick<LINE>
 //to shoot the ball<LINE>

@@ -7,26 +7,26 @@
 //by building a wall<LINE>
 //in the path of Tsubasa.<END>
 
-//Go, Tsubasa! Shoot your Drive shoot!<LINE>
+//Go, Tsubasa! Shoot your Drive Shoot!<LINE>
 //I've figured out how to stop it!<END>
 
 //For an ordinary shot,<LINE>
 //the goalkeeper must move forward<LINE>
 //to reduce the possible shooting angle, but<LINE>
-//for the Drive shoot, it's the opposite...<END>
+//for the Drive Shoot, it's the opposite...<END>
 
-//To stop the Drive shoot,<LINE>
+//To stop the Drive Shoot,<LINE>
 //I'll stay right in front of the goal line<LINE>
 //and catch the ball<LINE>
 //at the moment of its descent.<END>
 
-//Come on, Drive shoot! Break this wall!<END>
+//Come on, Drive Shoot! Break this wall!<END>
 
 //There it is!<LINE>
-//The super shot of Tsubasa, the Drive shoot!<END>
+//The super shot of Tsubasa, the Drive Shoot!<END>
 
 //I, Ken Wakashimazu, will stop<LINE>
-//the Drive shoot!<END>
+//the Drive Shoot!<END>
 
 //Wakashimazu does not move forward.<LINE>
 //On the contrary,<LINE>
@@ -40,7 +40,7 @@
 //Wakashimazu caught the ball<LINE>
 //with one hand,<LINE>
 //right on the goal line!<LINE>
-//He... He defeated the Drive shoot!<END>
+//He... He defeated the Drive Shoot!<END>
 
 //How?<END>
 
@@ -49,7 +49,7 @@
 //Oh! Wait!<END>
 
 //We thought he had stopped<LINE>
-//Tsubasa's Drive shoot,<LINE>
+//Tsubasa's Drive Shoot,<LINE>
 //but the ball had not lost<LINE>
 //its power or speed<LINE>
 //of rotation...<END>
@@ -59,7 +59,7 @@
 //Well, it seems that the match<LINE>
 //is not yet over!<END>
 
-//My Drive shoot...<LINE>
+//My Drive Shoot...<LINE>
 //It's the first time<LINE>
 //someone has reacted fast enough<LINE>
 //to touch it.<LINE>

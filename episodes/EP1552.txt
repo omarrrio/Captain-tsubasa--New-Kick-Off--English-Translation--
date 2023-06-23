@@ -57,7 +57,7 @@
 //Both players move forward at the same time!<LINE>
 //Is it to surprise the goalkeeper?<LINE>
 //Will we see a Tiger Shot<LINE>
-//or a Drive shot?<END>
+//or a Drive Shot?<END>
 
 //That won't work on me!<LINE>
 //I'll stop any shot!<END>

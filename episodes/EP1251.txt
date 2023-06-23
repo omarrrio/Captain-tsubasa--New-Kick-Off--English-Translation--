@@ -16,17 +16,17 @@
 
 //What? What is he doing?<END>
 
-//He's inviting me to shoot a Drive shoot?<END>
+//He's inviting me to shoot a Drive Shoot?<END>
 
-//Come on! Shoot your Drive shoot!<END>
+//Come on! Shoot your Drive Shoot!<END>
 
 //All right!<END>
 
 //Let's see if you can stop<LINE>
-//my Drive shoot!<END>
+//my Drive Shoot!<END>
 
 //Tsubasa shoots!<LINE>
-//It's his famous Drive shoot!<END>
+//It's his famous Drive Shoot!<END>
 
 //Driiiiive shoot!<END>
 
@@ -52,5 +52,5 @@
 //the goal line!<END>
 
 //Hernandez has deflected Tsubasa's<LINE>
-//Drive shoot!<END>
+//Drive Shoot!<END>
 

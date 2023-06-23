@@ -67,7 +67,7 @@
 
 //What?<END>
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
 //Tsubasa managed to put spin<LINE>
 //on his shot!<END>

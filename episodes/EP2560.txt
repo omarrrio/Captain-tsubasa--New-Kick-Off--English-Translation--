@@ -40,8 +40,8 @@
 //I didn't stop my play because<LINE>
 //of Tsubasa's health condition!<END>
 
-//I just want every pass from my team to end up<LINE>
-//in their captain's real goal!<END>
+//I just want every pass from my team<LINE>
+//to end up in their captain's real goal!<END>
 
 //That's why I stopped!<END>
 

@@ -1,16 +1,16 @@
 // FILE: EP2561.str containing 45 strings
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
 //But Hyuga... Hyuga runs furiously<LINE>
 //and stands in Tsubasa's way!<END>
 
-//Don't even think about scoring against Toho!<LINE>
-//Tiger Shot!<END>
+//Don't even think about scoring<LINE>
+//against Toho! Tiger Shot!<END>
 
 //Hyuga is in front of me...<LINE>
 //Will he arrive in time to block<LINE>
-//the Drive shoot with a Tiger Shot?<END>
+//the Drive Shoot with a Tiger Shot?<END>
 
 //It's a duel!<LINE>
 //A true battle!<END>
@@ -27,7 +27,7 @@
 
 //This is it!<LINE>
 //I'm touching my dream with my fingertips!<LINE>
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
 //Argh!<END>
 
@@ -52,7 +52,7 @@
 //with the post with his right shoulder!<END>
 
 //Wow!<LINE>
-//The Drive shoot was successfully blocked,<LINE>
+//The Drive Shoot was successfully blocked,<LINE>
 //but Nankatsu comes back on the attack<LINE>
 //to get the ball!<END>
 
@@ -72,14 +72,14 @@
 //I'll score!<END>
 
 //Oh! Tsubasa gets back up,<LINE>
-//ready to do another Drive shoot!<LINE>
+//ready to do another Drive Shoot!<LINE>
 //Wakashimazu is still on the ground!<END>
 
 //No!<END>
 
-//I'll block your Drive shoot<LINE>
+//I'll block your Drive Shoot<LINE>
 //with my Tiger Shot!<LINE>
-//You do your Drive shoot, and I'll shoot<LINE>
+//You do your Drive Shoot, and I'll shoot<LINE>
 //in Nankatsu's goal from<LINE>
 //the other end of the field!<END>
 
@@ -91,7 +91,7 @@
 
 //Hyuga uses the post as a springboard<LINE>
 //to shoot, taking advantage at the same time<LINE>
-//of the power of Tsubasa's Drive shoot.<LINE>
+//of the power of Tsubasa's Drive Shoot.<LINE>
 //Does he really expect to score from that far out?<END>
 
 //What!<END>

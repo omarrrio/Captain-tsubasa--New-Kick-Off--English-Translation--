@@ -1,16 +1,16 @@
 // FILE: EP0555.str containing 31 strings
 
-//Tsubasa is going to shoot a Drive shoot!<END>
+//Tsubasa is going to shoot a Drive Shoot!<END>
 
 //Even with a leg and a shoulder injured,<LINE>
-//I will succeed in this Drive shoot!<END>
+//I will succeed in this Drive Shoot!<END>
 
 //Is that what he's going to do?<LINE>
 //Damn, if we can't counter<LINE>
-//his Drive shoot, we are no longer<LINE>
+//his Drive Shoot, we are no longer<LINE>
 //certain to win the match!<END>
 
-//Here we go, Drive shoot!<END>
+//Here we go, Drive Shoot!<END>
 
 //Despite his injuries, Tsubasa shoots!<LINE>
 //It looks like he doesn't see anything else<LINE>
@@ -24,7 +24,7 @@
 
 //Sano!<END>
 
-//Sano's body stopped Tsubasa's Drive shoot!<END>
+//Sano's body stopped Tsubasa's Drive Shoot!<END>
 
 //But Tsubasa doesn't waste any time<LINE>
 //and rushes towards the ball!<END>
@@ -39,7 +39,7 @@
 //Grrr…<LINE>
 //Sano, your defense was not in vain!<END>
 
-//And Tsubasa attempts a Drive shoot!<END>
+//And Tsubasa attempts a Drive Shoot!<END>
 
 //But Jito attempts the same defensive move<LINE>
 //as Sano, and rushes to block<LINE>
@@ -52,7 +52,7 @@
 
 //Jito's giant body was also<LINE>
 //thrown by the impact!<LINE>
-//Tsubasa's Drive shoot is really<LINE>
+//Tsubasa's Drive Shoot is really<LINE>
 //diabolically powerful!<END>
 
 //And Tsubasa rushes again<LINE>
@@ -62,8 +62,8 @@
 
 //Not yet…<LINE>
 //You haven't yet defended against<LINE>
-//my Drive shoot!<LINE>
-//Roberto's Drive shoot is invincible!<END>
+//my Drive Shoot!<LINE>
+//Roberto's Drive Shoot is invincible!<END>
 
 //He is completely focused on the goal!<LINE>
 //And on victory!<LINE>
@@ -76,7 +76,7 @@
 //the ball pass!<END>
 
 //Oh! Jito immediately gets up<LINE>
-//after taking Tsubasa's Drive shoot<LINE>
+//after taking Tsubasa's Drive Shoot<LINE>
 //in full force!<END>
 
 //Wow!<END>
@@ -85,12 +85,12 @@
 //What an extraordinary defense!<END>
 
 //And once again, he is struck<LINE>
-//by Tsubasa's Drive shoot!<END>
+//by Tsubasa's Drive Shoot!<END>
 
 //But... What is this...<LINE>
 //Goaaal!<END>
 
-//In trying to block the Drive shoot,<LINE>
+//In trying to block the Drive Shoot,<LINE>
 //Jito was pushed behind<LINE>
 //his own goal line!<END>
 
@@ -98,5 +98,5 @@
 
 //Tsubasa's determination was stronger<LINE>
 //than that of his opponents!<LINE>
-//And his Drive shoot was fabulous!<END>
+//And his Drive Shoot was fabulous!<END>
 

@@ -13,9 +13,9 @@
 //Ah! There's no player<LINE>
 //to receive Taki's pass!<END>
 
-//Very good!<END>
+//It's mine!<END>
 
-//Very good!<END>
+//Leave it to me!<END>
 
 //Oh! The two players collide<LINE>
 //in mid-air with full force!<END>

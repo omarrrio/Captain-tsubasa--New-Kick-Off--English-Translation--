@@ -48,7 +48,7 @@
 
 //What do you think about this!<END>
 
-//What did you say!<END>
+//What?<END>
 
 //D... Damn it!<END>
 

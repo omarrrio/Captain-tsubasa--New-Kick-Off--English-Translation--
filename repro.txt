@@ -20,7 +20,7 @@
 
 //Soda, the champions' slayer<END>
 
-//Imperfect Drive shoot<END>
+//Imperfect Drive Shoot<END>
 
 //Razor shoot!<END>
 
@@ -46,7 +46,7 @@
 
 //Backspin!<END>
 
-//It's done! Drive shoot!<END>
+//It's done! Drive Shoot!<END>
 
 //Tenacity impact!<END>
 
@@ -70,7 +70,7 @@
 
 //Victory: 4-4<END>
 
-//Drive shoot power<END>
+//Drive Shoot power<END>
 
 //Toho score first!<END>
 
@@ -82,7 +82,7 @@
 
 //I will annihilate Nankatsu!<END>
 
-//Miraculous Drive shoot<END>
+//Miraculous Drive Shoot<END>
 
 //A lightning! Diving head!<END>
 
@@ -106,7 +106,7 @@
 
 //Golden right arm<END>
 
-//Drive shoot stoped!<END>
+//Drive Shoot stoped!<END>
 
 //Italy counter-attack<END>
 
@@ -120,7 +120,7 @@
 
 //The round ball prodigy<END>
 
-//True Drive shoot<END>
+//True Drive Shoot<END>
 
 //Counter-attack signal!<END>
 
@@ -220,7 +220,7 @@
 
 //Victory: 4-3<END>
 
-//Drive shoot Power<END>
+//Drive Shoot Power<END>
 
 //We have to score a goal!<END>
 

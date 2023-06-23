@@ -27,7 +27,7 @@
 //Even if I have<LINE>
 //a heart attack...<END>
 
-//Drive shot!<END>
+//Drive Shot!<END>
 
 //And it's a duel!<LINE>
 //They seem to have the same power!<LINE>

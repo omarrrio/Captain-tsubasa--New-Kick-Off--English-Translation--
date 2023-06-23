@@ -11,7 +11,7 @@
 
 //What?<END>
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
 //Souda won't be able to block it<LINE>
 //with a tackle done too late!<LINE>

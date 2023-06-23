@@ -13,15 +13,14 @@
 //under the scorching sun of Okinawa.<LINE>
 //I am tougher than them.<END>
 
-//And this is the first match of the tournament<LINE>
-//that I am participating in.<END>
+//And this is the first match of the<LINE>
+//tournament that I am participating in.<END>
 
 //All the elements are in my favor!<LINE>
 //I'm going to beat you hands down<LINE>
 //during the second half, Nankatsu!<END>
 
-//You've played well so far,<LINE>
-//guys.<LINE>
+//You've played well so far, guys.<LINE>
 //But Nankatsu won't be easy to beat.<LINE>
 //Don't make the fatal mistake of giving<LINE>
 //too much freedom to Tsubasa Ozora!<LINE>
@@ -66,9 +65,9 @@
 
 //Yes!<END>
 
-//Well, the second half of the championship match<LINE>
-//for the National Junior High<LINE>
-//School Soccer Tournament<LINE>
+//Well, the second half of the <LINE>
+//championship match for the National<LINE>
+//Junior High School Soccer Tournament<LINE>
 //is about to begin!<END>
 
 //Will Nankatsu become<LINE>

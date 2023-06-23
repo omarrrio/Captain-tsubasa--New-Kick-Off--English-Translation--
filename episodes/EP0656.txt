@@ -7,7 +7,7 @@
 
 //Tsubasa prepares to shoot!<END>
 
-//Drive shoot! Split the sky!<END>
+//Drive Shoot! Split the sky!<END>
 
 //Tsubasa's long shot is incredible!<END>
 
@@ -22,7 +22,7 @@
 //The goalkeeper could never react in time.<LINE>
 //Is it a goal?<END>
 
-//No! Tsubasa's Drive shoot<LINE>
+//No! Tsubasa's Drive Shoot<LINE>
 //crashes onto the goalpost!<LINE>
 //No goal.<END>
 

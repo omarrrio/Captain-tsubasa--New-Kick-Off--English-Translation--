@@ -1,14 +1,14 @@
 // FILE: EP0750.str containing 9 strings
 
-//Come on! Drive shoot!<END>
+//Come on! Drive Shoot!<END>
 
 //The super shot by Tsubasa!<LINE>
-//The Drive shoot!<END>
+//The Drive Shoot!<END>
 
 //The ball speeds toward<LINE>
 //the goal of Toho, rumbling!<END>
 
-//It's Tsubasa's Drive shoot!<END>
+//It's Tsubasa's Drive Shoot!<END>
 
 //Argh!<END>
 
@@ -22,7 +22,7 @@
 //It looks more like it's dancing...<LINE>
 //Like it's dancing to reach the ground.<END>
 
-//Tsubasa's Drive shoot really has<LINE>
+//Tsubasa's Drive Shoot really has<LINE>
 //incredible power.<END>
 
 //Next time I'll stop it!<LINE>

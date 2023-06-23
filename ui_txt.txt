@@ -961,7 +961,7 @@
 
 //Overhead kick<END>
 
-//Drive shoot<END>
+//Drive Shoot<END>
 
 //Drive overhead<END>
 
@@ -2072,7 +2072,7 @@
 
 //Allow Phoenix style shoots.<LINE>
 //Allow usage of<LINE>
-//the "Drive shoot" ability.<END>
+//the "Drive Shoot" ability.<END>
 
 //Cleats offered<LINE>
 //to Tsubasa by Sanae.<LINE>

@@ -18,10 +18,10 @@
 //Since Matsuyama is marking Kisugi, Tsubasa<LINE>
 //has a free path!<END>
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
 //Tsubasa, who is unmarked, attempts<LINE>
-//his Drive shoot!<END>
+//his Drive Shoot!<END>
 
 //Argh!<END>
 
@@ -41,7 +41,7 @@
 //to prevent him from entering the goal!<END>
 
 //Furano succeeded in protecting their goal<LINE>
-//from Tsubasa's Drive shoot<LINE>
+//from Tsubasa's Drive Shoot<LINE>
 //at the cost of a collective effort!<END>
 
 //Thank you!<END>

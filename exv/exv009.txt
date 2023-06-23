@@ -24,7 +24,7 @@
 //Mode Selection.<LINE>
 //Continue?<END>
 
-//Drive shoot!<END>
+//Drive Shoot!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>

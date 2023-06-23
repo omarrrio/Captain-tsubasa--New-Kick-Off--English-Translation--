@@ -3,8 +3,8 @@
 //Oh! Tsubasa is open!<END>
 
 //Will Tsubasa be able to summon enough<LINE>
-//energy within himself to describe the trajectory<LINE>
-//of victory with his Drive shot?<END>
+//energy within himself to describe the<LINE>
+//trajectory of victory with his Drive Shot?<END>
 
 //Come at me, Tsubasa!<LINE>
 //I'll stop your shot with one hand!<END>
@@ -23,7 +23,7 @@
 
 //He dives next to Tsubasa<LINE>
 //while performing a Tiger Shot<LINE>
-//to stop a Drive shot!<END>
+//to stop a Drive Shot!<END>
 
 //Don't expect to score a fourth goal!<END>
 

@@ -1,16 +1,16 @@
 // FILE: EP2550.str containing 11 strings
 
-//It's time! Drive shot!<END>
+//It's time! Drive Shot!<END>
 
 //Tsubasa is using his super shot,<LINE>
-//the Drive shot!<END>
+//the Drive Shot!<END>
 
 //It's my turn to play!<END>
 
 //The ball roars as it races<LINE>
 //towards Toho's goal!<END>
 
-//Tsubasa's Drive shot!<LINE>
+//Tsubasa's Drive Shot!<LINE>
 //There's nothing faster than this shot.<LINE>
 //The Tiger Shot is nothing compared to it!<LINE>
 //The ball is heading straight towards me!<END>
@@ -30,7 +30,7 @@
 //It's more like it's dancing...<LINE>
 //Dancing to reach the ground.<END>
 
-//Tsubasa's Drive shot is really<LINE>
+//Tsubasa's Drive Shot is really<LINE>
 //incredibly powerful!<END>
 
 //Next time, I'll stop it!<LINE>

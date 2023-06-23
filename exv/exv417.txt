@@ -15,7 +15,7 @@
 //Mode Selection.<LINE>
 //Continue?<END>
 
-//It's a Drive shoot!<END>
+//It's a Drive Shoot!<END>
 
 //That's it!<END>
 
