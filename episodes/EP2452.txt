@@ -4,8 +4,8 @@
 
 //Sawada passes the ball!<END>
 
-//But once again, the opposing team anticipates<LINE>
-//this action!<END>
+//But once again, the opposing<LINE>
+//team anticipates this action!<END>
 
 //Grrr!<END>
 

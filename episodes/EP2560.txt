@@ -30,7 +30,7 @@
 
 //But Hyuga sticks to his usual routine<LINE>
 //and shoots!<LINE>
-//Here comes the Tiger shot!<END>
+//Here comes the Tiger Shot!<END>
 
 //What?!<END>
 
@@ -48,7 +48,7 @@
 //Ragh! It's not over yet!<END>
 
 //Wow! And Ishizaki dives<LINE>
-//in front of Hyuga's Tiger shot!<END>
+//in front of Hyuga's Tiger Shot!<END>
 
 //Will Ishizaki perform<LINE>
 //his famous Frontal Block?<END>
@@ -64,7 +64,7 @@
 //There is no one left to defend<LINE>
 //Nankatsu's goal!<END>
 
-//And here comes the Tiger shot!<LINE>
+//And here comes the Tiger Shot!<LINE>
 //Goal!<LINE>
 //Hyuga had anticipated every move<LINE>
 //by Nankatsu!<END>

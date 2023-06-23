@@ -26,7 +26,7 @@
 
 //Argh!<END>
 
-//He...He scored!<END>
+//He... He scored!<END>
 
 //It was the only thing to do,<LINE>
 //and the power and dexterity<LINE>
@@ -37,7 +37,7 @@
 
 //Yes!<END>
 
-//What...What happened?<LINE>
+//What... What happened?<LINE>
 //A long pass that turns<LINE>
 //into a long shot on the fly...<LINE>
 //Ending up in the back of the net...<END>

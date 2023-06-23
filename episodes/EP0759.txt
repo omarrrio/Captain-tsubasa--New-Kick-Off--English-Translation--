@@ -5,9 +5,9 @@
 
 //What?!<END>
 
-//Tsubasa...We are friends, right?<END>
+//Tsubasa... We are friends, right?<END>
 
-//Ishizaki...And you all...<LINE>
+//Ishizaki... And you all...<LINE>
 //My friends...<END>
 
 //Here, Tsubasa!<END>
@@ -19,7 +19,7 @@
 //Nankatsu's Ishizaki passes the ball<LINE>
 //to Tsubasa while he's still on the ground!<END>
 
-//A pass from Ishizaki...From everyone...<END>
+//A pass from Ishizaki... From everyone...<END>
 
 //They're here!<LINE>
 //My friends are always behind me!<LINE>
@@ -47,7 +47,7 @@
 
 //But the ball has some spin!<LINE>
 //It curved!<LINE>
-//Could it be...a Drive Shoot?<END>
+//Could it be... A Drive Shoot?<END>
 
 //But it's spinning too much.<LINE>
 //And it's not going towards<LINE>
@@ -60,7 +60,7 @@
 //that sends it directly into the net.<LINE>
 //It's a goal!<END>
 
-//It's...it's a literally miraculous shot!<LINE>
+//It's... It's a literally miraculous shot!<LINE>
 //Tsubasa performed a Drive Shoot to make<LINE>
 //an unprecedented shot!<END>
 

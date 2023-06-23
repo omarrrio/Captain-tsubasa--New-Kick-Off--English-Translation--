@@ -27,7 +27,7 @@
 //to let you participate in this tournament.<LINE>
 //You understand, Hyuga?<END>
 
-//I see...I don't care about any of that.<LINE>
+//I see... I don't care about any of that.<LINE>
 //I'm playing tomorrow, period!<END>
 
 //No matter if I have to fight<LINE>
@@ -72,7 +72,7 @@
 //Not to mention he hasn't played<LINE>
 //a single match in this tournament...<END>
 
-//But I...I have decided in my heart<LINE>
+//But I... I have decided in my heart<LINE>
 //and conscience that he will not participate<LINE>
 //in the tournament.<LINE>
 //I cannot reverse my decision.<END>
@@ -111,12 +111,12 @@
 //Wakashimazu didn't budge an inch!<END>
 
 //No-no! I didn't do it on purpose!<LINE>
-//It...it happened too fast for me!<END>
+//It... It happened too fast for me!<END>
 
 //Here's the lineup<LINE>
 //for tomorrow's match against Nankatsu!<END>
 
-//Center forward...Kojiro Hyuga!<END>
+//Center forward... Kojiro Hyuga!<END>
 
 //Great!<END>
 

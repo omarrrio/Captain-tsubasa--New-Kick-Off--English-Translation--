@@ -35,7 +35,7 @@
 //Everything's fine.<LINE>
 //There was more fright than harm!<END>
 
-//Ah...My shoulder!<END>
+//Ah... My shoulder!<END>
 
 //Why does my old injury have to<LINE>
 //flare up four years after the accident?<END>

@@ -8,7 +8,7 @@
 //are now in the opposing team's half of the field!<LINE>
 //What will Misugi do?<END>
 
-//Oh...Misugi is dribbling towards the goal!<END>
+//Oh... Misugi is dribbling towards the goal!<END>
 
 //Stop Misugi!<LINE>
 //Give him a taste of Meiwa-Higashi's tackles!<END>
@@ -57,7 +57,7 @@
 //everything was perfect!<LINE>
 //Misugi's genius in its purest form!<END>
 
-//Hmm...I didn't think<LINE>
+//Hmm... I didn't think<LINE>
 //I'd let a goal in<LINE>
 //while facing Misugi alone...<END>
 

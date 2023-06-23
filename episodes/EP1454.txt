@@ -27,7 +27,7 @@
 
 //I won't let you shoot!<END>
 
-//Take this! This Tiger shot is filled<LINE>
+//Take this! This Tiger Shot is filled<LINE>
 //with all the rage of Japan!<END>
 
 //Pierre doesn't tackle in time!<LINE>
@@ -35,7 +35,7 @@
 //races towards the opposing goal!<END>
 
 //Goooooal!<LINE>
-//Hyuga's Tiger shot finds<LINE>
+//Hyuga's Tiger Shot finds<LINE>
 //the back of the net!<END>
 
 //Did you see that?<LINE>

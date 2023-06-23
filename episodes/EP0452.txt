@@ -55,7 +55,7 @@
 //What?!<END>
 
 //The two players are in the air.<LINE>
-//Ozora rises...And it's a collision!<LINE>
+//Ozora rises... And it's a collision!<LINE>
 //Tsubasa has blocked the Skylab Hurricane!<LINE>
 //An incredible defensive technique against<LINE>
 //the Tachibana brothers' new technique!<END>
@@ -80,7 +80,7 @@
 //It looks like Tsubasa landed first<LINE>
 //and got hurt badly!<END>
 
-//My...shoulder...<END>
+//My... Shoulder...<END>
 
 //Are you okay, Masao?<END>
 
@@ -107,7 +107,7 @@
 //If you don't listen to me,<LINE>
 //I'll make you leave.<END>
 
-//Okay...I understand.<END>
+//Okay... I understand.<END>
 
 //Sorry, friends.<LINE>
 //I'll be back soon.<LINE>

@@ -18,7 +18,7 @@
 //towards the goal!<LINE>
 //Did he miss the shot?<END>
 
-//No...The Drive Shot...<LINE>
+//No... The Drive Shot...<LINE>
 //Hyuga is running towards it!<END>
 
 //Your turn, Hyuga!<END>

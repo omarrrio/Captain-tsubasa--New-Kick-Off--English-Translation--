@@ -16,7 +16,7 @@
 //against your playing style,<LINE>
 //like Roberto Hongo.<END>
 
-//Ro-Roberto...Do you know him?<END>
+//Ro-Roberto... Do you know him?<END>
 
 //Do you know Roberto?<END>
 
@@ -26,7 +26,7 @@
 //He even came to see us today<LINE>
 //in the locker room.<END>
 
-//He is...here?<END>
+//He is... Here?<END>
 
 //Well, the match is about to start.<END>
 

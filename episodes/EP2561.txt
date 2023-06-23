@@ -2,15 +2,15 @@
 
 //Drive shoot!<END>
 
-//But Hyuga...Hyuga runs furiously<LINE>
+//But Hyuga... Hyuga runs furiously<LINE>
 //and stands in Tsubasa's way!<END>
 
 //Don't even think about scoring against Toho!<LINE>
-//Tiger shot!<END>
+//Tiger Shot!<END>
 
 //Hyuga is in front of me...<LINE>
 //Will he arrive in time to block<LINE>
-//the Drive shoot with a Tiger shot?<END>
+//the Drive shoot with a Tiger Shot?<END>
 
 //It's a duel!<LINE>
 //A true battle!<END>
@@ -66,7 +66,7 @@
 //Tsubasa just fell to his knees.<LINE>
 //Is he unable to move?<END>
 
-//The ball...My friend came back to me.<END>
+//The ball... My friend came back to me.<END>
 
 //I'll score.<LINE>
 //I'll score!<END>
@@ -78,7 +78,7 @@
 //No!<END>
 
 //I'll block your Drive shoot<LINE>
-//with my Tiger shot!<LINE>
+//with my Tiger Shot!<LINE>
 //You do your Drive shoot, and I'll shoot<LINE>
 //in Nankatsu's goal from<LINE>
 //the other end of the field!<END>
@@ -125,7 +125,7 @@
 //carried by his momentum!<END>
 
 //I have to stop him!<LINE>
-//Tsubasa...Nankatsu<LINE>
+//Tsubasa... Nankatsu<LINE>
 //must not score another goal!<END>
 
 //He stopped it!<LINE>

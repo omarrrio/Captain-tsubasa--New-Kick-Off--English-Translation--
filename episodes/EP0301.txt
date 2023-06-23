@@ -8,7 +8,7 @@
 
 //Don't worry.<LINE>
 //The game is in the bag.<LINE>
-//That guy...Tsubasa...He injured<LINE>
+//That guy... Tsubasa... He injured<LINE>
 //his leg.<END>
 
 //What?<END>

@@ -14,7 +14,7 @@
 
 //You okay, Tsubasa?<END>
 
-//Yeah...I'm used to this kind of play now.<LINE>
+//Yeah... I'm used to this kind of play now.<LINE>
 //I'm not going to let them get the better of me!<END>
 
 //It's a free kick for Japan.<END>
@@ -24,14 +24,14 @@
 
 //I don't need a wall, it just blocks my view.<END>
 
-//Ugh...He's mocking us!<END>
+//Ugh... He's mocking us!<END>
 
 //But we don't stand a chance of scoring from<LINE>
-//here against a goalkeeper like him...He<LINE>
+//here against a goalkeeper like him... He<LINE>
 //doesn't have any weaknesses. What can we do...<END>
 
 //Tsubasa! He just kindly removed the wall<LINE>
-//for us...All you have to do is shoot with<LINE>
+//for us... All you have to do is shoot with<LINE>
 //all your might!<END>
 
 //You're right, Hyuga...<END>
@@ -56,7 +56,7 @@
 
 //Both players move forward at the same time!<LINE>
 //Is it to surprise the goalkeeper?<LINE>
-//Will we see a Tiger shot<LINE>
+//Will we see a Tiger Shot<LINE>
 //or a Drive shot?<END>
 
 //That won't work on me!<LINE>

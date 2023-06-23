@@ -37,15 +37,15 @@
 
 //Yes!<END>
 
-//Uh...Matsuyama...<END>
+//Uh... Matsuyama...<END>
 
 //Huh?<END>
 
-//Well...Um...<END>
+//Well... Um...<END>
 
 //What's wrong?<END>
 
-//Oh...Nothing.<END>
+//Oh... Nothing.<END>
 
 //Really?<END>
 
@@ -57,7 +57,7 @@
 
 //?<END>
 
-//It's him...Hyuga!<END>
+//It's him... Hyuga!<END>
 
 //Yeah.<END>
 

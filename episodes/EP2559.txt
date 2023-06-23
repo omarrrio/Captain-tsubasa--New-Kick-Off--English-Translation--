@@ -9,7 +9,7 @@
 //Come at me, Tsubasa!<LINE>
 //I'll stop your shot with one hand!<END>
 
-//Tiger shot!<END>
+//Tiger Shot!<END>
 
 //...<END>
 
@@ -22,7 +22,7 @@
 //and performs an amazing footwork!<END>
 
 //He dives next to Tsubasa<LINE>
-//while performing a Tiger shot<LINE>
+//while performing a Tiger Shot<LINE>
 //to stop a Drive shot!<END>
 
 //Don't expect to score a fourth goal!<END>

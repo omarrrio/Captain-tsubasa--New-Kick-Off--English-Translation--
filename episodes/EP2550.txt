@@ -12,7 +12,7 @@
 
 //Tsubasa's Drive shot!<LINE>
 //There's nothing faster than this shot.<LINE>
-//The Tiger shot is nothing compared to it!<LINE>
+//The Tiger Shot is nothing compared to it!<LINE>
 //The ball is heading straight towards me!<END>
 
 //No!<END>

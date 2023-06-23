@@ -29,11 +29,11 @@
 
 //Drive Shoot!<END>
 
-//And...it's a goal!<LINE>
+//And... It's a goal!<LINE>
 //Goalkeeper Wakashimazu didn't<LINE>
 //stand a chance!<END>
 
 //...<END>
 
-//Thi...This can't be happening...<END>
+//Thi... This can't be happening...<END>
 

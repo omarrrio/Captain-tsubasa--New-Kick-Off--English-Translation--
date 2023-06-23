@@ -53,11 +53,11 @@
 
 //Twenty-five American cents,<LINE>
 //ten French francs,<LINE>
-//and one hundred yen...But, it's...!<END>
+//and one hundred yen... But, it's...!<END>
 
 //These are the coins of<LINE>
 //the organizing countries:<LINE>
-//the United States, France...and also<LINE>
+//the United States, France... And also<LINE>
 //Japan, which is applying to host<LINE>
 //the next World Cup.<END>
 

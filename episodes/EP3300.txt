@@ -89,10 +89,10 @@
 
 //So, manager?<END>
 
-//Good...good luck!<LINE>
+//Good... Good luck!<LINE>
 //Promise me you'll win this match.<END>
 
-//Yes...Is that all?<END>
+//Yes... Is that all?<END>
 
 //Yes...<END>
 

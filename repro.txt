@@ -78,7 +78,7 @@
 
 //We must not waste this pass<END>
 
-//Tiger shot piercing Nankatsu<END>
+//Tiger Shot piercing Nankatsu<END>
 
 //I will annihilate Nankatsu!<END>
 
@@ -516,10 +516,10 @@
 
 //The finals will put Toho against<LINE>
 //the champion Nankatsu Junior High<LINE>
-//led by Tsubasa,<LINE>
-//whose aiming for a 3rd consecutive title!<LINE>
+//led by Tsubasa, whose aiming<LINE>
+//for a 3rd consecutive title!<LINE>
 //It's the shot for Toho<LINE>
-//to claim theiur first title<LINE>
+//to claim their first title<LINE>
 //and end the reign Nankatsu!<END>
 
 //The Hokkaido Regionals' title is close<LINE>

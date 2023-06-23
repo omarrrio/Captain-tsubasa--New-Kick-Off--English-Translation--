@@ -1,6 +1,6 @@
 // FILE: EP3553.str containing 15 strings
 
-//This Sawada...the combinations<LINE>
+//This Sawada... The combinations<LINE>
 //between him and Hyuga worry me...<LINE>
 //I won't let him pass!<END>
 
@@ -40,7 +40,7 @@
 //Still unbalanced, Sawada made<LINE>
 //a pass to Hyuga!<END>
 
-//But, he...is using the same technique<LINE>
+//But, he... Is using the same technique<LINE>
 //as Tsubasa...!<END>
 
 //Well played, Takeshi!<LINE>

@@ -52,11 +52,11 @@
 
 //What?<END>
 
-//But...I wasn't supposed to play<LINE>
+//But... I wasn't supposed to play<LINE>
 //in this tournament...<END>
 
 //Besides, I haven't trained<LINE>
-//with the defenders...and I...<END>
+//with the defenders... And I...<END>
 
 //It's only you, Wakabayashi.<END>
 
@@ -113,7 +113,7 @@
 
 //Guys...<END>
 
-//I...I...<END>
+//I... I...<END>
 
 //In the Japanese goal, we will see<LINE>
 //Genzo Wakabayashi today!<END>

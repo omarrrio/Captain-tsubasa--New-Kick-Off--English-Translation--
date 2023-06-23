@@ -50,7 +50,7 @@
 
 //What did you say!<END>
 
-//D...Damn it!<END>
+//D... Damn it!<END>
 
 //Damn it!<END>
 

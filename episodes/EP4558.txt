@@ -6,7 +6,7 @@
 //Tsubasa!<END>
 
 //Misugi...<LINE>
-//No...I don't have time<LINE>
+//No... I don't have time<LINE>
 //to worry about him!<LINE>
 //If I don't stop him,<LINE>
 //we'll lose this match!<END>
@@ -58,7 +58,7 @@
 
 //Well done, captain!<END>
 
-//I...I did it, guys!<LINE>
+//I... I did it, guys!<LINE>
 //I scored a goal<LINE>
 //after a duel against Tsubasa!<END>
 

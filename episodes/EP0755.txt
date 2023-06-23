@@ -29,7 +29,7 @@
 //to spoil Takeshi's pass!<END>
 
 //But Hyuga shoots anyway!<LINE>
-//It's a Tiger shot!<END>
+//It's a Tiger Shot!<END>
 
 //Tsubasa is hit and knocked out by the ball!<END>
 

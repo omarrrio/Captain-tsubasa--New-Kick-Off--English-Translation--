@@ -6,7 +6,7 @@
 //Mode Selection.<LINE>
 //Continue?<END>
 
-//I'll pass it to you!<END>
+//I'll go through you!<END>
 
 //I have to go!<END>
 

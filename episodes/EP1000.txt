@@ -33,7 +33,7 @@
 //us will just make you<LINE>
 //want to play even more?<END>
 
-//Hmm...I hadn't thought about that!<END>
+//Hmm... I hadn't thought about that!<END>
 
 //You'll never change!<END>
 
@@ -53,7 +53,7 @@
 //We were free to choose any number,<LINE>
 //but no one wanted number 10.<END>
 
-//But...I'm not even going to participate<LINE>
+//But... I'm not even going to participate<LINE>
 //in the training camp.<END>
 
 //Plus, Hyuga and Matsuyama usually wear<LINE>
@@ -70,7 +70,7 @@
 //who deserves to wear<LINE>
 //this number.<END>
 
-//You...all of you...<END>
+//You... All of you...<END>
 
 //Ah...<END>
 

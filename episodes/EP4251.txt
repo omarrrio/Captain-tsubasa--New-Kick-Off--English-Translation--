@@ -17,7 +17,7 @@
 //Honma, don't get distracted!<LINE>
 //Just play as usual!<END>
 
-//OK...Understood!<END>
+//OK... Understood!<END>
 
 //Nobody has the ball!<LINE>
 //Will Honma be the first to get it?<LINE>

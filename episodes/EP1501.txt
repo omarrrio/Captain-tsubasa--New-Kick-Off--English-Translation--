@@ -98,8 +98,8 @@
 
 //We can't start without you!<END>
 
-//Yes...I'm coming!<END>
+//Yes... I'm coming!<END>
 
-//Page 52 of the manual...Does that mean...<LINE>
+//Page 52 of the manual... Does that mean...<LINE>
 //Roberto?<END>
 

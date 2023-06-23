@@ -10,7 +10,7 @@
 
 //In that case, I have to shoot!<END>
 
-//Oh...Ishida faked it.<LINE>
+//Oh... Ishida faked it.<LINE>
 //It was an Instant Long Shoot!<END>
 
 //The goalkeeper is there to stop the shot!<LINE>

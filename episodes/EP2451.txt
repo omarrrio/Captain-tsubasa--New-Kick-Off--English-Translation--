@@ -1,6 +1,6 @@
 // FILE: EP2451.str containing 33 strings
 
-//Et Meiwa-Higashi gets into shooting position!<END>
+//And Meiwa-Higashi gets into shooting position!<END>
 
 //No!<END>
 
@@ -65,12 +65,13 @@
 //Orders, orders,<LINE>
 //always orders...<END>
 
-//Do you think you're the master of the world?<LINE>
+//Do you think you're<LINE>
+//the master of the world?<LINE>
 //Are you always right?<END>
 
 //What are you saying?<END>
 
-//Why...why can't I play?<END>
+//Why... Why can't I play?<END>
 
 //Wait, Hyuga!<END>
 

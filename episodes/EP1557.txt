@@ -42,7 +42,7 @@
 //Whatever happens<LINE>
 //I won't let you score!<END>
 
-//Argh! My foot...I must have injured it<LINE>
+//Argh! My foot... I must have injured it<LINE>
 //during the collision with Schneider<LINE>
 //earlier!<END>
 
@@ -81,7 +81,7 @@
 //not get in my way,<LINE>
 //or you're going to get hurt!<END>
 
-//Ah...my foot...<END>
+//Ah... My foot...<END>
 
 //Neo Tiger Shot!<END>
 

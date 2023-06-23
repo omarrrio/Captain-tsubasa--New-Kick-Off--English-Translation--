@@ -87,7 +87,7 @@
 //And once again, he is struck<LINE>
 //by Tsubasa's Drive shoot!<END>
 
-//But...What is this...<LINE>
+//But... What is this...<LINE>
 //Goaaal!<END>
 
 //In trying to block the Drive shoot,<LINE>

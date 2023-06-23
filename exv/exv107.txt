@@ -19,15 +19,15 @@
 //Mode Selection.<LINE>
 //Continue?<END>
 
-//Tiger shot!<END>
+//Tiger Shot!<END>
 
 //Returning to<LINE>
 //Mode Selection.<LINE>
 //Continue?<END>
 
-//This is my true Tiger shot!<END>
+//This is my true Tiger Shot!<END>
 
-//Neo tiger shot!<END>
+//Neo Tiger Shot!<END>
 
 //Tsubasa! Let's go!<END>
 

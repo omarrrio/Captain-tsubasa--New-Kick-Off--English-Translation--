@@ -30,8 +30,9 @@
 
 //Huh!<END>
 
-//Wakashimazu leaves his position and flies<LINE>
-//toward the ball with a fierce sliding tackle!<END>
+//Wakashimazu leaves his position<LINE>
+//and flies toward the ball with a<LINE>
+//fierce sliding tackle!<END>
 
 //A goalkeeper becomes just another player<LINE>
 //when they leave the penalty area!<LINE>
@@ -51,8 +52,8 @@
 //it will create a gap in their defense!<END>
 
 //This is incredible!<LINE>
-//Wakashimazu advances up the field and passes<LINE>
-//the Meiwa players!<END>
+//Wakashimazu advances up the field<LINE>
+//and passes the Meiwa players!<END>
 
 //Catch it, Takeshi!<END>
 
@@ -110,7 +111,5 @@
 //Oh! Kawagoe takes the ball and sends it<LINE>
 //as far as he can!<END>
 
-//Back to<LINE>
-//Mode Selection screen.<LINE>
-//Confirm?<END>
+//Goalkeeper Wakashimazu Shoots!!<END>
 

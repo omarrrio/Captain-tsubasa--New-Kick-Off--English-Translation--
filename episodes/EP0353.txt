@@ -48,7 +48,7 @@
 
 //...<END>
 
-//He...He stopped it!<END>
+//He... He stopped it!<END>
 
 //Morisaki managed to stop the ball<LINE>
 //this time!<LINE>

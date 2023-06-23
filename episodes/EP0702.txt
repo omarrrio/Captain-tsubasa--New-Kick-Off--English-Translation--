@@ -12,7 +12,7 @@
 //additional ten-minute halves.<LINE>
 //Twenty more minutes of fierce struggle...<END>
 
-//Tsu...Tsubasa!<LINE>
+//Tsu... Tsubasa!<LINE>
 //What happened?<END>
 
 //Hey, Tsubasa!<END>
@@ -20,7 +20,7 @@
 //Well, guys, we're going to have to play<LINE>
 //overtime.<END>
 
-//Tsu...Tsubasa...<LINE>
+//Tsu... Tsubasa...<LINE>
 //Are you feeling okay?<END>
 
 //Tsubasa, I'm sorry<LINE>
