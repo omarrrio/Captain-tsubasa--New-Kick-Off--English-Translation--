@@ -356,7 +356,7 @@
 
 //The champion, Nankatsu<END>
 
-//Here is the prince!<END>
+//Here is the Prince!<END>
 
 //Champions' duel!<END>
 

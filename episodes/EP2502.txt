@@ -6,8 +6,8 @@
 //national soccer tournament,<LINE>
 //representing Tokyo, is Toho Gakuen!<END>
 
-//We have witnessed three years<LINE>
-//of fierce struggle between the same players.<LINE>
+//We have witnessed three years of fierce<LINE>
+//struggle between the same players.<LINE>
 //This tournament allowed Toho Gakuen<LINE>
 //to dethrone the defending champion,<LINE>
 //Nankatsu!<END>
@@ -21,8 +21,8 @@
 
 //Hyuga's participation was uncertain,<LINE>
 //and it was thanks to Sorimachi,<LINE>
-//Sawada, and Wakashimazu that the team was able to<LINE>
-//reach the final.<END>
+//Sawada, and Wakashimazu that<LINE>
+//the team was able to reach the final.<END>
 
 //But the arrival of their ace, Hyuga,<LINE>
 //in the second half of the final,<LINE>
@@ -84,8 +84,8 @@
 //Yes.<END>
 
 //The two captains, Hyuga and Tsubasa,<LINE>
-//congratulate each other on the match they have<LINE>
-//just played.<LINE>
+//congratulate each other on<LINE>
+//the match they havej ust played.<LINE>
 //They are now exchanging jerseys!<LINE>
 //They have no regrets about the match.<LINE>
 //Both players have a radiant, smiling face!<END>
