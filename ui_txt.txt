@@ -941,213 +941,213 @@
 
 //Wall of steel<END>
 
-//Power defense<END>
+//Power Defense<END>
 
 //Sideline Dribble<END>
 
-//5m Diving header<END>
+//5m Diving Header<END>
 
-//Jet header<END>
+//Jet Header<END>
 
-//Scoremonger's pride<END>
+//Scoremonger's Pride<END>
 
 //Shutetsu Trio<END>
 
-//Drive pass<END>
+//Drive Pass<END>
 
-//Heel lift<END>
+//Heel Lift<END>
 
 //Brazilian Dribble<END>
 
-//Overhead kick<END>
+//OverHead Kick<END>
 
 //Drive Shoot<END>
 
-//Drive overhead<END>
+//Drive OverHead<END>
 
-//Artistic dribble<END>
+//Artistic Dribble<END>
 
-//Unexpected ambush<END>
+//Unexpected Ambush<END>
 
 //Face Block<END>
 
 //Otomo Quartet<END>
 
-//Falcon shoot<END>
+//Falcon Shoot<END>
 
 //Speed Star<END>
 
-//Killer pass<END>
+//Killer Pass<END>
 
-//High speed pass<END>
+//High Speed Pass<END>
 
 //Young noble of the field<END>
 
-//Glass heasrt shoot<END>
+//Glass heasrt Shoot<END>
 
 //Speed intercept<END>
 
-//Power header<END>
+//Power Header<END>
 
-//Aggressive dribble<END>
+//Aggressive Dribble<END>
 
-//Technical dribble<END>
+//Technical Dribble<END>
 
-//Kamikaze sliding shoot<END>
+//Kamikaze sliding Shoot<END>
 
 //Kamikaze sliding check<END>
 
-//Razor pass<END>
+//Razor Pass<END>
 
-//Razor shoot<END>
+//Razor Shoot<END>
 
-//Snake block<END>
+//Snake Block<END>
 
-//Razor tackle<END>
+//Razor Tackle<END>
 
-//Skylab Hurricane shoot<END>
+//Skylab Hurricane Shoot<END>
 
-//Skylab Hurricane cut<END>
+//Skylab Hurricane Cut<END>
 
-//Triangle shoot<END>
+//Triangle Shoot<END>
 
-//Skylab twin shoot<END>
+//Skylab twin Shoot<END>
 
-//Backspin pass<END>
+//Backspin Pass<END>
 
-//Power shoot<END>
+//Power Shoot<END>
 
-//Power dribble<END>
+//Power Dribble<END>
 
 //Like a feather<END>
 
-//Surprise header<END>
+//Surprise Header<END>
 
 //Quick snatch<END>
 
 //Furano's Soul<END>
 
-//Eagle pass<END>
+//Eagle Pass<END>
 
 //Persistent keep<END>
 
-//Eagle shot<END>
+//Eagle Shot<END>
 
-//Blizzard shot<END>
+//Blizzard Shot<END>
 
-//Blizzard cut<END>
+//Blizzard Cut<END>
 
-//Faint tackle<END>
+//Faint Tackle<END>
 
 //Calm decision<END>
 
-//Triangle assault<END>
+//Triangle Assault<END>
 
-//Shuto defense<END>
+//Shuto Defense<END>
 
-//Seiken defense<END>
+//Seiken Defense<END>
 
-//Mirage kick<END>
+//Mirage Kick<END>
 
-//Shooting star<END>
+//Shooting Star<END>
 
-//Tiger pass<END>
+//Tiger Pass<END>
 
-//Straight line dribble<END>
+//Straight Line Dribble<END>
 
 //Tiger Shot<END>
 
 //Neo Tiger Shot<END>
 
-//Sliding tiger<END>
+//Sliding Tiger<END>
 
 //Toho Combi<END>
 
-//Little technician<END>
+//Little Technician<END>
 
-//Midfielder cut<END>
+//Midfielder Cut<END>
 
-//Fire shot<END>
+//Fire Shot<END>
 
 //SGGK<END>
 
-//Golden hand<END>
+//Golden Hand<END>
 
-//Thunder shoot<END>
+//Thunder Shoot<END>
 
 //Evidence of Geniality<END>
 
-//Banana shoot<END>
+//Banana Shoot<END>
 
-//Acrobat shoot<END>
+//Acrobat Shoot<END>
 
-//Acrobat block<END>
+//Acrobat Block<END>
 
-//Scissors tackle<END>
+//Scissors Tackle<END>
 
-//Giant dribble<END>
+//Giant Dribble<END>
 
-//Wall blocking<END>
+//Wall Blocking<END>
 
 //Upper kick<END>
 
-//Cannon shoot<END>
+//Cannon Shoot<END>
 
-//Elegant dribble<END>
+//Elegant Dribble<END>
 
-//Slider shoot<END>
+//Slider Shoot<END>
 
-//Elegant tackle<END>
+//Elegant Tackle<END>
 
-//Eiffel attack<END>
+//Eiffel Attack<END>
 
-//Napalm header<END>
+//Napalm Header<END>
 
-//Napalm shoot<END>
+//Napalm Shoot<END>
 
 //Phantasmagoric Dribble<END>
 
-//Non-fire Shot<END>
+//Non-Fire Shot<END>
 
-//Kaiser block<END>
+//Kaiser Block<END>
 
-//Kaiser tackle<END>
+//Kaiser Tackle<END>
 
-//Rolling pass<END>
+//Rolling Pass<END>
 
 //Prince Slide<END>
 
-//Arrow tackle<END>
+//Arrow Tackle<END>
 
-//Hedgehog dribble<END>
+//Hedgehog Dribble<END>
 
-//Lobbing shoot<END>
+//Lobbing Shoot<END>
 
-//Steel giant<END>
+//Steel Giant<END>
 
-//Over throw catch<END>
+//Over Throw Catch<END>
 
-//Lightning block<END>
+//Lightning Block<END>
 
-//Laser pass<END>
+//Laser Pass<END>
 
 //Lightning switch<END>
 
-//Laser shoot<END>
+//Laser Shoot<END>
 
-//Super reaction<END>
+//Super Reaction<END>
 
-//Open fire<END>
+//Open Fire<END>
 
-//Twin shoot<END>
+//Twin Shoot<END>
 
-//Twin shoot<END>
+//Twin Shoot<END>
 
-//Twin shoot<END>
+//Twin Shoot<END>
 
-//Twin shoot<END>
+//Twin Shoot<END>
 
-//Twin shoot<END>
+//Twin Shoot<END>
 
 //Golden Combi<END>
 
@@ -1239,17 +1239,17 @@
 
 //The great Devourer<END>
 
-//Counter-attack<END>
+//Counter-Attack<END>
 
 //Panther<END>
 
 //Charisma<END>
 
-//Magnificent prince<END>
+//Magnificent Prince<END>
 
-//Nothing but attack<END>
+//Nothing but Attack<END>
 
-//To attack!<END>
+//To Attack!<END>
 
 //Royal reign<END>
 
@@ -1259,9 +1259,9 @@
 
 //Goalkeeper<END>
 
-//To defense!<END>
+//To Defense!<END>
 
-//Absolute defense<END>
+//Absolute Defense<END>
 
 //Roaring Tiger<END>
 
@@ -1271,7 +1271,7 @@
 
 //Avalanche<END>
 
-//Fast attack<END>
+//Fast Attack<END>
 
 //Field artist<END>
 
@@ -1279,7 +1279,7 @@
 
 //Titan<END>
 
-//All towards defense<END>
+//All towards Defense<END>
 
 //No<END>
 
@@ -1315,17 +1315,17 @@
 
 //Balance+ Cleats<END>
 
-//Powerful shooting Cleats<END>
+//Powerful Shooting Cleats<END>
 
-//Super dribble Cleats<END>
+//Super Dribble Cleats<END>
 
 //Pass tech. Cleats<END>
 
 //Endur. Balance Cleats<END>
 
-//Powerful shooting+ Cleats<END>
+//Powerful Shooting+ Cleats<END>
 
-//Super dribble+ Cleats<END>
+//Super Dribble+ Cleats<END>
 
 //Pass tech.+ Cleats<END>
 
@@ -1659,7 +1659,7 @@
 
 //Father's Necklace<END>
 
-//prince Belay<END>
+//Prince Belay<END>
 
 //Rotation Cleats<END>
 
@@ -1990,25 +1990,25 @@
 //and "Shoot".<END>
 
 //Allow super<LINE>
-//powerful shots.<END>
+//powerful Shots.<END>
 
 //Penetrate adversary<LINE>
-//defenses.<END>
+//Defenses.<END>
 
 //Allow very<LINE>
-//close passes.<END>
+//close Passes.<END>
 
 //Obtain a super<LINE>
 //Balance sens.<END>
 
 //Allow super<LINE>
-//powerful shots.<END>
+//powerful Shots.<END>
 
 //Penetrate adversary<LINE>
-//defenses.<END>
+//Defenses.<END>
 
 //Allow very<LINE>
-//close passes.<END>
+//close Passes.<END>
 
 //Allows you to<LINE>
 //play longer.<END>
@@ -2023,10 +2023,10 @@
 
 //Grants kamikaze<LINE>
 //spirit.<LINE>
-//allow usage of<LINE>
-//the "Physical wall" ability.<END>
+//Allow usage of<LINE>
+//the "Physical Wall" ability.<END>
 
-//Grants a defense of steel,<LINE>
+//Grants a Defense of steel,<LINE>
 //and usage<LINE>
 //of the "Wall of steel" ability.<END>
 
@@ -2040,7 +2040,7 @@
 
 //Grant huge courage.<LINE>
 //Allow usage of "5m<LINE>
-//Diving head".<END>
+//Diving Head".<END>
 
 //Grant power to jump<LINE>
 //high in the air.<LINE>
@@ -2049,14 +2049,14 @@
 
 //Makes you want to score.<LINE>
 //Allow usage of<LINE>
-//the "Scoremonger's pride" ability.<END>
+//the "Scoremonger's Pride" ability.<END>
 
 //Allow delevery<LINE>
-//of great passes.<LINE>
+//of great Passes.<LINE>
 //Allow usage of<LINE>
-//the "Drive pass" ability.<END>
+//the "Drive Pass" ability.<END>
 
-//makes you want to shoot<LINE>
+//makes you want to Shoot<LINE>
 //with all you got.<LINE>
 //Allow usage of<LINE>
 //the "Heel lift" ability.<END>
@@ -2066,18 +2066,18 @@
 //Allow usage of<LINE>
 //the "Brazilian Dribble" ability.<END>
 
-//Allow inversed shots,<LINE>
+//Allow inversed Shots,<LINE>
 //and usage<LINE>
-//of the "Overhead Kick" ability.<END>
+//of the "OverHead Kick" ability.<END>
 
-//Allow Phoenix style shoots.<LINE>
+//Allow Phoenix style Shoots.<LINE>
 //Allow usage of<LINE>
 //the "Drive Shoot" ability.<END>
 
 //Cleats offered<LINE>
 //to Tsubasa by Sanae.<LINE>
 //Allow usage of<LINE>
-//the "Drive overhead" ability.<END>
+//the "Drive overHead" ability.<END>
 
 //An amazing artistic bracelet.<LINE>
 //Allow usage of<LINE>
@@ -2089,12 +2089,12 @@
 
 //Allows you to stand up<LINE>
 //to your fear, and usage<LINE>
-//of the "Face block" ability.<END>
+//of the "Face Block" ability.<END>
 
 //Allows you to be<LINE>
 //fast as a hawk,<LINE>
 //and usage<LINE>
-//of the "Falcon shoot" ability.<END>
+//of the "Falcon Shoot" ability.<END>
 
 //Makes you faster,<LINE>
 //allows usage<LINE>
@@ -2103,14 +2103,14 @@
 //Allows you to take<LINE>
 //the adversary by surprise,<LINE>
 //and usage<LINE>
-//of the "Killer pass" ability.<END>
+//of the "Killer Pass" ability.<END>
 
-//Allows you to shoot<LINE>
+//Allows you to Shoot<LINE>
 //faster,<LINE>
 //and usage<LINE>
 //of the "High Speed Pass" ability.<END>
 
-//Grabts you a prince's<LINE>
+//Grabts you a Prince's<LINE>
 //imposing.<LINE>
 //Allows usage of<LINE>
 //the "Young noble of the field" ability.<END>
@@ -2118,16 +2118,15 @@
 //Once you wear them, these<LINE>
 //spikes gives you a big<LINE>
 //determination. Allows<LINE>
-//usage of the "Glass heart shoot" ability.<END>
+//usage of the "Glass heart Shoot" ability.<END>
 
 //Makes you faster than sound,<LINE>
 //and allow usage<LINE>
 //of the "Speed Intercept" ability.<END>
 
-//Allows stronger<LINE>
-//heads,<LINE>
-//and usage<LINE>
-//of the "Power head" ability.<END>
+//Allows stronger Heads,<LINE>
+//and usage of<LINE>
+//the "Power Head" ability.<END>
 
 //Makes you stronger,<LINE>
 //and allows usage<LINE>
@@ -2151,34 +2150,34 @@
 //Allows usage of<LINE>
 //the "Razor Pass" ability.<END>
 
-//Allows Sharp shooting,<LINE>
+//Allows Sharp Shooting,<LINE>
 //and usage<LINE>
 //of the "Razor Shoot" ability.<END>
 
 //Gives the tenacity<LINE>
 //of a snake.<LINE>
 //Allows usage of<LINE>
-//the "Snake block" ability.<END>
+//the "Snake Block" ability.<END>
 
 //Shinguards Making it<LINE>
 //easier against a champion.<LINE>
 //Allows usage<LINE>
-//of the "Razor tackle" ability.<END>
+//of the "Razor Tackle" ability.<END>
 
 //Gives the desire<LINE>
 //to jump up the air.<LINE>
 //Allows usage of<LINE>
-//the "Triangle shoot" ability.<END>
+//the "Triangle Shoot" ability.<END>
 
 //Allows to set an effect<LINE>
 //on the ball,<LINE>
 //and usage<LINE>
-//of the "Backspin pass" ability.<END>
+//of the "Backspin Pass" ability.<END>
 
 //A huge force emanates<LINE>
 //from these crampons.<LINE>
 //Allows usage of<LINE>
-//the "Power shoot" ability.<END>
+//the "Power Shoot" ability.<END>
 
 //Grants a strong feeling<LINE>
 //of power, and the usage<LINE>
@@ -2191,7 +2190,7 @@
 //Cleats that may<LINE>
 //surprise the opponent.<LINE>
 //Grants you the<LINE>
-//"Surprise header" ability.<END>
+//"Surprise Header" ability.<END>
 
 //Allows stealing the ball<LINE>
 //to be much easierplus,<LINE>
@@ -2206,32 +2205,32 @@
 //Cleats for uneven<LINE>
 //terrain.<LINE>
 //Allows usage of<LINE>
-//the "Eagle pass" ability.<END>
+//the "Eagle Pass" ability.<END>
 
 //Grants unfailing morale<LINE>
 //against all challenges.<LINE>
 //Allows usage of<LINE>
 //the "Persistent keep" ability.<END>
 
-//Allows shooting like<LINE>
+//Allows Shooting like<LINE>
 //a flying eagle,<LINE>
 //and usage of<LINE>
-//the "Eagle shot" ability.<END>
+//the "Eagle Shot" ability.<END>
 
-//Grants a shot as strong<LINE>
+//Grants a Shot as strong<LINE>
 //as a blizzard,<LINE>
 //and usage of<LINE>
-//the "Blizzard shot" ability.<END>
+//the "Blizzard Shot" ability.<END>
 
 //Shin guards that<LINE>
 //can withstand a blizzard<LINE>
 //even. Alloows usage of<LINE>
-//the "Blizzard cut" ability.<END>
+//the "Blizzard Cut" ability.<END>
 
 //This lucky charm can<LINE>
 //facilitate an effort.<LINE>
 //Allows usage of<LINE>
-//the "Faint tackle" ability.<END>
+//the "Faint Tackle" ability.<END>
 
 //Very warm Gloves.<LINE>
 //Allow usage of<LINE>
@@ -2243,12 +2242,12 @@
 
 //Gloves of a karate master.<LINE>
 //Allows usage of<LINE>
-//the "Shuto defense" ability.<END>
+//the "Shuto Defense" ability.<END>
 
 //Allows you to dive onto<LINE>
 //the ball with all your might.<LINE>
 //Grants usage of<LINE>
-//the "Seiken defense" ability.<END>
+//the "Seiken Defense" ability.<END>
 
 //Cleats imbued with the<LINE>
 //Wakado style.<LINE>
@@ -2256,11 +2255,11 @@
 //the "Mirage Kick" ability.<END>
 
 //Allows for aerial actions<LINE>
-//like a shooting star.<LINE>
+//like a Shooting Star.<LINE>
 //Grants usage of the<LINE>
-//the "Shooting star" ability.<END>
+//the "Shooting Star" ability.<END>
 
-//Allows you to shoot as fast<LINE>
+//Allows you to Shoot as fast<LINE>
 //as a tiger pouncing on<LINE>
 //its prey, and use the<LINE>
 //"Tiger Pass".<END>
@@ -2269,11 +2268,11 @@
 //as a fierce tiger,<LINE>
 //and use "Straight Line Dribble".<END>
 
-//Allows you to shoot<LINE>
+//Allows you to Shoot<LINE>
 //with the fury of a tiger,<LINE>
 //and use "Tiger Shot".<END>
 
-//Allows you to shoot with<LINE>
+//Allows you to Shoot with<LINE>
 //the ferocity of a ravenous tiger,<LINE>
 //and use "Neo Tiger Shot".<END>
 
@@ -2313,7 +2312,7 @@
 //Allows you to use<LINE>
 //"Evidence of Geniality".<END>
 
-//Allows you to shoot with a curve.<LINE>
+//Allows you to Shoot with a curve.<LINE>
 //Allows you to use<LINE>
 //"Banana Shoot".<END>
 
@@ -2342,7 +2341,7 @@
 //high in the air,<LINE>
 //and use "Upper Kick".<END>
 
-//Allows you to shoot with<LINE>
+//Allows you to Shoot with<LINE>
 //the power of a cannon,<LINE>
 //and use "Cannon Shot".<END>
 
@@ -2351,7 +2350,7 @@
 //and use "Elegant Dribble".<END>
 
 //Allows for a beautiful<LINE>
-//effect in the shot,<LINE>
+//effect in the Shot,<LINE>
 //and use "Slider Shot".<END>
 
 //Allows you to steal the ball<LINE>
@@ -2360,91 +2359,91 @@
 //"Elegant Tackle".<END>
 
 //Allows you to perform<LINE>
-//better headers,<LINE>
+//better Headers,<LINE>
 //and use "Napalm Header".<END>
 
-//Gives a shot the power of a<LINE>
-//firebomb.<LINE>
+//Gives a Shot the power of a<LINE>
+//Firebomb.<LINE>
 //Allows you to use<LINE>
 //"Napalm Shot".<END>
 
 //Allows you to control<LINE>
 //the ball freely,<LINE>
-//and use "Phantasmagoric dribble".<END>
+//and use "Phantasmagoric Dribble".<END>
 
-//Transforms your shot into a<LINE>
+//Transforms your Shot into a<LINE>
 //silent blue flame.<LINE>
 //Allows you to use<LINE>
-//"Non-fire shot".<END>
+//"Non-Fire Shot".<END>
 
 //Schneider's collar.<LINE>
 //Allows you to use<LINE>
-//"Kaiser block".<END>
+//"Kaiser Block".<END>
 
 //Lucky charm that proclaims<LINE>
 //emperor.<LINE>
 //Allows you to use<LINE>
-//"Kaiser tackle".<END>
+//"Kaiser Tackle".<END>
 
 //Cleats that make you want<LINE>
 //to spin on yourself.<LINE>
 //Allows you to use<LINE>
-//"Rolling pass".<END>
+//"Rolling Pass".<END>
 
 //Bracelet that gives you<LINE>
-//the elegance of a prince.<LINE>
+//the elegance of a Prince.<LINE>
 //Allows you to use<LINE>
 //"Prince Slide".<END>
 
 //Allows you to be as fast<LINE>
 //as an arrow.<LINE>
 //Allows you to use<LINE>
-//"Arrow tackle".<END>
+//"Arrow Tackle".<END>
 
 //Bracelet that repels<LINE>
 //others.<LINE>
 //Allows you to use<LINE>
-//"Hedgehog dribble".<END>
+//"Hedgehog Dribble".<END>
 
 //Allows you to find<LINE>
 //weaknesses in the opposing team's game.<LINE>
 //Allows you to use<LINE>
-//"Lobbing shoot".<END>
+//"Lobbing Shoot".<END>
 
-//Allows you to erect a defense<LINE>
+//Allows you to erect a Defense<LINE>
 //like a wall of iron,<LINE>
-//and use "Steel giant".<END>
+//and use "Steel Giant".<END>
 
 //Gloves to catch<LINE>
 //even a ghost.<LINE>
 //Allows you to use<LINE>
-//"Over throw catch".<END>
+//"Over Throw Catch".<END>
 
 //Allows you to feel very<LINE>
 //fast in your movements,<LINE>
-//and use "Lightning block".<END>
+//and use "Lightning Block".<END>
 
-//Allows you to make a pass<LINE>
+//Allows you to make a Pass<LINE>
 //at the speed of light,<LINE>
-//and use "Laser pass".<END>
+//and use "Laser Pass".<END>
 
 //Changes the rhythm quickly,<LINE>
 //disorienting the opponent.<LINE>
 //Allows you to use<LINE>
 //"Lightning switch".<END>
 
-//Allows you to shoot<LINE>
+//Allows you to Shoot<LINE>
 //like never before.<LINE>
 //Allows you to use<LINE>
-//"Laser shoot".<END>
+//"Laser Shoot".<END>
 
 //Sharpens the senses.<LINE>
 //Allows you to use<LINE>
-//"Super reaction".<END>
+//"Super Reaction".<END>
 
 //Boils the blood.<LINE>
 //Allows you to use<LINE>
-//"Open fire".<END>
+//"Open Fire".<END>
 
 //Gives precise orders<LINE>
 //from the back line<LINE>
@@ -2468,7 +2467,7 @@
 
 //Increases "Attack"<LINE>
 //and "Defense" to facilitate<LINE>
-//counterattacks.<END>
+//counterAttacks.<END>
 
 //Increases the speed<LINE>
 //of teammates and motivates<LINE>
@@ -2487,7 +2486,7 @@
 
 //Increases "Attack",<LINE>
 //"Speed", and "Physical"<LINE>
-//by attacking<LINE>
+//by Attacking<LINE>
 //with the entire team.<END>
 
 //Increases "Attack"<LINE>
@@ -2524,7 +2523,7 @@
 //of your teammates in<LINE>
 //your penalty area.<END>
 
-//Improves team's attack by motivating<LINE>
+//Improves team's Attack by motivating<LINE>
 //them with the ferocity of a tiger.<END>
 
 //Increases the effectiveness of<LINE>
@@ -2532,7 +2531,7 @@
 //advice from a football genius.<END>
 
 //Special moves are more effective<LINE>
-//when used in an attack<LINE>
+//when used in an Attack<LINE>
 //by the entire team.<END>
 
 //Increases the parameters and<LINE>
@@ -2541,7 +2540,7 @@
 
 //Increases "Defense",<LINE>
 //"Speed", and "Pass"<LINE>
-//through a quick attack formation.<END>
+//through a quick Attack formation.<END>
 
 //The team plays a more technical<LINE>
 //game with the most artistic<LINE>
@@ -2556,7 +2555,7 @@
 
 //Increases team's "Defense"<LINE>
 //by effectively directing<LINE>
-//the defense from the goal line.<END>
+//the Defense from the goal line.<END>
 
 //???<END>
 
@@ -2714,7 +2713,7 @@
 
 //Defender of Otomo Jr. High.<LINE>
 //Member of the Otomo Quartet.<LINE>
-//He takes care of the defense.<END>
+//He takes care of the Defense.<END>
 
 //Forward of Otomo Jr.<LINE>
 //High specialized in<LINE>
@@ -2738,11 +2737,11 @@
 
 //Tough defender of Hirado<LINE>
 //Junior High, he also leads<LINE>
-//powerful attacks.<END>
+//powerful Attacks.<END>
 
 //Technician of Hirado Junior<LINE>
 //High who combines<LINE>
-//his attacks with Jito.<END>
+//his Attacks with Jito.<END>
 
 //Captain of Furano Junior<LINE>
 //High with unshakable<LINE>
@@ -2770,7 +2769,7 @@
 
 //Midfielder of Toho<LINE>
 //Gakuen where he assists<LINE>
-//Hyuga and Sawada's attacks.<END>
+//Hyuga and Sawada's Attacks.<END>
 
 //The karate goalkeeper<LINE>
 //of Toho Gakuen. He combines<LINE>
@@ -2806,26 +2805,26 @@
 
 //French captain, Pierre<LINE>
 //is at the center of the famous<LINE>
-//attack of his team.<END>
+//Attack of his team.<END>
 
 //French center-forward known<LINE>
 //for his play with Pierre<LINE>
-//and his Cannon shoot.<END>
+//and his Cannon Shoot.<END>
 
 //German center-forward.<LINE>
 //He is tall and uses<LINE>
-//an effective heading game.<END>
+//an effective Heading game.<END>
 
 //The German champion of<LINE>
-//the midfield attacks<LINE>
+//the midfield Attacks<LINE>
 //as well as he defends.<END>
 
-//The "King", the star striker<LINE>
+//The "King", the Star striker<LINE>
 //of Germany. He is<LINE>
 //fast, powerful, and technical.<END>
 
 //Midfielder for<LINE>
-//Germany who quickly unblocks<LINE>
+//Germany who quickly unBlocks<LINE>
 //situations.<END>
 
 //The mysterious Iron Giant<LINE>
@@ -2846,7 +2845,7 @@
 
 //Center-forward for England,<LINE>
 //he has an excellent<LINE>
-//heading game.<END>
+//Heading game.<END>
 
 //Center-forward for England<LINE>
 //known to be a true<LINE>
@@ -2861,11 +2860,11 @@
 
 //Midfielder for<LINE>
 //Uruguay, very skilled<LINE>
-//in interceptions and passes.<END>
+//in interceptions and Passes.<END>
 
 //Defender for Uruguay,<LINE>
 //he creates openings<LINE>
-//in attack.<END>
+//in Attack.<END>
 
 //Fan of Tsubasa Ozora<LINE>
 //with excellent endurance.<END>
@@ -2885,7 +2884,7 @@
 //Morisaki against Hanawa.<END>
 
 //Block/120 SP: Allows you to<LINE>
-//block an attack with a<LINE>
+//Block an Attack with a<LINE>
 //stronger body.<END>
 
 //Tackle/80 SP: Allows you to<LINE>
@@ -2893,43 +2892,43 @@
 //to take the ball from them.<END>
 
 //Dribble/80 SP: Allows you to<LINE>
-//dribble past opponents<LINE>
+//Dribble past opponents<LINE>
 //like Taki on the wings.<END>
 
 //Shot/80 SP: Allows you to<LINE>
-//do long diving headers<LINE>
+//do long diving Headers<LINE>
 //like Izawa.<END>
 
 //Interception/80 SP: Allows you<LINE>
 //to jump very high<LINE>
-//to intercept a pass.<END>
+//to intercept a Pass.<END>
 
-//Shot/80 SP: Allows you to shoot<LINE>
+//Shot/80 SP: Allows you to Shoot<LINE>
 //like an excellent scorer<LINE>
 //from Nankatsu.<END>
 
 //Pass/100 SP: Allows you<LINE>
-//to make passes<LINE>
+//to make Passes<LINE>
 //like the Trio from Shutetsu.<END>
 
 //Pass/80 SP: Allows you to make<LINE>
-//passes from a Drive<LINE>
-//shot that are hard to intercept.<END>
+//Passes from a Drive<LINE>
+//Shot that are hard to intercept.<END>
 
 //Feint/60 SP: Allows you to<LINE>
-//dribble the ball over<LINE>
-//the opponent's head.<END>
+//Dribble the ball over<LINE>
+//the opponent's Head.<END>
 
 //Feint/60 SP: Allows you to<LINE>
 //use a Brazilian style<LINE>
-//dribble.<END>
+//Dribble.<END>
 
 //Shot/120 SP: Allows you to do<LINE>
-//an acrobatic overhead kick<LINE>
+//an acrobatic overHead kick<LINE>
 //in the air.<END>
 
 //Shot/180 SP: Allows you to do<LINE>
-//a curved shot that makes<LINE>
+//a curved Shot that makes<LINE>
 //the ball dive.<END>
 
 //Shot/200 SP: Bicycle<LINE>
@@ -2937,7 +2936,7 @@
 //match against Germany.<END>
 
 //Feint/60 SP: allows you to<LINE>
-//pass the opponent<LINE>
+//Pass the opponent<LINE>
 //in an artistic manner.<END>
 
 //Interception/80 SP: allows you to<LINE>
@@ -2945,35 +2944,35 @@
 //unexpectedly.<END>
 
 //Block/120 SP: allows you to<LINE>
-//intercept a shot<LINE>
+//intercept a Shot<LINE>
 //like Ishizaki.<END>
 
 //Tackle/60 SP: steals the<LINE>
 //ball thanks to the teamwork<LINE>
 //of Otomo Quartet.<END>
 
-//Shot/100 SP: a quick shot<LINE>
+//Shot/100 SP: a quick Shot<LINE>
 //executed thanks to the agility<LINE>
 //of Nitta.<END>
 
 //Feint/60 SP: allows you to<LINE>
-//dribble so quickly that<LINE>
+//Dribble so quickly that<LINE>
 //the opponent can't react.<END>
 
 //Pass/60 SP: make a<LINE>
-//precise pass that can<LINE>
+//precise Pass that can<LINE>
 //reverse the game's course.<END>
 
-//Pass/60 SP: a fast pass<LINE>
+//Pass/60 SP: a fast Pass<LINE>
 //that the opponent cannot<LINE>
 //intercept.<END>
 
-//Feint/70 SP: dribble<LINE>
+//Feint/70 SP: Dribble<LINE>
 //with skill and finesse<LINE>
 //like Misugi.<END>
 
 //Shot/200 SP: a<LINE>
-//miraculous shot from Misugi<LINE>
+//miraculous Shot from Misugi<LINE>
 //that disappears.<END>
 
 //Interception/80 SP:<LINE>
@@ -2981,13 +2980,13 @@
 //with speed and agility.<END>
 
 //Shot/120 SP: make a<LINE>
-//powerful header.<END>
+//powerful Header.<END>
 
 //Dribble/80 SP: allows you to<LINE>
 //force your way through<LINE>
 //your opponents.<END>
 
-//Feint/60 SP: dribble<LINE>
+//Feint/60 SP: Dribble<LINE>
 //with finesse.<END>
 
 //Shot/100 SP: allows you to<LINE>
@@ -2996,49 +2995,49 @@
 
 //Tackle/80 SP: take<LINE>
 //the ball with a<LINE>
-//tackle after tackle.<END>
+//Tackle after Tackle.<END>
 
-//Pass/60 SP: a pass<LINE>
+//Pass/60 SP: a Pass<LINE>
 //with a razor-sharp effect<LINE>
 //difficult to intercept.<END>
 
-//Shot/120 SP: a brushed shot<LINE>
+//Shot/120 SP: a brushed Shot<LINE>
 //from Souda.<END>
 
-//Block/80 SP: block<LINE>
+//Block/80 SP: Block<LINE>
 //the opponent by marking<LINE>
 //them very closely.<END>
 
 //Tackle/100 SP: an<LINE>
-//unpredictable tackle<LINE>
+//unpredictable Tackle<LINE>
 //for the opponent.<END>
 
-//Shot/120 SP: an acrobatic shot<LINE>
+//Shot/120 SP: an acrobatic Shot<LINE>
 //from the Tachibana brothers<LINE>
 //revealed in Nankatsu.<END>
 
 //Interception/120 SP: allows you to<LINE>
-//intercept passes<LINE>
+//intercept Passes<LINE>
 //with Skylab Hurricane.<END>
 
 //Shot/140 SP: use<LINE>
 //the posts to jump<LINE>
-//in the air and shoot.<END>
+//in the air and Shoot.<END>
 
 //Shot/200 SP: Twin Shoot<LINE>
 //in the air from the Tachibana<LINE>
 //brothers propelled by Jito.<END>
 
 //Pass/70 SP: catch<LINE>
-//the defense off guard<LINE>
-//with a brushed pass.<END>
+//the Defense off guard<LINE>
+//with a brushed Pass.<END>
 
 //Shot/120 SP: hit<LINE>
 //with all your might.<END>
 
-//Feinte/80 SP: simply dribble.<END>
+//Feinte/80 SP: simply Dribble.<END>
 
-//Dribble/80 SP: pass opponents<LINE>
+//Dribble/80 SP: Pass opponents<LINE>
 //with Sano's agile dribbling.<END>
 
 //Tir/100 SP: destabilize<LINE>
@@ -3046,24 +3045,24 @@
 //direction.<END>
 
 //Interception/80 SP: find<LINE>
-//a gap in the defense<LINE>
+//a gap in the Defense<LINE>
 //to take the ball.<END>
 
-//Tir/80 SP: a nourished shot<LINE>
+//Tir/80 SP: a nourished Shot<LINE>
 //from the spirit<LINE>
 //of the snowy lands.<END>
 
-//Passe/80 SP: a variant pass<LINE>
-//of the Eagle shot<LINE>
+//Passe/80 SP: a variant Pass<LINE>
+//of the Eagle Shot<LINE>
 //difficult to intercept.<END>
 
 //Feinte/60 SP: hold<LINE>
 //the ball obstinately.<END>
 
-//Tir/140 SP: a shot<LINE>
+//Tir/140 SP: a Shot<LINE>
 //that skims the ground.<END>
 
-//Tir/200 SP: a shot capable<LINE>
+//Tir/200 SP: a Shot capable<LINE>
 //of piercing through a snowstorm.<END>
 
 //Interception/100 SP: a<LINE>
@@ -3072,7 +3071,7 @@
 
 //Tacle/80 SP: steal<LINE>
 //the ball after feinting<LINE>
-//a tackle.<END>
+//a Tackle.<END>
 
 //Stop/120 SP: catch<LINE>
 //the ball with composure.<END>
@@ -3091,28 +3090,28 @@
 
 //Shot/140 SP: a variation<LINE>
 //of Wakashimazu's<LINE>
-//karate shot.<END>
+//karate Shot.<END>
 
 //Shot/100 SP: a powerful<LINE>
-//volley shot<LINE>
+//volley Shot<LINE>
 //from mid-air.<END>
 
 //Pass/80 SP: powerful<LINE>
-//variant pass<LINE>
+//variant Pass<LINE>
 //of the Tiger Shot.<END>
 
 //Feint/80 SP: charge<LINE>
 //straight ahead, ejecting<LINE>
 //opponents.<END>
 
-//Shot/120 SP: a powerful shot<LINE>
+//Shot/120 SP: a powerful Shot<LINE>
 //created by Hyuga in Okinawa,<LINE>
 //which pierces through waves.<END>
 
 //Shot/200 SP: an improved<LINE>
 //version of the Tiger Shot.<END>
 
-//Tackle/80 SP: tackle with<LINE>
+//Tackle/80 SP: Tackle with<LINE>
 //the force of a Tiger Shot.<END>
 
 //Pass/100 SP: a one-two<LINE>
@@ -3129,20 +3128,20 @@
 
 //Shot/140 SP: strike<LINE>
 //like Schneider and deliver<LINE>
-//a fireball.<END>
+//a Fireball.<END>
 
 //Stop/180 SP: approach all<LINE>
-//shots with quick analysis<LINE>
+//Shots with quick analysis<LINE>
 //and super reflexes.<END>
 
 //Stop/180 SP: catch<LINE>
 //the ball with one hand like<LINE>
 //the excellent goalkeeper Gino.<END>
 
-//Shot/140 SP: make a shot<LINE>
+//Shot/140 SP: make a Shot<LINE>
 //as fast as lightning.<END>
 
-//Feint/80 SP: dribble<LINE>
+//Feint/80 SP: Dribble<LINE>
 //opponents<LINE>
 //like the prodigy Diaz.<END>
 
@@ -3164,18 +3163,18 @@
 //the opponent with a tall body.<END>
 
 //Block/80 SP: stop<LINE>
-//a shot by creating a wall<LINE>
+//a Shot by creating a wall<LINE>
 //in front of the opponent.<END>
 
 //Tackle/80 SP: steal<LINE>
 //the ball when the opponent<LINE>
-//jumps over a tackle.<END>
+//jumps over a Tackle.<END>
 
 //Shoot/140 SP: hit with the<LINE>
 //force of a cannonball.<END>
 
-//Feint/80 SP: pass<LINE>
-//the opponent with an elegant dribble.<END>
+//Feint/80 SP: Pass<LINE>
+//the opponent with an elegant Dribble.<END>
 
 //Shoot/140 SP: hit like<LINE>
 //Pierre to make the ball descend<LINE>
@@ -3183,25 +3182,25 @@
 
 //Tackle/80 SP: steal<LINE>
 //the ball<LINE>
-//with an elegant tackle.<END>
+//with an elegant Tackle.<END>
 
 //Pass/80 SP: make a play<LINE>
-//of passes modeled after the shape<LINE>
+//of Passes modeled after the shape<LINE>
 //of the Eiffel Tower.<END>
 
 //Shoot/120 SP: make a powerful<LINE>
-//header in the air.<END>
+//Header in the air.<END>
 
 //Shoot/120 SP: hit<LINE>
 //like Margas.<END>
 
 //Dribble/80 SP: dodge<LINE>
-//any tackle.<END>
+//any Tackle.<END>
 
 //Shoot/140 SP: feint<LINE>
-//the Fire shot.<END>
+//the Fire Shot.<END>
 
-//Block/80 SP: shoot and<LINE>
+//Block/80 SP: Shoot and<LINE>
 //send the opponent flying<LINE>
 //in one motion.<END>
 
@@ -3210,18 +3209,18 @@
 //like Schneider.<END>
 
 //Pass/80 SP: make<LINE>
-//an acrobatic pass<LINE>
-//through the defense.<END>
+//an acrobatic Pass<LINE>
+//through the Defense.<END>
 
 //Dribble/80 SP: use the<LINE>
 //opponent's weakness<LINE>
-//to dribble past them.<END>
+//to Dribble past them.<END>
 
 //Tackle/80 SP: steal<LINE>
 //the ball with a precise<LINE>
-//tackle.<END>
+//Tackle.<END>
 
-//Feint/80 SP: dribble<LINE>
+//Feint/80 SP: Dribble<LINE>
 //like Karlz by lowering<LINE>
 //his center of gravity.<END>
 
@@ -3229,7 +3228,7 @@
 //the goalkeeper.<END>
 
 //Save/140 SP: stop<LINE>
-//any shot<LINE>
+//any Shot<LINE>
 //without trembling.<END>
 
 //Save/180 SP: catch<LINE>
@@ -3240,19 +3239,19 @@
 //the ball with the elbow.<END>
 
 //Pass/80 SP: make<LINE>
-//a pass with<LINE>
+//a Pass with<LINE>
 //great accuracy.<END>
 
 //Feint/80 SP: quickly move<LINE>
 //from left to right<LINE>
-//to dribble past the opponent.<END>
+//to Dribble past the opponent.<END>
 
-//Shoot/120 SP: shoot<LINE>
+//Shoot/120 SP: Shoot<LINE>
 //with great accuracy.<END>
 
 //Interception/80 SP: concentrate<LINE>
 //to intercept<LINE>
-//dangerous passes.<END>
+//dangerous Passes.<END>
 
 //Tackle/80 SP: take<LINE>
 //the ball from the opponent<LINE>
@@ -3264,18 +3263,18 @@
 
 //DUMMY_F<END>
 
-//Shot/140 SP: Twin shoot<LINE>
+//Shot/140 SP: Twin Shoot<LINE>
 //by the Tachibana brothers that<LINE>
 //curves from left to right.<END>
 
 //DUMMY_F<END>
 
 //Shot/140 SP: powerful<LINE>
-//overhead kick with spin<LINE>
+//overHead kick with spin<LINE>
 //by Hyuga and Sawada.<END>
 
 //Pass/60 SP: ultimate<LINE>
-//one-two pass.<END>
+//one-two Pass.<END>
 
 //DUMMY_F<END>
 
@@ -3285,7 +3284,7 @@
 
 //The representative from Osaka where<LINE>
 //Makoto Souda plays equally<LINE>
-//in defense and offense.<END>
+//in Defense and Offense.<END>
 
 //DUMMY_F<END>
 
@@ -3348,12 +3347,12 @@
 //at the Tokaido Regional Event.<END>
 
 //A German team that has<LINE>
-//Schneider in attack<LINE>
-//and Wakabayashi in defense.<END>
+//Schneider in Attack<LINE>
+//and Wakabayashi in Defense.<END>
 
 //Team from the International Jr.<LINE>
 //Youth Tournament that mainly<LINE>
-//attacks through the wings.<END>
+//Attacks through the wings.<END>
 
 //Team from the International Jr.<LINE>
 //Youth Tournament focused on<LINE>
@@ -3373,7 +3372,7 @@
 
 //Team from the International Jr.<LINE>
 //Youth Tournament with perfect<LINE>
-//attack and defense.<END>
+//Attack and Defense.<END>
 
 //DUMMY_F<END>
 
@@ -3425,7 +3424,7 @@
 
 //The opponent<LINE>
 //selects<LINE>
-//their shooter.<END>
+//their Shooter.<END>
 
 //Too many items.<LINE>
 //Exchange this item<LINE>
