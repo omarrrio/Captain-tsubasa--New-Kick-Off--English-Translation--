@@ -20,8 +20,8 @@
 //Oh, no!<END>
 
 //Goal!<LINE>
-//Izawa, taking advantage of his momentum, dove<LINE>
-//5 meters!<END>
+//Izawa, taking advantage of<LINE>
+//his momentum, dove 5 meters!<END>
 
 //Matsuyama was neck and neck<LINE>
 //with Tsubasa but couldn't<LINE>

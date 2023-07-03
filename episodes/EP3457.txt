@@ -55,8 +55,9 @@
 //seems to be causing him pain!<LINE>
 //Tsubasa has been thrown to the ground!<END>
 
-//Sorry Tsubasa, but I've decided not<LINE>
-//to give you any gifts, even if you're injured.<END>
+//Sorry Tsubasa, but I've decided<LINE>
+//not to give you any gifts,<LINE>
+//even if you're injured.<END>
 
 //If I worry about your injury,<LINE>
 //I'll lose.<LINE>

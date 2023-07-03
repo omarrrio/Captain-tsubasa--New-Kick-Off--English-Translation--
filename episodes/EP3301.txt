@@ -2,7 +2,8 @@
 
 //We played quite well.<END>
 
-//Let's continue like this in the second half.<END>
+//Let's continue like this<LINE>
+//in the second half.<END>
 
 //It's my fault.<LINE>
 //I should have scored.<LINE>

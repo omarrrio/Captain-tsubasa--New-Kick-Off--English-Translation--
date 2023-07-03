@@ -64,8 +64,10 @@
 //You must have worked hard<LINE>
 //to make all this.<END>
 
-//By the way, Fujisawa, are you still going<LINE>
-//to the United States in the second semester?<END>
+//By the way, Fujisawa,<LINE>
+//are you still going<LINE>
+//to the United States<LINE>
+//in the second semester?<END>
 
 //Yes.<END>
 

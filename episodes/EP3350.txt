@@ -16,7 +16,8 @@
 //He's exploiting a hole in Furano's defense<LINE>
 //that opened up when Ishida faked his pass!<END>
 
-//Darn, we need to quickly get back on defense!<END>
+//Darn, we need to quickly<LINE>
+//get back on defense!<END>
 
 //Matsuyama, Furano's captain,<LINE>
 //makes a sliding tackle to stop<LINE>
@@ -40,7 +41,8 @@
 //no difficulty protecting the goal.<END>
 
 //But wait!<LINE>
-//A player is sprinting furiously toward the ball!<LINE>
+//A player is sprinting<LINE>
+//furiously toward the ball!<LINE>
 //It's Takei, Minamiuwa's center-forward!<END>
 
 //Watch out!<END>

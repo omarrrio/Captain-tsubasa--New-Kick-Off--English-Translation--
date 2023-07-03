@@ -8,7 +8,7 @@
 
 //Victory of Tsubasa against Nitta<END>
 
-//Wall of steel of Otomo's Quartet!<END>
+//Otomo Quartet's Wall of Steel!<END>
 
 //Unbelievable volley recovery<END>
 
@@ -248,11 +248,11 @@
 
 //Avalanche Move, secret technique<END>
 
-//Furnao Tempest arrives!<END>
+//Furano Tempest arrives!<END>
 
 //Victory: 4-0<END>
 
-//Calme decision<END>
+//Calm decision<END>
 
 //Bond of friendship<END>
 
@@ -525,7 +525,7 @@
 //The Hokkaido Regionals' title is close<LINE>
 //to be obtained by Furano Junior High.<LINE>
 //With a greased team play,<LINE>
-//They're aiming a place<LINE>
+//they're aiming a place<LINE>
 //in the national tournament!<END>
 
 //After winning<LINE>
@@ -540,7 +540,7 @@
 //One match left before opposing<LINE>
 //Nankatsu team.<LINE>
 //Could Furano continue<LINE>
-//it's momentum?<END>
+//its momentum?<END>
 
 //It's the moment of truth!<LINE>
 //Here they are opposing Nankatsu<LINE>
@@ -629,7 +629,7 @@
 //and to win their first tournament!<END>
 
 //Coming from Hokkaido, Furano Junior High,<LINE>
-//known for it's perfect team play,<LINE>
+//known for its perfect team play,<LINE>
 //is ready to surge on the tournament<LINE>
 //under the lead of Matsuyama!<END>
 

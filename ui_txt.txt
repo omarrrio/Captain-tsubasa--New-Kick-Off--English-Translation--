@@ -939,7 +939,7 @@
 
 //Physical Wall<END>
 
-//Wall of steel<END>
+//Wall of Steel<END>
 
 //Power Defense<END>
 
@@ -1029,7 +1029,7 @@
 
 //Eagle Pass<END>
 
-//Persistent keep<END>
+//Persistent Keep<END>
 
 //Eagle Shot<END>
 
@@ -1039,7 +1039,7 @@
 
 //Faint Tackle<END>
 
-//Calm decision<END>
+//Calm Decision<END>
 
 //Triangle Assault<END>
 
@@ -1501,7 +1501,7 @@
 
 //Kamikaze Gloves<END>
 
-//Wall of steel<END>
+//Wall of Steel<END>
 
 //Hercule Shinguards<END>
 
@@ -2028,7 +2028,7 @@
 
 //Grants a Defense of steel,<LINE>
 //and usage<LINE>
-//of the "Wall of steel" ability.<END>
+//of the "Wall of Steel" ability.<END>
 
 //Grants huge strength.<LINE>
 //Allow usage of<LINE>
@@ -2210,7 +2210,7 @@
 //Grants unfailing morale<LINE>
 //against all challenges.<LINE>
 //Allows usage of<LINE>
-//the "Persistent keep" ability.<END>
+//the "Persistent Keep" ability.<END>
 
 //Allows Shooting like<LINE>
 //a flying eagle,<LINE>
@@ -2234,7 +2234,7 @@
 
 //Very warm Gloves.<LINE>
 //Allow usage of<LINE>
-//the "Calm decision" ability.<END>
+//the "Calm Decision" ability.<END>
 
 //Makes you more nimble.<LINE>
 //Allows usage of<LINE>
@@ -2405,8 +2405,8 @@
 //Allows you to use<LINE>
 //"Hedgehog Dribble".<END>
 
-//Allows you to find<LINE>
-//weaknesses in the opposing team's game.<LINE>
+//Allows you to find weaknesses<LINE>
+//in the opposing team's game.<LINE>
 //Allows you to use<LINE>
 //"Lobbing Shoot".<END>
 

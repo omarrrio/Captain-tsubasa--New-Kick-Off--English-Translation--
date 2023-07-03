@@ -1,6 +1,7 @@
 // FILE: EP3455.str containing 17 strings
 
-//It's the clash between Matsuyama and Kisugi!<END>
+//It's the clash between<LINE>
+//Matsuyama and Kisugi!<END>
 
 //What?<END>
 
@@ -25,8 +26,8 @@
 
 //Argh!<END>
 
-//Matsuyama doesn't give up<LINE>
-//and positions himself in the path of the ball<LINE>
+//Matsuyama doesn't give up and positions<LINE>
+//himself in the path of the ball<LINE>
 //still in the air!<LINE>
 //But Tsubasa's shot is too powerful!<END>
 

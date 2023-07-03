@@ -26,8 +26,9 @@
 //Yeah, I guess you're right.<END>
 
 //Guys, don't let your guard down.<LINE>
-//The further you progress in the championship,<LINE>
-//the stronger your opponents will be.<END>
+//The further you progress in<LINE>
+//the championship, the stronger<LINE>
+//your opponents will be.<END>
 
 //Today's opponent, Minamiuwa, has<LINE>
 //a team whose defense and attack<LINE>
