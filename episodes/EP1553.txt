@@ -10,7 +10,7 @@
 //On the ball's trajectory<LINE>
 //and completely unmarked,<LINE>
 //he's about to perform<LINE>
-//a Bicycle Kick!<END>
+//an Overhead Shot!<END>
 
 //I'll stop it!<LINE>
 //I won't let you score<LINE>

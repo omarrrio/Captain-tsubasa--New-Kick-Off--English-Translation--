@@ -171,7 +171,7 @@
 //Tsubasa...<LINE>
 //I have devoted the last four years<LINE>
 //of my life to prepare for this moment...<LINE>
-//My last match in the college league!<END>
+//My last match in the middle school league!<END>
 
 //A request for a match?<END>
 

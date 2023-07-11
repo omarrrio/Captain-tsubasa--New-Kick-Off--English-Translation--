@@ -15,7 +15,8 @@
 //in the face of Hyuga's attack!<END>
 
 //He still has the ball!<LINE>
-//Hyuga will have a hard time taking it from him!<END>
+//Hyuga will have a hard time<LINE>
+//taking it from him!<END>
 
 //The two also faced each other<LINE>
 //in the national championship when they were<LINE>
@@ -57,6 +58,6 @@
 //That was a great pass, captain!<END>
 
 //Well done, Oda!<LINE>
-//You showed them what a Furano center forward<LINE>
-//is capable of!<END>
+//You showed them what a Furano<LINE>
+//center forward is capable of!<END>
 

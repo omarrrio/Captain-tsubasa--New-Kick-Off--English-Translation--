@@ -49,8 +49,8 @@
 
 //Nankatsu is the champion!<LINE>
 //For the third consecutive year!<LINE>
-//Their name will certainly remain<LINE>
-//in the history of college football.<LINE>
+//Their name will certainly remain in<LINE>
+//the history of middle school football.<LINE>
 //Congratulations to the Nankatsu team!<END>
 
 //Tsubasa! Our third victory!<LINE>
@@ -107,7 +107,8 @@
 //But I don't know what yet...<END>
 
 //Hyuga…<LINE>
-//After college, I'm going to Brazil.<END>
+//After middle school,<LINE>
+//I'm going to Brazil.<END>
 
 //Tsubasa…<LINE>
 //I think this puts an end<LINE>

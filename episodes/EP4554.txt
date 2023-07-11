@@ -17,16 +17,16 @@
 
 //No! It was a pass to Misugi!<END>
 
-//Misugi is going to attempt a bicycle kick!<END>
+//Misugi is going to attempt an Overhead Shot!<END>
 
 //Misugi strikes the ball<LINE>
-//with a magnificent bicycle kick!<LINE>
+//with a magnificent Overhead Shot!<LINE>
 //Morisaki won't be able to react in time!<END>
 
 //What?!<END>
 
 //Oh! Tsubasa has returned the ball to Misugi<LINE>
-//with a bicycle kick!<END>
+//with an Overhead Shot!<END>
 
 //Pff...<END>
 

@@ -46,12 +46,12 @@
 
 //He shoots!<LINE>
 //Misugi takes the ball on the volley<LINE>
-//with a bicycle kick!<END>
+//with an Overhead Shot!<END>
 
 //Misugi!<END>
 
 //Goal!<LINE>
-//Misugi's powerful bicycle kick<LINE>
+//Misugi's powerful Overhead Shot<LINE>
 //heads straight for Nankatsu's goal!<END>
 
 //Yes!<END>

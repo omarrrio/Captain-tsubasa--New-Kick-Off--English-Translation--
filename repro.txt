@@ -378,8 +378,8 @@
 
 //Replacement<END>
 
-//Tsubasa spends his last summer<LINE>
-//in college!<LINE>
+//Tsubasa spends his last<LINE>
+//summer in middle school!<LINE>
 //Hoping to obtain<LINE>
 //their 3rd consecutive title,<LINE>
 //they must win the first<LINE>
@@ -633,10 +633,11 @@
 //is ready to surge on the tournament<LINE>
 //under the lead of Matsuyama!<END>
 
-//After 2 years of re-education, Misugi,<LINE>
-//The Prince of the field, comes back<LINE>
-//to the ground. Will we assist again<LINE>
-//to a confrontation between Tsubasa and him?<END>
+//After 2 years of re-education,<LINE>
+//Misugi, The Prince of the field,<LINE>
+//comes back to the field.<LINE>
+//Will we assist again to a<LINE>
+//confrontation between him and Tsubasa?<END>
 
 //You have joined the legendary team of<LINE>
 //Nankatsu! Become captain who<LINE>

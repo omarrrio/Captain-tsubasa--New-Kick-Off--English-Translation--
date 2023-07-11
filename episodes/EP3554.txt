@@ -7,7 +7,8 @@
 
 //Darn! The forward is marked.<LINE>
 //Even if I avoid Hyuga,<LINE>
-//their goalkeeper Wakashimazu is still there!<END>
+//their goalkeeper, Wakashimazu,<LINE>
+//is still there!<END>
 
 //If I can't position myself,<LINE>
 //I won't be able to score!<END>
@@ -18,7 +19,8 @@
 //It seems like the two captains<LINE>
 //will face off one-on-one.<END>
 
-//At this point in the match, I have to score,<LINE>
+//At this point in the match,<LINE>
+//I have to score,<LINE>
 //as the team captain!<END>
 
 //It's all or nothing... I'm taking my chance!<LINE>
@@ -40,7 +42,7 @@
 
 //Ah! Wakashimazu!<END>
 
-//Yes, we can trust him...<END>
+//Hmm, leave it to me...<END>
 
 //What?<END>
 

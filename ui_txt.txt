@@ -1225,9 +1225,9 @@
 
 //Golden Yoichi<END>
 
-//Start an episode.<END>
+//Start a new game.<END>
 
-//Resume a saved party.<END>
+//Load a saved party.<END>
 
 //Resume suspended party.<END>
 
@@ -1762,7 +1762,7 @@
 
 //Slightly increase<LINE>
 //success rate<LINE>
-//of "Out".<END>
+//of "Rushing Out".<END>
 
 //Slightly increase<LINE>
 //success rate<LINE>
@@ -1798,13 +1798,13 @@
 //and success rate<LINE>
 //of "Guard".<END>
 
-//Decrease"Defense", but<LINE>
+//Decreases "Defense", but<LINE>
 //increases success<LINE>
 //of "Stop" and "Parry".<END>
 
-//Decrease"Defense", but<LINE>
+//Decreases "Defense", but<LINE>
 //increases success<LINE>
-//of "Out" and "Guard".<END>
+//of "Rushing Out" and "Guard".<END>
 
 //Slightly increase<LINE>
 //success rate<LINE>
@@ -2193,9 +2193,9 @@
 //"Surprise Header" ability.<END>
 
 //Allows stealing the ball<LINE>
-//to be much easierplus,<LINE>
+//to be much easier,<LINE>
 //and grants usage of<LINE>
-//the "Quick snatch" ability.<END>
+//the "Quick Snatch" ability.<END>
 
 //Cleats that prevent<LINE>
 //slipping on ice.<LINE>
@@ -3150,7 +3150,7 @@
 
 //Shot/140 SP: do a wheelie<LINE>
 //and a backflip, then<LINE>
-//a Bicycle Kick.<END>
+//an Overhead Shot.<END>
 
 //Block/120 SP: stop<LINE>
 //the ball with the knee<LINE>

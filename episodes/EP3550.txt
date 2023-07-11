@@ -1,7 +1,8 @@
 // FILE: EP3550.str containing 13 strings
 
 //Watch out, Hyuga!<LINE>
-//I'm going to make you pay for primary school!<LINE>
+//I'm going to make you pay<LINE>
+//for primary school!<LINE>
 //And we're going to win<LINE>
 //this time!<END>
 

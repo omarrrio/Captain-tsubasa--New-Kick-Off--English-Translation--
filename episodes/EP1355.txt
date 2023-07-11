@@ -18,7 +18,7 @@
 //Let's not forget that the ball<LINE>
 //is still in play...<END>
 
-//Hyuga performs a bicycle kick<LINE>
+//Hyuga performs an Overhead Shot<LINE>
 //and makes a pass!<END>
 
 //Tsubasa!<END>
@@ -32,7 +32,7 @@
 
 //Tsubasa performs a rare and delicate<LINE>
 //technical move and does a<LINE>
-//backflip bicycle kick!<END>
+//backflip Overhead Shot!<END>
 
 //I won't let you do that!<END>
 

@@ -1,11 +1,11 @@
 // FILE: EP0653.str containing 14 strings
 
-//Bicycle kick!<END>
+//Overhead Shot!<END>
 
 //What?!<END>
 
 //And here comes Tsubasa's famous<LINE>
-//bicycle kick!<LINE>
+//Overhead Shot!<LINE>
 //Matsuyama won't be able to stop this!<END>
 
 //But the ball is coming<LINE>
@@ -21,7 +21,7 @@
 //And it's a goal!<LINE>
 //The ball has been perfectly aimed<LINE>
 //into the right side of the goal!<LINE>
-//A superb long-range bicycle kick<LINE>
+//A superb long-range Overhead Shot<LINE>
 //by Tsubasa!<END>
 
 //Oh! Tsubasa is going to land<LINE>
