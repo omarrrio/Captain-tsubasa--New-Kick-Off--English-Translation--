@@ -29,8 +29,8 @@
 //When one thinks of Tokyo,<LINE>
 //Toho Gakuen immediately comes to mind.<LINE>
 //Well, Musashi Junior High has<LINE>
-//made it to the national tournament by beating<LINE>
-//Toho in the regional finals!<END>
+//made it to the national tournament<LINE>
+//by beating Toho in the regional finals!<END>
 
 //Misugi, the captain of Musashi, is<LINE>
 //certainly the player to watch.<LINE>

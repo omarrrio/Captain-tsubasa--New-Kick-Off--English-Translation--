@@ -566,15 +566,15 @@
 //Will they be able to win<LINE>
 //without Misugi on the field?<END>
 
-//Does Musashi always base on Misugi?<LINE>
+//Is Musashi's always counting on Misugi?<LINE>
 //Affirmed in all cases<LINE>
-//by team Konishi Junior High<LINE>
+//by team Konishi Junior High,<LINE>
 //whose thinking to win<LINE>
-//easely without Misugi on the field.<END>
+//easily without Misugi on the field.<END>
 
 //"We were supposed to beat Hyuga!"<LINE>
 //Meiwa-Higashi gathered<LINE>
-//the best elements whome formaly<LINE>
+//the best elements whom formally<LINE>
 //composed Meiwa FC team,<LINE>
 //and will now strike Musashi!<END>
 
@@ -613,9 +613,9 @@
 //DUMMY_F<END>
 
 //<LINE>
-//Led by Tsubasa Ozaru, Nankatsu Junior High<LINE>
-//will attempt to win it's 3rd<LINE>
-//consecutive title!<END>
+//Led by Tsubasa Ozaru,<LINE>
+//Nankatsu Junior High will attempt<LINE>
+//to win it's 3rd consecutive title!<END>
 
 //Selected from the National Junior High<LINE>
 //School Tournament, Tsubasa and the<LINE>

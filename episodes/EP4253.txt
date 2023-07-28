@@ -1,7 +1,7 @@
 // FILE: EP4253.str containing 6 strings
 
 //Sanada moves up into Matsukami's<LINE>
-//half of the field<LINE>
+//half of the field.<LINE>
 //He's fast!<END>
 
 //I'm going to score this one by myself!<LINE>

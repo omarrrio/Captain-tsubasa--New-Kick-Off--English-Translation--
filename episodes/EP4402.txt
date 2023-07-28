@@ -12,7 +12,8 @@
 //of the game, but with Misugi,<LINE>
 //Musashi took charge of the game.<END>
 
-//Musashi has won the right to go to the final.<END>
+//Musashi has won<LINE>
+//the right to go to the final.<END>
 
 //Misugi! Your victory over Toho<LINE>
 //was not just a fluke.<LINE>

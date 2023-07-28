@@ -39,8 +39,8 @@
 //I will have to mark Tsubasa<LINE>
 //in the midfield as much as possible...<END>
 
-//Here we are, at last, at the final<LINE>
-//of the National Junior High School Tournament.<END>
+//Here we are, at last, at the final of<LINE>
+//the National Junior High School Tournament.<END>
 
 //For the past three years,<LINE>
 //the final has pitted teams<LINE>
@@ -50,16 +50,18 @@
 //it is Musashi Junior High School<LINE>
 //that represents Tokyo...<END>
 
-//And they qualified for the national tournament<LINE>
-//by beating the team from Hyuga,<LINE>
+//And they qualified for the national<LINE>
+//tournament by beating the team from Hyuga,<LINE>
 //Toho Gakuen!<END>
 
 //Shizuoka is once again represented<LINE>
 //by Nankatsu, which is aiming<LINE>
 //for a third consecutive title!<END>
 
-//All eyes will be on the two football prodigies,<LINE>
-//the two captains Misugi and Tsubasa!<END>
+//All eyes will be on<LINE>
+//the two football prodigies,<LINE>
+//the two captains,<LINE>
+//Misugi and Tsubasa!<END>
 
 //This final will determine<LINE>
 //the best team in the country!<LINE>

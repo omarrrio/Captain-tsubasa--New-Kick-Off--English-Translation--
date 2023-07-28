@@ -3,18 +3,21 @@
 //A pass heading for Misugi!<END>
 
 //Honma, Ichinose, and Sanada,<LINE>
-//the three players who have been playing together<LINE>
-//since elementary school,<LINE>
-//are now in the opposing team's half of the field!<LINE>
+//the three players who have been playing<LINE>
+//together since elementary school,<LINE>
+//are now in the opposing<LINE>
+//team's half of the field!<LINE>
 //What will Misugi do?<END>
 
 //Oh... Misugi is dribbling towards the goal!<END>
 
 //Stop Misugi!<LINE>
-//Give him a taste of Meiwa-Higashi's tackles!<END>
+//Give him a taste of<LINE>
+//Meiwa-Higashi's tackles!<END>
 
-//The players from Meiwa-Higashi are attempting<LINE>
-//to tackle Misugi one after another!<END>
+//The players from Meiwa-Higashi<LINE>
+//are attempting to tackle Misugi<LINE>
+//one after the other!<END>
 
 //Look!<END>
 
@@ -25,8 +28,8 @@
 //easily avoided them!<END>
 
 //Misugi continues to dribble!<LINE>
-//Only the goalkeeper and two defenders remain<LINE>
-//between him and the goal!<END>
+//Only the goalkeeper and two defenders<LINE>
+//remain between him and the goal!<END>
 
 //I'm going to stop you!<END>
 

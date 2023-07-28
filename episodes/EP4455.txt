@@ -30,6 +30,7 @@
 //OK! It's in!<END>
 
 //What a fabulous shot!<LINE>
-//Misugi, the prodigy of Musashi, has successfully<LINE>
-//scored with a superb shot!<END>
+//Misugi, the prodigy of Musashi,<LINE>
+//has successfully scored with<LINE>
+//a superb shot!<END>
 

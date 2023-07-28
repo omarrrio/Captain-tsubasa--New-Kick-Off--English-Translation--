@@ -20,10 +20,9 @@
 //Great!<END>
 
 //Normally, Musashi does a good job<LINE>
-//of trapping attackers<LINE>
-//in offside positions.<LINE>
-//But Misugi, their playmaker, is on the bench<LINE>
-//and no one marked Sawaki!<END>
+//of trapping attackers in offside positions.<LINE>
+//But Misugi, their playmaker,<LINE>
+//is on the bench and no one marked Sawaki!<END>
 
 //Oh no!<END>
 

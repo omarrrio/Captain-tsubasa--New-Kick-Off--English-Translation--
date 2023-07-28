@@ -128,7 +128,8 @@
 //Great...<LINE>
 //Well, we can do it,<LINE>
 //we can win this match!<LINE>
-//One more... We're going to score another goal!<END>
+//One more...<LINE>
+//We're going to score another goal!<END>
 
 //But Misugi... You're sick...<END>
 

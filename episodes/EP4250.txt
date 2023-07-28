@@ -3,7 +3,8 @@
 //Musashi exchanges some quick passes<LINE>
 //and prepares to shoot!<END>
 
-//The trio composed of Honma, Sanada, and Ichinose<LINE>
+//The trio composed of Honma,<LINE>
+//Sanada, and Ichinose<LINE>
 //has been together since Musashi FC.<LINE>
 //Today, they are demonstrating<LINE>
 //the perfection of their combinations!<END>

@@ -19,8 +19,8 @@
 
 //Yes!<END>
 
-//Maybe it's the pressure of the first<LINE>
-//match, but I sense they're a little nervous...<LINE>
+//Maybe it's the pressure of the first match,<LINE>
+//but I sense they're a little nervous...<LINE>
 //Will they be able to recover?<END>
 
 //Will the instructions they received<LINE>

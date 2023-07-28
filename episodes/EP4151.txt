@@ -14,9 +14,9 @@
 //the best middle school football<LINE>
 //goalkeeper, gives his instructions.<END>
 
-//The three players in Musashi's attacking trio<LINE>
-//have been playing with Misugi<LINE>
-//since primary school.<LINE>
+//The three players in Musashi's<LINE>
+//attacking trio have been playing<LINE>
+//with Misugi since primary school.<LINE>
 //If one of those three has the ball,<LINE>
 //the opposing team may tremble!<END>
 

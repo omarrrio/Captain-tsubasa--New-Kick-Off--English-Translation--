@@ -5,8 +5,8 @@
 //No!<END>
 
 //As the goal seemed certain,<LINE>
-//Moriyama, Musashi's goalkeeper, threw himself<LINE>
-//on the path of the ball,<LINE>
+//Moriyama, Musashi's goalkeeper,<LINE>
+//threw himself on the path of the ball,<LINE>
 //unable to react in time!<END>
 
 //But even though he stopped the ball,<LINE>
@@ -24,8 +24,9 @@
 //What?!<END>
 
 //It's a goal!<LINE>
-//Meiwa-Higashi's persistence has succeeded<LINE>
-//in breaking through Musashi's solid defense!<END>
+//Meiwa-Higashi's persistence<LINE>
+//has succeeded in breaking through<LINE>
+//Musashi's solid defense!<END>
 
 //Was it the attacker Sawaki who touched<LINE>
 //the ball last?<LINE>

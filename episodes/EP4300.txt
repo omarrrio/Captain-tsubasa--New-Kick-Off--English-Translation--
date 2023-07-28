@@ -1,7 +1,9 @@
 // FILE: EP4300.str containing 14 strings
 
-//No player representing a particular threat,<LINE>
-//I'm going to let Misugi rest for this match.<END>
+//No player representing a<LINE>
+//particular threat,<LINE>
+//I'm going to let Misugi<LINE>
+//rest for this match.<END>
 
 //Coach.<END>
 
@@ -45,6 +47,6 @@
 //play today?<END>
 
 //Everyone is in place on the field<LINE>
-//and Musashi Junior High is preparing to<LINE>
-//take the kickoff.<END>
+//and Musashi Junior High is<LINE>
+//preparing to take the kickoff.<END>
 

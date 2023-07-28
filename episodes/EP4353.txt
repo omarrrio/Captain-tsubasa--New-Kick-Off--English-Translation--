@@ -7,14 +7,15 @@
 
 //Captain!<END>
 
-//Misugi turns around and attempts his specialty,<LINE>
-//the overhead Overhead Shot!<END>
+//Misugi turns around and<LINE>
+//attempts his specialty,<LINE>
+//the Overhead Shot!<END>
 
 //The goalkeeper must be trembling!<END>
 
 //Go for it!<END>
 
-//Misugi executes his overhead Overhead Shot!<END>
+//Misugi executes his Overhead Shot!<END>
 
 //It's in!<LINE>
 //The goalkeeper couldn't move a muscle!<LINE>

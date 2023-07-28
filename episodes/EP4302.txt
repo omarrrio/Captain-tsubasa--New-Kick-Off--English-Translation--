@@ -6,15 +6,16 @@
 //Misugi shone both in defense<LINE>
 //and in attack today!<END>
 
-//As expected, the entry of Musashi's captain,<LINE>
-//Misugi, changed the course of this fierce battle.<END>
+//As expected,<LINE>
+//the entry of Musashi's captain, Misugi,<LINE>
+//changed the course of this fierce battle.<END>
 
-//Musashi immediately took control of the match<LINE>
-//and claimed victory.<END>
+//Musashi immediately took control<LINE>
+//of the match and claimed victory.<END>
 
 //Misugi single-handedly changed<LINE>
 //the course of the match.<LINE>
-//Without him, we might have lost!<END>
+//Without him, we might have had a chance!<END>
 
 //This victory is not just thanks to me.<LINE>
 //You have all improved a lot.<LINE>

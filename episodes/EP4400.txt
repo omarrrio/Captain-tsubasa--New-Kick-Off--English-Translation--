@@ -1,7 +1,7 @@
 // FILE: EP4400.str containing 15 strings
 
-//Meiwa-Higashi is composed of players<LINE>
-//who have been together since elementary school,<LINE>
+//Meiwa-Higashi is composed of players who<LINE>
+//have been together since elementary school,<LINE>
 //just like you.<END>
 
 //Their strengths are roughly<LINE>
@@ -28,8 +28,8 @@
 
 //Yes, captain!<END>
 
-//And here we have the semi-finals<LINE>
-//of the National Junior High School Tournament.<END>
+//And here we have the semi-finals of the<LINE>
+//National Junior High School Tournament.<END>
 
 //Musashi and Meiwa-Higashi are<LINE>
 //both composed in part<LINE>

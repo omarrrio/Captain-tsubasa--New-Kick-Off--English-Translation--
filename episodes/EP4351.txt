@@ -4,16 +4,15 @@
 //The entrance of Musashi has given<LINE>
 //new energy to Musashi!<END>
 
-//Musashi is on the attack!<LINE>
-//The entrance of Misugi has given<LINE>
-//new energy to Musashi!<END>
+//Musashi is pushing through<LINE>
+//Konishi's defenses using smart passes!<END>
 
 //Stop them!<END>
 
 //Konishi is trying to pressure them<LINE>
 //to regain possession of the ball, but<LINE>
-//with Misugi at the center of their passing game,<LINE>
-//Musashi is much too fast!<END>
+//with Misugi at the center of their passing<LINE>
+//game, Musashi is much too fast!<END>
 
 //Musashi has already brought the ball<LINE>
 //up to the opponent's goal!<END>
