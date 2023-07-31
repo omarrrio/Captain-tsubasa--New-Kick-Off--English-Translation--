@@ -3,7 +3,7 @@
 //Choose a language.<LINE>
 //<LINE>
 //English Translation by YuseiFD<LINE>
-//BETA 0.3<LINE>
+//BETA 0.5<LINE>
 //Special thanks to Regulus Blue for<LINE>
 //testing and revising the translation!<LINE>
 //Undub Repack by Gott666 | v1.8 09/26/2022<END>
