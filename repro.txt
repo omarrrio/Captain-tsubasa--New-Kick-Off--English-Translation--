@@ -362,7 +362,7 @@
 
 //Special moves clash<END>
 
-//The ball disapeared!<END>
+//The ball disappeared!<END>
 
 //Elegant combinations<END>
 

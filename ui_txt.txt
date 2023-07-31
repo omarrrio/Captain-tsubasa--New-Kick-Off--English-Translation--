@@ -935,7 +935,7 @@
 
 //No<END>
 
-//The ball is my friend<END>
+//The Ball is my Friend<END>
 
 //Physical Wall<END>
 
@@ -981,11 +981,11 @@
 
 //High Speed Pass<END>
 
-//Young noble of the field<END>
+//Young Noble of the Field<END>
 
-//Glass heasrt Shoot<END>
+//Glass Heart Shoot<END>
 
-//Speed intercept<END>
+//Speed Intercept<END>
 
 //Power Header<END>
 
@@ -993,9 +993,9 @@
 
 //Technical Dribble<END>
 
-//Kamikaze sliding Shoot<END>
+//Kamikaze Sliding Shoot<END>
 
-//Kamikaze sliding check<END>
+//Kamikaze Sliding Check<END>
 
 //Razor Pass<END>
 
@@ -1011,7 +1011,7 @@
 
 //Triangle Shoot<END>
 
-//Skylab twin Shoot<END>
+//Skylab Twin Shoot<END>
 
 //Backspin Pass<END>
 
@@ -1019,11 +1019,11 @@
 
 //Power Dribble<END>
 
-//Like a feather<END>
+//Like a Feather<END>
 
 //Surprise Header<END>
 
-//Quick snatch<END>
+//Quick Snatch<END>
 
 //Furano's Soul<END>
 
@@ -1089,7 +1089,7 @@
 
 //Wall Blocking<END>
 
-//Upper kick<END>
+//Upper Kick<END>
 
 //Cannon Shoot<END>
 
@@ -1131,7 +1131,7 @@
 
 //Laser Pass<END>
 
-//Lightning switch<END>
+//Lightning Switch<END>
 
 //Laser Shoot<END>
 
@@ -1237,7 +1237,7 @@
 
 //Trickster<END>
 
-//The great Devourer<END>
+//The Great Devourer<END>
 
 //Counter-Attack<END>
 
@@ -1251,11 +1251,11 @@
 
 //To Attack!<END>
 
-//Royal reign<END>
+//Royal Reign<END>
 
 //Encouragement<END>
 
-//Mute pression<END>
+//Mute Pression<END>
 
 //Goalkeeper<END>
 
@@ -1265,7 +1265,7 @@
 
 //Roaring Tiger<END>
 
-//A genius is here<END>
+//A Genius is Here<END>
 
 //Smart<END>
 
@@ -1273,13 +1273,13 @@
 
 //Fast Attack<END>
 
-//Field artist<END>
+//Field Artist<END>
 
-//Physical football<END>
+//Physical Football<END>
 
 //Titan<END>
 
-//All towards Defense<END>
+//All Towards Defense<END>
 
 //No<END>
 
@@ -1319,7 +1319,7 @@
 
 //Super Dribble Cleats<END>
 
-//Pass tech. Cleats<END>
+//Pass Tech. Cleats<END>
 
 //Endur. Balance Cleats<END>
 
@@ -1327,7 +1327,7 @@
 
 //Super Dribble+ Cleats<END>
 
-//Pass tech.+ Cleats<END>
+//Pass Tech.+ Cleats<END>
 
 //Defense Gloves<END>
 
@@ -1449,13 +1449,13 @@
 
 //Restoration Amulet<END>
 
-//Shooting ring<END>
+//Shooting Ring<END>
 
 //Dribble Ring<END>
 
 //Pass Ring<END>
 
-//SP move Ring<END>
+//SP Move Ring<END>
 
 //Pass+ Amulet<END>
 
@@ -1463,13 +1463,13 @@
 
 //Restoration+ Amulet<END>
 
-//Shooting+ ring<END>
+//Shooting+ Ring<END>
 
 //Dribble+ Ring<END>
 
 //Pass+ Ring<END>
 
-//SP move+ Ring<END>
+//SP Move+ Ring<END>
 
 //Hero's Ring<END>
 
@@ -1507,7 +1507,7 @@
 
 //Winged Bracelet<END>
 
-//Cleats of despair<END>
+//Cleats of Despair<END>
 
 //Jet Shinguards<END>
 
@@ -1519,7 +1519,7 @@
 
 //Brazilian Bracelet<END>
 
-//Face down Cleats<END>
+//Face Down Cleats<END>
 
 //Phoenix Cleats<END>
 
@@ -2019,7 +2019,7 @@
 //Grants matchless<LINE>
 //courage.<LINE>
 //Allow usage of<LINE>
-//the "The ball is my friend" ability.<END>
+//the "The Ball is my Friend" ability.<END>
 
 //Grants kamikaze<LINE>
 //spirit.<LINE>
@@ -2113,12 +2113,12 @@
 //Grabts you a Prince's<LINE>
 //imposing.<LINE>
 //Allows usage of<LINE>
-//the "Young noble of the field" ability.<END>
+//the "Young Noble of the Field" ability.<END>
 
 //Once you wear them, these<LINE>
 //spikes gives you a big<LINE>
 //determination. Allows<LINE>
-//usage of the "Glass heart Shoot" ability.<END>
+//usage of the "Glass Heart Shoot" ability.<END>
 
 //Makes you faster than sound,<LINE>
 //and allow usage<LINE>
@@ -2139,12 +2139,12 @@
 //Makes you want to hit<LINE>
 //the ball.<LINE>
 //Allows usage of<LINE>
-//the "Kamikaze sliding" ability.<END>
+//the "Kamikaze Sliding" ability.<END>
 
 //Grants Meiwa FC<LINE>
 //Players' experience.<LINE>
 //Allows usage of<LINE>
-//the "Kamikaze sliding" ability.<END>
+//the "Kamikaze Sliding" ability.<END>
 
 //Twist ball trajectory.<LINE>
 //Allows usage of<LINE>
@@ -2185,7 +2185,7 @@
 
 //Makes you feel much<LINE>
 //lighter, and grants you<LINE>
-//the "Like a feather" ability.<END>
+//the "Like a Feather" ability.<END>
 
 //Cleats that may<LINE>
 //surprise the opponent.<LINE>
@@ -2430,7 +2430,7 @@
 //Changes the rhythm quickly,<LINE>
 //disorienting the opponent.<LINE>
 //Allows you to use<LINE>
-//"Lightning switch".<END>
+//"Lightning Switch".<END>
 
 //Allows you to Shoot<LINE>
 //like never before.<LINE>

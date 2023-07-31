@@ -17,7 +17,8 @@
 
 //No! It was a pass to Misugi!<END>
 
-//Misugi is going to attempt an Overhead Shot!<END>
+//Misugi is going to attempt<LINE>
+//an Overhead Shot!<END>
 
 //Misugi strikes the ball<LINE>
 //with a magnificent Overhead Shot!<LINE>

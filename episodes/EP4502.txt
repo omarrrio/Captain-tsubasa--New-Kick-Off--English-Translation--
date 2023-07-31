@@ -1,6 +1,7 @@
 // FILE: EP4502.str containing 30 strings
 
-//Oh... The referee blew the end of the match!<LINE>
+//Oh... The referee blew the final whistle<LINE>
+//indicating the end of the match!<LINE>
 //The winner is the representative of Tokyo,<LINE>
 //Musashi Junior High!<LINE>
 //The hopes of a third consecutive title<LINE>
@@ -26,7 +27,7 @@
 
 //Thank you, Tsubasa.<LINE>
 //And you, you're still<LINE>
-//as formidable an opponent.<LINE>
+//a formidable opponent.<LINE>
 //You haven't changed since our<LINE>
 //primary school matches...<END>
 

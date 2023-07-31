@@ -16,8 +16,8 @@
 //It's your turn, Kisugi!<END>
 
 //Taki passes to Kisugi!<LINE>
-//The speed and fluidity of Nankatsu's attacks<LINE>
-//give them control of the field!<END>
+//The speed and fluidity of Nankatsu's<LINE>
+//attacks give them control of the field!<END>
 
 //Their passes are so fast!<END>
 

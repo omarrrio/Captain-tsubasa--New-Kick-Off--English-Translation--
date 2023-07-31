@@ -12,7 +12,8 @@
 //I have to fight!<END>
 
 //Misugi accelerates!<LINE>
-//He advances in Nankatsu's half of the field!<END>
+//He advances in Nankatsu's<LINE>
+//half of the field!<END>
 
 //He's fast!<END>
 

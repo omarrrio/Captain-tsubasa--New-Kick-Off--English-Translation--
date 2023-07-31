@@ -5,7 +5,8 @@
 //Misugi...<END>
 
 //Nankatsu is a serious opponent!<LINE>
-//If this goes on, they'll increase the score!<END>
+//If this goes on,<LINE>
+//they'll increase the score!<END>
 
 //But Misugi...<END>
 
@@ -16,13 +17,13 @@
 //Oh! Musashi is calling for a substitution.<LINE>
 //Misugi is entering the field!<END>
 
-//Yes, Musashi Junior High School is sending in<LINE>
-//Misugi!<END>
+//Yes, Musashi Junior High School<LINE>
+//is sending in Misugi!<END>
 
 //Misugi!<END>
 
 //Come on, Tsubasa!<LINE>
-//Just because you beat me<LINE>
-//in the national elementary school championships<LINE>
+//Just because you beat me in the<LINE>
+//national elementary school championships<LINE>
 //doesn't mean I'll let you win today!<END>
 
